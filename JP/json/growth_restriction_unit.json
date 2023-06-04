@@ -1,0 +1,22 @@
+{
+    "growth_restriction_unit": [
+        {"id":1,"growth_id":1,"unit_id":114601},
+        {"id":2,"growth_id":2,"unit_id":114701},
+        {"id":3,"growth_id":3,"unit_id":115601},
+        {"id":4,"growth_id":5,"unit_id":115801},
+        {"id":5,"growth_id":6,"unit_id":116801},
+        {"id":6,"growth_id":7,"unit_id":117401},
+        {"id":7,"growth_id":8,"unit_id":117801},
+        {"id":8,"growth_id":9,"unit_id":119201},
+        {"id":9,"growth_id":10,"unit_id":120801},
+        {"id":10,"growth_id":12,"unit_id":121201},
+        {"id":11,"growth_id":13,"unit_id":122101},
+        {"id":12,"growth_id":14,"unit_id":122401},
+        {"id":13,"growth_id":15,"unit_id":122801},
+        {"id":14,"growth_id":16,"unit_id":123501},
+        {"id":15,"growth_id":17,"unit_id":124101},
+        {"id":16,"growth_id":20,"unit_id":124701},
+        {"id":17,"growth_id":21,"unit_id":124901},
+        {"id":18,"growth_id":22,"unit_id":125701}
+    ]
+}

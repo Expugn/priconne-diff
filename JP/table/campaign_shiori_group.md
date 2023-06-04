@@ -1,0 +1,2 @@
+|id|shiori_group_id|event_id|
+| --- | --- | --- |

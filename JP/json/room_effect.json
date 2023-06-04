@@ -1,0 +1,32 @@
+{
+    "room_effect": [
+        {"id":1,"reward_get":1,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":2,"reward_get":2,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":3,"reward_get":3,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":4,"reward_get":4,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":5,"reward_get":5,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":6,"reward_get":6,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":7,"reward_get":7,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":8,"reward_get":8,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":9,"reward_get":0,"jukebox":1,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":10,"reward_get":0,"jukebox":0,"nebbia":1,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":11,"reward_get":11,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":12,"reward_get":12,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":13,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":1,"vegetable":0,"poster":0,"stock":0},
+        {"id":14,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":15,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":16,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":1,"poster":0,"stock":0},
+        {"id":17,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":10056,"stock":0},
+        {"id":18,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":19,"reward_get":19,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":20,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":10061,"stock":0},
+        {"id":21,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":22,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":23,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":23},
+        {"id":24,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":25,"reward_get":25,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":26,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":10088,"stock":0},
+        {"id":27,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":10102,"stock":0},
+        {"id":28,"reward_get":28,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0}
+    ]
+}

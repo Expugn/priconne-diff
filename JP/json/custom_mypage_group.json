@@ -1,0 +1,21 @@
+{
+    "custom_mypage_group": [
+        {"group_id":10001,"group_name":"プリンセスコネクト！Re:Dive 1"},
+        {"group_id":10002,"group_name":"プリンセスコネクト！Re:Dive 2"},
+        {"group_id":10003,"group_name":"プリンセスコネクト！Re:Dive 3"},
+        {"group_id":10004,"group_name":"プリンセスコネクト！Re:Dive 4"},
+        {"group_id":10005,"group_name":"プリンセスコネクト！Re:Dive Season2 1"},
+        {"group_id":10006,"group_name":"プリンセスコネクト！Re:Dive Season2 2"},
+        {"group_id":10007,"group_name":"プリンセスコネクト！Re:Dive Season2 3"},
+        {"group_id":10008,"group_name":"プリンセスコネクト！Re:Dive Season2 全巻購入特典"},
+        {"group_id":20001,"group_name":"プリンセスコネクト！Re:Dive 3周年記念"},
+        {"group_id":20002,"group_name":"公式アートワークス Vol.3 発売記念アイテム"},
+        {"group_id":20003,"group_name":"プリンセスコネクト！Re:Dive 3.5周年記念"},
+        {"group_id":20004,"group_name":"プリンセスコネクト！Re:Dive 4周年記念"},
+        {"group_id":20005,"group_name":"プリンセスコネクト！Re:Dive 4.5周年記念"},
+        {"group_id":20006,"group_name":"プリンセスコネクト！Re:Dive 5周年記念"},
+        {"group_id":30001,"group_name":"ミニゲーム・ミニコンテンツ"},
+        {"group_id":40001,"group_name":"みんなのカレンダー"},
+        {"group_id":40002,"group_name":"ローソンコラボ記念"}
+    ]
+}

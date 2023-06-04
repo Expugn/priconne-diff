@@ -1,0 +1,20 @@
+{
+    "spskill_label_data": [
+        {"unit_id":106101,"normal_label_text":"通常時","sp_label_text":"装備中"},
+        {"unit_id":106701,"normal_label_text":"通常時","sp_label_text":"特殊スキル"},
+        {"unit_id":106801,"normal_label_text":"通常時","sp_label_text":"権能解放中"},
+        {"unit_id":106901,"normal_label_text":"通常時","sp_label_text":"特殊スキル"},
+        {"unit_id":115801,"normal_label_text":"通常時","sp_label_text":"変身中"},
+        {"unit_id":116401,"normal_label_text":"通常時","sp_label_text":"特殊スキル"},
+        {"unit_id":118201,"normal_label_text":"通常時","sp_label_text":"特殊スキル"},
+        {"unit_id":118501,"normal_label_text":"通常時","sp_label_text":"特殊スキル"},
+        {"unit_id":120801,"normal_label_text":"通常時","sp_label_text":"初回発動時"},
+        {"unit_id":122001,"normal_label_text":"通常時","sp_label_text":"特殊スキル"},
+        {"unit_id":122301,"normal_label_text":"通常時","sp_label_text":"共闘中"},
+        {"unit_id":122701,"normal_label_text":"通常時","sp_label_text":"特殊スキル"},
+        {"unit_id":123001,"normal_label_text":"通常時","sp_label_text":"特殊スキル"},
+        {"unit_id":125001,"normal_label_text":"通常時","sp_label_text":"共闘中"},
+        {"unit_id":125801,"normal_label_text":"通常時","sp_label_text":"特殊スキル"},
+        {"unit_id":126201,"normal_label_text":"通常時","sp_label_text":"特殊スキル"}
+    ]
+}

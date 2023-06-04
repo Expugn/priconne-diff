@@ -1,0 +1,6 @@
+{
+    "sekai_schedule": [
+        {"sekai_id":1001,"last_sekai_id":0,"fix_reward_group_id":1001100,"damage_rank_id":1001200,"teaser_time":"2019/03/31","start_time":"2019/03/31","count_start_time":"2019/04/01 22:00:00","end_time":"2019/04/01 23:59:59","end_losstime":"2019/04/02 5:00:00","result_end":"2019/04/08 23:59:59"},
+        {"sekai_id":1002,"last_sekai_id":1001,"fix_reward_group_id":1002100,"damage_rank_id":1002200,"teaser_time":"2020/04/01","start_time":"2020/04/01","count_start_time":"2020/04/01","end_time":"2020/04/01 23:59:59","end_losstime":"2020/04/02 5:00:00","result_end":"2020/04/08 23:59:59"}
+    ]
+}

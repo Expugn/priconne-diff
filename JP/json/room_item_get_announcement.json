@@ -1,0 +1,24 @@
+{
+    "room_item_get_announcement": [
+        {"id":1,"room_item_id":2801,"start_date":"2020/10/31 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":2,"room_item_id":2802,"start_date":"2020/11/21 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":3,"room_item_id":2307,"start_date":"2021/02/16 12:00","end_date":"2030/12/31 23:59:59","get_date":"2021/02/16 12:00","room_announcement_name":""},
+        {"id":4,"room_item_id":2308,"start_date":"2021/02/16 12:00","end_date":"2030/12/31 23:59:59","get_date":"2021/02/16 12:00","room_announcement_name":""},
+        {"id":5,"room_item_id":2806,"start_date":"2021/02/10 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":6,"room_item_id":2808,"start_date":"2021/02/28 12:00","end_date":"2030/12/31 23:59:59","get_date":"2022/03/16 12:00","room_announcement_name":""},
+        {"id":7,"room_item_id":2809,"start_date":"2021/05/31 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":8,"room_item_id":2814,"start_date":"2021/07/31 12:00","end_date":"2030/12/31 23:59:59","get_date":"2021/07/31 12:00","room_announcement_name":""},
+        {"id":9,"room_item_id":2804,"start_date":"2022/01/18 12:00","end_date":"2030/12/31 23:59:59","get_date":"2022/01/18 12:00","room_announcement_name":"オーマ地域振興ポスター\\n『新春トゥンヌス釣上図柄』"},
+        {"id":10,"room_item_id":2816,"start_date":"2022/02/15 05:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":11,"room_item_id":2818,"start_date":"2022/02/28 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":12,"room_item_id":2805,"start_date":"2022/05/15 15:00","end_date":"2030/12/31 23:59:59","get_date":"2022/05/15 15:00","room_announcement_name":""},
+        {"id":13,"room_item_id":2828,"start_date":"2022/09/30 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":14,"room_item_id":2829,"start_date":"2022/12/26 19:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":15,"room_item_id":2830,"start_date":"2023/02/15 05:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":16,"room_item_id":2833,"start_date":"2023/02/28 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":17,"room_item_id":2834,"start_date":"2023/04/30 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":18,"room_item_id":2835,"start_date":"2023/04/30 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":19,"room_item_id":2836,"start_date":"2023/04/30 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":20,"room_item_id":2837,"start_date":"2023/04/30 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""}
+    ]
+}

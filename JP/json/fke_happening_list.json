@@ -1,0 +1,24 @@
+{
+    "fke_happening_list": [
+        {"happening_id":1,"happening_name":"メサルティム"},
+        {"happening_id":2,"happening_name":"バナナジャンプ"},
+        {"happening_id":3,"happening_name":"バナナスライド"},
+        {"happening_id":4,"happening_name":"アユミのうちわ"},
+        {"happening_id":5,"happening_name":"アクダイカン像"},
+        {"happening_id":6,"happening_name":"間欠泉"},
+        {"happening_id":7,"happening_name":"トルネード"},
+        {"happening_id":8,"happening_name":"向かい風"},
+        {"happening_id":9,"happening_name":"土砂降り雨"},
+        {"happening_id":10,"happening_name":"ジズ"},
+        {"happening_id":11,"happening_name":"落雷"},
+        {"happening_id":12,"happening_name":"スーパーボール"},
+        {"happening_id":13,"happening_name":"超低空飛行"},
+        {"happening_id":14,"happening_name":"成層圏突入"},
+        {"happening_id":15,"happening_name":"ロケット"},
+        {"happening_id":16,"happening_name":"ニノンの爆裂忍法"},
+        {"happening_id":17,"happening_name":"腹すべり"},
+        {"happening_id":18,"happening_name":"追い風"},
+        {"happening_id":19,"happening_name":"ドリル"},
+        {"happening_id":20,"happening_name":"目回し"}
+    ]
+}

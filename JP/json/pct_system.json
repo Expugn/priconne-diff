@@ -1,0 +1,5 @@
+{
+    "pct_system": [
+        {"id":1,"pct_base_speed":600,"fever_point_max":60,"fever_time":2,"fever_revention_time":500,"pct_time":30,"chara1":109101,"chara2":109001,"chara1_gauge_choice":1,"chara2_gauge_choice":1}
+    ]
+}

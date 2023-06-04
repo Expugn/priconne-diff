@@ -1,0 +1,3 @@
+|id|challenge_count_from|challenge_count_to|use_ticket_num|
+| --- | --- | --- | --- |
+|1|0|-1|30|

@@ -1,0 +1,3 @@
+|exceed_stage|increase_level_limit|unlock_quest_id|unlock_team_level|general_exceed_item_id|
+| --- | --- | --- | --- | --- |
+|1|10|11019005|-1|41000|

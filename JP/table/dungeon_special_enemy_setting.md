@@ -1,0 +1,7 @@
+|id|special_battle_id|enemy_identify|disp_order|must_kill_flag|detail_offset_x|detail_offset_y|detail_scale|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|101001|101|1|1|1|0|0|1|
+|101002|102|1|3|0|0|0|1.1|
+|101003|102|2|1|1|0|0|0.6|
+|101004|102|3|2|1|0|0|0.8|
+|101005|103|1|1|1|0|0|1|

@@ -1,0 +1,7 @@
+{
+    "cgg_gacha_info": [
+        {"gacha_type":1,"cgg_id":1,"gacha_name":"スタンダードコレクション","gacha_description":"スタンダードコレクションではポスターやペナントなど\\n部屋に飾れる定番グッズが盛りだくさん！\\nあなたの部屋をカルミナで彩ろう！","cost_currency_num":3,"gacha_intro":"1回メダル{0}枚！\\n定番グッズであなたの部屋をカルミナで彩ろう！"},
+        {"gacha_type":2,"cgg_id":1,"gacha_name":"プレミアムコレクション","gacha_description":"プレミアムコレクションではサイン色紙や\\nブロマイドなど、★★以上のグッズが盛りだくさん！\\nレアグッズをたくさんゲットしよう！","cost_currency_num":10,"gacha_intro":"1回メダル{0}枚！\\nメンバー直筆サイン色紙など、★★以上のグッズを確定でゲット！"},
+        {"gacha_type":3,"cgg_id":1,"gacha_name":"フェスコレクション","gacha_description":"フェスコレクションではカルミナサマーライブで\\n大活躍するグッズが勢ぞろい！\\nゲットしたグッズを片手に、いざライブ会場へ！","cost_currency_num":3,"gacha_intro":"1回メダル{0}枚！\\nカルミナライブに参加する際のマストアイテムをゲットしよう！"}
+    ]
+}
