@@ -1,0 +1,14 @@
+{
+    "login_bonus_adv": [
+        {"id":1,"login_bonus_id":70000,"start_time":"2018/12/24 5:00:00","end_time":"2018/12/25 4:59:59","count_key":0,"adv_id":400,"read_process_flag":0},
+        {"id":2,"login_bonus_id":70000,"start_time":"2018/12/25 5:00:00","end_time":"2018/12/26 4:59:59","count_key":0,"adv_id":401,"read_process_flag":0},
+        {"id":3,"login_bonus_id":70001,"start_time":"0","end_time":"0","count_key":1,"adv_id":410,"read_process_flag":0},
+        {"id":4,"login_bonus_id":70001,"start_time":"0","end_time":"0","count_key":2,"adv_id":411,"read_process_flag":0},
+        {"id":5,"login_bonus_id":70001,"start_time":"0","end_time":"0","count_key":3,"adv_id":412,"read_process_flag":0},
+        {"id":21,"login_bonus_id":70004,"start_time":"2023/04/17 5:00:00","end_time":"2023/04/18 4:59:59","count_key":0,"adv_id":400,"read_process_flag":0},
+        {"id":22,"login_bonus_id":70004,"start_time":"2023/04/18 5:00:00","end_time":"2023/04/19 4:59:59","count_key":0,"adv_id":401,"read_process_flag":0},
+        {"id":23,"login_bonus_id":70005,"start_time":"0","end_time":"0","count_key":1,"adv_id":416,"read_process_flag":0},
+        {"id":24,"login_bonus_id":70005,"start_time":"0","end_time":"0","count_key":2,"adv_id":417,"read_process_flag":0},
+        {"id":25,"login_bonus_id":70005,"start_time":"0","end_time":"0","count_key":3,"adv_id":418,"read_process_flag":0}
+    ]
+}

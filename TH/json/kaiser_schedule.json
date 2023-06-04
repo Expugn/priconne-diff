@@ -1,0 +1,5 @@
+{
+    "kaiser_schedule": [
+        {"id":1,"teaser_time":"2022/05/02 15:00:00","start_time":"2022/05/06 15:00:00","end_time":"2022/05/14 14:59:59","count_start_time":"2022/05/13 14:59:59","close_time":"2022/05/21 14:59:59","story_id":2015006,"close_story_condition_id":2015008,"close_story_id":2015009,"top_bgm":"bgm_M300","top_bg":"","after_bgm":"bgm_M260","after_bg":""}
+    ]
+}

@@ -1,0 +1,2 @@
+|sekai_id|story_id|boss_time_from|boss_time_to|
+| --- | --- | --- | --- |

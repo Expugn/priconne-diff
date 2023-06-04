@@ -1,0 +1,21 @@
+{
+    "pkb_pitcher_ball_type": [
+        {"pitcher_id":1,"ball_type":1,"ball_type_name":"บอลตรง"},
+        {"pitcher_id":1,"ball_type":2,"ball_type_name":"บอลโค้ง"},
+        {"pitcher_id":2,"ball_type":3,"ball_type_name":"บอลตรง"},
+        {"pitcher_id":2,"ball_type":4,"ball_type_name":"บอลซิงเกอร์"},
+        {"pitcher_id":2,"ball_type":6,"ball_type_name":"บอลSโค้ง"},
+        {"pitcher_id":3,"ball_type":7,"ball_type_name":"บอลตรง"},
+        {"pitcher_id":3,"ball_type":8,"ball_type_name":"บอลโค้ง"},
+        {"pitcher_id":3,"ball_type":9,"ball_type_name":"บอลแฉลบ"},
+        {"pitcher_id":3,"ball_type":5,"ball_type_name":"บอลซิงเกอร์"},
+        {"pitcher_id":3,"ball_type":16,"ball_type_name":"บอลชู้ต"},
+        {"pitcher_id":3,"ball_type":10,"ball_type_name":"ฮาสึเนะ☆มายา"},
+        {"pitcher_id":3,"ball_type":11,"ball_type_name":"ฮาสึเนะ☆ล่องหน"},
+        {"pitcher_id":4,"ball_type":12,"ball_type_name":"บอลตรง"},
+        {"pitcher_id":4,"ball_type":13,"ball_type_name":"บอลโค้ง"},
+        {"pitcher_id":4,"ball_type":14,"ball_type_name":"บอลซิงเกอร์"},
+        {"pitcher_id":4,"ball_type":17,"ball_type_name":"ดราก้อนส์เอนด์บอล"},
+        {"pitcher_id":4,"ball_type":18,"ball_type_name":"ดราก้อนส์เทล"}
+    ]
+}

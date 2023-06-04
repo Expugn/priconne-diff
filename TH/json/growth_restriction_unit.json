@@ -1,0 +1,7 @@
+{
+    "growth_restriction_unit": [
+        {"id":1,"growth_id":1,"unit_id":114601},
+        {"id":2,"growth_id":2,"unit_id":114701},
+        {"id":3,"growth_id":3,"unit_id":115601}
+    ]
+}

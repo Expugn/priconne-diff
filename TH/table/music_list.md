@@ -1,0 +1,170 @@
+|music_id|list_name|font_size|pre_shop_start|shop_start|shop_end|story_id|cost_item_num|sort|kana|ios_url|android_url|dmm_url|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|1|Lost Princess|28||2021-05-25 11:00:00||-1|-1|1|Lost Princess||||
+|2|Connecting Happy!!|28||2021-05-25 11:00:00||-1|-1|2|Connecting Happy!!||||
+|3|Tabi no Hajimari|28||2021-05-25 11:00:00||-1|1000|3|Tabi no Hajimari||||
+|4|Mori wo Kakeru Kaze|28||2021-05-25 11:00:00||-1|1000|4|Mori wo Kakeru Kaze||||
+|5|Mesaltim|28||2021-05-25 11:00:00||-1|1000|5|Mesaltim||||
+|6|Hatsune no Present Daisakusen|28||2021-05-25 11:00:00||-1|1000|6|Hatsune no Present Daisakusen||||
+|7|Ziz|28||2021-05-25 11:00:00||-1|1000|7|Ziz||||
+|8|Smiley Contrast|28||2021-05-25 11:00:00||-1|1500|8|Smiley Contrast||||
+|9|Minotaur|28||2021-05-25 11:00:00||-1|1000|9|Minotaur||||
+|10|Little Lyrical Adventure|28||2021-05-25 11:00:00||-1|1000|10|Little Lyrical Adventure||||
+|11|Alma|28||2021-05-25 11:00:00||-1|1000|11|Alma||||
+|12|Little Adventure|28||2021-05-25 11:00:00||-1|1500|12|Little Adventure||||
+|13|Glutton|28||2021-05-25 11:00:00||-1|1000|13|Glutton||||
+|14|Trick or Pudding! Yakusoku no Halloween Party|28||2021-05-25 11:00:00||-1|1000|14|Trick or Pudding! Yakusoku no Halloween Party||||
+|15|Jack-O'-Pudding|28||2021-05-25 11:00:00||-1|1000|15|Jack-O'-Pudding||||
+|16|Motto! Futari no Party Night|28||2021-05-25 11:00:00||-1|1500|16|Motto! Futari no Party Night||||
+|17|Kagayou Koori no Kesshou|28||2021-05-25 11:00:00||-1|1000|17|Kagayou Koori no Kesshou||||
+|18|Shining Future|28||2021-07-02 11:00:00||3010003|1500|18|Shining Future||||
+|19|Kaze eno Chikai|28||2021-07-02 11:00:00||3010003|1500|19|Kaze eno Chikai||||
+|20|Kimi no Egao ga Mitai Kara|28||2021-07-02 11:00:00||3010003|1500|20|Kimi no Egao ga Mitai Kara||||
+|21|Amanojaku Heart!|28||2021-07-02 11:00:00||1054007|1500|21|Amanojaku Heart!||||
+|22|Fuonna Kuuki to Tachimukau Toushi|28||2021-07-02 11:00:00||-1|1000|22|Fuonna Kuuki to Tachimukau Toushi||||
+|23|Twin Pigs|28||2021-07-02 11:00:00||-1|1000|23|Twin Pigs||||
+|24|Vampire Hunter with Illya|28||2021-07-02 11:00:00||-1|1000|24|Vampire Hunter with Illya||||
+|25|Garg|28||2021-07-02 11:00:00||-1|1000|25|Garg||||
+|26|Peaceful*Chanpuru|28||2021-07-02 11:00:00||-1|1500|26|Peaceful*Chanpuru||||
+|27|Lesathapult|28||2021-07-02 11:00:00||-1|1000|27|Lesathapult||||
+|28|Twilight Breakers|28||2021-07-02 11:00:00||-1|1000|28|Twilight Breakers||||
+|29|Olam|28||2021-07-02 11:00:00||-1|1000|29|Olam||||
+|30|Saitsuyo Desho, Desho?|28||2021-07-02 11:00:00||-1|1500|30|Saitsuyo Desho, Desho?||||
+|31|Hyoukai no Chi|28||2021-07-02 11:00:00||-1|1000|31|Hyoukai no Chi||||
+|32|Kouri to Yuki no Sekai|28||2021-07-29 11:00:00||-1|1000|32|Kouri to Yuki no Sekai||||
+|33|Sawayaka na Kaze|28||2021-07-29 11:00:00||-1|1000|33|Sawayaka na Kaze||||
+|34|Karkinos|28||2021-07-29 11:00:00||-1|1000|34|Karkinos||||
+|35|Dangerous Vacation! Nagisa no Gourmet Princess|28||2021-07-29 11:00:00||-1|1000|35|Dangerous Vacation! Nagisa no Gourmet Princess||||
+|36|Tentapus|28||2021-07-29 11:00:00||-1|1000|36|Tentapus||||
+|37|Egao no My Home|28||2021-07-29 11:00:00||-1|1500|37|Egao no My Home||||
+|38|Sagittarius|28||2021-07-29 11:00:00||-1|1000|38|Sagittarius||||
+|39|Boukyaku no Carol|28||2021-07-29 11:00:00||-1|1000|39|Boukyaku no Carol||||
+|40|Foggy|28||2021-07-29 11:00:00||-1|1000|40|Foggy||||
+|41|Ding Dong Holy Night♪|28||2021-07-29 11:00:00||-1|1500|41|Ding Dong Holy Night♪||||
+|42|Kewashiki Kankougen|28||2021-09-07 11:00:00||-1|1000|42|Kewashiki Kankougen||||
+|43|Orleon|28||2021-09-07 11:00:00||-1|1000|43|Orleon||||
+|44|Tamaki to Mifuyu no Mujintou 0 Rupie Seikatsu|28||2021-09-07 11:00:00||-1|1000|44|Tamaki to Mifuyu no Mujintou 0 Rupie Seikatsu||||
+|45|Shima Kujira|28||2021-09-07 11:00:00||-1|1000|45|Shima Kujira||||
+|46|Kinkira☆Happiness!|28||2021-09-07 11:00:00||-1|1500|46|Kinkira☆Happiness!||||
+|47|Aratana Funade|28||2021-09-07 11:00:00||-1|1000|47|Aratana Funade||||
+|48|Algedi|28||2021-09-07 11:00:00||-1|1000|48|Algedi||||
+|49|Shinshun Twinkle Crisis!|28||2021-09-07 11:00:00||-1|1000|49|Shinshun Twinkle Crisis!||||
+|50|Jaheishin Gummy|28||2021-09-07 11:00:00||-1|1000|50|Jaheishin Gummy||||
+|51|TwinkleStars|28||2021-09-07 11:00:00||-1|1500|51|TwinkleStars||||
+|52|Kokunetsu no Sabaku|28||2021-09-07 11:00:00||-1|1000|52|Kokunetsu no Sabaku||||
+|53|Medusa|28||2021-09-07 11:00:00||-1|1000|53|Medusa||||
+|54|Kurogane no Nightmare|28||2021-09-07 11:00:00||-1|1000|54|Kurogane no Nightmare||||
+|55|Living Armor|28||2021-09-07 11:00:00||-1|1000|55|Living Armor||||
+|56|Aloofness Code|28||2021-09-07 11:00:00||-1|1500|56|Aloofness Code||||
+|57|Absolute Secret|28||2021-09-07 11:00:00||2008015|1500|57|Absolute Secret||||
+|58|Aquarius|28||2021-09-07 11:00:00||-1|1000|58|Aquarius||||
+|59|Battle of Valentine! Omoi Butsukaru Sweet Battle|28||2021-09-07 11:00:00||-1|1000|59|Battle of Valentine! Omoi Butsukaru Sweet Battle||||
+|60|Ugly Lovely|28||2021-09-07 11:00:00||-1|1000|60|Ugly Lovely||||
+|61|Super Chocolate|28||2021-09-07 11:00:00||-1|1500|61|Super Chocolate||||
+|62|Sakai no Naka no Oasis|28||2021-09-24 11:00:00||-1|1000|62|Sakai no Naka no Oasis||||
+|63|Fushigi na Mori|28||2021-09-24 11:00:00||-1|1000|63|Fushigi na Mori||||
+|64|Torpedon|28||2021-09-24 11:00:00||-1|1000|64|Torpedon||||
+|65|Outo no Meitantei, Nageki no Stalker|28||2021-09-24 11:00:00||-1|1000|65|Outo no Meitantei, Nageki no Stalker||||
+|66|Nageki no Megami|28||2021-09-24 11:00:00||-1|1000|66|Nageki no Megami||||
+|67|Mikaiketsuna Omoi|28||2021-09-24 11:00:00||-1|1500|67|Mikaiketsuna Omoi||||
+|68|Roborima Raishu! Outo Metsubou made no Countdown|28||2031-04-19 11:00:00||-1|1000|68|Roborima Raishu! Outo Metsubou made no Countdown||||
+|69|Roborima|28||2031-04-19 11:00:00||-1|1000|69|Roborima||||
+|70|Roborima~Shuen~|28||2031-04-19 11:00:00||-1|1000|70|Roborima~Shuen~||||
+|71|Astrum ni Saku Sourin no Hana|28||2021-09-24 11:00:00||-1|1000|71|Astrum ni Saku Sourin no Hana||||
+|72|Core Gigantes|28||2021-09-24 11:00:00||-1|1000|72|Core Gigantes||||
+|73|Crossing Destiny|28||2021-09-24 11:00:00||-1|1500|73|Crossing Destiny||||
+|74|Ganho ni Hisomu Mono|28||2021-10-19 11:00:00||-1|1000|74|Ganho ni Hisomu Mono||||
+|75|Shogun Dochuki: Hakuyoku no Samurai|28||2021-10-19 11:00:00||-1|1000|75|Shogun Dochuki: Hakuyoku no Samurai||||
+|76|Akudaikan|28||2021-10-19 11:00:00||-1|1000|76|Akudaikan||||
+|77|Hakuyoku no Glorie|28||2021-10-19 11:00:00||-1|1500|77|Hakuyoku no Glorie||||
+|78|Kazan no Fumoto|28||2021-10-19 11:00:00||-1|1000|78|Kazan no Fumoto||||
+|79|Genretsu Naru Arechi|28||2021-10-19 11:00:00||-1|1000|79|Genretsu Naru Arechi||||
+|80|Taida no Kyoujin|28||2021-10-19 11:00:00||-1|1000|80|Taida no Kyoujin||||
+|81|Ko no Ne Hibiku Mori|28||2021-11-26 11:00:00||-1|1000|81|Ko no Ne Hibiku Mori||||
+|82|Suzuna’s Rainbow Stage!|28||2021-11-26 11:00:00||-1|1000|82|Suzuna’s Rainbow Stage!||||
+|83|Amagami-sama|28||2021-11-26 11:00:00||-1|1000|83|Amagami-sama||||
+|84|Senobi First Kiss|28||2021-11-26 11:00:00||-1|1500|84|Senobi First Kiss||||
+|85|Oniichan Soudatsu! Shizuru no Otetsudai|28||2021-12-27 11:00:00||-1|1000|85|Oniichan Soudatsu! Shizuru no Otetsudai||||
+|86|Oniichan Soudatsu! Eriko no Otetsudai|28||2021-12-27 11:00:00||-1|1000|86|Oniichan Soudatsu! Eriko no Otetsudai||||
+|87|Manatsu no Mahomaho Okoku: Namiuchigiwa no Soul Summer!|22||2021-12-27 11:00:00||-1|1000|87|Manatsu no Mahomaho Okoku: Namiuchigiwa no Soul Summer!||||
+|88|Majimun|28||2021-12-27 11:00:00||-1|1000|88|Majimun||||
+|89|We Are Golden|28||2021-12-27 11:00:00||-1|1500|89|We Are Golden||||
+|90|Kuka Daikaiten|28||2022-01-31 11:00:00||-1|1000|90|Kuka Daikaiten||||
+|91|Mori no Bocchi to Seinaru Gakusha no Lyceenne|28||2022-01-31 11:00:00||-1|1000|91|Mori no Bocchi to Seinaru Gakusha no Lyceenne||||
+|92|Odoku Mandragora|28||2022-01-31 11:00:00||-1|1000|92|Odoku Mandragora||||
+|93|Nakayoshi Sensation|28||2022-01-31 11:00:00||-1|1500|93|Nakayoshi Sensation||||
+|94|Fuon no Ne wo Fumikoete|28||2022-03-02 11:00:00||-1|1000|94|Fuon no Ne wo Fumikoete||||
+|95|Kaori no Mabuishiki Karate Dojo|28||2022-03-02 11:00:00||-1|1000|95|Kaori no Mabuishiki Karate Dojo||||
+|96|Little Brave Halloween Night!|28||2022-03-02 11:00:00||-1|1000|96|Little Brave Halloween Night!||||
+|97|Phantom Baron|28||2022-03-02 11:00:00||-1|1000|97|Phantom Baron||||
+|98|Trick Holic|28||2022-03-02 11:00:00||-1|1500|98|Trick Holic||||
+|99|Nukarumu Mori no Saki e|28||2022-04-01 11:00:00||-1|1000|94|Nukarumu Mori no Saki e||||
+|100|Daigekisen! Shiritori Dragons|28||2022-04-01 11:00:00||-1|1000|95|Daigekisen! Shiritori Dragons||||
+|101|Dragon Explorers|28||2022-04-01 11:00:00||-1|1000|96|Dragon Explorers||||
+|102|Dragon Modoki|28||2022-04-01 11:00:00||-1|1000|97|Dragon Modoki||||
+|103|in flames|28||2022-04-01 11:00:00||-1|1500|98|in flames||||
+|104|Aratanaru Chikara eno Shiren|28||2022-05-05 11:00:00||-1|1000|104|Aratanaru Chikara eno Shiren||||
+|105|Present Panic! Landsol no Santatachi|28||2022-05-05 11:00:00||-1|1000|105|Present Panic! Landsol no Santatachi||||
+|106|Tonakai Vendetta|28||2022-05-05 11:00:00||-1|1000|106|Tonakai Vendetta||||
+|107|Call Me Darling!|28||2022-05-05 11:00:00||-1|1500|107|Call Me Darling!||||
+|108|Outo Shumatsu Kessen|28||2022/06/01 11:00:00||2015007|1000|108|Outo Shumatsu Kessen||||
+|109|Koutei ni Tsukaeshi Shimobe tono Tatakai|28||2022/06/01 11:00:00||2015007|1000|109|Koutei ni Tsukaeshi Shimobe tono Tatakai||||
+|110|Kamitaru Mono tono Kessen|28||2022/06/01 11:00:00||2015007|1000|110|Kamitaru Mono tono Kessen||||
+|111|Gekisou! Landsol Guild Race|28||2022/06/01 11:00:00||-1|1000|111|Gekisou! Landsol Guild Race||||
+|112|Yamagamisama|28||2022/06/01 11:00:00||-1|1000|112|Yamagamisama||||
+|113|SAI*KOU Start dash|28||2022/06/01 11:00:00||-1|1500|113|SAI*KOU Start dash||||
+|114|Taikai wo Nozonde|28||2022/06/01 11:00:00||-1|1000|114|Taikai wo Nozonde||||
+|115|Mahou Shoujo Futari wa Misty & Purely|28||2022-07-18 11:00:00||-1|1000|115|Mahou Shoujo Futari wa Misty & Purely||||
+|116|Anti Beast|28||2022-07-18 11:00:00||-1|1000|116|Anti Beast||||
+|117|Komoborebi Montage|28||2022-07-18 11:00:00||-1|1500|117|Komoborebi Montage||||
+|120|Princess Knight|28||2022-07-18 11:00:00||-1|1000|120|Princess Knight||||
+|121|Sazuke no Angel to Seinaru Gakusha no Lyceenne|28||2022-08-09 11:00:00||-1|1000|121|Sazuke no Zaidan to Seinaru Gakusha no lyceenne||||
+|122|Nakayoshi X|28||2022-08-09 11:00:00||-1|1000|122|Nakayoshi X||||
+|123|Seishun Spinner|28||2022-08-09 11:00:00||-1|1500|123|Seishun Spinner||||
+|124|Mitsurin no Kage ni Matsu wa|28||2022-08-09 11:00:00||-1|1000|124|Mitsurin no Kage ni Matsu wa||||
+|125|Mirage Game|28||2022-08-09 11:00:00||2101001|1500|125|Mirage Game||||
+|126|Yes! Precious Harmony!|28||2022-08-09 11:00:00||2101014|1500|126|Yes! Precious Harmony!||||
+|127|Chu Chu Panic! Cheese Omamori Daisakusen!|28||2022-09-12 11:00:00||-1|1000|127|Chu Chu Panic! Cheese Omamori Daisakusen!||||
+|128|Makiba no Yonnoushi Binbou Bokujou Funtouki!|28||2022-09-12 11:00:00||-1|1000|128|Makiba no Yonnoushi Binbou Bokujou Funtouki!||||
+|129|Shinobi no Touryou Hanzou|28||2022-09-12 11:00:00||-1|1000|129|Shinobi no Touryou Hanzou||||
+|130|Heartful Place|28||2022-09-12 11:00:00||-1|1500|130|Heartful Place||||
+|131|Fushigi no Kuni no Rino Chiisana Arisu to Kibou no Ehon|28||2022-10-17 11:00:00||-1|1000|131|Fushigi no Kuni no Rino Chiisana Arisu to Kibou no Ehon||||
+|132|Kuro no Ou Jabberwock|28||2022-10-17 11:00:00||-1|1000|132|Kuro no Ou Jabberwock||||
+|133|Fairy Tale wa Yume no Naka|28||2022-10-17 11:00:00||-1|1500|133|Fairy Tale wa Yume no Naka||||
+|134|Yuuyuutaru Mori|28||2022-10-17 11:00:00||-1|1000|134|Yuuyuutaru Mori||||
+|135|Tanabata Kenkaku Ryojotan: Ten ni Nagareru Natsu no Koi|28||2022-11-15 11:00:00||-1|1000|135|Tanabata Kenkaku Ryojotan: Ten ni Nagareru Natsu no Koi||||
+|136|Kakusei - Uwakiboshi|28||2022-11-15 11:00:00||-1|1000|136|Kakusei - Uwakiboshi||||
+|137|Tasogare Taihei Tabiji Uta|28||2022-11-15 11:00:00||-1|1500|137|Tasogare Taihei Tabiji Uta||||
+|138|Misato Summer Yell! Yume Ou Manatsu no Nine|28||2022-12-16 11:00:00||-1|1000|138|Misato Summer Yell! Yume Ou Manatsu no Nine||||
+|139|Nagisa no Boukun - Samekichi|28||2022-12-16 11:00:00||-1|1000|139|Nagisa no Boukun - Samekichi||||
+|140|Moukun Dagekidou! Misato no Homerun Drill|28||2022-12-16 11:00:00||-1|1000|140|Moukun Dagekidou! Misato no Homerun Drill||||
+|141|Mezase Homerun!|28||2022-12-16 11:00:00||-1|1000|141|Mezase Homerun!||||
+|142|Hitonatsu no Omoide|28||2022-12-16 11:00:00||-1|1000|142|Hitonatsu no Omoide||||
+|143|Ano Natsu no Memory|28||2022-12-16 11:00:00||-1|1500|143|Ano Natsu no Memory||||
+|144|Kiyoranaru Kawa Oto|28||2022-12-16 11:00:00||-1|1000|144|Kiyoranaru Kawa Oto||||
+|145|Happy Change Angels|28||2023-01-20 11:00:00||-1|1000|145|Happy Change Angels||||
+|146|Bousou no Innocent Bow|28||2023-01-20 11:00:00||-1|1000|146|Bousou no Innocent Bow||||
+|147|Nee Nee Please!|28||2023-01-20 11:00:00||-1|1500|147|Nee Nee Please!||||
+|148|Hibike! Zekkyou! Halloween Ghost Festival|28||2023-02-15 11:00:00||-1|1000|148|Hibike! Zekkyou! Halloween Ghost Festival||||
+|149|Kyoufu no Ghost Father|28||2023-02-15 11:00:00||-1|1000|149|Kyoufu no Ghost Father||||
+|150|Paradox|28||2023-02-15 11:00:00||-1|1500|150|Paradox||||
+|151|Mahou Teishoku Lovely★Monika Let's go! Magical Quartet!|28||2023-03-13 11:00:00||-1|1000|151|Mahou Teishoku Lovely★Monika Let's go! Magical Quartet!||||
+|152|Anti-Beast de M|28||2023-03-13 11:00:00||-1|1000|152|Anti-Beast de M||||
+|153|Kagayake! Lovely★Dreamy|28||2023-03-13 11:00:00||-1|1500|153|Kagayake! Lovely★Dreamy||||
+|154|Dangai o koe sanroku o susumi|28||2023-03-13 11:00:00||-1|1000|154|Dangai o koe sanroku o susumi||||
+|155|Debutante’s Shangri-La: Seiya no Love Game|28||2023-04-14 11:00:00||-1|1000|155|Debutante’s Shangri-La: Seiya no Love Game||||
+|156|Dominated Snowman|28||2023-04-14 11:00:00||-1|1000|156|Dominated Snowman||||
+|157|Holy Passion Roses|28||2023-04-14 11:00:00||-1|1500|157|Holy Passion Roses||||
+|158|Shinshun Gourmet Princess! Ittou ni Kaketa Otometachi|28||2023-05-16 11:00:00||-1|1000|158|Shinshun Gourmet Princess! Ittou ni Kaketa Otometachi||||
+|159|Great Thunnus|28||2023-05-16 11:00:00||-1|1000|159|Great Thunnus||||
+|160|Brand-New Sunrise|28||2023-05-16 11:00:00||-1|1500|160|Brand-New Sunrise||||
+|161|かけがえのない日常|28||2025-02-15 15:00:00||-1|1000|161|かけがえのないにちじょう||||
+|162|離別と決意|28||2025-02-15 15:00:00||-1|1000|162|りべつとけつい||||
+|163|黒風の精霊|28||2025-02-15 15:00:00||-1|1000|163|くろかぜのせいれい||||
+|164|心想い ～ココロオモイ～|28||2025-02-15 15:00:00||-1|1500|164|こころおもい||||
+|165|シンデレラレッスン　華やかなる日々はリンゴの味|28||2025-03-16 15:00:00||-1|1000|165|しんでれられっすんはなやかなるひびはりんごのあじ||||
+|166|魔物の姫|28||2025-03-16 15:00:00||-1|1000|166|まもののひめ||||
+|167|恋キラリマジック☆彡|28||2025-03-16 15:00:00||-1|1500|167|こいきらりまじっく||||
+|168|鋼の聖女と聖なる学舎の異端児|28||2025-04-15 15:00:00||-1|1000|168|はがねのまりあとせいなるがくしゃのりせえんぬ||||
+|169|名もなき芸術|28||2025-04-15 15:00:00||-1|1000|169|なもなきげいじゅつ||||
+|170|無敵ドリーミング|28||2025-04-15 15:00:00||-1|1500|170|むてきどりーみんぐ||||

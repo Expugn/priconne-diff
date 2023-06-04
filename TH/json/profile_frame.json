@@ -1,0 +1,15 @@
+{
+    "profile_frame": [
+        {"id":1,"name":"สุ่ม","type":1,"start_time":"2022-07-01 11:00:00","end_time":"","disp_order":1},
+        {"id":2,"name":"ค่าเริ่มต้น","type":2,"start_time":"2022-07-01 11:00:00","end_time":"","disp_order":2},
+        {"id":3,"name":"ฉลองครบรอบ","type":3,"start_time":"2022-09-19 11:00:00","end_time":"","disp_order":3},
+        {"id":4,"name":"ชมพู","type":1,"start_time":"2022-07-01 11:00:00","end_time":"","disp_order":4},
+        {"id":5,"name":"แดง","type":1,"start_time":"2022-07-01 11:00:00","end_time":"","disp_order":5},
+        {"id":6,"name":"เหลือง","type":1,"start_time":"2022-07-01 11:00:00","end_time":"","disp_order":6},
+        {"id":7,"name":"เขียว","type":1,"start_time":"2022-07-01 11:00:00","end_time":"","disp_order":7},
+        {"id":8,"name":"ฟ้าอ่อน","type":1,"start_time":"2022-07-01 11:00:00","end_time":"","disp_order":8},
+        {"id":9,"name":"ฟ้า","type":1,"start_time":"2022-07-01 11:00:00","end_time":"","disp_order":9},
+        {"id":10,"name":"ม่วง","type":1,"start_time":"2022-07-01 11:00:00","end_time":"","disp_order":10},
+        {"id":11,"name":"เทา","type":1,"start_time":"2022-07-01 11:00:00","end_time":"","disp_order":11}
+    ]
+}

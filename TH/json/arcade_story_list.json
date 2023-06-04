@@ -1,0 +1,17 @@
+{
+    "arcade_story_list": [
+        {"story_id":5021700,"arcade_id":1003,"sub_title":"ฝึกพิเศษกับคาโอริที่ริมหาด!"},
+        {"story_id":5021701,"arcade_id":1003,"sub_title":"เริ่มด้วยคำนับจบด้วยคำนับ"},
+        {"story_id":5021710,"arcade_id":1003,"sub_title":"จงท้าทายสุดขีดจำกัดของตัวเองซะ"},
+        {"story_id":5021711,"arcade_id":1003,"sub_title":"ของจริงคือที่สุด"},
+        {"story_id":5027700,"arcade_id":1004,"sub_title":"มุ่งหน้าสู่เกาะเอลพิสอีกครั้ง!"},
+        {"story_id":5027701,"arcade_id":1004,"sub_title":"การต่อสู้สุดเร่าร้อน"},
+        {"story_id":5027702,"arcade_id":1004,"sub_title":"ตัวจริงปรากฏตัว"},
+        {"story_id":5027703,"arcade_id":1004,"sub_title":"ปลายทางของการต่อสู้....."},
+        {"story_id":5040700,"arcade_id":1005,"sub_title":"เฝ้าชีสกันเถอะ!"},
+        {"story_id":5040701,"arcade_id":1005,"sub_title":"การปะทะกับศัตรูตัวจิ๋ว"},
+        {"story_id":5040702,"arcade_id":1005,"sub_title":"ความเย้ายวนของชีส"},
+        {"story_id":5040703,"arcade_id":1005,"sub_title":"ความรักที่ถือกำเนิด?"},
+        {"story_id":5040704,"arcade_id":1005,"sub_title":"ไม่ว่าที่ไหนแรงงานจะยังคงอยู่"}
+    ]
+}

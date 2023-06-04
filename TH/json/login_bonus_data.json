@@ -1,0 +1,18 @@
+{
+    "login_bonus_data": [
+        {"login_bonus_id":20000,"name":"สตาร์ทแดชล็อกอินแคมเปญ","login_bonus_type":2,"count_num":10,"start_time":"2020/09/15 00:00:01","end_time":"2030/09/15 23:59:59","bg_id":530100,"stamp_id":0,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":30000,"name":"ล็อกอินโบนัส","login_bonus_type":3,"count_num":15,"start_time":"2020/09/15 00:00:01","end_time":"2030/09/15 23:59:59","bg_id":0,"stamp_id":0,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":40003,"name":"ล็อกอินแคมเปญวันสงกรานต์","login_bonus_type":4,"count_num":10,"start_time":"2021/04/13 05:00:00","end_time":"2021/04/22 23:59:59","bg_id":40003,"stamp_id":3,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":40004,"name":"ล็อกอินแคมเปญวันสุนทรภู่","login_bonus_type":4,"count_num":10,"start_time":"2021/06/21 05:00:00","end_time":"2021/07/01 04:59:59","bg_id":40004,"stamp_id":3,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":40005,"name":"ล็อกอินแคมเปญวันแม่","login_bonus_type":4,"count_num":10,"start_time":"2021/08/10 05:00:00","end_time":"2021/08/20 04:59:59","bg_id":40005,"stamp_id":3,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":40006,"name":"ล็อกอินแคมเปญต้อนรับหน้าหนาว","login_bonus_type":4,"count_num":10,"start_time":"2021/11/25 05:00:00","end_time":"2021/12/15 04:59:00","bg_id":0,"stamp_id":3,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":40007,"name":"ล็อกอินแคมเปญฉลองอนิเมะออกอากาศ","login_bonus_type":4,"count_num":10,"start_time":"2009/01/10 05:00:00","end_time":"2009/04/07 04:59:00","bg_id":40007,"stamp_id":3,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":40008,"name":"ล็อกอินแคมเปญวันสงกรานต์","login_bonus_type":4,"count_num":10,"start_time":"2022/04/13 05:00:00","end_time":"2022/04/23 04:59:00","bg_id":40008,"stamp_id":3,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":40009,"name":"ล็อกอินแคมเปญวันสงกรานต์","login_bonus_type":4,"count_num":10,"start_time":"2023/04/13 05:00:00","end_time":"2023/04/23 04:59:00","bg_id":40009,"stamp_id":3,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":60002,"name":"สุขสันต์วันปีใหม่ ล็อกอินโบนัสปีใหม่","login_bonus_type":6,"count_num":7,"start_time":"2023/04/25 05:00:00","end_time":"2023/05/05 04:59:59","bg_id":500553,"stamp_id":0,"odds_group_id":1,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":70004,"name":"ล็อกอินโบนัสคริสต์มาส","login_bonus_type":7,"count_num":2,"start_time":"2023/04/17 05:00:00","end_time":"2023/04/19 04:59:59","bg_id":500160,"stamp_id":0,"odds_group_id":0,"adv_play_type":1,"count_type":0},
+        {"login_bonus_id":70005,"name":"สเปเชี่ยลล็อกอินโบนัส 3 วัน","login_bonus_type":7,"count_num":3,"start_time":"2023/04/25 05:00:00","end_time":"2023/04/28 04:59:59","bg_id":500160,"stamp_id":0,"odds_group_id":0,"adv_play_type":2,"count_type":0},
+        {"login_bonus_id":80001,"name":"ล็อกอินโบนัส 1st Anniversary Countdown","login_bonus_type":8,"count_num":15,"start_time":"2021/09/03 05:00:00","end_time":"2021/09/18 04:59:59","bg_id":0,"stamp_id":0,"odds_group_id":0,"adv_play_type":0,"count_type":1},
+        {"login_bonus_id":80003,"name":"ล็อกอินโบนัส 2.5 ปี Anniversary Countdown","login_bonus_type":8,"count_num":15,"start_time":"2023/03/04 05:00:00","end_time":"2023/03/19 04:59:59","bg_id":0,"stamp_id":0,"odds_group_id":0,"adv_play_type":0,"count_type":1}
+    ]
+}

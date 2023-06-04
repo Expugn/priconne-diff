@@ -1,0 +1,2 @@
+|space_id|teaser_time|start_time|count_start_time|count_end_time|end_time|sid|pre_story_id|
+| --- | --- | --- | --- | --- | --- | --- | --- |

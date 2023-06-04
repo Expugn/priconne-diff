@@ -1,0 +1,2 @@
+|training_id|clan_battle_id|battle_start_time|battle_end_time|interval_start_time|interval_end_time|
+| --- | --- | --- | --- | --- | --- |

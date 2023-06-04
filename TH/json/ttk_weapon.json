@@ -1,0 +1,8 @@
+{
+    "ttk_weapon": [
+        {"ttk_weapon_id":1,"ttk_score":0,"name":"ค้อนไม้"},
+        {"ttk_weapon_id":2,"ttk_score":64000,"name":"ค้อนเล็กเวท"},
+        {"ttk_weapon_id":3,"ttk_score":256000,"name":"พัดกระดาษทำมือของมาฮิรุ"},
+        {"ttk_weapon_id":4,"ttk_score":480000,"name":"ค้อนทุบวิเศษ"}
+    ]
+}

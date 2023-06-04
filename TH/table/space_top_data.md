@@ -1,0 +1,2 @@
+|id|space_id|space_battle_id|part_flag|story_id|time_from|time_to|skip_battle_time|name|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |

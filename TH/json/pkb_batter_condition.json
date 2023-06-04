@@ -1,0 +1,13 @@
+{
+    "pkb_batter_condition": [
+        {"batter_id":1,"pkb_score":0,"name":"อายาเนะ","detail":"","meet":1,"critical":2,"power":1,"ability_name":"---","ability_detail":"","is_playable":1},
+        {"batter_id":2,"pkb_score":6000,"name":"อาซาฮิ","detail":"กัปตันนักแบกลูกทีมผู้ไม่ยอมแพ้ต่อโชคชะตา เป็นฮิตเตอร์ที่ตีลูกโดนบ่อยและสามารถไว้วางใจได้","meet":0,"critical":1,"power":3,"ability_name":"---","ability_detail":"","is_playable":1},
+        {"batter_id":3,"pkb_score":16000,"name":"สมาชิก3","detail":"ชายผู้ถึงแม้จะหน้าบูดแต่ก็ห่วงใยเพื่อนพ้องยิ่งกว่าใคร เป็นฮิตเตอร์แรงช้างที่ภูมิใจในพลังแขนซึ่งขัดเกลามาจากการทะเลาะวิวาทของตน","meet":3,"critical":3,"power":0,"ability_name":"อะดรีนาลีน","ability_detail":"พลังเพิ่มขึ้นตามจำนวนโฮมรันที่ทำได้ติดต่อกัน","is_playable":1},
+        {"batter_id":4,"pkb_score":30000,"name":"{0}","detail":"ตัวช่วยแห่งความหวังผู้ได้รับความเชื่อใจจากทุกคน แม้ความสามารถที่แท้จริงจะยังไม่ชัดเจน แต่ก็สามารถทำให้เกิดโชคดีขึ้นในสนามได้","meet":2,"critical":2,"power":2,"ability_name":"ลัคกี้","ability_detail":"สามารถทำให้เกิดเรื่องโชคดีขึ้นในสนามได้","is_playable":1},
+        {"batter_id":5,"pkb_score":50000,"name":"หน้ารายชื่อผู้เล่นโบนัส","detail":"หน้าโบนัสพิเศษที่จะเผยความลับสุดยอดที่ไม่เคยมีใครรู้ อย่าให้ใครดูซะล่ะ","meet":1,"critical":0,"power":1,"ability_name":"","ability_detail":"","is_playable":0},
+        {"batter_id":6,"pkb_score":50000,"name":"หน้ารายชื่อผู้เล่นโบนัส","detail":"","meet":0,"critical":1,"power":1,"ability_name":"","ability_detail":"","is_playable":0},
+        {"batter_id":7,"pkb_score":50000,"name":"หน้ารายชื่อผู้เล่นโบนัส","detail":"","meet":0,"critical":0,"power":0,"ability_name":"","ability_detail":"","is_playable":0},
+        {"batter_id":8,"pkb_score":50000,"name":"หน้ารายชื่อผู้เล่นโบนัส","detail":"","meet":1,"critical":0,"power":0,"ability_name":"","ability_detail":"","is_playable":0},
+        {"batter_id":9,"pkb_score":50000,"name":"หน้ารายชื่อผู้เล่นโบนัส","detail":"","meet":0,"critical":0,"power":0,"ability_name":"","ability_detail":"","is_playable":0}
+    ]
+}

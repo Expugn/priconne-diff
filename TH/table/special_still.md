@@ -1,0 +1,3 @@
+|still_id|type|back_momory_type|value|
+| --- | --- | --- | --- |
+|504660101|1|0|0|

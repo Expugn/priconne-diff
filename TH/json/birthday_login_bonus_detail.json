@@ -1,0 +1,15 @@
+{
+    "birthday_login_bonus_detail": [
+        {"id":1,"login_bonus_id":9105801,"reward_type":2,"reward_id":31058,"reward_num":10},
+        {"id":2,"login_bonus_id":9102001,"reward_type":2,"reward_id":31020,"reward_num":10},
+        {"id":3,"login_bonus_id":9100201,"reward_type":2,"reward_id":31002,"reward_num":10},
+        {"id":4,"login_bonus_id":9105501,"reward_type":2,"reward_id":31055,"reward_num":10},
+        {"id":5,"login_bonus_id":9101601,"reward_type":2,"reward_id":31016,"reward_num":10},
+        {"id":7,"login_bonus_id":9104401,"reward_type":2,"reward_id":31044,"reward_num":10},
+        {"id":8,"login_bonus_id":9102301,"reward_type":2,"reward_id":31023,"reward_num":10},
+        {"id":9,"login_bonus_id":9105901,"reward_type":2,"reward_id":31059,"reward_num":10},
+        {"id":10,"login_bonus_id":9104201,"reward_type":2,"reward_id":31042,"reward_num":10},
+        {"id":11,"login_bonus_id":9104001,"reward_type":2,"reward_id":31040,"reward_num":10},
+        {"id":12,"login_bonus_id":9102101,"reward_type":2,"reward_id":31021,"reward_num":10}
+    ]
+}

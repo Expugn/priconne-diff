@@ -1,0 +1,2 @@
+|ticket_id|exchange_number|unit_id|reward_type_1|reward_id_1|reward_count_1|reward_type_2|reward_id_2|reward_count_2|reward_type_3|reward_id_3|reward_count_3|start_time|end_time|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

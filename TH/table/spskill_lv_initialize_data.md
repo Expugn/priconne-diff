@@ -1,0 +1,2 @@
+|initialize_skill_id|base_skill_id|
+| --- | --- |
