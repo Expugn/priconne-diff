@@ -1,0 +1,12 @@
+{
+  "name": "priconne-diff",
+  "version": "1.0.0",
+  "description": "Serves formatted files generated from the database of multiple game regions for 'Princess Connect! Re:Dive'.",
+  "scripts": {},
+  "author": "S'pugn",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "sqlite3": "^5.1.6"
+  }
+}

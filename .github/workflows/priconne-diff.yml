@@ -1,0 +1,118 @@
+# This workflow will check if there are any version changes before creating .csv files for all regions.
+
+name: priconne-diff
+
+on:
+  # run this task every minute 0 of every hour of every day
+  schedule:
+  - cron: '0 * * * *'
+
+  # allow this task to be run manually from Actions tab
+  workflow_dispatch:
+
+jobs:
+  # needs access to {{ secrets.DEPLOY_ACCESS_TOKEN }} with at least public_repo scope
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js [16.x]
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+          cache: 'npm'
+
+      - name: Cache dependencies
+        uses: actions/cache@v3
+        with:
+          path: |
+            **/node_modules
+          key: ${{ runner.os }}-${{ hashFiles('**/package-lock.json') }}
+
+      - name: Install Node.js Dependencies
+        run: npm install sqlite3 @actions/core
+
+      - name: Run check-version.cjs
+        id: update
+        run: node ./.github/workflows/check-version.cjs
+
+      # assuming there are new changes
+      - name: Read master_cn.db
+        if: ${{ steps.update.outputs.success == 'true' }}
+        run: node ./.github/workflows/sql-to-diff.cjs master_cn.db CN/
+
+      - name: Read master_en.db
+        if: ${{ steps.update.outputs.success == 'true' }}
+        run: node ./.github/workflows/sql-to-diff.cjs master_en.db EN/
+
+      - name: Read master_jp.db
+        if: ${{ steps.update.outputs.success == 'true' }}
+        run: node ./.github/workflows/sql-to-diff.cjs master_jp.db JP/
+
+      - name: Read master_kr.db
+        if: ${{ steps.update.outputs.success == 'true' }}
+        run: node ./.github/workflows/sql-to-diff.cjs master_kr.db KR/
+
+      - name: Read master_th.db
+        if: ${{ steps.update.outputs.success == 'true' }}
+        run: node ./.github/workflows/sql-to-diff.cjs master_th.db TH/
+
+      - name: Read master_tw.db
+        if: ${{ steps.update.outputs.success == 'true' }}
+        run: node ./.github/workflows/sql-to-diff.cjs master_tw.db TW/
+
+      - name: Update files on Git
+        if: ${{ steps.update.outputs.success == 'true' }}
+        run: |
+          git config --global user.name "Expugn"
+          git config --global user.email "Expugn@users.noreply.github.com"
+
+          git diff-index --quiet HEAD || git add ./version.json && git commit -m "[Bot] Version File Update" -m '
+          ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          This is an automated process. Issues may or may not have occured.'
+
+          git add CN/
+          if [[ `git diff --name-only --cached` ]]; then
+          git diff-index --quiet HEAD || git commit -m "[Bot] CN Data Update - ${{ steps.update.outputs.CN }}" -m '
+          ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          This is an automated process. Issues may or may not have occured.'
+          fi
+
+          git add EN/
+          if [[ `git diff --name-only --cached` ]]; then
+          git diff-index --quiet HEAD || git commit -m "[Bot] EN Data Update - ${{ steps.update.outputs.EN }}" -m '
+          ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          This is an automated process. Issues may or may not have occured.'
+          fi
+
+          git add JP/
+          if [[ `git diff --name-only --cached` ]]; then
+          git diff-index --quiet HEAD || git commit -m "[Bot] JP Data Update - ${{ steps.update.outputs.JP }}" -m '
+          ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          This is an automated process. Issues may or may not have occured.'
+          fi
+
+          git add KR/
+          if [[ `git diff --name-only --cached` ]]; then
+          git diff-index --quiet HEAD || git commit -m "[Bot] KR Data Update - ${{ steps.update.outputs.KR }}" -m '
+          ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          This is an automated process. Issues may or may not have occured.'
+          fi
+
+          git add TH/
+          if [[ `git diff --name-only --cached` ]]; then
+          git diff-index --quiet HEAD || git commit -m "[Bot] TH Data Update - ${{ steps.update.outputs.TH }}" -m '
+          ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          This is an automated process. Issues may or may not have occured.'
+          fi
+
+          git add TW/
+          if [[ `git diff --name-only --cached` ]]; then
+          git diff-index --quiet HEAD || git commit -m "[Bot] TW Data Update - ${{ steps.update.outputs.TW }}" -m '
+          ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          This is an automated process. Issues may or may not have occured.'
+          fi
+
+          git push
