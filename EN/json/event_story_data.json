@@ -1,0 +1,31 @@
+{
+    "event_story_data": [
+        {"story_group_id":5001,"story_type":5,"value":20001,"title":"Hatsune's Perfect Present","thumbnail_id":0,"disp_order":1,"start_time":"2021/02/17 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5002,"story_type":5,"value":20002,"title":"Little Lyrical Adventures","thumbnail_id":0,"disp_order":1,"start_time":"2021/03/17 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5003,"story_type":5,"value":20003,"title":"Vampire Hunters with Illya","thumbnail_id":0,"disp_order":1,"start_time":"2021/04/28 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5004,"story_type":5,"value":10020,"title":"Dangerous Vacation! Gourmet Princess on the Beach","thumbnail_id":0,"disp_order":1,"start_time":"2021/06/03 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5005,"story_type":5,"value":10022,"title":"Tamaki and Mifuyu's Desert Island 0-Rupie Life!","thumbnail_id":0,"disp_order":1,"start_time":"2021/07/09 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5006,"story_type":5,"value":10024,"title":"Ironclad Nightmare","thumbnail_id":0,"disp_order":1,"start_time":"2021/08/18 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5007,"story_type":5,"value":10026,"title":"Trick or Pudding! The Promised Halloween Party","thumbnail_id":0,"disp_order":1,"start_time":"2021/09/24 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5008,"story_type":5,"value":10028,"title":"Twilight Breakers","thumbnail_id":0,"disp_order":1,"start_time":"2021/10/28 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5009,"story_type":5,"value":10030,"title":"The Carol That Never Was","thumbnail_id":0,"disp_order":1,"start_time":"2021/11/22 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5010,"story_type":5,"value":10032,"title":"New Year's Day Twinkle Crisis!","thumbnail_id":0,"disp_order":1,"start_time":"2021/12/20 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5011,"story_type":5,"value":10034,"title":"Rumble on Valentine's Day! Fight for Your Right to Love","thumbnail_id":0,"disp_order":1,"start_time":"2022/01/18 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5012,"story_type":5,"value":10037,"title":"Landosol's Ace Detective: The Case of the Woeful Stalker","thumbnail_id":0,"disp_order":1,"start_time":"2022/02/14 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5013,"story_type":5,"value":10039,"title":"The Twin Flowers of Astrum","thumbnail_id":0,"disp_order":1,"start_time":"2022/03/10 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5015,"story_type":5,"value":10041,"title":"Shogun Chronicles: The Whitewing Samurai","thumbnail_id":0,"disp_order":1,"start_time":"2022/04/05 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5017,"story_type":5,"value":10017,"title":"Re:ZERO -Sharing Lunch in Another World-","thumbnail_id":0,"disp_order":1,"start_time":"2022/05/02 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5019,"story_type":5,"value":10019,"title":"Suzuna's Rainbow Stage!","thumbnail_id":0,"disp_order":1,"start_time":"2022/06/01 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5021,"story_type":5,"value":10021,"title":"Dog Days in the Maho-Maho Kingdom: A Soulful Seaside Summer!","thumbnail_id":0,"disp_order":1,"start_time":"2022/07/04 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5023,"story_type":5,"value":10023,"title":"The Woodland Loner and the Saintly School Lycéennes","thumbnail_id":0,"disp_order":1,"start_time":"2022/08/04 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5025,"story_type":5,"value":10025,"title":"Little Brave Halloween Night!","thumbnail_id":0,"disp_order":1,"start_time":"2022/09/01 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5027,"story_type":5,"value":10027,"title":"Dragon Explorers","thumbnail_id":0,"disp_order":1,"start_time":"2022/10/02 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5029,"story_type":5,"value":10029,"title":"Present Panic! The Santas of Landosol","thumbnail_id":0,"disp_order":1,"start_time":"2022/11/01 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5031,"story_type":5,"value":10031,"title":"Ready, Set, Go! The Landosol Guild Race","thumbnail_id":0,"disp_order":1,"start_time":"2022/12/03 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5033,"story_type":5,"value":10033,"title":"The Magical Girl Duo: We Are Misty & Purely","thumbnail_id":0,"disp_order":1,"start_time":"2023/01/04 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5035,"story_type":5,"value":10035,"title":"Starlight Princess Re:M@STER!","thumbnail_id":0,"disp_order":1,"start_time":"2023/02/01 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5036,"story_type":5,"value":10036,"title":"Starlight Princess Re:M@STER!","thumbnail_id":0,"disp_order":1,"start_time":"2023/02/13 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5038,"story_type":5,"value":10038,"title":"The Angelic Foundation and the Saintly School Lycéennes","thumbnail_id":0,"disp_order":1,"start_time":"2023/03/04 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5040,"story_type":5,"value":10040,"title":"The Four Farming Warriors: Endeavors of a Broke Ranch","thumbnail_id":0,"disp_order":1,"start_time":"2023/04/02 23:00:00","end_time":"2030/04/24 14:59:59"}
+    ]
+}

@@ -1,0 +1,2 @@
+|quest_id|odds_group_id|
+| --- | --- |

@@ -1,0 +1,14 @@
+{
+    "nyx_drama_data": [
+        {"drama_id":101,"story_phase":1,"title":"Special Lesson Report","sub_title":"Cherurun Impact","condition_unlocked_story_id":12,"condition_locked_story_id":13},
+        {"drama_id":102,"story_phase":1,"title":"Special Lesson Report","sub_title":"Chloe's Intuition","condition_unlocked_story_id":13,"condition_locked_story_id":14},
+        {"drama_id":103,"story_phase":1,"title":"Special Lesson Report","sub_title":"An Elder's Pride","condition_unlocked_story_id":14,"condition_locked_story_id":22},
+        {"drama_id":201,"story_phase":2,"title":"Mercurius Foundation Journal","sub_title":"Akino Takes Charge","condition_unlocked_story_id":22,"condition_locked_story_id":23},
+        {"drama_id":202,"story_phase":2,"title":"Mercurius Foundation Journal","sub_title":"Burning Taiyaki Soul","condition_unlocked_story_id":23,"condition_locked_story_id":24},
+        {"drama_id":203,"story_phase":2,"title":"Mercurius Foundation Journal","sub_title":"Barley Broth Power","condition_unlocked_story_id":24,"condition_locked_story_id":25},
+        {"drama_id":204,"story_phase":2,"title":"Mercurius Foundation Journal","sub_title":"The Fury of Mifuyu","condition_unlocked_story_id":25,"condition_locked_story_id":32},
+        {"drama_id":301,"story_phase":3,"title":"Yuni's Notes","sub_title":"The Beverage-Snack Conundrum","condition_unlocked_story_id":32,"condition_locked_story_id":33},
+        {"drama_id":302,"story_phase":3,"title":"Yuni's Notes","sub_title":"Nothing Ventured, Nothing Gained","condition_unlocked_story_id":33,"condition_locked_story_id":34},
+        {"drama_id":303,"story_phase":3,"title":"Yuni's Notes","sub_title":"Hazardous Procedures","condition_unlocked_story_id":34,"condition_locked_story_id":0}
+    ]
+}

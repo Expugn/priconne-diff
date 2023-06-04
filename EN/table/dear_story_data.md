@@ -1,0 +1,11 @@
+|story_group_id|story_type|value|title|thumbnail_id|disp_order|start_time|end_time|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|6017|6|10017|Re:ZERO -Sharing Lunch in Another World-|0|1|2022/04/27 15:00:00|2030/04/24 14:59:59|
+|6019|6|10019|Suzuna's Rainbow Stage!|0|1|2022/05/27 23:00:00|2030/04/24 14:59:59|
+|6023|6|10023|The Woodland Loner and the Saintly School Lycéennes|0|1|2022/07/30 23:00:00|2030/04/24 14:59:59|
+|6025|6|10025|Little Brave Halloween Night!|0|1|2022/08/27 23:00:00|2030/04/24 14:59:59|
+|6027|6|10027|Dragon Explorers|0|1|2022/09/27 23:00:00|2030/04/24 14:59:59|
+|6029|6|10029|Present Panic! The Santas of Landosol|0|1|2022/10/27 23:00:00|2030/04/24 14:59:59|
+|6033|6|10033|The Magical Girl Duo: We Are Misty & Purely|0|1|2022/12/30 23:00:00|2030/04/24 14:59:59|
+|6038|6|10038|The Angelic Foundation and the Saintly School Lycéennes|0|1|2023/02/27 23:00:00|2030/04/24 14:59:59|
+|6040|6|10040|The Four Farming Warriors: Endeavors of a Broke Ranch|0|1|2023/03/28 23:00:00|2030/04/24 14:59:59|

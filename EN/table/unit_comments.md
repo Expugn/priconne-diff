@@ -1,0 +1,1424 @@
+|id|unit_id|use_type|voice_id|face_id|change_time|change_face|description|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|1001001|100101|1|1|1|4|2|As long as my friends are smiling, I can keep smiling! So c'mon, let's see a nice big smile on your face!|
+|1001002|100101|1|2|1|3|2|Friends help friends out! You can always come to me if you're in trouble—I'll come up with something!|
+|1001003|100101|1|3|1|7.5|2|Gotta stay full of energy! But when you're tired, it's best to get some rest. Me? I'm not sleepy yet!|
+|1001004|100101|1|4|5|6|2|Hey, wanna hear a secret? When I'm with you, life seems twice as fun! Eheheh... Thanks a bunch!|
+|1001005|100101|1|5|4|6|6|It's weird... Sometimes I get this fuzzy feeling in my chest. I haven't caught a cold or something, have I?!|
+|1001006|100131|1|1|1|0|1|I wanna get stronger! That way I can make sure we all stay smiling forever!|
+|1001007|100131|1|2|1|0|1|I don't mind getting a little beaten up! As long as I know you've got my back, I can always keep fighting!|
+|1001008|100131|1|3|1|0|1|Just having you nearby fills me with a million times my usual energy! ...OK, maybe not quite that much.|
+|1001009|100131|1|4|1|0|1|I can hear your voice cheering me on... Even when we're apart, I can always tell you're there for me!|
+|1001010|100131|1|5|1|0|1|No matter who I'm up against, I feel like I can't lose! Not now that I have someone to support me!|
+|1001011|100101|2|6|1|11.3|2|Happy birthday, Mr. Knight! What kind of present you after? Food? Equipment? Or... I know! Let's train together!|
+|1001012|100131|2|6|1|0|1|Happy birthday to you! Here, have this cat charm! It'll watch over you even when I'm not around!|
+|1001013|100161|1|1|1|0|1|Mya-mya-mya-myah!\nWhen I'm with Mr. Knight,\nI'm totally invincible!\nLet's do this!|
+|1001014|100161|1|2|1|0|1|Even in the nastiest of scrapes, I've always pulled through with Mr. Knight's help! If we always stick together, I'll never lose!|
+|1001015|100161|1|3|1|0|1|As long as there are smiles I want to protect, I can keep on fighting! So, Mr. Knight...\nI hope you'll stay by my side!|
+|1001016|100161|1|4|1|0|1|I wanna feel more of this fluttery sensation in my heart! I don't totally get it, but it makes me feel like we can do anything!|
+|1001017|100161|1|5|1|0|1|Was I always this strong? I bet it's thanks to you, Mr. Knight! Will you stay with me forever? 'C-cause I wanna get stronger...|
+|1002001|100201|1|1|4|6|5|U-um... You want to hang out with me? Are you sure? Well... thanks!|
+|1002002|100201|1|2|2|4|5|If you're heading to battle, I'll handle healing and support! As for attacking, um... I might need some help.|
+|1002003|100201|1|3|4|4|8|P-please, don't stare at me like that... It's embarrassing... Ahhhh...|
+|1002004|100201|1|4|1|4|2|Are you feeling hungry? Let me know when you are! I can always whip up a little snack!|
+|1002005|100201|1|5|1|3|5|Do you need help with anything? If you're heading off somewhere, I'd love to keep you company...|
+|1002006|100231|1|1|1|0|1|Let me know if there's anything you need me for! I can heal up little cuts and scratches in no time!|
+|1002007|100231|1|2|1|0|1|If it's for your sake, Mr. Knight, I... I feel like I can go the extra mile!|
+|1002008|100231|1|3|1|0|1|Healing light, come forth! H-huh? Just seeing my face makes you feel better? Stop... You're making me blush...|
+|1002009|100231|1|4|1|0|1|Hmm, what kind of magic should I study next? L-love magic, maybe? N-no, I'm sure there's no such thing!|
+|1002010|100231|1|5|1|0|1|I've been learning protective magic! Spells to protect from fire, cold, heat... And, um, fish bones. They can really hurt your throat...|
+|1002011|100201|2|6|1|7.9|5|Mr. Knight! Happy birthday! Um, I... I made you a cake! I hope it tastes alright...|
+|1002012|100231|2|6|1|0|1|Happy birthday, Mr. Knight! I made a cake, and lots of other treats so we can all celebrate together!|
+|1002013|100261|1|1|1|0|1|When Mr. Knight... when people I care about get hurt, I want to take away their pain... That's the biggest wish I have right now.|
+|1002014|100261|1|2|1|0|1|Mr. Knight, you're not hurt at all, are you? Are your wounds all healed up? ...Thank goodness. Looks like you're okay now.|
+|1002015|100261|1|3|1|0|1|Please, Mr. Knight... Will you stay close and give me courage?\nI want to be able to grow stronger and kinder!|
+|1002016|100261|1|4|1|0|1|My feelings are as strong as anyone's... but feelings alone aren't enough, are they? I have to prove myself by taking action!|
+|1002017|100261|1|5|1|0|1|My feelings for Mr. Knight always fill me with courage...\n...Wait, Mr. Knight?!\nYou didn't hear that, did you...?!|
+|1003001|100301|1|1|1|4|2|I'll put in as much effort as it takes to achieve my goals. I think that's a good attitude to have—you should try it too.|
+|1003002|100301|1|2|2|4.5|6|Could you help me come up with a new training plan? I'm trying to find a good location...|
+|1003003|100301|1|3|1|4.5|2|The desire to become stronger is what matters. As long as you don't lose sight of it, you'll become stronger too.|
+|1003004|100301|1|4|6|2|2|I'm not sure why, but when I cross swords with you, it feels almost like dancing.|
+|1003005|100301|1|5|1|4.5|2|Do you want to go fishing with me? I enjoy fishing alone as well, but I'd like to share it with you...|
+|1003006|100331|1|1|1|0|1|Ready your weapon! If you ever plan to land a clean blow on me, there's no time to waste!|
+|1003007|100331|1|2|1|0|1|That unrelenting look in your eyes... You really are quite something. I knew I was right about you.|
+|1003008|100331|1|3|1|0|1|You can become so much stronger—I know you haven't reached your limit yet. So go ahead and prove it to me.|
+|1003009|100331|1|4|1|0|1|(Such an odd feeling... It's like I want to keep doing this forever. But that's not realistic, of course.)|
+|1003010|100331|1|5|1|0|1|I know I said I would do anything you asked... But nothing indecent, all right?|
+|1003011|100301|2|6|2|2.6|5|Happy birthday. I'm afraid I wasn't sure what to get you for a present... How about we go out somewhere instead?|
+|1003012|100331|2|6|1|0|1|I hear it's your birthday, so let's take a break from training today. ...Hmm? Does that not make you happy?|
+|1003013|100361|1|1|1|0|1|Your emotions are granting me incredible strength...\nI'll have to make sure I live up to those feelings!|
+|1003014|100361|1|2|1|0|1|My body feels amazingly light... With this strength, I'll be able to refine my sword techniques even further! Here I go!|
+|1003015|100361|1|3|1|0|1|This power comes from the bond I share with you... I hope the two of us can keep getting stronger and stronger together!|
+|1003016|100361|1|4|1|0|1|You have a special place in my life that nobody else can fill. That's how it's always been, and that's how it will stay...|
+|1003017|100361|1|5|1|0|1|It's your faith that gave me the strength to believe in myself.\nSo please... I hope you'll never stop believing in me.|
+|1004001|100401|1|1|1|2.5|2|Oh, hey there, mister! What d'you wanna play today?|
+|1004002|100401|1|2|4|4|4|Urghhhh... I accidentally ate my own super-spicy prank candy...|
+|1004003|100401|1|3|1|6|6|Yay, my prank's all ready to go! Now if I just wait for him to show up... Gah! Did you see the whole thing?|
+|1004004|100401|1|4|1|4.5|2|I set up pranks... You fall for them... Yep, we're the perfect team!|
+|1004005|100401|1|5|5|4|2|Let's play together lots and lots more! It's a promise! C'mon, you gotta pinky swear!|
+|1004006|100431|1|1|1|0|1|Misogi Explorers, assemble! ...Pretty easy to assemble when it's just the two of us, huh?|
+|1004007|100431|1|2|1|0|1|I'm looking forward to toying with you lots and lots more! Ah, sorry, I meant "playing with." Honest!|
+|1004008|100431|1|3|1|0|1|C'mon, mister! Hurry up! Let's go exploring! I've been waiting for you!|
+|1004009|100431|1|4|1|0|1|Since I like you so much, I'm gonna come up with lots more pranks just for you!|
+|1004010|100431|1|5|1|0|1|When I play with you, it's almost like I've got a big brother! I love it!|
+|1004011|100401|2|6|1|7.6|2|Happy birthday, mister! Here's your present! And here's your cake! Go on, open them! Heheheh...|
+|1004012|100431|2|6|1|0|1|Happy birthday! I love you, mister! Honest! ...Maybe it's hard to believe me after I pranked you so many times...|
+|1005001|100501|1|1|1|4.6|2|If you're ever in trouble,\nyou can always call on me!\nI may only be an apprentice knight, but I'm a hero at heart!|
+|1005002|100501|1|2|1|3.2|2|Let's go take down some evil organizations! We're still barely halfway to being true heroes, but two halves make a whole!|
+|1005003|100501|1|3|1|8.8|4|My mom and dad always want me to wear cute outfits. All covered in ribbons and lace... Simple and practical is more my style!|
+|1005004|100501|1|4|1|4.6|5|We should go somewhere quiet together once in a while. Even heroes need to rest sometimes!|
+|1005005|100501|1|5|4|9.8|5|I really wanna play with you\nall day long! But if we get any closer, you'll find out my...\nN-no! I didn't say anything!|
+|1005006|100531|1|1|1|0|1|Haaahhhh!\nAs long as we have the\ncourage to stand up to evil,\njustice will always prevail!|
+|1005007|100531|1|2|1|0|1|Yeeeaahhh! I'm getting fired up! Let's blaze down the path to true herodom!|
+|1005008|100531|1|3|1|0|1|If world peace is at stake,\nI won't lose to any villain!\nA true hero never goes back\non her word!|
+|1005009|100531|1|4|1|0|1|With the courage you give me,\nI'll transform into the world's greatest hero!|
+|1005010|100531|1|5|1|0|1|Being with you gives me a hundred... no, a million times\nmy usual courage!\nSo you gotta stick with me!|
+|1005011|100501|2|6|1|5.3|2|Huh? It's your birthday today?! Then I'll give you my coolest\nTora Tiger merch!\nIt's a token of our friendship!|
+|1005012|100531|2|6|1|0|1|Happy birthday!\nI brought a special Tora Tiger cupcake just for you!\nI even baked it myself...|
+|1006001|100601|1|1|5|3.5|2|Say, would you come help me with my saxophone practice later?|
+|1006002|100601|1|2|4|5|5|*pant... pant...* That's enough sax for now... You really know how to wear a girl out...|
+|1006003|100601|1|3|6|3|4|What? You want to keep going? But I'm so worn out... I don't have much more in me...|
+|1006004|100601|1|4|5|5.5|2|You always push me so hard, it makes me all sweaty... My heart's pounding like crazy...|
+|1006005|100601|1|5|3|4.5|4|Say, if you had to choose between me and my sister, which would you... Ah, no, it's nothing.|
+|1006006|100631|1|1|1|0|1|Heheh, look what I can do! Put on a little jazzy music for the... Akari Pole-Dance Extravaganza!|
+|1006007|100631|1|2|1|0|1|You really want to see me do it, huh? Okay then... It's a little embarrassing, but... Here I go! Akari 360° Flip!|
+|1006008|100631|1|3|1|0|1|*pant... pant...* My poor body can't take any more... With you cheering me on, I might have gone a bit too far!|
+|1006009|100631|1|4|1|0|1|N-now I'm feeling dizzy... Hold me tight before I fall over! It's the least you can do after putting me in this state!|
+|1006010|100631|1|5|1|0|1|I wouldn't let just anyone see me do all this, you know? You're special, that's why I want to show you... everything.|
+|1006011|100601|2|6|1|5.9|5|Oh! Is it just me, or does something about you seem a little... bigger today? You're making me get all excited!|
+|1006012|100631|2|6|1|0|1|It's your special day today, isn't it? Happy birthday! Now we can do even more... grown-up things together!|
+|1007001|100701|1|1|1|4.5|2|My favoritest thing is pudding! Second up is pudding, third and fourth is pudding, and fifth is... more pudding!|
+|1007002|100701|1|2|1|6|2|Flying through the air is the best! Playing tricks is the best too! But pudding... Pudding is the bestestest!|
+|1007003|100701|1|3|7|5|6|Monsters were chasing me! I thought I was a goner! But then I remembered, I'm already a goner!|
+|1007004|100701|1|4|5|7|6|Me, I'm a ghost! So if you mess up and die, I'll still be your friend! Isn't that the bestest? No?|
+|1007005|100701|1|5|2|3|5|Today's the day! You promised we can go out and play! I'm gonna haunt you alllll day long!|
+|1007006|100731|1|1|1|0|1|Pudding pudding pudding pudding! Buy me more pudding! Else I might pass on from starvation!|
+|1007007|100731|1|2|1|0|1|No touching that pudding! That's Miyako's pudding! If you sneak a nibble, Miyako haunts you all night!|
+|1007008|100731|1|3|1|0|1|Ghosts are for scaring people! That's what we do! C'mon, look a bit more scared!|
+|1007009|100731|1|4|1|0|1|Grrr! Which do you care about more?! Miyako or pudding?! ...You love both? Wow! That makes sense!|
+|1007010|100731|1|5|1|0|1|Why's it just me that's a ghost?! You should kick some buckets and be a ghost too! Then we'll be together for ever and ever!|
+|1007011|100701|2|6|1|5.8|2|Even ghosts know birthdays are special! So let's have a big birthday pudding party!|
+|1007012|100731|2|6|1|0|1|Happy birthday! Birthdays are for eating special treats with special friends! So... It's pudding cake day!|
+|1008001|100801|1|1|1|7|2|Ooh, perfect timing! You'll never believe this, but I just found an angle that makes me look even cuter! Take a look!|
+|1008002|100801|1|2|5|6.5|2|When word of my beauty spreads, tourists will come from far and wide to get a glimpse. I'd better make a guidebook!|
+|1008003|100801|1|3|6|7|1|Help, please! My beauty keeps radiating out! It's out of my control! Help me stop it! No, wait, that would be too cruel!|
+|1008004|100801|1|4|5|4.5|2|I hope you appreciate having someone as cute as me by your side! You're basically the luckiest guy in the world!|
+|1008005|100801|1|5|5|4|2|I stay by your side because that's where I want to be. Not just because you make me look even cuter by comparison!|
+|1008006|100831|1|1|1|0|1|Alas... All the jewels and treasures in the world pale before my beauty... What a tragic life I lead...|
+|1008007|100831|1|2|1|0|1|Ahhh, look how beautiful I am! So beautiful, it's like... like... Oh, it's no use! I'd need to create new words to express it!|
+|1008008|100831|1|3|1|0|1|Don't be embarrassed that you're not as beautiful as me. That's just as natural as the sky being blue.|
+|1008009|100831|1|4|1|0|1|Perhaps someday I'll give you a present more precious than any jewel. I mean myself, of course. Would that make you happy?|
+|1008010|100831|1|5|1|0|1|The precious joy of having me by your side... The gleaming world we'll create together... Truly, the world is brimming with hope.|
+|1008011|100801|2|6|1|9.9|2|Happy birthday! You're looking absolutely, positively, undoubtedly splendid today. The second place podium is yours for the taking. ♪|
+|1008012|100831|2|6|1|0|1|Happy birthday! ♪ My beauty is all yours to admire for the day. I just hope you can fully appreciate it.|
+|1009001|100901|1|1|1|3.5|2|The time is nigh for you too to reawaken to your past self! My greatest of allies and direst of foes... Sigurd of the Fulgor!|
+|1009002|100901|1|2|1|2.5|2|Have you committed my true name to memory? It is I, Annerose von Stechpalm!|
+|1009003|100901|1|3|4|5|3|Urgh...! My eye burns with the energy of the dark magicks sealed within! ...No, I don't need any eye drops!|
+|1009004|100901|1|4|1|5.5|2|Dearest Sigurd... Though this world is not our own, the bond we forged on the battlefield yet endures! Hahahahah!|
+|1009005|100901|1|5|1|5|5|Join with me, and let us crush the ambitions of the Syndicate! Only once our destiny is fulfilled can we reforge our lost bonds of m-matrimony...|
+|1009006|100931|1|1|1|0|1|Witness the shape of despair! This is my forbidden art... The Ultimate Magick of Infinite Annihilation!|
+|1009007|100931|1|2|1|0|1|If you have special techniques of your own, be sure to unleash them with flair! Let me demonstrate...|
+|1009008|100931|1|3|1|0|1|When the magicks gathered in my accursed eye spark forth, all enemies shall meet their doom!|
+|1009009|100931|1|4|1|0|1|By purging my defenses, I achieve the ultimate offensive mode! Annihilation Forme! W-wait, stop staring!|
+|1009010|100931|1|5|1|0|1|Dearest Sigurd... Thanks to you, I have kept sight of my true self. You have... my thanks.|
+|1009011|100901|2|6|1|6.8|2|On this, the anniversary of your rebirth, I grant you this gift! Behold: the Sigil of the Darkest Knights! Pretty cool, isn't it?|
+|1009012|100931|2|6|1|0|1|Ah, Sigurd! Happy birthday! For your present, I bestow upon you a journal to record our exploits!\nYou... can actually write, yes?|
+|1010001|101001|1|1|1|5.5|2|There ya are, my prince! I just fixed myself some tea, want some?|
+|1010002|101001|1|2|1|6|2|You oughtta know every girl dreams of livin' in a fairyland. With a Prince Charming by her side, of course!|
+|1010003|101001|1|3|5|5.5|2|It's a prince's job to protect his princess, ya know. Any fairy tale could tell you that.|
+|1010004|101001|1|4|1|4.5|2|If you ever get yourself hurt, I've got a little spell that'll fix you right up. Pain, pain, go away! ♪|
+|1010005|101001|1|5|1|5.5|2|First thing I do when I wake up is to say good mornin' to the little birdies outside.|
+|1010006|101031|1|1|1|0|1|Twinkle twinkle hoy!☆ Ooh, looks like we're in a dingy ol' cave... But my magic's brightened the place up! Kinda pretty, ain't it?|
+|1010007|101031|1|2|1|0|1|You're gonna lead me by the hand? Well gee, that's real lovely of you... I'll light up the way ahead so we can find our way to safety!|
+|1010008|101031|1|3|1|0|1|As long as we're together, I'll light your way! So don't you let a little dark get you down, my prince!|
+|1010009|101031|1|4|1|0|1|When I'm with my prince, the whole world's like a fairy tale! Will ya whisk me off on an adventure?|
+|1010010|101031|1|5|1|0|1|Let's just keep on walkin'! Even if one of us trips up, we'll be fine as long as we're together—right, my prince?|
+|1010011|101001|2|6|2|4|5|Happy birthday, my prince! Ain't nothin' that makes me happier than spending such an important day together with you. ♪|
+|1010012|101031|2|6|1|0|1|It's your birthday? Well, ain't that a big event! Big enough that I wanna make today a national holiday in the Maho-Maho Kingdom!|
+|1010013|101061|1|1|1|0|1|Come one, come all, to the\nMaho-Maho Kingdom! Miracle\nMahorin, twinkle twinkle hoy! ♪\nAnd one more hoy for luck! ♪|
+|1010014|101061|1|2|1|0|1|Gather 'round, everyone, for the\nMaho-Maho Kingdom parade!\nAs the prince of our kingdom,\nI hope you'll join in the fun! ♪|
+|1010015|101061|1|3|1|0|1|So this is the power of me an' my prince together... If we can make miracles like this, we really must be destined for each other! ♪|
+|1010016|101061|1|4|1|0|1|With you by my side, my prince,\nI think I can do most anythin'.\nSo, my prince... you won't be\ngoin' anywhere, will you? ♪|
+|1010017|101061|1|5|1|0|1|When prince and princess arrive,\nthe gates to the Maho-Maho\nKingdom are opened... My prince,\nthis'll be our grand homecoming!|
+|1011001|101101|1|1|5|4|6|We're siblings even if we aren't blood relatives, big bro. Huh? You don't follow?|
+|1011002|101101|1|2|1|3|6|60% of the time, I hit my target every time! Huh? That means my aim's bad?!|
+|1011003|101101|1|3|2|4|1|I'd love to go on a candy shop tour with you one of these days. What do you say?|
+|1011004|101101|1|4|1|4|2|I feel like I can do anything when you're with me, big bro! Let's keep going!|
+|1011005|101101|1|5|5|6|2|I feel like our bond has really gotten strong, big bro. I hope you feel the same way.|
+|1011006|101131|1|1|1|0|1|I heard it's "chili outside" today. We should go eat some before it's all gone!|
+|1011007|101131|1|2|1|0|1|I need to work on my aim. I don't wanna look lame in front of my big bro!|
+|1011008|101131|1|3|1|0|1|They say you should "learn by chewing." Can you cook up a treat to help me study?|
+|1011009|101131|1|4|1|0|1|Hee hee. At the rate I'm going, I'll hit the bull's-eye on your heart soon, big bro!|
+|1011010|101131|1|5|1|0|1|If anyone lays a finger on you, I'll snipe 'em with this bow, big bro!|
+|1011011|101101|2|6|1|7.2|2|Are you having a great birthday? C'mon, Big Bro, special days are for spending with family! Let's throw a proper party together!|
+|1011012|101131|2|6|1|0|1|Happy birthday! No matter how many years pass or how old we get, you'll always be my big bro, and I'll be your little sister!|
+|1011013|101161|1|1|1|0|1|Where there's a sis, there's a bro!\nYou're gonna watch me show off what I'm really capable of,\naren't you, Big Bro?|
+|1011014|101161|1|2|1|0|1|Since I'm with you, Big Bro,\nI'm invincible right now!\nIt's like they say! Sticks and\nstones can't break my bones!|
+|1011015|101161|1|3|1|0|1|No matter what happens to you,\nI'll always be your sister, Big Bro!\nWherever you go, I'll always find you... and stay right by your side!|
+|1011016|101161|1|4|1|0|1|Leave this to me, Big Bro!\nAs long as I'm around, nobody's got a chance of hurting you!|
+|1011017|101161|1|5|1|0|1|I'm feeling stronger than ever,\nand it's all thanks to you, Big Bro!\nRight now, I could pass any exam or even win someone's heart!|
+|1012001|101201|1|1|2|4|1|If you ever need anything, come straight to me! I'll help out with all my powers!|
+|1012002|101201|1|2|2|3|1|A good sleep and I'm raring to go! Don't lollygag or I'll leave you in the dust!|
+|1012003|101201|1|3|4|5|5|*yawn* I'm a little sleepy, but I'm triple-A-okay! Wahey! ☆|
+|1012004|101201|1|4|2|9|6|*mumble* Shiori, you're so soft and comfy... Huh? Wait, that was you?|
+|1012005|101201|1|5|5|6|2|Love and peace! I'll take out monsters in one shot with my telekinesis! I'm tough!|
+|1012006|101231|1|1|1|0|1|Hey, you wanna take a nap next to me? We've got a bed of grass, all warmed up by the sun!|
+|1012007|101231|1|2|1|0|1|After I use my powers a lot, I recharge with the power of the land! My batteries are full!|
+|1012008|101231|1|3|1|0|1|Hee hee! Being with you makes me feel all warm and happy inside... And sleepy. *yawn*|
+|1012009|101231|1|4|1|0|1|*mumble* Feels nice when you're here... Good dreams tonight...|
+|1012010|101231|1|5|1|0|1|I think I must've had a good dream. You were there. Maybe I saw our future? Hee hee.|
+|1012011|101201|2|6|1|7.2|2|I can't think of a better present than letting you sleep on my super comfy lap! ☆ Hm? Weird. I'm feeling bit tired myse— Zzz...|
+|1012012|101231|2|6|1|0|1|Happy birthday! I'll use my superpowers to throw you a big celebratio— Wait. That'll just make me tired, so... *nibble* ♪|
+|1012013|101261|1|1|1|0|1|Here I go! ☆ Sha-shing! ☆\nI'm giving a gift to the world\nof twinkling stars galore! ☆|
+|1012014|101261|1|2|1|0|1|Today, I'm feeling more full of energy than ever!\nWhen I'm with you, it feels like I can do just about anything! ☆|
+|1012015|101261|1|3|1|0|1|Watch this! It's Hatsune's\nspecial Starlight Show!\nI want you to see it from the\nbest seats in the house! ☆|
+|1012016|101261|1|4|1|0|1|Take this! Sha-shing! ☆\nI know they're pretty,\nbut you can't give the stars\nall your attention, OK? ☆|
+|1012017|101261|1|5|1|0|1|Check this out! ☆\nI wanna show you something\nI've never shown anyone\nelse before! ☆|
+|1013001|101301|1|1|1|7.3|2|I love doing my regular rounds! There's nothing more hype than discovering a rare spellbook! Come on, join me in my world!|
+|1013002|101301|1|2|2|1.5|5|Wahah! Gotta bury my face in dakis of my favorite characters! It's the only way to recharge my energy!|
+|1013003|101301|1|3|1|7.4|2|I'm a magical girl who defends the peace! And that means protecting all lives equally...\nEven overgrown kids like us!|
+|1013004|101301|1|4|1|5.2|2|You're always helping me out, so I oughtta treat you to a meal once in a while! All righty, you can leave the bill to me!|
+|1013005|101301|1|5|1|4.5|2|I just want to bring smiles to everyone's faces like a true magical girl should! And that definitely includes you!|
+|1013006|101331|1|1|1|0|1|Just as despair rears its head, our heroine awakens the power of a new spellbook! Next time: Nanaka Dies in Magma! Don't miss it!|
+|1013007|101331|1|2|1|0|1|When I try a new spell for the first time, it always sets my heart racing! And if the spell actually works, I'm over the moon!|
+|1013008|101331|1|3|1|0|1|This spell is my last resort, fueled by my own life force... Haha...\nI'll always live on in your heart...\nAren't scenes like that the best?!|
+|1013009|101331|1|4|1|0|1|If you and me fight in tandem,\nno enemy stands a chance!\nWe're best buds and comrades!\nOne magical girl in two parts!|
+|1013010|101331|1|5|1|0|1|My magical girl story wouldn't be complete without you, my trusty partner! We'll become a legend and protect the world together!|
+|1013011|101301|2|6|2|2.8|1|Happy birthday! This is my present to you! 185 volumes of my top manga recs! ...Um, you think you can carry them home?|
+|1013012|101331|2|6|1|0|1|Hey, birthday boy! Take this pair of glasses as a present! Go on,\ntry them on! ...Yep! Perf-tastic!\nYou've never looked sharper!|
+|1014001|101401|1|1|1|0|1|A new volume of my favorite mystery series is coming out soon! Care to give it a read? I'll lend you the whole set!|
+|1014002|101401|1|2|1|5.4|2|What say we spend the day as just friends? An active mind needs some good rest now and then. ♪|
+|1014003|101401|1|3|4|6.2|1|Detective work turns your lifestyle upside down, makes you spend whole days walking around, and requires major patience to boot. But you're doing pretty well, I'd say.|
+|1014004|101401|1|4|5|4.8|2|There's not a case the two of us can't solve if we're together!|
+|1014005|101401|1|5|1|6.5|5|I always worked alone before I met you. And to be honest? I much prefer things the way they are now.|
+|1014006|101431|1|1|1|0|1|Woo! You'd best not underestimate the power of Caon's finest detective! ♪|
+|1014007|101431|1|2|1|0|1|No incident goes unsolved. No perpetrator roams free. The finest detective in the land, Kasumi, is on the case!|
+|1014008|101431|1|3|1|0|1|I'm not one for violence, but I'm more than willing to take matters into my own hands if the case requires it!|
+|1014009|101431|1|4|1|0|1|We've reached the point where I consider you an important partner, even outside of our detective work. ♪|
+|1014010|101431|1|5|1|0|1|A great detective needs a great assistant, and you fill that role perfectly. I'm able to do what I do thanks to your help.|
+|1014011|101401|2|6|1|6.7|5|It's your special day? Happy birthday! Let's wrap things up for today and throw you a big party!|
+|1014012|101431|2|6|1|0|1|It's your birthday, so what say you take on the role of detective for the day? So, Mr. Detective! What sort of case are you pursuing today? Hehe. ♪|
+|1015001|101501|1|1|1|3|2|Aww, did you come to see me? Hee hee. I'm so happy!|
+|1015002|101501|1|2|1|3|2|What sort of book should I read today? What type is your favorite?|
+|1015003|101501|1|3|2|1|5|Hee hee. Think of me as something of a surrogate mother.|
+|1015004|101501|1|4|2|0|2|Aww, what a good boy. I'll always be right here by your side. ♪|
+|1015005|101501|1|5|1|4|5|I'll always be on your side, no matter what happens. So don't be afraid to let yourself be spoiled.|
+|1015006|101531|1|1|1|0|1|If you're ever having a tough time, you can always come to me. I'll be here to help.|
+|1015007|101531|1|2|1|0|1|You're doing such a great job! I'm always watching how hard you work. Good boy!|
+|1015008|101531|1|3|1|0|1|Oh no, are you hurt? Let me see that. I'll make it better. Pain, pain, go away!|
+|1015009|101531|1|4|1|0|1|I'll be your personal teacher for the day. Don't tell the kids, of course. Otherwise they might get jealous. ♪|
+|1015010|101531|1|5|1|0|1|It makes me so happy to hear that you feel at ease around me. There's always a pleasant warmth in my heart when you're around, too.|
+|1015011|101501|2|6|5|10.4|2|Today is a very special day. Happy birthday! You have no idea how much it means to me to celebrate with you. ♪|
+|1015012|101531|2|6|1|0|1|Happy birthday! Today's a special day, so feel free to ask for anything you want. I'll spoil you as much as need be.|
+|1016001|101601|1|1|2|2|1|Whattup, whiz-boy? I was hoping you could help me with my math again?|
+|1016002|101601|1|2|1|5|6|How much of the times table do you know? All of it?! Forget smart, you're a brain genius!|
+|1016003|101601|1|3|2|4.5|1|I'm gonna be a model at an event today. You should come and see me!|
+|1016004|101601|1|4|5|7|2|Talking to you makes me feel, like, warm and relaxed. No, I mean it! Totes for reals!|
+|1016005|101601|1|5|2|4|1|Whattup, whiz-boy? Wanna eat lunch together? Lemme take you to this hot new spot I found!|
+|1016006|101631|1|1|1|0|1|My arrow of love will pierce the hearts of all my fans. Including you, of course!|
+|1016007|101631|1|2|1|0|1|I've got the best new pose for my next shoot. What do you think? Strong but cute, right?|
+|1016008|101631|1|3|1|0|1|Ooh, the ocean's never looked prettier! Maybe it's because I'm here with a special someone?|
+|1016009|101631|1|4|1|0|1|My model friends think you're my BF! How funny is that? I mean, not that I'd... Oops!|
+|1016010|101631|1|5|1|0|1|You don't have to treat me special just 'cause I'm a model. To me, your smarts are cooler!|
+|1016011|101601|2|6|2|4|1|Happy birthday! I'mma throw you a big birthday bash! That'd kinda make us look like a couple, huh?|
+|1016012|101631|2|6|1|0|1|It's your birthday today, right? Then let's have a big party with everyone at school! Though it might be even more fun with just the two of us.|
+|1017001|101701|1|1|1|1.5|2|Haitai! Always feels good to give a lively greeting!|
+|1017002|101701|1|2|1|3|2|I get things done in my own sweet time! Rushing through life never helped anyone!|
+|1017003|101701|1|3|5|4|2|Goya and soki and sata andagi! I sure do miss the food from back home!|
+|1017004|101701|1|4|1|0|2|When I'm adventuring with you, I know everything's gonna be right as rain!|
+|1017005|101701|1|5|5|4|2|I wanna take you to see my hometown someday! The glistening waves, the sparkling white sand... I know you'll love it!|
+|1017006|101731|1|1|1|0|1|Haitai! I just know today's gonna be a good one! I'm so excited, I feel like dancing!|
+|1017007|101731|1|2|1|0|1|With all the great friends I've got, every day's a blast! Sometimes it makes me wanna dance!|
+|1017008|101731|1|3|1|0|1|Let's take a trip to the beach! Nothing feels better than the water on your skin!|
+|1017009|101731|1|4|1|0|1|The water feels so great! C'mon, you should join me! I'll hold your hand so you don't fall!|
+|1017010|101731|1|5|1|0|1|Is anything better than dancing together? C'mon, you should join in too!|
+|1017011|101701|2|6|1|4.2|2|Ooh! Is it your birthday today? Then what are we waiting for? Let's get down to celebrating!|
+|1017012|101731|2|6|1|0|1|Happy birthday to you!\nFor your present, I'll perform\na non-stop birthday dance for\n24 hours straight!|
+|1018001|101801|1|1|1|9|2|Don't forget, I'm still a teacher! If you need help with language, I'll tutor you! ♪|
+|1018002|101801|1|2|1|7.5|5|I teach language arts, but I wish romance novels and shojo manga could be subjects...|
+|1018003|101801|1|3|1|5.5|2|I have so many lovely memories of my demon school days. Take time to enjoy these moments!|
+|1018004|101801|1|4|1|10|6|Homework giving you trouble? I'll help! This sentence means... Hmm? I'm too close?|
+|1018005|101801|1|5|1|8|5|When we're out together, people always think we're a couple. I guess I don't really mind it, though…|
+|1018006|101831|1|1|1|0|1|I-I fell down. I need to get it together and be a better teacher, but I'm not there yet.|
+|1018007|101831|1|2|1|0|1|I'm not a token ditz character, you know. I just happen to slip up sometimes. Honestly!|
+|1018008|101831|1|3|1|0|1|I ran into a monster, but it blushed and fell over when it saw my face. I wonder why.|
+|1018009|101831|1|4|1|0|1|If I trip again, will you help me? Hee hee, I know I'm a teacher, but I keep needing you.|
+|1018010|101831|1|5|1|0|1|I wonder what my first boyfriend will be like? I hope he's like you, and helps when I fall.|
+|1018011|101801|2|6|1|6.2|2|Well, well. Happy birthday!\nYou're growing up so quickly.\nHere, let Miss Io give you a pat on the head to celebrate!|
+|1018012|101831|2|6|1|0|1|Here's to the birthday boy!\nI always thought it was the most romantic idea to propose to a guy on the day he comes of age...|
+|1018013|101861|1|1|1|0|1|You've earned yourself an\nextra-special private lesson.\nI have a lot of things to teach you,\nso make sure you pay attention!|
+|1018014|101861|1|2|1|0|1|You're so kind and reliable,\nI learn a lot just watching you.\n...Like what, you ask? Hee hee.\nAll right, then—let me show you.|
+|1018015|101861|1|3|1|0|1|Sometimes, discipline is the\ntruest form of love! ...Huh?\nWhy are you smiling? This is\nsupposed to be a punishment!|
+|1018016|101861|1|4|1|0|1|You've done ever so much for me.\nI need to give you an even bigger reward than a "well done" stamp!\n...I'll tell you what it is later.|
+|1018017|101861|1|5|1|0|1|Why do you always let people assume you're my boyfriend?\nYou shouldn't tease your teacher.\n...I might get the wrong idea.|
+|1020001|102001|1|1|5|8|2|Red, white, yellow... Such pretty flowers. ♪ Mr. Bug is buzzing, Mr. Butterfly fluttering! ♪|
+|1020002|102001|1|2|5|3.5|2|Mr. Bunny, ♪ Mr. Kitty, ♪\nMr. Doggy! ♪\nThey're all my friends. ♪|
+|1020003|102001|1|3|1|4|2|Are you going to play with me,\nMr. Nice Guy? Yay! I'm so happy! ♪|
+|1020004|102001|1|4|5|4|2|Mimi loooves Mr. Nice Guy! And the bunnies and flowers, too!|
+|1020005|102001|1|5|2|2.5|5|Mr. Nice Guy is the best! Here's a hug! Now you hug me back!|
+|1020006|102031|1|1|1|0|1|Mr. Mini-Gryphon is sooo fast! Whoosh! Hurry up, Mr. Nice Guy! ♪|
+|1020007|102031|1|2|1|0|1|I'm gonna make a flower crown. ♪ All for Mr. Nice Guy. ♪|
+|1020008|102031|1|3|1|0|1|Papa, Mama and my friends,\nthe critters and flowers,\nand Mr. Nice Guy!\nThey're all my favorite things. ♪|
+|1020009|102031|1|4|1|0|1|This is my secret flower garden! But I'll tell you all about it, Mr. Nice Guy. After all, you're the best!|
+|1020010|102031|1|5|1|0|1|Mimi and Mr. Mini-Gryphon both love Mr. Nice Guy. ♪ I'm glad we're together! ♪|
+|1020011|102001|2|6|2|2.7|5|Happy birthday! ♪\nI wanna grow up fast so I can be Mr. Nice Guy's big sister. ♪|
+|1020012|102031|2|6|1|0|1|I'll sing you a birthday song. La la-la-la la la! ♪ Happy birthday, Mr. Nice Guy! ♪ You're the bestest ever! ♪|
+|1021001|102101|1|1|1|0|2|I feel a lot less nervous when I'm around you. *giggle* I give in to your kindness.|
+|1021002|102101|1|2|2|7|1|H-hey, I was wondering. How come you're always so nice to me?|
+|1021003|102101|1|3|1|7|5|I'm doing speech training so I can talk to others better. She sells seashells...|
+|1021004|102101|1|4|1|4.5|2|H-hey, wanna play house? I'll be the mom, and you be the dad!|
+|1021005|102101|1|5|2|0|2|Hee hee! You came to play with me again! I'm so happy!|
+|1021006|102131|1|1|1|0|1|So, umm... No, it's nothing! Never mind! Sorry to bug you...|
+|1021007|102131|1|2|1|0|1|*whine* D-do I have something on my face? Please don't stare like that!|
+|1021008|102131|1|3|1|0|1|I want to keep practicing in this forest for a while... I couldn't bear showing anyone until I improve…|
+|1021009|102131|1|4|1|0|1|*whimper* Don't stare at me... Oh, umm, but I don't want you to not look at me, either.|
+|1021010|102131|1|5|1|0|1|Umm, you see... I like to act out scenes and plays. It'd be nice if you'd watch me.|
+|1021011|102101|2|6|5|5.6|2|H-happy birthday! D-do you mind if I... give you this present?|
+|1021012|102131|2|6|1|0|1|Happy b-birthday!\nUm, it... it'd be nice if we could celebrate together...|
+|1022001|102201|1|1|2|5.5|1|S-so, umm, I wanted to ask you if... Uhh, on second thought, never mind!|
+|1022002|102201|1|2|5|9|1|A new game goes on sale today. If you want, we could play it t-tog... I can't!|
+|1022003|102201|1|3|2|4.5|1|With you I can kinda sorta talk okay, but I want to be able to do it better.|
+|1022004|102201|1|4|2|4.5|5|It feels normal being around you now. That's not special? I sure think it is.|
+|1022005|102201|1|5|5|5.5|6|Want to go shopping? Okay, good practice. Let's do this. Ack! D-did you overhear me?!|
+|1022006|102231|1|1|1|0|1|I-I didn't pick this flower just to show it to you or anything!|
+|1022007|102231|1|2|1|0|1|What a pretty meadow. I-I don't think I fit this backdrop... Oh, um, never mind.|
+|1022008|102231|1|3|1|0|1|I kinda like places like this, you know. I... am a girl, after all.|
+|1022009|102231|1|4|1|0|1|Since we have all these flowers here... He loves me, he loves me not... Eep!|
+|1022010|102231|1|5|1|0|1|Does bringing me here mean you're sort of treating me like a proper girl, maybe?|
+|1022011|102201|2|6|5|5.5|4|H-happy bir... birth... H... happy... Aaaahhh, it's no use! I can't say it to his face! How will I ever give him this present?!|
+|1022012|102231|2|6|1|0|1|H... happy... birthday!\nI'll give you a special present...\nif you can beat me at a game!\nYou're good at this game, right?|
+|1023001|102301|1|1|1|4.2|5|Pukichi's my dearest friend, so try to get along with him!|
+|1023002|102301|1|2|2|4.1|1|I came to the Orphanage first, so I'm like the big sister, and you're like my little brother!|
+|1023003|102301|1|3|5|3.7|2|You, me, and Pukichi! Together, we're unstoppable!|
+|1023004|102301|1|4|3|2.6|1|Pukichi was pretty annoyed at you 'cause you don't play with us enough.|
+|1023005|102301|1|5|6|2.9|2|Do you like Pukichi? I love him! Every bit as much as I love you!|
+|1023006|102331|1|1|1|0|1|W-wake up! Pukichi will clobber you if you don't watch where you're going!|
+|1023007|102331|1|2|1|0|1|Hi-yah! Back off, ya mangy monsters! Ack, no! Don't go near him!|
+|1023008|102331|1|3|1|0|1|Watch me, watch me! I've been practicing my Pukichi Fullswings! Check this out!|
+|1023009|102331|1|4|1|0|1|Hey! Are you hurt? Any wounds? It's okay now—Pukichi and I are here to help!|
+|1023010|102331|1|5|1|0|1|Stay away, you dumb monsters! Let's do this, Pukichi! "You got it, Ayane!"|
+|1023011|102301|2|6|2|1.9|1|Happy birthday! ♪ Pukichi wants to celebrate as well, so the three of us can have a birthday party for you!|
+|1023012|102331|2|6|1|0|1|Happy birthday! ♪ You're getting a present from both me and Pukichi! Must be nice to get so many!|
+|1025001|102501|1|1|4|6|6|Sorry I always mess up. I'll atone by committing seppuku! Huh? That'd be worse?|
+|1025002|102501|1|2|1|2.5|6|I'll attend to your every— Waahh! I... I bumped my head...|
+|1025003|102501|1|3|1|4|4|Cooking, laundry, cleaning... I've got so much to do, it's making my head spin!|
+|1025004|102501|1|4|5|2.5|2|I live to serve! Whatever you need, just say the word!|
+|1025005|102501|1|5|4|7|5|I'm going to try really hard to clean properly. If I do a good job, will you compliment me?|
+|1025006|102531|1|1|1|0|1|Poor little golem. Someone just abandoned it on the side of the road.|
+|1025007|102531|1|2|1|0|1|You're going to help me polish the golem? Hee hee. Thank you!|
+|1025008|102531|1|3|1|0|1|Are you injured? I'm very good at healing magic! Other magic... Not so much.|
+|1025009|102531|1|4|1|0|1|Oh no, I did it again! I promised myself I'd try harder not to mess up in front of you!|
+|1025010|102531|1|5|1|0|1|Welcome home, master. J-just joking around! Hee hee hee!|
+|1025011|102501|2|6|2|5.7|1|Happy birthday! I baked you a cake to celebrate! I-I'll carry it over nice and safely, okay?|
+|1025012|102531|2|6|1|0|1|Happy birthday! ♪ Do you mind if I celebrate not as a maid, but as just a regular friend?|
+|1026001|102601|1|1|5|5.4|1|Wish I could just laze about forever, honestly. Don't you agree?|
+|1026002|102601|1|2|2|6.8|5|Hey, c'mere. Kick back and play a game with me or something. You gotta make time to relax!|
+|1026003|102601|1|3|4|6.5|5|I'm starving. Got anything to eat? Preferably a sweet bun?|
+|1026004|102601|1|4|1|3.8|2|Usually I just lie around by myself. It's a lot more fun having you to play with.|
+|1026005|102601|1|5|4|9.5|2|Normally I'm not good with people entering my personal space. But you, I don't mind.|
+|1026006|102631|1|1|1|0|1|Have I died and gone to heaven? Do I really get to roll around in my beloved acorns?|
+|1026007|102631|1|2|1|0|1|Ahh, it's like this place was built just for me. I might not ever wanna leave.|
+|1026008|102631|1|3|1|0|1|Nothing beats a comfy bed, but being enveloped in nature's a close second.|
+|1026009|102631|1|4|1|0|1|Hey, over here! Come experience paradise with me. You can sit right here!|
+|1026010|102631|1|5|1|0|1|This place really is amazing. Way worth coming outside for. Thanks for bringing me here!|
+|1026011|102601|2|6|1|6.2|2|Happy birthday! And hey, I didn't forget your present. Should be delivered any minute now.|
+|1026012|102631|2|6|1|0|1|Happy birthday! It's a special day, so kick back and relax all you want. Naturally I'll be joining you, too.|
+|1027001|102701|1|1|1|5|2|I've poured my heart into this love potion. I'm thinking of you the whole time, my love.|
+|1027002|102701|1|2|1|6|2|My main job is a florist. My poison weed bouquets are quite popular right now.|
+|1027003|102701|1|3|1|9|6|Flowers are important. They support life and make fine ingredients. Pretty? If you say so.|
+|1027004|102701|1|4|2|5.5|5|When I think about how this potion'll let me do whatever I want to you... I love my work.|
+|1027005|102701|1|5|2|3.5|5|What a nice flower. He loves me, he adores me, he loves me, he adores me...|
+|1027006|102731|1|1|1|0|1|What sort of girl do you want? Should I be cheery? Chill? You do only want me, right?|
+|1027007|102731|1|2|1|0|1|Some monsters can read your mind and show a vision of your desires. What would my love see?|
+|1027008|102731|1|3|1|0|1|Look at me. Only at me. Even if another me appears, never take your eyes off me.|
+|1027009|102731|1|4|1|0|1|If an impostor of you showed up, I'd hang him up like a decoration. I need the real you.|
+|1027010|102731|1|5|1|0|1|What would you like me to be, my love? I can be your ideal woman. I love you to death.|
+|1027011|102701|2|6|1|7.2|5|I've baked a special cake for your birthday. The secret ingredient is sedatives, a dash of aphrodisiac... and of course, my undying love.|
+|1027012|102731|2|6|1|0|1|Happy birthday, my love. I got a few presents for you! A marriage application, a wedding ring, and\na lovely new home for two.|
+|1028001|102801|1|1|1|5|2|I found a store that sells crayons, coloring books, and blocks for cheap! Help me shop!|
+|1028002|102801|1|2|1|4.5|2|When cooking, you need to use every last bit of your ingredients. Waste not, want not!|
+|1028003|102801|1|3|1|7|2|Money is important, but I just want to see a smile on everyone's face. Including yours!|
+|1028004|102801|1|4|2|3.5|5|You and I should go somewhere fun sometime. Just as long as it's free, of course.|
+|1028005|102801|1|5|1|2|2|I want to have a tea party. You'll be invited, of course. It'll be lots of fun!|
+|1028006|102831|1|1|1|0|1|The line for limited items starts here... Oh, you came too! Welcome to our bazaar!|
+|1028007|102831|1|2|1|0|1|I'll call out to the customers. Can you twirl this sign to draw them in?|
+|1028008|102831|1|3|1|0|1|I can't believe we got so many customers! You may as well go do your shopping, too!|
+|1028009|102831|1|4|1|0|1|Thanks for helping me manage the lines. Work is so much more fun with you around!|
+|1028010|102831|1|5|1|0|1|The bazaar was a hit! Let's celebrate with a feast. You'll be the ultimate refreshment!|
+|1028011|102801|2|6|1|5.1|2|Happy birthday! ♪ Here's a present from everyone at the orphanage. Myself included, of course. I hope you'll accept it!|
+|1028012|102831|2|6|1|0|1|It's your birthday, right? Then let's take the day off and have some fun. Days like this are meant to be enjoyed! ♪|
+|1029001|102901|1|1|1|3.6|2|I'm not satisfied with where I am. I need to improve my skills so I can be a top idol!|
+|1029002|102901|1|2|6|6|5|This flashy swimsuit's for the photo shoot! My personal one's much cuter. Wanna see it?|
+|1029003|102901|1|3|1|3.6|2|It's a long road to becoming a top idol. I'm gonna work harder on my dancing and singing!|
+|1029004|102901|1|4|1|3.4|2|I want to be a better singer and dancer so you can see me shine brighter than ever!|
+|1029005|102901|1|5|1|2.3|5|Are your idol studies going well? Don't focus too hard on the ones who aren't me!|
+|1029006|102931|1|1|1|0|1|I wonder how the world will look when I'm a top idol? I hope you'll still be at my side.|
+|1029007|102931|1|2|1|0|1|You've gotta be ready to step outside your comfort zone to be on-stage! I can do this!|
+|1029008|102931|1|3|1|0|1|I'm working hard to reach the heights of a top idol! I hope you'll cheer for me!|
+|1029009|102931|1|4|1|0|1|There were a couple of times I thought I might quit being an idol if you wanted me to.|
+|1029010|102931|1|5|1|0|1|You can really hear the longing of the girl in my song? You're so oblivious!|
+|1029011|102901|2|6|2|1.2|1|Happy birthday! ♪ I've been arranging my schedule so I could celebrate together with you today. Are you happy to hear that?|
+|1029012|102931|2|6|1|0|1|Happy birthday to you. ♪ Happy birthday to you. ♪ Not everyone gets their own private concert from me!|
+|1030001|103001|1|1|1|5.5|2|Dekedekeden! I'm always ready to prove my loyalty to my shogun! You just wait and see!|
+|1030002|103001|1|2|3|4|2|Oh noes! An Evil Magistrate is threatening the shogunate! This calls for ninja smiting!|
+|1030003|103001|1|3|6|4|1|Ooh! Shogun! What are you— Wait! I know! You're ninja training, aren't you?! Let me join in!|
+|1030004|103001|1|4|2|4.5|1|For my shogun, I would gladly brave the elements! My life and honor belong to my shogun!|
+|1030005|103001|1|5|1|5.5|5|Yamato nadeshiko is a noble Eastern ideal of womanhood! When I become one, even you won't resist my charms!|
+|1030006|103031|1|1|1|0|1|One day, I'll help my shogun unite the lands! That's my important dream!|
+|1030007|103031|1|2|1|0|1|My superior Eastern blade can cut down anything! You can count on your loyal retainer!|
+|1030008|103031|1|3|1|0|1|Worry not, Shogun! I kept your sandals warm inside my kimono! Let's go do ninja things!|
+|1030009|103031|1|4|1|0|1|Shogun, take my hand! Eheheh... This represents the bond of honor that binds us together!|
+|1030010|103031|1|5|1|0|1|Shogun! Do you want dinner? Or a bath? Or maybe... me? ...Wow, that was embarrassing...|
+|1030011|103001|2|6|1|6.2|2|Happy birthday, Shogun!\nI brought lucky red and white manju! Let me feed them to you in the ninin-baori style!|
+|1030012|103031|2|6|1|0|1|A shogun's birthday is a big day! Allow me to entertain you with my incredible geisha techniques!\nLike a true ninja!|
+|1031001|103101|1|1|1|6.5|2|Your fortune today is the worst possible. I'm rarely wrong, but, err, don't worry about it.|
+|1031002|103101|1|2|6|4.5|4|Who's that behind you? Hmm? You can't see them?|
+|1031003|103101|1|3|1|7|2|There are many methods of fortune-telling. I prefer using my father as my crystal ball.|
+|1031004|103101|1|4|4|4|5|Father seems to have the wrong impression of you. I know you're a very kind soul.|
+|1031005|103101|1|5|1|5|5|I predict you'll have trouble with women today. You should just try to stay with me...|
+|1031006|103131|1|1|1|0|1|You think my dancing is beautiful? That's very kind. It makes all the practice worth it.|
+|1031007|103131|1|2|1|0|1|This is the Dance of Souls. I'm still trying to learn it, so don't stare. It makes me shy.|
+|1031008|103131|1|3|1|0|1|Father says my dancing is so sublime, he may pass on. Which is nice, but I don't want that.|
+|1031009|103131|1|4|1|0|1|Your praise makes me dance better. Positive thoughts help wayward souls rest in peace.|
+|1031010|103131|1|5|1|0|1|You're the first living soul I've danced for. I'm still a bit shy, but I want you to see.|
+|1031011|103101|2|6|2|10.3|5|Many birthdays from now, when you're an old man, I'll be there too as an old woman. And of course, if you become a ghost...|
+|1031012|103131|2|6|1|0|1|A very happy birthday to you.\nI see good things in your fortune today. Portents of good health, and windfalls, and... r-romance...|
+|1032001|103201|1|1|2|4|1|Come to me with any troubles you have! I'll find a way to take care of them!|
+|1032002|103201|1|2|2|2|1|Good day. I request your guidance and support to help me become a true merchant!|
+|1032003|103201|1|3|4|6.5|5|I have a poor sense of direction, but it's not that bad. Which way is my house, again?|
+|1032004|103201|1|4|1|6|2|I'll wait as long as it takes for you to become my knight. Then we'll travel the world!|
+|1032005|103201|1|5|1|3.5|2|There are some things money can't buy. Like your heart, for example!|
+|1032006|103231|1|1|1|0|1|I live by the teachings of House Wisteria! A true merchant is also a full-fledged fighter!|
+|1032007|103231|1|2|1|0|1|These foes pose no threat. I'll take them out, and we'll celebrate with a feast!|
+|1032008|103231|1|3|1|0|1|I shall strike down any and all who dare to hinder my business!|
+|1032009|103231|1|4|1|0|1|Have you noticed how much stronger it makes me to have you at my side?|
+|1032010|103231|1|5|1|0|1|With you at my side, I feel no hesitation. I'll proceed no matter what lies ahead!|
+|1032011|103201|2|6|1|5.2|2|It's your birthday today? Splendid! Happy birthday! I'll arrange a party for you right away!|
+|1032012|103231|2|6|1|0|1|Happy birthday! A special day like this holds more value than any jewel ever could!|
+|1033001|103301|1|1|1|3|2|Comedy's tougher 'n herding cats! Let's figure out the secrets together, cuz!|
+|1033002|103301|1|2|3|4|4|I'd rather get my clock cleaned by a monster than bomb when tellin' a joke!|
+|1033003|103301|1|3|2|3|1|This milk's sweet as pie, pal. Moo-ve on over and try some!|
+|1033004|103301|1|4|1|5|2|Hey, pal! What say we try 'n become stand-up comedy champs? We could do it!|
+|1033005|103301|1|5|1|4|2|Let's write some jokes, cuz! 'Cuz why? 'Cuz why not, cousin? Get it? Bahaha!|
+|1033006|103331|1|1|1|0|1|Gather 'round, folks! Farm-to-table Elizabeth Park milk, yogurt, and cheese for sale!|
+|1033007|103331|1|2|1|0|1|C'mon and have a taste, y'all! Everything's fresh! I tell jokes, but I never tell lies!|
+|1033008|103331|1|3|1|0|1|All the folks from in town are supportin' me! I gotta knock 'em dead with my jokes!|
+|1033009|103331|1|4|1|0|1|Ain't my jokes a lark? Yer my first fan 'n all, so we must think alike!|
+|1033010|103331|1|5|1|0|1|C-can I call ya my pardner, pal? Or if not, my hubby? Whoops! Other way around!|
+|1033011|103301|2|6|1|4.7|2|Better give ya a wide "berth" today! ...C'mon, why the blank face? That was a special birthday joke I thought up just for you!|
+|1033012|103331|2|6|1|0|1|Happy birthday to ya! I reckon this "presents" an opportunity for me to "cake" you with gags!\nYou knew it was in the "cards"!|
+|1034001|103401|1|1|1|5.5|2|If you ever need advice, come talk to me, okay? I've always got your back!|
+|1034002|103401|1|2|1|6.5|2|Hey, are you busy? Wanna go grab a drink with me? Soft drinks for you, of course.|
+|1034003|103401|1|3|6|5|5|I brought my work home, but there's just no end in sight! *groan* Can you help me?|
+|1034004|103401|1|4|2|7.5|2|Hic! You're real warm, y'know that? I drank a bit too much, so c'mere and warm me up.|
+|1034005|103401|1|5|1|4|2|Are you eating right? I'd be happy to cook for you if you want.|
+|1034006|103431|1|1|1|0|1|Mmm, these berries smell awesome! They'd go great in a mixer. No! I'm at work!|
+|1034007|103431|1|2|1|0|1|Stop now, Yukari! You're gonna end up embarrassing yourself again!|
+|1034008|103431|1|3|1|0|1|I feel all warm and fuzzy... Maybe it's just because of you?|
+|1034009|103431|1|4|1|0|1|When you're old enough to drink, we should go out and celebrate with a few cold ones!|
+|1034010|103431|1|5|1|0|1|What'cha say we go out on a date? Or would you rather not be seen with me?|
+|1034011|103401|2|6|2|2|1|Happy birthday! Today's all about you, so let's celebrate!|
+|1034012|103431|2|6|1|0|1|It's your birthday, so... Cheers! Can I... Can I spend the whole day with you?|
+|1034013|103461|1|1|1|0|1|Weheheh! This feelsh good... ♪\nC'mon—you drink up too!\nThough it's just soft drinks for you, of course! Ready... Cheers!|
+|1034014|103461|1|2|1|0|1|Ahh, that hits the spot! Nothing better after a hard day's work!\nHey—can you rub my shoulders?\nMm... Ooh, you're good at this!|
+|1034015|103461|1|3|1|0|1|It's my treat today! Eat as much as you like! ...I'd rather treat you to my home cooking if I could, but... maybe another time.|
+|1034016|103461|1|4|1|0|1|I never feel quite this relaxed except when I'm with you! I know I'm probably a total nuisance, but you'll forgive me, won't you?|
+|1034017|103461|1|5|1|0|1|Yeah... I'm just gonna say it!\nThe truth is... I'm crazy for...\n...Eheheh, nope, that's a secret!\n(Urgh... That was a close one...)|
+|1036001|103601|1|1|1|5.9|5|It's study time right now, so please don't talk to m—\n...Oh, don't look so crestfallen!\nFine, I'll play with you!|
+|1036002|103601|1|2|5|4.8|4|I'll never grow up if I don't eat my carrots and peppers? Urgh...\nI really do want to grow, but...|
+|1036003|103601|1|3|2|0|2|Listen to this! I grew!\nI'm a whole millimeter taller!|
+|1036004|103601|1|4|1|5.2|5|I may be a child now, but I'll be grown up in no time. When I am, maybe we can, umm...|
+|1036005|103601|1|5|2|0|2|Heheh. You've been working pretty hard. Just this once, I'll give you a pat on the head.|
+|1036006|103631|1|1|1|0|1|You'll protect me?\nI don't need your assistance!\nB-but thank you all the same.|
+|1036007|103631|1|2|1|0|1|M-my legs have gone all wobbly... This is embarrassing...|
+|1036008|103631|1|3|1|0|1|Urgh... Why does he always have to see me at the most embarrassing moments?|
+|1036009|103631|1|4|1|0|1|I... I'm not scared of monsters!\nB-but it was nice of you...\nto protect me...|
+|1036010|103631|1|5|1|0|1|It's not safe outside the city.\nThere are monsters out there.\nSo I'll just have to protect you.|
+|1036011|103601|2|6|5|3|2|It's your birthday today, isn't it?\nI saved up my allowance to buy a cupcake for you. Here you go.|
+|1036012|103631|2|6|1|0|1|Happy birthday to you. You're getting even more grown-up...\nI'll have to work hard to catch up.\n...N-no, I didn't say anything!|
+|1037001|103701|1|1|3|8.2|1|Oh? What are you doing here?\nIf you make any sudden moves,\nI might have to arrest you.\n...Haha, I'm just kidding!|
+|1037002|103701|1|2|1|6.6|2|I'd like to do some training with you. Don't worry, don't worry!\nOf course I'll go easy on you!\nHaha... Unless I change my mind.|
+|1037003|103701|1|3|1|5.6|2|It's about time for my daily patrol. Want to join me?\nDon't worry, I'll keep you safe if we run into any kind of trouble.|
+|1037004|103701|1|4|1|6.4|4|Hmmm... I always thought I was pretty quick-witted, but with you, I stumble over my words. What's wrong with me lately?|
+|1037005|103701|1|5|4|9.1|5|Whenever I try to tease you, you seem to turn the tables on me. Honestly, what am I going to do with you? It really throws me off.|
+|1037006|103731|1|1|1|0|1|Watch the enemy's movements, and when you see an opening, deliver a decisive strike! That's the essence of swordfighting.|
+|1037007|103731|1|2|1|0|1|I'm always tired out after a battle, and hungry, too. Do you want to join me for a meal?|
+|1037008|103731|1|3|1|0|1|As you eliminate unnecessary motions, your strikes become more and more fluid. A simple concept, but tricky to execute.|
+|1037009|103731|1|4|1|0|1|I want to get even stronger\nso I can protect you from harm. That's my main motivation lately.\nIt makes me glad to be a knight.|
+|1037010|103731|1|5|1|0|1|Just being around you fills me with strength. There's something about you that has a positive effect on me.|
+|1037011|103701|2|6|1|9.3|2|Oh... it's your birthday today? Since you're so grown-up now, I'm sure you'd love to treat me to a meal, then! ...Kidding, kidding!|
+|1037012|103731|2|6|1|0|1|Happy birthday to you! Hmm?\nIs this not a good time? I thought I'd tidy up your room as a treat.\nJust like a devoted wife might do!|
+|1038001|103801|1|1|2|2.5|5|I know a great book you should read. It'd be fun if we could talk about it together.|
+|1038002|103801|1|2|4|2|1|*cough, hack* Umm, could you please pat my back a little?|
+|1038003|103801|1|3|2|7|5|When I get better, I want to go somewhere far, far away with you. Maybe. Hee hee!|
+|1038004|103801|1|4|4|4.5|5|I don't have much stamina, so I tire easily. I'm not a burden, am I?|
+|1038005|103801|1|5|1|5.5|4|I wish I could take care of myself more. *cough* S-sorry, can you get me some water?|
+|1038006|103831|1|1|1|0|1|This little one's name is Nyatt. He's very obedient.|
+|1038007|103831|1|2|1|0|1|Nyatt may be huge, but he's a big softie at heart. Aww, Nyatt, you're so sweet!|
+|1038008|103831|1|3|1|0|1|I raised Nyatt from a cub. He's all grown up now and he's still my best friend.|
+|1038009|103831|1|4|1|0|1|Are you tired, too? Maybe you'd like to take a rest with me?|
+|1038010|103831|1|5|1|0|1|Nyatt's fur is so soft! I love being with him... And the same goes for you.|
+|1038011|103801|2|6|2|8.2|5|I hope you have a lovely birthday. Um, did my sister give you her good wishes as well? I-I was just wondering, that's all...|
+|1038012|103831|2|6|1|0|1|I bought you this romance novel for your birthday. The heroine's name happens to be Shiori, and\nh-her love interest's name is...|
+|1040001|104001|1|1|1|4.5|2|The BB Brigade is here to help everyone make friends! Hee hee! I hope you like us!|
+|1040002|104001|1|2|1|6.5|5|Everyone has to take that first step before they make a friend. I wish I could, too...|
+|1040003|104001|1|3|2|0|2|Watering the plants, feeding the animals... There's lots of fun to be had, even on my own!|
+|1040004|104001|1|4|5|9|7|I might be just fine if you were my only friend... Oh, umm, err, n-never mind!|
+|1040005|104001|1|5|5|3.5|6|Does he think I'm... Eek! This is flower fortune-telling. What did I ask? C-can't say!|
+|1040006|104031|1|1|1|0|1|I may not be strong, but I want to be useful to everyone. Maybe then I'll make more friends?|
+|1040007|104031|1|2|1|0|1|I just know there's some way I can help, even on my own. I'll give it all I've got!|
+|1040008|104031|1|3|1|0|1|The BB Brigade's taught me so much. Like working hard to protect the things I care for!|
+|1040009|104031|1|4|1|0|1|I get so eager to see you for our BB Brigade activities, I'm always excited for tomorrow!|
+|1040010|104031|1|5|1|0|1|Tee-hee. Don't worry. No matter how many friends I make, you'll always be number one!|
+|1040011|104001|2|6|5|9.2|2|H-happy... h-hap... hap... happity hippity hop! Oh, I'm sorry! I've just never had to do this before... Happy b... bir... birds of a feather!|
+|1040012|104031|2|6|1|0|1|A very happy birthday to you!\nI formed my own little chorus with the birds in the forest, and we'd like to sing for you now!|
+|1042001|104201|1|1|1|4.5|2|My summoning powers are for protecting people. I want to start making better use of them.|
+|1042002|104201|1|2|1|3.5|2|Umm... if you're not too busy, would you like to help me again with my idol practice?|
+|1042003|104201|1|3|7|3.5|6|La la la! ♪ Aah! H-how long have you been there?! Were you listening?|
+|1042004|104201|1|4|1|4|5|I don't quite know why, but when it's just the two of us, I don't get nervous when I sing.|
+|1042005|104201|1|5|2|3.5|5|Music has so much power. I learned that from my friends... and from you.|
+|1042006|104231|1|1|1|0|1|Come here, just a bit closer. When you're nearby, the melodies come naturally to me.|
+|1042007|104231|1|2|1|0|1|Are you awake? There's a festival in the next town over. Want to go see it with me?|
+|1042008|104231|1|3|1|0|1|I have so much I want to say, I can't write it all. I never knew I needed to sing so much.|
+|1042009|104231|1|4|1|0|1|One of these days, I'll be able to sing about my feelings for you without any shyness.|
+|1042010|104231|1|5|1|0|1|I could sit here with you listening to the waves forever... D-did I say that out loud?|
+|1042011|104201|2|6|1|6.6|5|Happy birthday! The only present I could think of was to sing you a song, so... Will you listen for me?|
+|1042012|104231|2|6|1|0|1|Happy birthday! It's rather short, but I wrote you a song to celebrate. Do you mind if I sing it here?|
+|1043001|104301|1|1|1|3.3|2|Time to head out on patrol. You can come along, if you want.|
+|1043002|104301|1|2|1|3.5|2|You're eating properly, right? If you're not, I can cook for you, got it?|
+|1043003|104301|1|3|6|6.2|5|You're the only person who treats me like a normal girl. I-I didn't know it'd be this nice.|
+|1043004|104301|1|4|1|4.6|2|If my friend owes you a debt, then so do I. Let's make this a great partnership!|
+|1043005|104301|1|5|1|5.1|5|You're brave, and you've got guts. I like hanging with you. How do you feel about me?|
+|1043006|104331|1|1|1|0|1|Don't leave my side! I'll chop up anything that comes near us!|
+|1043007|104331|1|2|1|0|1|I can't let loose against all these wimps! I want an enemy who'll give me a fight!|
+|1043008|104331|1|3|1|0|1|Together, there's no enemy we can't beat! I'll watch your back, so you watch mine!|
+|1043009|104331|1|4|1|0|1|Aww yeah! Enemies are KO'ed, so let's blow off some steam and eat! What'cha craving?|
+|1043010|104331|1|5|1|0|1|I'm brimming with power! Stay close. I'll protect you no matter what comes!|
+|1043011|104301|2|6|1|3.2|2|Oh hey, today's your birthday? Congrats! Lemme treat you to some good grub!|
+|1043012|104331|2|6|1|0|1|It's your birthday today, right? I-I just happened to, you know, bake a cake for no real reason, so... Wanna have some of it?|
+|1044001|104401|1|1|6|5|1|Have we met before?\nI have the oddest sense of nostalgia when I look at you.|
+|1044002|104401|1|2|4|6.4|1|Urgh... I have the most intense craving for tomato juice.\nGo and fetch me some!|
+|1044003|104401|1|3|4|6.9|2|Moving around during the day is quite the struggle. Thus, you must stay here and speak with me until night falls.|
+|1044004|104401|1|4|6|4.2|4|Do you not find me at all terrifying? Wha—? "Cute"?!\nDon't overstep your bounds, minion!|
+|1044005|104401|1|5|2|9|5|You are my most special minion. Henceforth you should refer to yourself as "Ruler of the Day."|
+|1044006|104431|1|1|1|0|1|Is my true form not breathtaking? Hmm? You prefer my usual form? How boring of you!|
+|1044007|104431|1|2|1|0|1|What is my goal, you ask? Nothing other than world domination! As a woman,\nI won't accept anything less! ♪|
+|1044008|104431|1|3|1|0|1|The vampire of legends herself stands before you! I could snatch away your life with ease, but I do prefer to have you as my minion.|
+|1044009|104431|1|4|1|0|1|Once the world is mine,\nI shall grant half of it to you.\nY-you understand what that implies, yes?|
+|1044010|104431|1|5|1|0|1|Lately I have been seeing you so often, it is disturbing my sleep patterns. Staying up all day is not good for my skin, but...|
+|1044011|104401|2|6|2|12.9|6|Tis your birthday today? A fine occasion! How old are you now?\nAh, yes... When I was that age... What was I doing again?|
+|1044012|104431|2|6|1|0|1|As a birthday treat, I will allow you to rest your head on my lap. Comfortable, eh? Any other parts of my body you'd like to rest on?|
+|1045001|104501|1|1|5|4|2|Gueheheh... Huh? Oh, uh, nothing! I was just imagining things while looking at you... *pant*|
+|1045002|104501|1|2|5|5|6|Mr. Sadist cornered Kuka and then forced her to... Gueheheh... Eek! H-how long have you been there?|
+|1045003|104501|1|3|2|3.3|6|I read an amazing book the other day... Huh? What was it about? U-uh... It's probably best not to ask.|
+|1045004|104501|1|4|2|4|5|Mr. Sadist even appears in my dreams now... Asleep or awake, I respond to the crack of his whip.|
+|1045005|104501|1|5|2|3.9|5|Alone with Mr. Sadist... O-oh my! Just what sort of humiliations await me this time?|
+|1045006|104531|1|1|1|0|1|Mr. Sadist gazed upon the sullied Kuka with cold eyes... Heehee, eeheehee! I'm getting excited again!|
+|1045007|104531|1|2|1|0|1|I'm looking forward to all the horrible things you'll do to me after I've behaved in such a shameful manner!|
+|1045008|104531|1|3|1|0|1|You were about to scold me for enjoying the way the monsters rough me up, right? You're such a pro, Mr. Sadist!|
+|1045009|104531|1|4|1|0|1|I'm not fit to be a bride. So please keep me firmly under your boot, Mr. Sadist! Beat your lessons into me!|
+|1045010|104531|1|5|1|0|1|My body can't live without you, Mr. Sadist... Y-you're willing to accept the responsibility, right?|
+|1045011|104501|2|6|1|8.5|2|Happy birthday! The candles on the cake sure are melting fast. Please blow them out.|
+|1045012|104531|2|6|1|0|1|It's your birthday, Mr. Sadist... Please, tear into me just like a child opening a present... Gueheheh.|
+|1046001|104601|1|1|1|3|2|I buy taiyaki for all the stray cats, you knyow! It makes them purr with satisfaction!|
+|1046002|104601|1|2|1|2.3|2|Hurry up and get ready so we can leave! Time is rupies!|
+|1046003|104601|1|3|1|5.8|2|Meowsy on over! I've got a tasty tidbit fur you. Wannya get in on the secret?|
+|1046004|104601|1|4|5|4.9|2|I'm a little fickle, so you'd better catch me good and tight or I'll slip away!|
+|1046005|104601|1|5|5|6|2|If you get a scratch, I wouldn't mind licking it better. Myahaha!|
+|1046006|104631|1|1|1|0|1|I always help those in nyeed! Tonight I'll be prowling around town with my fellow felines!|
+|1046007|104631|1|2|1|0|1|You should come to the guild to play! Myahaha, now we'll get a nyew member... O-oops!|
+|1046008|104631|1|3|1|0|1|When the fur hits the fan you can count on me. Shall we kick butt today? Let's go!|
+|1046009|104631|1|4|1|0|1|Eheheh. If I can be with you, maybe I wouldn't myind being a housecat. ...Kidding, kidding!|
+|1046010|104631|1|5|1|0|1|I saved the purr-fect snack to share with you—taiyaki! Let's split it.|
+|1046011|104601|2|6|1|4.5|2|Aren't you celebrating your birthday right nyow? As a special treat, I'll give you as much taiyaki as you can eat... for free!|
+|1046012|104631|2|6|1|0|1|Happy birthday! I knyow I'm usually a capricious and unruly sort of cat, but just for today,\nI can be a sweet kitty for you! ♪|
+|1046013|104661|1|1|1|0|1|With you and me on the hunt, we'll nyab the treasure wherever it's hidden! There's nyo hiding from the Phantom Cat! ♪|
+|1046014|104661|1|2|1|0|1|W-whoa, this is a stash and a half! With all these goodies,\nit can't hurt if I pocket a few...\nN-nyo, I wouldn't dream of it!|
+|1046015|104661|1|3|1|0|1|With such a purr-fect trove of treasure, we'll be able to help tons of people in need! ♪\nLet's go hand it out right away!|
+|1046016|104661|1|4|1|0|1|As long as you're supporting me,\nI knyow I can keep the Phantom Cat legend alive. Thanks for always lending a paw! ♪|
+|1046017|104661|1|5|1|0|1|Usually it's just me and the kitties doing the cat-burgling, but it's kinda nyice having your help... C-can we do this again?|
+|1047001|104701|1|1|1|0|1|There are reasons why I can't remove my armor, but I'm still a woman under this mask.|
+|1047002|104701|1|2|1|0|1|My armor gets extremely hot in the sun. But somehow, I stay fairly cool inside.|
+|1047003|104701|1|3|1|0|1|I love all forms of exercise, but I'm a poor swimmer. My armor's just too heavy...|
+|1047004|104701|1|4|1|0|1|I know my mask hides my face,\nso I do my best to express my thoughts and emotions in other ways.|
+|1047005|104701|1|5|1|0|1|Even if you can't see my face, I'm always watching yours.|
+|1047006|104731|1|1|1|0|1|I wield my sword to make this world a place where swords are no longer necessary.|
+|1047007|104731|1|2|1|0|1|To protect the smiles of the children, I will stand against even the strongest foe.|
+|1047008|104731|1|3|1|0|1|Even if this land is engulfed in the flames of hell itself, I will aid those in need.|
+|1047009|104731|1|4|1|0|1|When I feel your gaze on my back in battle, it puts me at ease.|
+|1047010|104731|1|5|1|0|1|As a leader, I must protect all peoples, but I find myself prioritizing you...|
+|1047011|104701|2|6|1|0|1|I hear it is your birthday today. Since you are a year older now, try to refrain from doing anything too rash. I worry about you.|
+|1047012|104731|2|6|1|0|1|Happy birthday, young man!\nIs there anything you would like from me? ...N-no, not the helmet!\nI would die of embarrassment!|
+|1048001|104801|1|1|1|3.9|2|Hoarding items, or saving up rupies? I've got plans for both, so ask if you're not sure.|
+|1048002|104801|1|2|2|2.9|2|I've come up with the perfect plan. If we're going outside the town, let's get moving.|
+|1048003|104801|1|3|2|4.5|1|The key to efficiency is being observant. Are you training your senses?|
+|1048004|104801|1|4|2|4.1|5|I've got too many jobs and not enough hands. Mind helping me? I know you can do it.|
+|1048005|104801|1|5|2|5.8|2|Want me to manage your daily schedule? I'll be there 24 hours a day. For a fee, of course.|
+|1048006|104831|1|1|1|0|1|Would you like me to manage your finances? Huh? No, I wouldn't steal your money! How could you think that?!|
+|1048007|104831|1|2|1|0|1|There's a thief in town? That's an insult to all hard-working people! Unforgivable!|
+|1048008|104831|1|3|1|0|1|There's a big sale going on today! Come with me, but stay on guard! Chaaarge!|
+|1048009|104831|1|4|1|0|1|So, do you have a certain type of girl you like? I-I'm just making conversation!|
+|1048010|104831|1|5|1|0|1|If anyone so much as scratches you, I'll beat 'em to a pulp! No one hurts my star pupil!|
+|1048011|104801|2|6|2|0|2|Cake and candles, check!\nPresents, check!\nAll right! Let's have ourselves an efficient birthday party!|
+|1048012|104831|2|6|1|0|1|Happy birthday to you.\nFlowery phrases like this may not exactly be efficient, but I wanted to say it for you anyway.|
+|1049001|104901|1|1|5|4.8|2|You can talk to me about absolutely any tiny little thing. Let me take care of it!|
+|1049002|104901|1|2|5|3.2|2|Your big sis is always here to love on you, whether it's a gentle pat or a big hug!|
+|1049003|104901|1|3|5|4.3|2|Sometimes I get so happy I feel like chopping you. But it's a sign of my love!|
+|1049004|104901|1|4|5|2.8|2|I'll handle whatever it is you need. It's a big sister's job to care for her brother!|
+|1049005|104901|1|5|6|2.1|2|What is it? You need me? Your big sis is here with open arms. Anywhere, anytime!|
+|1049006|104931|1|1|1|0|1|I'll punish anyone who bothers my sweet little bro!|
+|1049007|104931|1|2|1|0|1|No matter what happens, big sis will protect you! No one lays a hand on my little bro!|
+|1049008|104931|1|3|1|0|1|I got really strong to protect you, little bro. I'm your sword, shield, and armor.|
+|1049009|104931|1|4|1|0|1|If any of those slobs give you grief, I'll give them more than just a chop!|
+|1049010|104931|1|5|1|0|1|Even if the heavens and gods themselves allow you to be bullied, I won't.|
+|1049011|104901|2|6|5|7.9|2|Whenever you grow a year older,\nI'll have grown a year older too,\nso I'll always be your big sister!\nIsn't that a comforting thought?|
+|1049012|104931|2|6|1|0|1|Happy birthday to my little bro!\nGo on, show your big sis just how grown up you've become!\n*staaaaaaare*|
+|1050001|105001|1|1|1|2.5|2|Look at this magazine! Which of these outfits do you think would look better on me?|
+|1050002|105001|1|2|1|6.9|6|Quick question. Can you multiply three-digit numbers? Whoa. A-and division, too?!|
+|1050003|105001|1|3|4|3.5|5|You need education to be a grown woman? B-but not necessarily good grades, right?|
+|1050004|105001|1|4|1|5.5|2|Kids my age are so childish. I get bored with them. So be glad I hang out with you!|
+|1050005|105001|1|5|2|3.4|5|First we'll hit the cafe, then... I can see you don't know squat, so I'll just escort you!|
+|1050006|105031|1|1|1|0|1|I'm a grown woman—I can handle a few monsters! But if you're worried, you can come.|
+|1050007|105031|1|2|1|0|1|I beat up a monster and got a treasure! But my parents said kids don't need money and took it.|
+|1050008|105031|1|3|1|0|1|Beat it, monsters! Lady Misaki's coming through! And you, you have to escort me!|
+|1050009|105031|1|4|1|0|1|Lately we've had a lot of chances to go out together. I'm having a blast. How about you?|
+|1050010|105031|1|5|1|0|1|Let's crush some monsters and spend the gold on dinner! B-but it's not a date!|
+|1050011|105001|2|6|2|9.8|6|Happy birthday! I've got an extra special present for you: me! Huh? That's gross? But the magazine said it'd work...|
+|1050012|105031|2|6|1|0|1|Happy birthday! I'll organize a proper grown-up's party for you. I guarantee you'll enjoy it! ♪|
+|1051001|105101|1|1|1|3|2|Are you busy? Oh, don't be afraid. I won't do anything dangerous. You can trust me, okay?|
+|1051002|105101|1|2|1|2.3|5|Want to do an experiment with me? Nothing beats the thrill of making a new discovery!|
+|1051003|105101|1|3|1|2.5|2|Science is meant to benefit everyone. My goal really is to heal people, you know.|
+|1051004|105101|1|4|5|5.4|2|After examining you so much, I've taken an interest in you personally. Heh, heh.|
+|1051005|105101|1|5|2|1.7|5|Thank you for helping with my experiments. As thanks, I made a special potion for you.|
+|1051006|105131|1|1|1|0|1|Oh my, you want me to punish you? You've come around, then. I'll happily oblige!|
+|1051007|105131|1|2|1|0|1|Tell me... what do you feel when you look at me? Fear? Hmm, that's odd...|
+|1051008|105131|1|3|1|0|1|There's always that moment where pain turns to pleasure. Shall I demonstrate?|
+|1051009|105131|1|4|1|0|1|I created this perfume specifically to snare you! Why does it only work on monsters?|
+|1051010|105131|1|5|1|0|1|Oddly, when I'm with you my heart starts racing. Want to put your ear to it and listen?|
+|1051011|105101|2|6|5|12.8|2|It's your birthday today, I hear? Here's your present—a potion I prepared specially. The effects? You'll find out when you drink it!|
+|1051012|105131|2|6|1|0|1|Happy birthday! My present to you is... this special drink that will fill you with energy! Just be careful not to drink it all at once...|
+|1052001|105201|1|1|1|5.8|5|I use all this muscle to work really hard at my jobs! I just worry it's not very feminine.|
+|1052002|105201|1|2|1|7|9|Look! Isn't this armor fantastic? It's stylish and it fits me like a glove. I love it!|
+|1052003|105201|1|3|5|0|5|Come on, you're getting carried away with petting me! I just got done styling my fur!|
+|1052004|105201|1|4|2|4.8|1|I'll do whatever I can to look more feminine, so that I'll always be able to stay with you.|
+|1052005|105201|1|5|5|0|5|*sigh* I wish we could walk around chatting like a normal boy and girl out on a date...|
+|1052006|105231|1|1|1|0|1|Just because I look like this doesn't mean I shouldn't take care of my appearance. I want you to like how I look!|
+|1052007|105231|1|2|1|0|1|Hmm? You want to feel my fluffy wool again? Okay, I'll make an exception for you.|
+|1052008|105231|1|3|1|0|1|Many people take me for a monster, but after meeting you, I learned not to let it bug me!|
+|1052009|105231|1|4|1|0|1|Despite my looks, you treated me like a normal girl! I love how you see what's inside!|
+|1052010|105231|1|5|1|0|1|I feel like an ordinary girl out on a lovely walk with a friend. I'm so happy!|
+|1052011|105201|2|6|1|7.2|9|Happy birthday! I came up with all sorts of ideas to celebrate! Oh, gosh! Am I getting too excited?|
+|1052012|105231|2|6|1|0|1|Happy birthday to you! ♪ I never thought I'd get to celebrate a boy's birthday like this. Feels like I'm the one that's gotten a present!|
+|1052013|105261|1|1|1|0|1|I hope I can wear this lovely dress and dance with you one day... Maybe I should start taking dance lessons. ♪|
+|1052014|105261|1|2|1|0|1|When the curtain rises on stage, I'm a princess... I never thought I'd be a princess in this form, so I'm really happy... ♪|
+|1052015|105261|1|3|1|0|1|I wonder what I would do if were a princess... I'd like to throw a ball just for me and my prince. ♪|
+|1052016|105261|1|4|1|0|1|Ever since I met you, I've been having more and more fun every day! Just thinking about when we'll next meet makes me happy. ♪|
+|1052017|105261|1|5|1|0|1|If you were a prince, you'd come running to help anyone in any situation! I would love a kind prince. ♪|
+|1053001|105301|1|1|1|4.1|2|My lad, let us give our hearts and souls for the prosperity of Weissflügel!|
+|1053002|105301|1|2|3|2.7|5|I am not a child! I-I know I'm short, but I'm definitely still growing!|
+|1053003|105301|1|3|1|4.5|2|Hmm? What is it? You want to train with me? Quite the admirable spirit you have there!|
+|1053004|105301|1|4|1|4.5|2|A soldier always pays her debts. If there's ever something I can do for you, just name it.|
+|1053005|105301|1|5|6|3|5|B-by the way... What do you think about taking a trip to visit my home country?|
+|1053006|105331|1|1|1|0|1|How many times must I say this? I'm not a child! Quit patting my head!|
+|1053007|105331|1|2|1|0|1|The majesty of Weissflügel swordplay swoops down from the sky! Behold!|
+|1053008|105331|1|3|1|0|1|You seem sluggish, my lad. Meet me out on the plains at once! It's time to train!|
+|1053009|105331|1|4|1|0|1|I'm not a child, but I suppose I look like one to you, right? I'd like to think I don't...|
+|1053010|105331|1|5|1|0|1|I trust you with my life. Let us fight to our last breath with the pride of soldiers!|
+|1053011|105301|2|6|1|8.1|2|I hear it's your birthday today. And I couldn't be happier to celebrate such a special day together with you!|
+|1053012|105331|2|6|1|0|1|Happy birthday! I didn't prepare a present, alas, so I'll allow you to spend the entire day with me instead. D-don't waste this opportunity, you hear?|
+|1054001|105401|1|1|1|1.9|5|Now listen here, Mr. Knight.\nIf you try anything funny with my Rei, I'll make sure you regret it!|
+|1054002|105401|1|2|1|2.8|2|I'm going to keep a close eye on you to make sure you don't try anything with Rei!|
+|1054003|105401|1|3|4|2|1|Oh, just look at your clothes... Come over here a second, and I'll fix them right up for you.|
+|1054004|105401|1|4|4|4.8|6|So, um... about you and Rei...\nI'm guessing you do feel something special for...\nN-no, forget it! I said nothing!|
+|1054005|105401|1|5|5|6.5|6|Why do you keep being nice to me after I treated you so awfully? Don't tell me... you want me to tie you up again?!|
+|1054006|105431|1|1|1|0|1|I can handle any number of these monsters, as long as you're here by my side! ...Not that I mean anything weird by that!|
+|1054007|105431|1|2|1|0|1|You're getting a little close there. Back off a little, would you?\nUnless you want to become the new outlet for my daily stress!|
+|1054008|105431|1|3|1|0|1|If I have any materials left over,\nI guess I could make a little something for you, too.\nLet's see... What would you like?|
+|1054009|105431|1|4|1|0|1|Have you been... getting along well with Rei as usual?\n...What?! I was just curious!|
+|1054010|105431|1|5|1|0|1|Tell me, is there anything you need me to help you with?\nJust this once, I'll do it for free!|
+|1054011|105401|2|6|1|5.3|5|I-it's your birthday today, right?\nI suppose I should wish you a happy one! ...Why do you care how I found out the date?!|
+|1054012|105431|2|6|1|0|1|H-happy birthday, Mr. Knight...\nIt's your special day of the year! Here... take this handkerchief. What?! It's a present, obviously!|
+|1055001|105501|1|1|1|2.5|5|*staaaaaare* ...Ah!\nH-hello there!\nN-no, I wasn't, um, looking at anything in particular...|
+|1055002|105501|1|2|6|4.7|5|Awawahhh! I-it's you!\nU-um, v-very wine feather we're having today! Ahh, I flubbed it...\nThis is so embarrassing...|
+|1055003|105501|1|3|6|3.6|4|Oh! H-hello!\nI d-definitely wasn't\nfollowing you or anything!\nI was just, um... watching...|
+|1055004|105501|1|4|6|5.7|5|Um, um, um... E-excuse me!\nWould you like to g-go out sometime, for l-lun...\nN-no, I can't say iiiit!|
+|1055005|105501|1|5|2|5.4|5|Um, I... I promise I'll thank you properly someday, so...\nP-please wait for me until then!|
+|1055006|105531|1|1|1|0|1|Thank you for letting a nobody like me help you with an important job like defeating monsters! I'll d-do my best!|
+|1055007|105531|1|2|1|0|1|I'm still scared of fighting,\nbut when you're here with me,\nI feel much more powerful!|
+|1055008|105531|1|3|1|0|1|S-stay back and leave this to me!\nI-I'll take care of the m-monsters all by myse— Urgh...\nPlease back me up after all...|
+|1055009|105531|1|4|1|0|1|You're always helping me when I'm in trouble, so now it's my turn to help you! I... I want to repay you for everything!|
+|1055010|105531|1|5|1|0|1|You and me, fighting together...\nW-we make a great team, huh?!\nEhehehe... Like real partners...|
+|1055011|105501|2|6|2|8.8|5|U-um... Listen! I want to wish\nyou a very happy birthday!\nPlease let me celebrate with you!\n...Ahhh, I actually said it!|
+|1055012|105531|2|6|1|0|1|H-happy birthday to you!\nLook, I b-brought a p-present!\nI just know these clothes will suit you! Next up, I got your favorite...|
+|1056001|105601|1|1|1|5.2|2|I get myself wrapped up in trouble more than I'd like to admit. But don't be afraid to ask if you need anything, okay?|
+|1056002|105601|1|2|2|4.4|1|Work's done for now, so I think it's time to go fishing. How about you join me?|
+|1056003|105601|1|3|2|8.3|5|Good timing! Dealing with some hoodlums earned me a bit of extra change, so come join me for a drink.|
+|1056004|105601|1|4|6|2.7|1|You want me to quit hugging you? Sorry, but you're to blame for being so cool.|
+|1056005|105601|1|5|1|5|2|You sure are gutsy for someone that looks so timid. I hope you'll have my back next time something goes down.|
+|1056006|105631|1|1|1|0|1|There's something nice about drawing my blade for your sake. No reason to hold back, I'd say!|
+|1056007|105631|1|2|1|0|1|You're going to regret making me draw both swords at once. I hope you're ready for what's coming!|
+|1056008|105631|1|3|1|0|1|How many people do I need to deal with here? I just want to wrap this up quickly and relax...|
+|1056009|105631|1|4|1|0|1|You want to lend me a hand? That'd be a big help! Let's get this wrapped up nice and quick!|
+|1056010|105631|1|5|1|0|1|You're the only person I trust to have my back. I'll be relying on you from here on out.|
+|1056011|105601|2|6|1|3.3|2|I heard it's your birthday today. And you know what that means! Today's on me, so let's go all out!|
+|1056012|105631|2|6|1|0|1|Happy birthday! I got my hands on a neat fishing rod, so you can have it. Let's go fishing together soon, okay?|
+|1057001|105701|1|1|1|3.2|2|Let's do our best as fellow skyfarers! Don't hesitate to ask if you ever need anything!|
+|1057002|105701|1|2|1|3|2|Shall we train together? We'll get better results working together, right?|
+|1057003|105701|1|3|1|0|1|Once we have our airship, let's tour the entire continent of Astraea.|
+|1057004|105701|1|4|2|3.7|5|With you beside me, I have nothing to fear! ...What? I'm serious!|
+|1057005|105701|1|5|1|4|6|Hey there, first officer! I'm talking to you! Or should I stick to calling you by name?|
+|1057006|105731|1|1|1|0|1|Time to show you how my training has paid off! Here goes!|
+|1057007|105731|1|2|1|0|1|To protect those I care about, I will fight!|
+|1057008|105731|1|3|1|0|1|I train hard each day for our adventures! No one will ever beat me!|
+|1057009|105731|1|4|1|0|1|As captain, I won't let you lay a single finger on my friends! You're going to have to face me!|
+|1057010|105731|1|5|1|0|1|I feel like I can overcome any kind of obstacle with you around!|
+|1057011|105701|2|6|2|4|1|Your birthday's today, right? Congrats! Let's have a big celebration!|
+|1057012|105731|2|6|1|0|1|Happy birthday! Let's throw a party! And if there's anything you want, I'll get it for you as a present!|
+|1058001|105801|1|1|1|3|2|Eheheh, I'm getting pretty attached to this "Pecorine" nickname.|
+|1058002|105801|1|2|6|3.2|2|Are you not a fan of cooked monster? Personally, I love it.|
+|1058003|105801|1|3|4|2.5|7|Grrrrr... M-my stomach's growling. H-hey, don't laugh!|
+|1058004|105801|1|4|2|2.1|1|Let's get some food! Everyone becomes friends after sharing a meal, right?|
+|1058005|105801|1|5|1|2.2|5|Are you giving me food? Wow, I think I might be in love!|
+|1058006|105831|1|1|1|0|1|Are you hungry? How about you and I go get something to eat?|
+|1058007|105831|1|2|1|0|1|We mustn't waste food. Well, with me around it's not like there will ever be any leftovers...|
+|1058008|105831|1|3|1|0|1|What kind of food do I like? Let's see... "All you can eat" and "all you can drink"!|
+|1058009|105831|1|4|1|0|1|Eating alone with a boy\nmakes me all nervous!\nHow crazy is that?! ☆|
+|1058010|105831|1|5|1|0|1|What type of men do I like? Well, the type of men who don't waste food!|
+|1058011|105801|2|6|2|4.5|1|Today's your birthday, huh! Congrats! How about we eat a huge, custom-made cake on your special day?|
+|1058012|105831|2|6|1|0|1|Happy birthday! ☆\nI'll be here to celebrate with you next year, too. ♪\nI double pinky swear!|
+|1058013|105861|1|1|1|0|1|Just having you by my side\nmakes a fountain of courage\nstart welling up inside me!\nHow crazy is that?! ☆|
+|1058014|105861|1|2|1|0|1|The power of food!\nAnd my bond with you!\nWith both on my side,\nthere's no stopping me now! ♪|
+|1058015|105861|1|3|1|0|1|If I'm doing it for you,\nI don't think there's any limit\nto how strong I can grow!\nLet's do our best together! ☆|
+|1058016|105861|1|4|1|0|1|When I share a table with you,\nall the food I eat tastes even better than usual! The two of us must be a perfect match, huh?|
+|1058017|105861|1|5|1|0|1|I'm going to get stronger and stronger, until I can protect you\nno matter what! 'Cause I want us to always stay together! ♪|
+|1059001|105901|1|1|1|2|2|As your guide, it is my duty to support you at every turn.|
+|1059002|105901|1|2|1|3.7|2|My lord, are you hungry? Having a full stomach is the first step to everything.|
+|1059003|105901|1|3|6|2.3|2|You appear tired. Your well-being is my duty. If you need anything at all, please ask.|
+|1059004|105901|1|4|5|0|5|It fills me with joy to be serving someone as kind as you, my lord.|
+|1059005|105901|1|5|2|0|2|Please treat me as you would your own bride. ♪|
+|1059006|105931|1|1|1|0|1|I've communed with the spirits since I was young, preparing for your arrival. Please make good use of me.|
+|1059007|105931|1|2|1|0|1|It seems your gaze makes the spirits feel good as well. ♪|
+|1059008|105931|1|3|1|0|1|I shall be one with the natural world in serving you, my lord.|
+|1059009|105931|1|4|1|0|1|I have been looking forward to seeing to your needs since I was a child, my lord.|
+|1059010|105931|1|5|1|0|1|Please summon me if you ever require something. I shall fulfill your desire with all my body and soul.|
+|1059011|105901|2|6|5|11.3|2|Happy birthday! ♪ Happy birthday! ♪ I just can't say it enough. Happy birthday, my lord. ♪|
+|1059012|105931|2|6|1|0|1|My lord, your special day is my most precious day, too.\nFrom the bottom of my heart, happy birthday. ♪|
+|1059013|105961|1|1|1|0|1|This power must come from the deep bond I share with my lord.\nAh, my lord... Please allow me to remain forever by your side! ♪|
+|1059014|105961|1|2|1|0|1|The spirits are responding to the powerful emotions I feel...\nWith this newfound power, I will be of greater service to my lord!|
+|1059015|105961|1|3|1|0|1|Ah, the wind feels so tender...\nEheh. It is as though the spirits are bestowing all their blessings upon me, and upon my lord.|
+|1059016|105961|1|4|1|0|1|The petals dance like a bridal bouquet in the wind... Perhaps someday, my lord and I... Ahh!\nI-I must not think of such things...|
+|1059017|105961|1|5|1|0|1|As long as I have this strength,\nI can surely guide you without fail, my lord. From the cradle to the grave, I am at your service.|
+|1060001|106001|1|1|1|3.5|2|So you say you saved me, huh? Whatever. I guess I'll say thanks, just in case.|
+|1060002|106001|1|2|5|0|5|Don't be so chummy when you talk to me! We're not friends. We're not anything!|
+|1060003|106001|1|3|3|6.5|5|Erase your presence and observe him... Eek! Argh, why do I always get spotted?!|
+|1060004|106001|1|4|4|6|2|It must be tough with your amnesia and all. But I'll take care of you, so be grateful. ♪|
+|1060005|106001|1|5|5|5|2|Honestly, you and I really shouldn't be getting so close. But it's fun, so who cares?|
+|1060006|106031|1|1|1|0|1|S-so you saw my secret magic practice session. Fine, then! You're helping me with my training!|
+|1060007|106031|1|2|1|0|1|Isn't my magic amazing? Heh heh. That's right, keep the compliments coming!|
+|1060008|106031|1|3|1|0|1|Perfect! I'm really getting good at this. I guess I just needed to put in the work!|
+|1060009|106031|1|4|1|0|1|Spectacular, right? Until recently I was a total beginner. Hey, act a little surprised!|
+|1060010|106031|1|5|1|0|1|I'm decent at healing magic, too. If by some chance you get hurt, I can probably save you.|
+|1060011|106001|2|6|1|8.9|5|Oh, it's your birthday? Talk about a weird coincidence. I've got a cake here, so let's eat it together. It really is a coincidence! I swear!|
+|1060012|106031|2|6|1|0|1|You better appreciate that birthday present! Especially because I'll be dead meat if word gets out that I gave you one...|
+|1060013|106061|1|1|1|0|1|My magic and your power are fusing together completely...!\nAll right, here goes! You're gonna be blown away by the new me!|
+|1060014|106061|1|2|1|0|1|So this is our true power when we really fight together...!\nAs long as I've got you, no dumb enemy will stand a chance!|
+|1060015|106061|1|3|1|0|1|Hahahah... How d'you like that?!\nGo on, lay on the praise... Wahhh!\nD-don't pat my head out of nowhere! I'll murder you dead!|
+|1060016|106061|1|4|1|0|1|Power from my bond with him...\nI guess it's not the worst feeling.\n...Wait, wha—?! You heard that?!\nW-wipe it clean outta your brain!|
+|1060017|106061|1|5|1|0|1|I'm gonna use this new power to protect you, so... uh...\nJ-just don't go wandering off anywhere, you got that?!|
+|1061001|106101|1|1|6|2.2|2|Hmm? Oh, hey, it's you!\nSo what, didja want something?\nYou better let me know if you ever need my help!|
+|1061002|106101|1|2|1|5.8|2|All of your memories, gone...\nWell, I hope they come back soon! I'll keep an eye out for any medicines that might help!|
+|1061003|106101|1|3|2|0|2|You gotta power me up with that Princess Knight ability! When we were enemies, I was always kinda jealous of how cool it looked.|
+|1061004|106101|1|4|1|2.9|2|Up until recently, I had more worries than I knew what to do with, but I'm fine now! 'Cause you and the guys are here for me!|
+|1061005|106101|1|5|1|5.1|3|You and me were enemies once, but we're totally past all that now, right? So I'm sure there's still hope for me and Octo, too...|
+|1061006|106131|1|1|1|0|1|Outta the way! I'm coming through! Anyone who stands in my path gets a taste of my blade!|
+|1061007|106131|1|2|1|0|1|A brand new Spiresbane Blade, huh... No matter who I'm up against, with this weapon in hand, I can't lose! Bring it on!|
+|1061008|106131|1|3|1|0|1|I'm done with running and hiding! No matter how hard it gets, I'll fight to the bitter end! That's the decision I've made!|
+|1061009|106131|1|4|1|0|1|Hahahah! Step aside, weaklings! Make way for the great Novem!|
+|1061010|106131|1|5|1|0|1|I finally managed to make friends with you... Now if only I could slap some sense into Octo, so he can fight by our side as well!|
+|1061011|106101|2|6|2|2.1|5|Hey, it's your birthday!\nI'm not used to getting presents for people, though...\nWhat kinda stuff do you like?|
+|1061012|106131|2|6|1|0|1|Happy birthday! C'mon, let's buy an awesome cake! Just this once, it's on me! Yeah, it'll be a cold day in hell tomorrow for sure!|
+|1063001|106301|1|1|6|5.8|1|Landosol's amazing. It's so huge, with so much to do! Totally the opposite of my village.|
+|1063002|106301|1|2|2|5.3|1|My village is a nice place. There's really nothing there, but I know you'd like it!|
+|1063003|106301|1|3|6|6.1|2|You kinda remind me of Losaria. Like, for example, I feel relaxed when we're together.|
+|1063004|106301|1|4|5|5.7|2|When we're together, my heart races and my chest gets tight. But, like, in a good way.|
+|1063005|106301|1|5|5|4.1|2|Being with you makes my heart flutter... But it also puts me at ease.|
+|1063006|106331|1|1|1|0|1|I'll be a forest guardian one day! Along with Losaria,  of course!|
+|1063007|106331|1|2|1|0|1|Landosol may be a big city, but the scent of the air kinda reminds me of home.|
+|1063008|106331|1|3|1|0|1|There are fairies all over my village! I really wanna show you someday.|
+|1063009|106331|1|4|1|0|1|Being with you makes me feel so funny inside. Excited, but calm. Relaxed, but nervous.|
+|1063010|106331|1|5|1|0|1|I'm having a lot more fun here than back in the forest. I'm sure it's all thanks to you!|
+|1063011|106301|2|6|5|4.9|2|Here! I made this for you! Just don't expect much... I can feed it to you, too, if you'd like...|
+|1063012|106331|2|6|1|0|1|I'm really curious to see what you'll be like when you're older. Excited, even! Ehehe. Happy birthday!|
+|1065001|106501|1|1|1|7.7|2|Interesting stuff always happens when I'm with you, y'know?\nI can't pass up that kind of opportunity. Let's go hang out!|
+|1065002|106501|1|2|3|0|3|I want to know what's really going on with this world...\nAnd to face up to the truth, first I've gotta get even stronger.|
+|1065003|106501|1|3|6|8.9|1|Hey, don't you have any jobs for me today? ...You know, brawling. Brawling jobs! Bring me the kind of work that'll get me fired up!|
+|1065004|106501|1|4|1|7.6|2|Hey, don't get all worried.\nNobody's gonna beat me in a fight any time soon.\n...Or what, you wanna try me?|
+|1065005|106501|1|5|6|5.8|1|I never thought I'd get this close to someone outside my own dragonfolk kin. What is it that makes you so special?|
+|1065006|106531|1|1|1|0|1|Time to show what a real brawler can do! I can't lose in front of my best bud! I'll crush the enemy and prove that I'm the strongest!|
+|1065007|106531|1|2|1|0|1|This power... It's somethin' else!\nIt just comes roaring up from the depths of my body! With you here, there's nothing I can't crush!|
+|1065008|106531|1|3|1|0|1|So this is the dragonfolk power within me...! I swear I'll bring it under control! With my bud watching, I can't mess up now!|
+|1065009|106531|1|4|1|0|1|I never knew it was such a rush to fight with a bud by my side! This is a whole new world for me, and I couldn't be more fired up for it!|
+|1065010|106531|1|5|1|0|1|Oh yeah, I'm getting so fired up!\nWhen I'm with you, I don't feel like there's any chance of losing!\nLet's go totally wild out there!|
+|1065011|106501|2|6|1|4.7|2|Hey! Congrats on the big day!\nIt's your birthday, right?\nLet's go out for a tasty meal or something. Today it's on me!|
+|1065012|106531|2|6|1|0|1|Hey, happy birthday!\nJust knowing it's my bud's special day makes me weirdly happy too. I've never felt like this before!|
+|1070001|107001|1|1|1|5.8|2|The enemy of my enemy is my friend... It seems logical for us to cooperate in this particular struggle. I'll be counting on you.|
+|1070002|107001|1|2|6|5.6|1|I'm staking my bets on you.\nNot because of your Princess Knight powers, but due to your personal potential.|
+|1070003|107001|1|3|6|2|2|Right now? Yes, you're talking to the real me. There wouldn't be much point deceiving you in your current state.|
+|1070004|107001|1|4|1|5.3|6|When you're around, it feels almost as though I have another dog to take care of. What?\nNo, I haven't had a dog before.|
+|1070005|107001|1|5|1|5.3|2|Tell me your preferred type, and I'll replicate it for you. Do you prefer little sisters? Big sisters? Childhood friends?|
+|1070006|107031|1|1|1|0|1|Are you so naive that you would believe what your eyes tell you? I'm the Metamorph Monarch—\nthere is no form I can't take.|
+|1070007|107031|1|2|1|0|1|I'll teach you that the Crown I bear is no joke. Though once I do, all enemies will be swiftly replicated and then destroyed.|
+|1070008|107031|1|3|1|0|1|Mirror, mirror on the wall.\nWho is the wisest and most powerful of them all?\n...Yes, of course it's me.|
+|1070009|107031|1|4|1|0|1|Do you wish to serve me now?\nAs long as I have a person's data,\nI have little need for the actual individual. ...Except for him.|
+|1070010|107031|1|5|1|0|1|The time for hiding away is over. From this point on, I'll be taking action. I hope you and your friends won't fail me in battle.|
+|1070011|107001|2|6|1|5.8|6|It's your birthday today, is it?\nWell, have a happy one.\n...Did you want something else?|
+|1070012|107031|2|6|1|0|1|Happy birthday to you.\nLet's see, what would make a good present... This collection of math problems, perhaps?|
+|1071001|107101|1|1|1|5.8|2|Tedious debates are no fun at all!\nI prefer to resolve things in a much more simple way: with an all-out battle to the death! ☆|
+|1071002|107101|1|2|4|2.5|1|This world is full of interminable irritations. Don't you think it's better to live a wild and honest life, true to your own desires?|
+|1071003|107101|1|3|1|3.1|4|Strength can be a blessing and a curse. It's hard to find a thrilling struggle when barely anyone can come close to matching me.|
+|1071004|107101|1|4|1|8.5|2|I bet the men who failed to touch my chest would resent your unwitting success. But fear not! They met with an early demise.|
+|1071005|107101|1|5|1|6.8|5|I'll spare no effort to ensure your married life with me is a happy one. You see? Aren't I just the sweetest blushing bride?|
+|1071006|107131|1|1|1|0|1|Of course I'm not insane.\nHuman lives are fragile and fleeting... I'm just making the most of mine while I still can!|
+|1071007|107131|1|2|1|0|1|Let's dance a merry jig\nin the pools of blood that\ngarnish the battlefield.\nCome now, take my hand!|
+|1071008|107131|1|3|1|0|1|Geas or no geas, I'm not wooing you against my will. This is the path I chose. You touched me, and that makes you worthy!|
+|1071009|107131|1|4|1|0|1|Do you have any exciting news that will set my heart racing?\nIf not, I'll just have to spark the flames of conflict myself!|
+|1071010|107131|1|5|1|0|1|You want to see more of my childhood photos? Please don't tell me you really are only interested in younger girls...|
+|1071011|107101|2|6|1|9.1|2|So, you aged another year today? Take this a gift as a consolation for your loss. Here's hoping you'll entertain me for years to come!|
+|1071012|107131|2|6|1|0|1|A very happy birthday! I'm glad to share this special day with you!\nNow, I don't suppose you're ready to swear our solemn geas?|
+|1075001|107501|1|1|1|2.2|2|I got myself a new swimsuit! Well? Does it suit me?|
+|1075002|107501|1|2|1|0|1|This swimsuit's surprisingly suited for physical activity! I might be able to take a dip in the ocean and fish up some stuff!|
+|1075003|107501|1|3|2|0|2|Let's play some beach sports, like beach volleyball or beach flags! Don't think I'll go easy on you, though!|
+|1075004|107501|1|4|5|4.3|2|You'll never be able to take your eyes off me while I'm wearing this! Haha, just kidding!|
+|1075005|107501|1|5|1|5|2|It'd be a waste not to make the most of this trip now that I've got myself a nice swimsuit. The more fun memories, the better!|
+|1075006|107531|1|1|1|0|1|Oof, you got me good! The water's so salty, too! Don't think you'll get away with this, you little scoundrel!|
+|1075007|107531|1|2|1|0|1|The calm, blue sea! A gleaming white beach! The radiant sunshine! Plus, a whole load of tasty seafood! If this isn't heaven, then I don't know what is!|
+|1075008|107531|1|3|1|0|1|The water here's just so pleasant. Honestly, this has to be the most fulfilling summer of my life!|
+|1075009|107531|1|4|1|0|1|Ehehe. ♪ Spending time with you at the beach feels so new and exciting! This is what youth is all about!|
+|1075010|107531|1|5|1|0|1|Don't worry. If my swimsuit gets swept away, I'll just hug you to keep myself nice and hidden!|
+|1075011|107501|2|6|2|2.6|5|Happy birthday! Let's have a seafood party for you! I'll bring the fish, the shrimp, the crab, the shellfish, and...|
+|1075012|107531|2|6|1|0|1|Never thought I'd be spending your birthday in a swimsuit! But it's kind of thrilling, to be honest! Today's your special day, so let's make the absolute most of it together!|
+|1076001|107601|1|1|1|4.8|5|Our friends at the Orphanage chose this swimsuit for me...\nDoes it look all right, I wonder?|
+|1076002|107601|1|2|1|0|1|My lord, if you would not mind,\nI would like to practice our swimming technique together.|
+|1076003|107601|1|3|2|0|2|My lord, I have heard tell\nof something known as a "sandcastle." Would you help\nme to build one of my own?|
+|1076004|107601|1|4|5|0|5|It does embarrass me a little\nto show so much skin...\nI would rather only wear this\nin front of you, my lord.|
+|1076005|107601|1|5|1|4.2|2|Could you help me to apply\nthis sunscreen, my lord?\nYou are the only one I can trust\nto care for my skin.|
+|1076006|107631|1|1|1|0|1|My lord... No matter the location,\nI will always stay by your side. Please do not let go of my hand.|
+|1076007|107631|1|2|1|0|1|Look, my lord!\nThe fish are so close, I could\nreach out and touch them!\nWhat a truly magical sight...|
+|1076008|107631|1|3|1|0|1|If we surrender ourselves to the currents, where might they carry us off to? With you by my side,\nI would not mind finding out.|
+|1076009|107631|1|4|1|0|1|I hope the two of us can always remain together, visiting the same places and admiring the same wondrous sights.|
+|1076010|107631|1|5|1|0|1|The two of us are alone in these vast ocean waters. At least for this moment, I have you all to myself.|
+|1076011|107601|2|6|2|0|2|Back in my forest home, I never dreamed that I would one day celebrate my lord's birthday in the ocean. So this is true happiness...|
+|1076012|107631|2|6|1|0|1|The sky and sea are sparkling...\nIt's as though the world itself is celebrating the day of your birth, my lord. It fills my heart with joy.|
+|1077001|107701|1|1|1|2.8|5|Working's just so fun! Even more so when it's with you! ♪|
+|1077002|107701|1|2|1|2.9|2|What's that? You'd like to go for a swim during your break time? Feel free! In fact, let me join you!|
+|1077003|107701|1|3|4|6.2|2|I'm too much of a klutz to ever make a proper sand castle, so... Would you mind making one with me? Thank you! ♪|
+|1077004|107701|1|4|1|4.2|2|I'm glad you think my swimsuit looks good on me, but, well... It's kind of embarrassing if you stare at me that much!|
+|1077005|107701|1|5|1|4.7|5|Are you busy right now? If not, then... D-do you mind if I stay by your side for a bit?|
+|1077006|107731|1|1|1|0|1|Oh no, I didn't realize there were fireworks here! Please stay back, children! It's dangerous! Wahhh! That's hot!|
+|1077007|107731|1|2|1|0|1|The fireworks are pretty, yes, but there are more pressing matters here! Someone help me!|
+|1077008|107731|1|3|1|0|1|Doing this with everyone is so much fun! For my next trick, I'll dual wield these fireworks! ♪|
+|1077009|107731|1|4|1|0|1|I wonder if people see us as a couple like this? Just kidding. Ehehe. ☆|
+|1077010|107731|1|5|1|0|1|W-would you mind if I offered to serve you, too? W-wait, ignore that! Please!|
+|1077011|107701|2|6|1|8.6|6|Happy birthday! ♪ This cake's for you! It's made of shaved ice, with plenty of cream and a big strawbe— Oh no! It's melting!|
+|1077012|107731|2|6|1|0|1|Happy birthday! ♪ Today's a special day, so I'll be your maid and your maid alone. But keep it a secret from milady. Ehehe.|
+|1078001|107801|1|1|1|5.8|5|You think this suits me? I don't remember asking for your opinion. But, well... Thanks.|
+|1078002|107801|1|2|1|2|2|I have so been waiting for this! I'm gonna go all out, so you better be ready!|
+|1078003|107801|1|3|1|4.3|2|This swim ring's super cute, isn't it? It's real comfy, too. I'll even give you a turn, if you insist.|
+|1078004|107801|1|4|1|5.6|5|Never a dull moment with you, if I'm being honest. ...You wanna know what that's supposed to mean? Well, uh... It's fun being with you!|
+|1078005|107801|1|5|1|3.7|2|I'm cool hanging out just the two of us, you know. And hey. It's not like you have a choice in the matter. ♪|
+|1078006|107831|1|1|1|0|1|H-hey. There's a hole in my swim ring, isn't there? There is! And there's monsters here, to boot! Argh! Get away, get away!|
+|1078007|107831|1|2|1|0|1|Quit eyeing my juice like that, will you? Fine, fine. You can have some. But just a sip.|
+|1078008|107831|1|3|1|0|1|Nothing better than a good drink after working up a sweat. Ahh. Simply delicious. ♪|
+|1078009|107831|1|4|1|0|1|You're looking pretty exhausted. Wanna hop on my swim ring and chill out together?|
+|1078010|107831|1|5|1|0|1|Honestly, this is one of those times I feel like I'm genuinely happy. And I think it's all because of you. Um... Th-thank— Actually, never mind!|
+|1078011|107801|2|6|2|5.9|1|Happy birthday! It's your special day, so let's forget everything and let loose! ☆ And we've got a beach right here, too!|
+|1078012|107831|2|6|1|0|1|Having a birthday party on the ocean is real fancy, isn't it? Cheers to you, and happy birthday!|
+|1079001|107901|1|1|6|0|1|What's up?\nDoes the sight of my swimsuit make your heart start purring?|
+|1079002|107901|1|2|1|4.3|2|What am I doing? Getting ready to make taiyaki, of course!\nWe've got a business to run here!|
+|1079003|107901|1|3|1|6.2|2|You want to lend a paw?\nMuch a-purr-eciated!\nAs thanks, I'll let you touch... Myahaha! Just kidding!|
+|1079004|107901|1|4|1|3.4|6|I can't stand the water,\nso let's play on the sand!\nMyah?! The waves are closing in!|
+|1079005|107901|1|5|1|4.1|4|You can't beat the sea as a source of tasty treats! If only it didn't have... all that nyasty water...|
+|1079006|107931|1|1|1|0|1|Yakisoba noodles, shaved ice, taiyaki... Beach cafes are a treasure trove of tasty snyacks!|
+|1079007|107931|1|2|1|0|1|Come one, come all,\nto our beach cafe!\nNyow with a new sweet treat\nyou won't find anywhere else!|
+|1079008|107931|1|3|1|0|1|You don't want to miss out on this summer's exclusive dessert! Experience a flavor like you've nyever tasted before!|
+|1079009|107931|1|4|1|0|1|You want to try a bite?\nGo on, say "myaaaah"!|
+|1079010|107931|1|5|1|0|1|You've done nyothing but help\nme out this whole summer.\nYou're the world's best partner!|
+|1079011|107901|2|6|2|2.3|1|It's your birthday today!\nIf you give me a CatCoin or two,\nI might go on a date with you\nas a special birthday treat!|
+|1079012|107931|2|6|1|0|1|Happy birthday! For your present, I'll grant you any one wish!\nDo you want to have a desert island rendezvous...? Myahaha!|
+|1080001|108001|1|1|1|9.2|2|I'm lucky to have a fine student to help me. What's that? Payment? Hmmm... Isn't seeing me in this swimsuit payment enough?|
+|1080002|108001|1|2|1|3.2|2|Have you forgotten anything?\nAre you fully prepared?\nThen let's head out and have ourselves an adventure!|
+|1080003|108001|1|3|6|2.3|2|Why am I wearing a swimsuit, you ask? Because it's the most efficient attire for beach work!|
+|1080004|108001|1|4|1|3.2|5|It's not every day I get to wear\na special outfit like this...\nSo it would be a waste not to show it off to you, really.|
+|1080005|108001|1|5|1|3.6|2|Beachside jobs pay surprisingly well, don't they?\nAnd I get to spend time with you, so that's a bonus, too!|
+|1080006|108031|1|1|1|0|1|Somehow I can always relax\nwhen I'm around you...\nOh, but that isn't an invitation\nto stare! It's still embarrassing...|
+|1080007|108031|1|2|1|0|1|The beach is such a relaxing place, I might even forget how to fight... Haha, just kidding.|
+|1080008|108031|1|3|1|0|1|I've never spent much time\nat the beach in the past...\nIt's more fun than I realized.\nOr is that because I'm with you?|
+|1080009|108031|1|4|1|0|1|I'm always busy with part-time jobs, but lately, I've been thinking I'd like to try making more time for you as well.|
+|1080010|108031|1|5|1|0|1|We're teacher and student,\nbut somehow I seem to find myself relying on you...\nHaha, how embarrassing.|
+|1080011|108001|2|6|6|4.6|2|It's your birthday today, is it? Then we'd better celebrate in style! Let's go catch some fresh fish and throw a party!|
+|1080012|108031|2|6|1|0|1|Happy birthday. Since it's a special day, why don't we forget about efficiency and take a leisurely walk along the beach?|
+|1081001|108101|1|1|2|3.9|5|H-Happy Halloween.\nAhh... this is embarrassing...|
+|1081002|108101|1|2|2|6.7|1|Trick or treat!\nGive me candy, or I'll curse...\nah, I mean... play a trick on you.|
+|1081003|108101|1|3|1|4.8|4|At Halloween, the crowd around you is noticeably larger...\nDoesn't it weigh you down at all?|
+|1081004|108101|1|4|5|6.3|2|This outfit makes me look like\na Halloween enthusiast,\nwhich is embarrassing...\nBut I still hope you like it.|
+|1081005|108101|1|5|2|6.9|5|The spirits are having such fun... Halloween is special for them.\nAnd I'm... enjoying myself too. Since I'm w-with you...|
+|1081006|108131|1|1|1|0|1|Our Halloween dance party\nis about to begin.\nWhy don't you come and join in? It's sure to be a wonderful time.|
+|1081007|108131|1|2|1|0|1|So many spirits have come to our Halloween party! This season heightens spiritual senses, so perhaps you can see them too?|
+|1081008|108131|1|3|1|0|1|Father... Halloween is a happy occasion, so please don't ruin it by harassing young women.|
+|1081009|108131|1|4|1|0|1|This is a little embarrassing, but... would you like to dance with me?\nI want to dance the night away along with the spirits.|
+|1081010|108131|1|5|1|0|1|I've never enjoyed Halloween\nso much before... I can hardly\ncontrol my excitement.\nThis is all thanks to you.|
+|1081011|108101|2|6|2|5.3|6|I think my father wants to celebrate your birthday, too.\n...Father! It's not nice to bite!|
+|1081012|108131|2|6|1|0|1|Happy Halloween, and a happy birthday to you! Today, you can have cake instead of candy.|
+|1082001|108201|1|1|1|6.3|1|Today, Miyako is the wolfy terror that terrorizes! If you don't want to be dinner, hand over pudding!|
+|1082002|108201|1|2|3|8.4|2|Pumpkin pudding? Sounds like an insult to the name of pudding!\n*munch* W-whoa, tasty!\nMiyako takes back that last thing!|
+|1082003|108201|1|3|6|7.2|6|With all these costume people, ghosts can come and get candy without any suspiciousing!\nSee, there's one behind you!|
+|1082004|108201|1|4|1|2.4|1|Trick or pudding!\nIf you don't gimme pudding,\nMiyako will haunt you forever!|
+|1082005|108201|1|5|2|5.1|1|Miyako invites you to a special Halloween party! Fee for entry is, ummm... Ten puddings will do!|
+|1082006|108231|1|1|1|0|1|Ghosties, ghosties, everywhere!\nSo many ghosts make Halloween funner than the funnest of fun!\nParty time is here!|
+|1082007|108231|1|2|1|0|1|Alive people, dead people, everyone can have fun at Halloween! Miyako thinks Halloween is the bestestest!|
+|1082008|108231|1|3|1|0|1|Trick or pudding!\nWhere there's pudding,\nthere's Miyako!|
+|1082009|108231|1|4|1|0|1|Having Halloween times with you makes Miyako super happy!\nWith pudding to eat, and you to haunt, it's the bestest afterlife!|
+|1082010|108231|1|5|1|0|1|Tonight, Miyako's life is even betterer than when Miyako was living! Halloween with you is Miyako's favoritest time!|
+|1082011|108201|2|6|1|5.2|2|Woooo, spooky-spooky!\nHappy birthday... to yooooou! ♪|
+|1082012|108231|2|6|1|0|1|Miyako brought lots of ghosties to make your special day happy! Spooky-spooky birthday... to you!|
+|1083001|108301|1|1|2|8.5|5|Heh! ♪ This costume's perfect. I'm just oozing adult charm! Everyone'll be head over heels for me. ♪|
+|1083002|108301|1|2|4|9.8|2|*sigh* I might be too popular for my own good in this costume. Someone save me from my own sinful nature...|
+|1083003|108301|1|3|2|5.6|3|Wait, that candy's for me?! Woo! B-but don't assume I'm super happy about it! I'm not a kid, okay?!|
+|1083004|108301|1|4|2|6|5|You realize how much of an honor it is to spend Halloween with me, right? And it's time to collect candy, so lead the way!|
+|1083005|108301|1|5|2|6|5|I can hop on my broom and fly through the sky anytime I want. ♪ But don't worry. I'll let you on as well.|
+|1083006|108331|1|1|1|0|1|Trick or treat! ♪ Tonight's a party, and I'm the main event! So get that candy ready for me!|
+|1083007|108331|1|2|1|0|1|Ohohoho! ♪ Just look at this elegant, classy outfit! I'm a captivating lady if there ever was one.|
+|1083008|108331|1|3|1|0|1|Not a single person can take their eyes off me right now. But I don't blame them. This is the most enticing I've ever been!|
+|1083009|108331|1|4|1|0|1|I'm giving you a special invitation to tonight's party, so it's your duty to lead the way to the venue. ♪|
+|1083010|108331|1|5|1|0|1|This year's Halloween is so much fun! Going to a party, dressing up and getting candy are great, but most of all... You've been with me the whole time!|
+|1083011|108301|2|6|1|11.2|2|Happy birthday, and happy Halloween! ♪ I've got a special present for you... A little trick!|
+|1083012|108331|2|6|1|0|1|Happy birthday! Is there anything you want? Huh? You want Ai?!|
+|1084001|108401|1|1|2|1.8|1|Happy holidays! May you and those around you have a cheerful time.|
+|1084002|108401|1|2|1|2.9|2|I'm looking forward to spending the holidays with you.|
+|1084003|108401|1|3|1|5.3|5|I want to become even more reliable as a Song Summoner. So please stay by my side and watch over me.|
+|1084004|108401|1|4|5|5.7|2|I'm usually too embarrassed to wear a flashy outfit like this, but... Knowing you're looking at me makes it feel worth it.|
+|1084005|108401|1|5|1|5.7|5|I'm able to focus on singing because you're there with me. That, too, is a feeling I want to put into song for you someday.|
+|1084006|108431|1|1|1|0|1|Happy holidays! I'm putting my all into this next song, so please do listen.|
+|1084007|108431|1|2|1|0|1|There's no greater joy for me as a Song Summoner than to contribute to the holidays with a special song.|
+|1084008|108431|1|3|1|0|1|I'll keep singing, no matter what. Both to protect this land, and to provide a little bit of happiness to everyone.|
+|1084009|108431|1|4|1|0|1|I'm more than willing to believe in the potential my singing holds now. How could I not, when you do?|
+|1084010|108431|1|5|1|0|1|I want to share all these feelings with you, no matter how insignificant they may seem. I don't think I can live without you at this point...|
+|1084011|108401|2|6|2|4.1|5|It's your birthday today, right? Happy birthday! A present alone didn't feel like it was enough, so let me sing a special song for you as well.|
+|1084012|108431|2|6|1|0|1|Happy birthday! Both the children and the spirits want to celebrate together, so let's make this a day to remember.|
+|1085001|108501|1|1|6|7.6|2|I can't believe I get to spend the holidays with both you and everyone at the orphanage. This year's going to be so special. ♪|
+|1085002|108501|1|2|1|4.8|2|I could play the part of Santa in these clothes... ♪ Time to hand out presents to all the children. ♪|
+|1085003|108501|1|3|2|0|2|I wanted some Santa-style clothes, so I asked Suzume to make them for me. ♪|
+|1085004|108501|1|4|1|4.1|2|Your hand's so warm... Can you promise that you'll be here with me in the years to come, too? ♪|
+|1085005|108501|1|5|1|6.4|5|Um... Do these clothes sui— Waugh! Please don't pat me on the head out of nowhere...|
+|1085006|108531|1|1|1|0|1|Urgh... I can't reach the top of the tree. I'll have to use a chair to help m— Waugh?!|
+|1085007|108531|1|2|1|0|1|I've still got shopping and meal prep to do once I'm done decorating the tree. Ayane... Can you please help me instead of making a snowman?|
+|1085008|108531|1|3|1|0|1|Oh, this doll's so cute. ♪ I should ask how they made it. Then I can make one based on you. ♪|
+|1085009|108531|1|4|1|0|1|H-hey... They say that this holiday is a special time for lovers, right? So... Urgh! Never mind...|
+|1085010|108531|1|5|1|0|1|You won't disappear like my parents did, righ— Waugh! Hugging me out of nowhere's no fair... But you're so warm... ♪|
+|1085011|108501|2|6|5|7.6|2|H-happy birthday! I'll celebrate with you the best I can. Hopefully it's enough to make you happy. ♪|
+|1085012|108531|2|6|1|0|1|Happy birthday! You've been a good boy, so I got you a p-present. Take a look inside that big stocking... ♪|
+|1086001|108601|1|1|1|4|2|Happy holidays! Look, look! Me and Pukichi've got matching outfits! ♪|
+|1086002|108601|1|2|2|2.7|5|Pukichi's all warm and snug thanks to his holiday outfit! ♪ "My heart's burning bright with passion, baby."|
+|1086003|108601|1|3|1|9.6|5|Presents, a huge turkey, not to mention cake... This holiday really is the best. ♪|
+|1086004|108601|1|4|1|3.1|3|I can't wait for our big meal! ♪ Hey. You think I'm just gonna eat, don't you? I can cook as well, you know!|
+|1086005|108601|1|5|1|5.8|5|I can spend the holidays with both you and Pukichi this year. Ehehe. That makes me super duper happy.|
+|1086006|108631|1|1|1|0|1|Pukichi's even cuter now thanks to that outfit! ♪ "You meant to say handsome, right?"|
+|1086007|108631|1|2|1|0|1|Heh heh heh! Check out this crown! I'm the king of this holiday, so you need to spoil me as much as possible! ♪|
+|1086008|108631|1|3|1|0|1|The Pukichi family's all together! ♪Over here we've got Pusuke and Pukichi. Over there we've got Pumama and Pubro— Wait, that's just you! ♪|
+|1086009|108631|1|4|1|0|1|My hands are all cold after making that snowman. So... warm them up for me! Ehehe. Your hands are always so nice and toasty. ♪|
+|1086010|108631|1|5|1|0|1|The snowman'll disappear when it gets warmer, but... We'll be together forever, won't we? ♪|
+|1086011|108601|2|6|2|5.8|6|Happy birthday! I made you a Pukichi cake! Wait, don't try and eat the real Pukichi!|
+|1086012|108631|2|6|1|0|1|Happy birthday! It's so nice to spend the day with you like we're real family! Pukichi's super happy as well!|
+|1087001|108701|1|1|6|3.6|1|New Year's is a busy time for everyone! But don't worry! I'll help out as much as you need!|
+|1087002|108701|1|2|1|4.5|2|This kimono's nice and easy to move in, so leave the heavy lifting to me! Just gimme the word!|
+|1087003|108701|1|3|1|6.1|2|I really love this time of the year. There's just something special about welcoming the new year ahead.|
+|1087004|108701|1|4|1|5.4|5|Oh, hey! Mr. Knight! Over here, over here! I can spot you in a crowd no problem!|
+|1087005|108701|1|5|1|7.8|5|You wanna know what fortune I pulled? Great luck, of course! The slip was full of positive stuff. How did it look in terms of love? Th-that's a secret!|
+|1087006|108731|1|1|1|0|1|Let's hit up that stall next! But first we gotta finish off the food we've got! Come on, Mr. Knight!|
+|1087007|108731|1|2|1|0|1|Yui's osechi dishes were amazing enough, but all these food stalls are really hitting the spot. Talk about an amazing New Year's!|
+|1087008|108731|1|3|1|0|1|I worked real hard on New Year's Eve, so it's fine if I indulge myself a little bit more, right?|
+|1087009|108731|1|4|1|0|1|Ah... My lips kind of touched that candy you just ate... You don't mind? W-well, okay then! That's fine!|
+|1087010|108731|1|5|1|0|1|Hey, Mr. Knight... Do you mind if we hold hands? Oh. We need to finish this food off first, huh? Okay, open wide!|
+|1087011|108701|2|6|2|4.4|1|Happy birthday! This is technically the start of a new year for you, huh? Let's celebrate together!|
+|1087012|108731|2|6|1|0|1|Happy birthday! Here's to another great year for you!|
+|1088001|108801|1|1|2|4.7|1|Happy New Year! I hope it's another great one for you! Did you get your fortune slip already?|
+|1088002|108801|1|2|3|5.1|1|I can't slack off on my training. I want to get even better at magic this year.|
+|1088003|108801|1|3|1|3.1|2|It's a bit cold, isn't it? I'll cast a spell to warm you up if you need it, so feel free to ask.|
+|1088004|108801|1|4|5|7.4|8|It must be so nice to visit a shrine with your lover. Maybe I can do the same one day... Oh! Never mind me!|
+|1088005|108801|1|5|1|7.8|5|Let's see what this year's love fortune says... "The stomach is the fastest route to their heart." Hey, Mr. Knight. Are you hungry?|
+|1088006|108831|1|1|1|0|1|Thanks for all the help last year! Here's to another wonderful year... and beyond!|
+|1088007|108831|1|2|1|0|1|It'd be nice if you came a bit closer... B-because the wind's making it cold, of course! Can you stay by my side, please?|
+|1088008|108831|1|3|1|0|1|The first sunrise of the year always feels extra pretty... Mr. Knight? What's wrong? Is it too bright for you?|
+|1088009|108831|1|4|1|0|1|You know... I'd love it if we could watch the sunrise together like this every year... Ahhh! What am I saying?!|
+|1088010|108831|1|5|1|0|1|Hey, Mr. Knight. I just want you to know, being with you makes me really, really happy! W-wow! I actually said it!|
+|1088011|108801|2|6|5|11.3|2|H-Happy New Year! Wait, no! I messed up! Umm... Happy birthday!|
+|1088012|108831|2|6|1|0|1|Happy birthday! I hope there are plenty more happy days waiting for you ahead.|
+|1089001|108901|1|1|1|0|1|I tend to take extra care when I'm wearing a kimono, particularly with how I walk and move in general.|
+|1089002|108901|1|2|3|7.1|2|New Year's or not, I'm ready to punish anyone that gets too carried away! Sorry, that was a joke. Did you take it seriously?|
+|1089003|108901|1|3|1|2.9|2|Do you mind telling me how you normally spend New Year's? I'd like to know for future reference.|
+|1089004|108901|1|4|6|6.8|5|Something about me feels different? It's the kimono, I'd say. That, and the fact that I'm by your side.|
+|1089005|108901|1|5|1|5.2|2|My fortune slip said I would have good luck in love this year. And it seems to be right on the mark.|
+|1089006|108931|1|1|1|0|1|What a terrible way to start off the new year! If you're determined to steal away everyone's happiness, then I'll gladly cut you down! Let's go!|
+|1089007|108931|1|2|1|0|1|Your support means the world to me. So please stick by me, just like you did last year.|
+|1089008|108931|1|3|1|0|1|I've gotten much more adept at taking advantage of my techniques' icy attributes. And it's all thanks to you.|
+|1089009|108931|1|4|1|0|1|I don't want to let other people decide my future for me. I'll carve it out for myself, together with my precious friends and you.|
+|1089010|108931|1|5|1|0|1|I was sure I parted ways with these feelings over the new year... Never mind me! It's nothing! I hope...|
+|1089011|108901|2|6|1|2.1|2|Happy birthday! Time spent with you is precious to me, and I'm sure that won't ever change.|
+|1089012|108931|2|6|1|0|1|Today's an extra special day, which means an extra special celebration. I'm willing to do anything... except for pretend kissing.|
+|1090001|109001|1|1|1|12.7|2|My love, I made these chocolates myself. Will you accept my gift?\nThey are filled with my affection.\nNow, open your mouth for me...|
+|1090002|109001|1|2|1|10.8|2|It's a wonderful scent, isn't it?\nI used a special blend of herbs.\nWhat effects do they have, you ask? Teeheehee... Let's find out.|
+|1090003|109001|1|3|6|3.7|2|You're wondering about all these bottles? Don't worry, they're only flavorings. I just prefer to use my usual equipment when cooking.|
+|1090004|109001|1|4|1|3.2|5|It's ever so strange... Somehow when I'm making chocolates,\nthe thought of your face seems to spur me to greater heights.|
+|1090005|109001|1|5|5|11.2|2|Standing together in the kitchen like this, we look like a married couple. Of course, that will be a reality soon enough... Teehee...|
+|1090006|109031|1|1|1|0|1|Valentine's Day is an occasion for giving sweet treats to someone special. Let me fill your stomach with my boundless love...|
+|1090007|109031|1|2|1|0|1|Chocolates alone cannot express the bliss our destined bond has brought me. I should write a 100-\npage letter to accompany them...|
+|1090008|109031|1|3|1|0|1|Does this apron suit me? Teehee. I'm glad to hear that. Then I will wear it for you every day, no matter what the situation...|
+|1090009|109031|1|4|1|0|1|Many people use Valentine's Day as an excuse to confess their affections, but I already tell you how I feel every day regardless...|
+|1090010|109031|1|5|1|0|1|Mixing in my special concoctions helps as well, but the main source of these chocolates' sweetness is my affection. Ah, I do love you so.|
+|1090011|109001|2|6|5|11.2|2|So this is the day you were born... the day our shared destiny began. We should make a toast! Here's a little something for you to drink...|
+|1090012|109031|2|6|1|0|1|Happy birthday, my love.\nI've prepared everything we need for an intimate celebration.\nAnd after the meal... Teehee.|
+|1091001|109101|1|1|1|6.7|2|Do you know Valentine's Day?\nIt's a day for giving chocolate to someone special. You'll accept your big sister's love, won't you?|
+|1091002|109101|1|2|1|7.5|5|Which would you like—a sugary-\nsweet chocolate like your sister's headpats, or a more grown-up chocolate like your sister's hugs?|
+|1091003|109101|1|3|6|2|1|You're concerned about getting cavities? Don't worry, your big sis will scrub those teeth all clean!\nGo on, say "ah"!|
+|1091004|109101|1|4|5|5.5|2|Do you want any headpats? Or a shoulder rub? Or would you like to rest in my lap? Your big sis can be as sweet as any chocolate!|
+|1091005|109101|1|5|5|7.1|2|Oh dear, you've got chocolate around your mouth! Here, let me wipe that off... Mmmm. It tastes just as sweet as you!|
+|1091006|109131|1|1|1|0|1|Valentine's Day chocolate is a token of the giver's true feelings. But no chocolate is quite as sweet as a big sister's love!|
+|1091007|109131|1|2|1|0|1|How many chocolates did you receive today? You can tell your big sister, right? I just want to know everything about you!|
+|1091008|109131|1|3|1|0|1|Why are you acting all fidgety? Are you... waiting for something from me? Hee hee... You're always so cute when I tease you!|
+|1091009|109131|1|4|1|0|1|Huh? This outfit really suits me? Oh, you little charmer! When did you become so suave? Your big sister's heart just skipped a beat!|
+|1091010|109131|1|5|1|0|1|I love you, Little Bro! ♪\nI made plenty of chocolates,\nso I'll tell you that again\neach time I give you one!|
+|1091011|109101|2|6|1|2.8|2|It's my little brother's birthday!\nI made an extra-special chocolate cake for you, so let's eat it together, OK? ♪|
+|1091012|109131|2|6|1|0|1|Your birthday is here! I thought long and hard about what to give you, but only one thing felt right! So your present is... me! ☆|
+|1092001|109201|1|1|1|5|2|It'd be a waste to not make new friends in a whole new world! So I'll start with you!|
+|1092002|109201|1|2|6|4|1|Don't think too much about me being a princess and all that, okay? I'd prefer it if we just got along like normal.|
+|1092003|109201|1|3|1|3.7|2|You'll find me together with Grea more often than not! I always feel so relaxed and safe around her.|
+|1092004|109201|1|4|2|3|1|Everything I've heard about you is so interesting! Tell me more!|
+|1092005|109201|1|5|5|3.2|2|How does having some tea together sound? I'm actually pretty good at making black tea in particular.|
+|1092006|109231|1|1|1|0|1|Spirits! Heed my call! Lend me your strength, and help me protect my friends!|
+|1092007|109231|1|2|1|0|1|Grea's smile means the world to me! I'll do everything I can to protect it!|
+|1092008|109231|1|3|1|0|1|The bonds I share with those dear to me keep me going!|
+|1092009|109231|1|4|1|0|1|I wield my magic to protect my friends! That includes you!|
+|1092010|109231|1|5|1|0|1|Leave it to me! I won't let anyone or anything lay a finger on you!|
+|1092011|109201|2|6|1|1.8|2|Happy birthday! Here's hoping it's a really special day for you!|
+|1092012|109231|2|6|1|0|1|Happy birthday! Let's make it a blast! What do you wanna do first?!|
+|1093001|109301|1|1|1|3.1|2|I'm so happy to make new friends! Let's enjoy our youth together!|
+|1093002|109301|1|2|4|3|1|I fail and retake tests on a daily basis. But even so, I really love Mysteria Academy!|
+|1093003|109301|1|3|1|2.7|2|Are you making the most of your youth? Because I sure am!|
+|1093004|109301|1|4|1|1.2|2|Come on! Let's play lots, lots more! ♪|
+|1093005|109301|1|5|6|3.4|1|Are you curious about this little peeper? How about you give it a poke?|
+|1093006|109331|1|1|1|0|1|Lemme show you how I use my peepers! Go, go!|
+|1093007|109331|1|2|1|0|1|Me and my peepers' teamwork is the best! We'll take them down!|
+|1093008|109331|1|3|1|0|1|Making memories in a new world is just another part of youth! I'm having so much fun here!|
+|1093009|109331|1|4|1|0|1|What are my peepers exactly? I dunno. But we've been best buds forever!|
+|1093010|109331|1|5|1|0|1|They call me the Empress of Retakes! The Queen of Failure! And you're gonna feel her power!|
+|1093011|109301|2|6|6|2.8|2|It's your birthday today? Then I'll celebrate for you! Happy birthday!|
+|1093012|109331|2|6|1|0|1|I'm no good at memorizing stuff, but I always remember my friends' birthdays! Happy birthday!|
+|1094001|109401|1|1|1|4.4|4|The way I look,\nthe dragon powers I wield...\nDoes none of it scare you?|
+|1094002|109401|1|2|5|3.6|2|I can't cut loose\nlike everyone else, but...\nI am having fun, I think.|
+|1094003|109401|1|3|1|5.3|2|I used to be alone,\nbut then I met Anne.\nShe's the light in my life.|
+|1094004|109401|1|4|6|3.7|2|I never dreamed we'd end up\nin a whole other world.\nBut I'm glad we met such wonderful people here.|
+|1094005|109401|1|5|2|0|2|I'm so grateful to you for all you've done. If there's anything\nI can do to help you in return, please ask.|
+|1094006|109431|1|1|1|0|1|If it'll keep my friends safe,\nI'm not afraid to use this power. I'll show you the flames of a dragon!|
+|1094007|109431|1|2|1|0|1|I won't let anyone harm the people I care about. I've decided that's what my flames are for!|
+|1094008|109431|1|3|1|0|1|What I was missing before was the strength to face myself.\nBut I'm stronger now!|
+|1094009|109431|1|4|1|0|1|There've been times when I wished I didn't have this power. But now... I can take a little pride in it.|
+|1094010|109431|1|5|1|0|1|I'm tougher than I look.\nSo leave this to me!|
+|1094011|109401|2|6|1|4.3|2|I heard that it's your birthday today. So... let's celebrate it.\nIs there anything you really want?|
+|1094012|109431|2|6|1|0|1|Happy birthday.\nThis is your special day,\nyet somehow even I feel happy. Isn't that strange?|
+|1095001|109501|1|1|1|2.6|2|So this is the "kimono" I've heard so much about... A beautiful garment that's far easier to remove than it is to put on...!|
+|1095002|109501|1|2|5|2.9|6|Ohhhh myyyyy~! Mr. Sadist, were you watching just now?! I know you enjoyed seeing me spin out of control... You sick degenerate...|
+|1095003|109501|1|3|1|4.8|5|I heard it's a faux pas to wear underwear beneath a kimono...\nM-Mr. Sadist? You're not going to check, are you? Gueheheh...|
+|1095004|109501|1|4|6|7.4|5|Oh... My belt seems to have come loose... Mr. Sadist, can you make it tighter for me? ...*drool* Yes... Just like that! Tighten it more!|
+|1095005|109501|1|5|2|5.6|5|Mr. Sadist... No, perhaps I should call you Lord Sadist today...\nI am a humble servant for you to do with as you will... *drool*|
+|1095006|109531|1|1|1|0|1|This kimono is so revealing,\nit embarrasses me a little...\nBut when I imagine Mr. Sadist seeing me in it... *drool*|
+|1095007|109531|1|2|1|0|1|Ohhhhhh myyyyy~!\nAll this spinning is starting to get addictive... I have to spin more! More! I can't stop! Gueheheheh!|
+|1095008|109531|1|3|1|0|1|When I dance in this outfit, I feel more elegant somehow. It's like I'm a butterfly, and you must be the spider waiting to... Gueheheh.|
+|1095009|109531|1|4|1|0|1|Roughly tearing at her kimono, Mr. Sadist closed in with a feral gleam in his eyes... Guehe... Ah?! I feel his eyes on me right now!|
+|1095010|109531|1|5|1|0|1|Were you looking at my belt just now? S-so, you want to spin me around... Until my kimono gets so loose that you can... Gueheheh...|
+|1095011|109501|2|6|1|5.7|5|It's a very special day today...\nThe day a true sadist was born...\n*drool* You're plotting to take my body as your present, aren't you?!|
+|1095012|109531|2|6|1|0|1|Happy birthday, Mr. Sadist. Don't you think kimono belts look like a present's wrapping? That would mean your present is... Gueheheh!|
+|1096001|109601|1|1|1|7.9|2|If you want to go out incognito, Shogun, I know just the place!\nLet me take you there sometime! It'll be so much fun!|
+|1096002|109601|1|2|1|4.9|6|Autumn maple leaves are beautiful, but maple manju buns are even better! Just thinking about them is making me hungry!|
+|1096003|109601|1|3|3|8.6|2|One throw to conquer the lands!\nTwo throws to conquer the lands!\nWill you try shuriken training too, Shogun? It's all-you-can-throw!|
+|1096004|109601|1|4|1|11|2|I bought this fox mask at a festival in Oedo Town!\nThe bells on it even jingle as I walk! Isn't that the cutest?!|
+|1096005|109601|1|5|6|4|1|I thought up a new ninja skill: the Ice Inferno! You just feed your foes shaved ice very very fast and wait for their brains to freeze!|
+|1096006|109631|1|1|1|0|1|All who would harm the shogun will be severely smited! Nothing can stop his conquest! My ninja skills will make sure of that!|
+|1096007|109631|1|2|1|0|1|Heh heh heh... You're about to witness my latest ninja spectacle! What's that? I shouldn't use this one yet? Aw, but Shogun...!|
+|1096008|109631|1|3|1|0|1|My shogun will surely bring peace and unity to all the lands!\nAnd I shall defend his proud city for as long as it flourishes!|
+|1096009|109631|1|4|1|0|1|Don't take your eyes off my ninja techniquery for a second! I won't leave your side until I go down in history as your right-hand ninja!|
+|1096010|109631|1|5|1|0|1|For my shogun's honor, no foe is too fearsome for me to handle! The greatest key to conquering the lands is a ninja's loyalty!|
+|1096011|109601|2|6|2|7.4|1|Congratulations on growing a year older, Shogun! For your present, I made you a personal shuriken! Throw it lots and lots!|
+|1096012|109631|2|6|1|0|1|A happy and honorable birthday to you! I will lead a round of three cheers for the shogun! Hip hip, hooray! Party the night away!|
+|1097001|109701|1|1|1|4.9|2|I'm skilled at all kinds of\nhousework, so please don't\nhesitate to let me know if there\nis anything I can help with.|
+|1097002|109701|1|2|6|5.8|2|My sister is resting instead of attending to her duties as a maid? Ah, how bold! Even in sleep, she is a wonder to behold!|
+|1097003|109701|1|3|1|4|2|We of the demon clan are not so different from humans. We're just able to wrestle mabeasts and hurl morningstars, that's all.|
+|1097004|109701|1|4|1|0|1|Please allow me to attend to\nall of your daily needs.\nTo faithfully serve is my greatest pleasure.|
+|1097005|109701|1|5|6|5.1|2|It seems that having horns is not such a rare thing in this world. That makes me a little happy.|
+|1097006|109731|1|1|1|0|1|This morningstar? It's a portable weapon, reduced in size from the standard model, so it's actually much lighter than you'd think.|
+|1097007|109731|1|2|1|0|1|Even the mightiest of oaks cannot block the path of a demon such as myself. I will crush all obstacles that stand in my way.|
+|1097008|109731|1|3|1|0|1|A tree of this size is no trouble\nat all for me to remove.\nB-but... After I succeed, I would not object to a little praise.|
+|1097009|109731|1|4|1|0|1|You think it's impossible for a girl of my stature to destroy a fallen tree?  Well, actions speak louder than words, so watch and learn.|
+|1097010|109731|1|5|1|0|1|I'm "so strong"?\nAre you sure that's the best compliment to give a girl?|
+|1097011|109701|2|6|2|5.4|1|A very happy birthday to you!\nI'll bake a cake for the occasion.\nIt needs to be special, so first I'll have to find some dragon eggs...|
+|1097012|109731|2|6|1|0|1|Happy birthday!\nI prepared plenty of special treats to celebrate, so let's all have a wonderful time.|
+|1098001|109801|1|1|6|5|3|So this is another world. Frankly,\nI find it difficult to believe, but I suppose it's better than some of the nonsense Barusu spouts.|
+|1098002|109801|1|2|4|2.4|3|This situation is so awkward.\nStill, I suppose there are no dangerous individuals to worry about, so I'll sit back and enjoy it.|
+|1098003|109801|1|3|3|1.9|2|Work? Of course I'm doing work. By elegantly drinking tea in repose, I'm providing a beautiful sight for those around me.|
+|1098004|109801|1|4|3|5.4|4|This is wind elemental magic.\nIf I wanted, I could use it to slice anything into tiny ribbons.\nBut it's tiring, so I won't bother.|
+|1098005|109801|1|5|3|5.9|2|Feast upon my steamed taters.\nDelicious, aren't they?\nThey're freshly baked...\nwell, freshly steamed.|
+|1098006|109831|1|1|1|0|1|Nobody can escape the gaze of my Clairvoyance, you know.\nIf you value your life, use all the wit and courage at your disposal.|
+|1098007|109831|1|2|1|0|1|Remember this well.\nHorn or no horn, you can never hope to match my natural genius.|
+|1098008|109831|1|3|1|0|1|You really are useless in battle.\nI can barely conceal my disappointment. At least try not\nto stray too far from my side.|
+|1098009|109831|1|4|1|0|1|I'll finish this in no time flat.\nWhy, you ask?\nWell, because I'm... No, because\nI want to head home already.|
+|1098010|109831|1|5|1|0|1|Wind magic is useful. Not only can it slice up enemies, it can also neutralize irritating men. How?\nI'll leave that to your imagination.|
+|1098011|109801|2|6|3|6.5|2|Aren't you lucky to have me here to celebrate your birthday.\nMy present? A batch of hot steamed taters, of course!|
+|1098012|109831|2|6|1|0|1|What do you want most?\nGo on, name it.\nWhy? Well, isn't it your birthday?\nI thought I'd give you a reward.|
+|1099001|109901|1|1|6|7.9|1|It's so mysterious... There's Mana here, and spirits too, yet it's full of things I've never seen. So this is what another world is like...|
+|1099002|109901|1|2|1|6.3|2|Do you want to go for a walk?\nI was about to head over and chat with the little spirits. It's one of their contract conditions, you see.|
+|1099003|109901|1|3|1|5|6|When I went into town just now,\nI saw an elf in the street.\nDo you think there are half elves in this world as well?|
+|1099004|109901|1|4|5|5.2|6|Kokkoro is so smart, and incredibly cute as well.\n...I wish she really could have been my little sister.|
+|1099005|109901|1|5|1|5.4|6|Puck hasn't been showing himself as often since we arrived in this world. I wonder if he's trying to conserve Mana...|
+|1099006|109931|1|1|1|0|1|Do you want to take a seat?\nThe flowers in Landosol are ever so pretty. The lesser spirits seem to like them, too.|
+|1099007|109931|1|2|1|0|1|Shall we have a little chat?\nYou can tell me about this world, or I could tell you about mine... We have so much to talk about!|
+|1099008|109931|1|3|1|0|1|Oh, I see—Kokkoro can talk\nto spirits just like I can.\nEheh... She really does seem\nlike a sister to me.|
+|1099009|109931|1|4|1|0|1|Oh dear, you have a petal caught in your hair. Here, I'll pluck it off, so can you look this way? Yes, just like that... There, all gone! ♪|
+|1099010|109931|1|5|1|0|1|Hey, will you visit this field of flowers with me again sometime?\n...Promises are very important to Spirit Users, you know.|
+|1099011|109901|2|6|1|6|2|Happy birthday... is that how people say it in this world?\nI hope you have a lovely day.|
+|1099012|109931|2|6|1|0|1|Oh, it's your birthday? That's wonderful! It's so nice to be able to celebrate it together.|
+|1100001|110001|1|1|1|4.9|2|Whattup! ♪ The ocean's hella pretty, isn't it? We gotta enjoy it as much as we can!|
+|1100002|110001|1|2|1|6.9|6|Whiz-boy, get this—the ocean's salty! Bet you didn't know that, huh? Just call me Professor Suzuna! ♪|
+|1100003|110001|1|3|2|3.4|1|Let's go have fun after I finish this photoshoot! Don't worry, it'll be over in a flash! ♪|
+|1100004|110001|1|4|2|2.5|5|This bikini's off the hook, isn't it? Here's hoping the fans'll be squealing over it! ♪|
+|1100005|110001|1|5|2|7.7|1|Mmm! Being at the beach rocks! And hanging out with you rocks even more! Sure am glad I came. ♪ Summer homework? I'll worry about that later!|
+|1100006|110031|1|1|1|0|1|Check it out! I'm in full model mode. Good stuff, right? ♪ But you're the only that gets to see me this up close.|
+|1100007|110031|1|2|1|0|1|Spending summer at the beach is great, but...
+being with you just gets me extra hype, you know?|
+|1100008|110031|1|3|1|0|1|I dunno that much about looking sexy and stuff, so what's the verdict, whiz-boy? Kind of hoping that I've made your heart skip a beat or two. ♪|
+|1100009|110031|1|4|1|0|1|The summer hype is real! ♪ Feels like I can take on the whole world when you're cheering me on, whiz-boy. ☆|
+|1100010|110031|1|5|1|0|1|Scorching sun and toasty sand! Today's photoshoot is gonna be extra good! I can feel it!|
+|1100011|110001|2|6|1|3.3|2|Whattup! It's your birthday today, right? Happy birthday! We gotta arrange a party for you!|
+|1100012|110031|2|6|1|0|1|Whattup, whiz-boy! Happy birthday! ☆ I'm all down for celebrating, so hit a gal up with any requests you've got!|
+|1101001|110101|1|1|1|7.4|2|Let's not forget our warm-ups before swimming! I'll help you out, so just relax for me. That's a good boy. ♪|
+|1101002|110101|1|2|6|7.1|1|The beach can be fun, but also dangerous, so just take care out there. I'll come help if anything happens.|
+|1101003|110101|1|3|6|4.8|4|Guys keep coming over to talk to me for some reason. Maybe my swimsuit's starting to slip off. Could you take a look for me?|
+|1101004|110101|1|4|5|7|4|Ahhh! Some sand slipped into my swimsuit! It's so tickly! Do something about it for me, please!|
+|1101005|110101|1|5|5|8|6|It's been a while since I wore a swimsuit, so I went out and bought a new one. Does it look okay? Hey, why're you averting your eyes?|
+|1101006|110131|1|1|1|0|1|Achoo! Oh no, I'm starting to get a bit chilly. Mind if I snuggle close to warm myself back up?|
+|1101007|110131|1|2|1|0|1|You're so reliable that it almost makes me forget that you're my student. But even then, I... No, forget I said anything.|
+|1101008|110131|1|3|1|0|1|This is the first time I've come to the beach with a guy, so I'm feeling a bit restless. How about you?|
+|1101009|110131|1|4|1|0|1|The ocean's so pretty at night. I doubt I'll ever forget this sight, especially since I'm with you.|
+|1101010|110131|1|5|1|0|1|Did you get a bit taller? I'm sure I'm not imagining it. Just seeing you grow gets me all excited.|
+|1101011|110101|2|6|1|9.2|2|It's your birthday today! Heehee. Of course I didn't forget. Let's celebrate by having a party at the beachside cafe!|
+|1101012|110131|2|6|1|0|1|Happy birthday! You're looking even more mature than usual today. Maybe it's that summer magic? Hehe.|
+|1103001|110301|1|1|2|4.9|1|Ahaha. Sometimes it's nice to just relax on the beach until the sun sets, isn't it?|
+|1103002|110301|1|2|1|6|6|Collecting seashells and making accessories out of them sounds like a good idea. Not for selling or anything, though. Probably.|
+|1103003|110301|1|3|1|4.1|2|Sand from the beach feels so smooth and nice. What if we take some back to the orphanage and make a sand pit?|
+|1103004|110301|1|4|1|4.9|5|Don't get me wrong, I love having fun with the children. But sometimes it's nice to spend time alone together with you, too.|
+|1103005|110301|1|5|1|3.1|2|You best count yourself lucky. Not many people get to see me in a swimsuit, let alone up this close. ♪|
+|1103006|110331|1|1|1|0|1|I'm hardly at my most elegant right now, but it'd be nice if you let it slide this time. I'm just so excited!|
+|1103007|110331|1|2|1|0|1|Summer sunshine really gives you that sense of freedom, doesn't it? I'm feeling up for a little adventure. ♪|
+|1103008|110331|1|3|1|0|1|It's been a while since I last came to the beach. And it'd be a waste to not make the most of this vacation!|
+|1103009|110331|1|4|1|0|1|The ocean's so lovely. If we ended up alone on the beach, I'd… Wait, what am I saying?!|
+|1103010|110331|1|5|1|0|1|Catch me if you can! ♪ Th-there's no way I'd actually be able to say something like that!|
+|1103011|110301|2|6|2|1.9|1|Happy birthday! ♪ Everyone at the orphanage wants to celebrate with you, so look forward to what we've got in store!|
+|1103012|110331|2|6|1|0|1|Happy birthday! How about we have a little birthday party together, just the two of us? Just kidding.|
+|1104001|110401|1|1|2|2.9|6|Woo-hoo! We're at the beach! Wh-what's with that look? Am I not allowed to get excited?|
+|1104002|110401|1|2|1|2.6|2|Yakisoba's always a good meal when you're at the beach. All right! Go get the ingredients for me, and I'll make us some!|
+|1104003|110401|1|3|2|3.2|1|Hard to beat a good swim on a hot day, isn't it? How about you jump on a swim ring, and I'll pull you along while swimming?|
+|1104004|110401|1|4|1|3.3|5|I dunno why, but it's just easy to be around you… I-ignore that! I shouldn't let too loose just because we're at the beach. Yeah.|
+|1104005|110401|1|5|1|8|6|Let's take a quick break. Whoa! Your hands are so chilly! Err, sorry. I got a bit too touchy-feely there.|
+|1104006|110431|1|1|1|0|1|Whoa?! M-my swimsuit…! No one saw, right? Hey! Why're you here?! Quit staring! Sheesh...|
+|1104007|110431|1|2|1|0|1|Mmm! The wind feels great! Hehe. Kinda funny that we're at the beach together, when I think about it. What should we do first?|
+|1104008|110431|1|3|1|0|1|Feels like I've been showing you sides of me that no one else gets to see. Not that that's a bad thing… Wait, what am I even saying?!|
+|1104009|110431|1|4|1|0|1|It's weird just how fast time flies by whenever I'm with you. Wait, you feel the same? G-great!|
+|1104010|110431|1|5|1|0|1|Y-you think I look cute in this swimsuit? Y-yeah, as if that'd make me happy! Huh? My tail? It's not wagging! Get your eyes off it!|
+|1104011|110401|2|6|1|8.7|2|I heard it's your birthday, so I came up with an extra special beach training course. Just kidding. I'll get you some shaved ice later.|
+|1104012|110431|2|6|1|0|1|It's your birthday, right? Then come help me do some grocery shopping. I'll make us something later, so tell me what you want to eat.|
+|1105001|110501|1|1|6|1.9|1|How're you holding up? I'm always in high spirits! Come on, let's have some fun!|
+|1105002|110501|1|2|2|3.2|1|Don't sweat the small stuff! The ocean just makes you wanna shout, doesn't it? Come on, join in! Don't sweat the small stuff!|
+|1105003|110501|1|3|1|5.7|2|There's so much fun stuff to do at the beach! You can run, swim, sing, and even dance! We gotta make the most of it!|
+|1105004|110501|1|4|6|8.2|1|Hm? What're you looking at? My swuimsuit? Wanna give it a feel? Come on, no need to be shy!|
+|1105005|110501|1|5|2|3.1|5|The sound of the waves is so relaxing! But listening to them with you kind of makes my heart race. You too? Can I listen?|
+|1105006|110531|1|1|1|0|1|There's a bunch of ways to enjoy summer, but it's hard to beat performing like this. I just let myself flow with the waves!|
+|1105007|110531|1|2|1|0|1|Aha! ♪ This is so fun! Summer just makes me wanna get all active! Come on, don't be shy! Sing with me! ♪|
+|1105008|110531|1|3|1|0|1|Summer won't last forever! We're gonna run along the beach and dive into the ocean after we're done singing! Let's go all out!|
+|1105009|110531|1|4|1|0|1|I wanna make a new song based on you. It'll definitely be a fun one!|
+|1105010|110531|1|5|1|0|1|There's something special about my performances whenever I think about you. I can't really explain it, so… just listen!|
+|1105011|110501|2|6|2|2.8|1|Everything all ready! For what? Your birthday, of course! Come on! Let's hold hands and dance!|
+|1105012|110531|2|6|1|0|1|Happy birthday! I'm so excited that I just gotta dance! Oh, sorry for bumping into you. I didn't hit you anywhere sore, did I?|
+|1106001|110601|1|1|1|4.2|2|The beach at this time of the year\nalways makes me feel like I'm in\nwonderland. Let's make the most\nof it together, my prince. ♪|
+|1106002|110601|1|2|6|5.5|1|Phew… The sunlight's mighty\nstrong, isn't it? What say we cool\nourselves off in the shade? ♪|
+|1106003|110601|1|3|1|4.1|2|I sliced up a watermelon for us.\nLet's eat it while it's still fresh.|
+|1106004|110601|1|4|1|7.9|5|It ain't summer without some\nlovely fireworks goin' off in the\nnight sky. *sigh* Wish I could\nwatch them along with my prince.|
+|1106005|110601|1|5|6|5|2|Do you reckon that I\nsuit this here swimsuit?\nI picked it out just for you. ♪|
+|1106006|110631|1|1|1|0|1|What a lovely feeling. ♪ There's no\nbetter way to take in the summer\nthan relaxing on the beach like\nthis. Fancy joining me, my prince?|
+|1106007|110631|1|2|1|0|1|All the li'l plushies look like they're\nhavin' a good time sunbathing.\nCome on over and give them a\nfeel. They're nice and fluffy. ♪|
+|1106008|110631|1|3|1|0|1|My swimsuit's all frilly and cute,\nain't it? Come closer and take a\nbetter look at it. I don't mind. ♪|
+|1106009|110631|1|4|1|0|1|The seaside's always so romantic\nduring summer. I'd love to live\nhere alone with my prince. Where\nshould we build our castle? ♪|
+|1106010|110631|1|5|1|0|1|What say we have ourselves a li'l\ndance, my prince? A seaside ball,\njust for the two of us. ♪ Come,\nnow. Twinkle twinkle hoy. ♪|
+|1106011|110601|2|6|1|6.2|2|Happy birthday, my prince.\nIt's still a li'l bit hot out, so what\nsay we celebrate with some\nsweets and iced matcha? ♪|
+|1106012|110631|2|6|1|0|1|Ain't nothin' worth celebrating\nmore than my prince's birthday.\nI'll whip up some firework for you,\nso keep your eyes peeled.|
+|1107001|110701|1|1|6|3|4|Oh... this uniform has a skirt...\nAhhhh... My legs feel so exposed, it's making me all antsy...|
+|1107002|110701|1|2|6|3.7|2|You're worried how I'll manage\nat a new school? Never fear!\nIf things get too much, I'll just hide in the nurse's office all day!|
+|1107003|110701|1|3|6|2.7|2|I noticed there are plants at the academy! Even if I stay a loner,\nI won't be lonely if I have the flowers to talk to!|
+|1107004|110701|1|4|1|6.3|2|If it weren't for my BB Brigade training, I might have fainted just  approaching the academy... Eheh! I've got so much to thank you for!|
+|1107005|110701|1|5|4|7.2|5|S-so, um...\nHow do I look in this uniform?\nHuh? I look c-cute...?\nA... awaaahhhhh...!|
+|1107006|110731|1|1|1|0|1|Always keep a low profile!\nStick close to dark corners!\nThat way, even a loner can enjoy a peaceful school lif— Aaagh!|
+|1107007|110731|1|2|1|0|1|G-going to the same school as him... It makes me so nervous,\nI can't focus on my lesso—\nAughh! I'll study hard, I promise!|
+|1107008|110731|1|3|1|0|1|W-we have to work in groups for our next lesson? Time to make a tactical retrea— Eeeeek! I-I didn't mean it! I swear I won't run away!|
+|1107009|110731|1|4|1|0|1|M-my fortune today is perfect for making friends? Promising new encounters await? I'd better hide away and practice in preparation!|
+|1107010|110731|1|5|1|0|1|T-today I'm going to ask him if we can walk home together... Waaahh! I'm so sorry for dreaming up such wild fancies!|
+|1107011|110701|2|6|5|6.8|2|H-h-h-happy birthday to you!\nAhhh... Even being able to celebrate someone else's birthday is an honor too great for me...|
+|1107012|110731|2|6|1|0|1|I hope your birthday is full of happiness! I can't believe you're spending it with me... This is even better than making friends!|
+|1108001|110801|1|1|1|6.1|2|You know what's weird?\nAround school, a lotta people seem to think I'm scary. At least you're not like that, I guess.|
+|1108002|110801|1|2|6|5.1|1|So I heard this dumb rumor\nthe other day that you tried to\neat money. Hilarious, right?\nThat stuff's not even tasty.|
+|1108003|110801|1|3|2|3|4|How can I help you today~?!\n...Uh, yeah. The manager at my job told me I gotta act cheerful. Ugh, what a drag.|
+|1108004|110801|1|4|6|3.4|2|So, like, uh.\nThe vibes you're giving off?\nThey're not all that bad.\nI guess.|
+|1108005|110801|1|5|6|3.1|5|Ew, gross...\nWas that you trying to act cool?\nMy heart skipped a literal beat for a second. I'm creeping myself out.|
+|1108006|110831|1|1|1|0|1|Night? I like the night. It kinda... gives you a bit more privacy.\nLets you say stuff you normally wouldn't. And... y'know, it's cool.|
+|1108007|110831|1|2|1|0|1|Really. You're actually lost again? Fine, I'll walk you where you're going. Uh, no, don't thank me.\nI needed the fresh air anyway.|
+|1108008|110831|1|3|1|0|1|A mysterious girl lurking in a dark alley... How's that for a vibe, huh? Like, I'm just here for work, but still. It's all about the feeling.|
+|1108009|110831|1|4|1|0|1|Uh, listen. I know you don't mean anything by it, but do you gotta keep staring at my face? 'Cause it gives me the weirdest feeling.|
+|1108010|110831|1|5|1|0|1|You? Walk me home? Now that's a reversal and a half. The streets aren't safe at night? Hah. When'd you learn to sound so cool.|
+|1108011|110801|2|6|1|9.3|5|So, uh. I made cake for my kid brothers, but there's some spare, so can you eat it? I mean, if you're hungry. Oh, and... happy birthday.|
+|1108012|110831|2|6|1|0|1|So, what. You got a year older today, huh? Well, big whoop. Good for you. Have a Killer Pen.|
+|1109001|110901|1|1|4|2.8|1|Isn't there anything fun to do?\nI wanna live just for fun stuff!\nFor the sake of fun, I'll do anything!|
+|1109002|110901|1|2|1|8.1|6|Hey, bro! ...No, not quite.\nHe~y, bro! ☆ Yep. That sounds way cuter. ...Hm? Nope, I don't actually want to talk to you.|
+|1109003|110901|1|3|6|6.7|1|What? You can't even do a\nsimple thing like this?\nThat's impressive. Like, wow.\nHuh? Are you okay?|
+|1109004|110901|1|4|6|4.9|4|It's a bit late for this, but you're pretty plain to look at, huh?\nHmmm... Here's hoping your personality shines through.|
+|1109005|110901|1|5|5|11.6|3|So, I've been wanting to ask.\nUm... are you one of those guys?\nLike, are you interested in me?\nNot really? ...No? What the chell.|
+|1109006|110931|1|1|1|0|1|A colorful parfait and an even cuter cutie! Mm, perfect! What a photo op! Oh—would you mind ducking out of the frame for me?|
+|1109007|110931|1|2|1|0|1|Wanna go out for karaoke later? I'll do all the singing, so you just chant "Chi~eru! Woo! Chi~eru! Woo!" to liven the mood, 'kay?|
+|1109008|110931|1|3|1|0|1|Cheru~n! Cheru cheppeler, chellarellaro, cheru-popappy?\n...Nah! I'm just messing! Eheh! ☆ Man, aren't we youth-ing it up?|
+|1109009|110931|1|4|1|0|1|Say "ah"! ...Ugh, you creep.\nWhy'd you really open your mouth? Obviously it was a joke.\n...Geez. Just one bite, then!|
+|1109010|110931|1|5|1|0|1|Doesn't hanging out with such a cutie make you feel anything? Well, I guess that's your charm... But... really? Not a single thing?|
+|1109011|110901|2|6|2|7.5|1|A very chelly birthday to you!\nYou can have this adorable smile as a present! Cheru~n! ☆ Isn't that the best? Treasure it for life!|
+|1109012|110931|2|6|1|0|1|Happy birthday, chellster!\nSo, what kind of gifts you into?\nMe, I'd ask for cute accessories!\nSeptember 15, by the way!|
+|1110001|111001|1|1|1|10.2|2|Insight, learning, enlightenment. They can be found in classic texts, or in our daily lives. Let's cultivate our mutual knowledge.|
+|1110002|111001|1|2|6|7|4|This uniform... I'd be lying if I claimed its size didn't bother me on occasion. I assumed I'd grow into it, but I may need to rethink.|
+|1110003|111001|1|3|2|6.7|1|I'm a scholar of the humanities,\nso I treasure subtle allusions and nuance. The absolutes of science leave little space for the heart.|
+|1110004|111001|1|4|6|5.4|2|Hrm... I was planning to retire\nto bed fairly soon, but if you'll\nprovide me with conversation,\nI may consider staying awake.|
+|1110005|111001|1|5|2|7.8|6|Learning is the greatest of joys.\nIt enrichens the mind and feeds the heart. As such... let's see.\nI'd like to know more about you.|
+|1110006|111031|1|1|1|0|1|My manners are lacking? Please.\nThe words are the same whether I read them upright or reclining. Now, come and laze by my side.|
+|1110007|111031|1|2|1|0|1|Reading books is a solo sport.\nIt can be surprisingly strenuous. As such, I need you to massage my calves. Go on, rub away.|
+|1110008|111031|1|3|1|0|1|I'd prefer not to leave this spot...\nbut I trust you, so I can't refuse.\nFor the sake of learning, I'll close my book and open the door.|
+|1110009|111031|1|4|1|0|1|My most valued lessons are the days of youth we share. Arcane secrets cannot compare. Not to you, the first friend I ever made.|
+|1110011|111001|2|6|2|0|2|Life is a wondrous thing. Its very inception is a statistical miracle. Or in the terms of the layfolk, happy birthday to you.|
+|1110012|111031|2|6|1|0|1|Happy birthday. It would seem this is the anniversary of the day you first entered the world.\nMy notes are never wrong.|
+|1111001|111101|1|1|2|4.9|6|So, it's Halloween.\nEveryone seems to be having 
+fun in their costumes.\n...No, of course I'm not scared!|
+|1111002|111101|1|2|4|6|6|Just look at all these pumpkins...\nWith such creepy faces... Urghh...\nWait, is that one on your head, too?! Don't surprise me like that!|
+|1111003|111101|1|3|1|8.7|5|Wh-what do you think of this costume? Personally, I think it's a little childish... Huh? It suits me? O-oh, I see. Well... thank you.|
+|1111004|111101|1|4|1|11.5|6|Why don't you dress up too? ...What costume would suit you? How about... hmmm... a vampire? Oh, but you can't have my blood!|
+|1111005|111101|1|5|6|6|5|Why do you keep patting my head like that?!\nBecause I'm... cute...?\nOh... ohhhhhhh...!|
+|1111006|111131|1|1|1|0|1|Do you have any candy for me?\nNo?! Then it's time for a trick.\nI-I'll bite you with my fangs!\nL... like this! *chomp*|
+|1111007|111131|1|2|1|0|1|I'm not a little kid, so I'm not going to say it! No, not a chance!\nHuh? The candy's really good?\n...Trick or... treat...|
+|1111008|111131|1|3|1|0|1|I tried baking my own cupcakes!\nDo you want one? ...Huh?\nYou'd rather have a trick instead?\nThat's creepy! No cake for you!|
+|1111009|111131|1|4|1|0|1|Would you like to... come out\nfor Halloween with me?\n...No, of course I'm not scared!\nWhere do you get these ideas?!|
+|1111010|111131|1|5|1|0|1|Huh? You've got some candy\nfor me? Mmm, it's so sweet and delicious! ...Oh, it got stuck to my hand. *lick* ...H-hey, stop staring!|
+|1111011|111101|2|6|2|7.1|6|Since it's your birthday... H-here.\nI baked this cupcake myself.\nOh, don't eat it so fast, or you'll get crumbs everywhere!|
+|1111012|111131|2|6|1|0|1|Happy birthday to you.\nHave this special pumpkin cake.\nI'm actually not fond of pumpkin, but I made sure it tastes OK...!|
+|1112001|111201|1|1|2|5.5|6|Halloween's the best!\nYou can play all the pranks you like, and nobody gets mad!\nHuh? That's not quite right?|
+|1112002|111201|1|2|2|1.6|1|Happy Halloween!\nToday I get to play pranks on you and eat tons of candy too!\nWhat's not to love?!|
+|1112003|111201|1|3|1|4.8|2|Trick or treat! Gimme all your candy, or you're getting super pranked! ...'Course, I'm gonna prank you either way!|
+|1112004|111201|1|4|6|3.1|1|Aren't you gonna play any pranks for Halloween, mister?\nIf you're not, I guess I'll play a few extra ones for you!|
+|1112005|111201|1|5|2|5.1|1|Hey, mister! Look!\nI got this whole pile of candy!\nYou wanna eat it together?|
+|1112006|111231|1|1|1|0|1|Happy Halloween!\nAs thanks for the candy, I'll give you an extra big prank today!\nIsn't that the best present?|
+|1112007|111231|1|2|1|0|1|Ahahahahah! Everyone's jaws dropped to the ground!\nPranks really are so much fun!\nHuh? I should hold back a little?|
+|1112008|111231|1|3|1|0|1|All this running around is making me pretty hungry...\nNo one'll mind if I dig in to some of this candy early, right?|
+|1112009|111231|1|4|1|0|1|You're always ready to hang out with me, huh, mister?\nWith you around, I know I can prank to my heart's content!|
+|1112010|111231|1|5|1|0|1|It's fun pranking all sorts of people, sure, but I still love pranking you best of all!|
+|1112011|111201|2|6|2|2.7|1|Hey, mister, happy birthday!\nYour present from me can be...\nanother prank, I guess!|
+|1112012|111231|2|6|1|0|1|Happy birthday to you, mister!\nThanks for playing with me\nall the time and stuff!\nBut we're nowhere near done yet!|
+|1113001|111301|1|1|3|4.2|1|If you don't give me candy,\nI might have to trick you!\nSo, um... what kind of trick\nwould be fun to play?|
+|1113002|111301|1|2|2|1.4|1|Hi, mister! ♪\nLet's go to the Halloween parade and hop like bunnies!|
+|1113003|111301|1|3|1|5.2|2|Halloween is so much fun!\nAnd you know, seeing everyone else having fun makes me feel super happy too!|
+|1113004|111301|1|4|2|3.1|5|Trick or treat!\nEheheh... So, mister!\nCan I have some candy?|
+|1113005|111301|1|5|1|6|2|Tickle, tickle, tickle... Eheheh!\nThat was a trick for Halloween!\nTrick or treat! ♪|
+|1113006|111331|1|1|1|0|1|If we go for a happy walk together, we'll find lots of Halloween magic!\nEheheh... Happy Halloween!|
+|1113007|111331|1|2|1|0|1|Ahhhh... Isn't Halloween\njust so much fun?\nHey, mister, can we go to the parade together? ♪|
+|1113008|111331|1|3|1|0|1|Happy Halloween! ♪\nHey, mister, do you think these Halloween clothes look cute?|
+|1113009|111331|1|4|1|0|1|Halloween with Mr. Nice Guy...\nI'll never forget these happy times! ♪|
+|1113010|111331|1|5|1|0|1|If only it could be Halloween\nevery day... 'Cause I mean,\nif it was, we could keep\nplaying together forever!|
+|1113011|111301|2|6|6|4.1|2|Happy Hallo... No, wait!\nHappy birthday, mister!|
+|1113012|111331|2|6|1|0|1|Hey, mister, happy birthday!\nListen, did you know?\nI love you a whole lot! ♪|
+|1114001|111401|1|1|1|2.7|4|I want friends to go on my adventure. I hate being lonely.|
+|1114002|111401|1|2|1|2.9|2|I like kind people. You're kind, right, mister?|
+|1114003|111401|1|3|1|2.9|4|Mother and Father are here with me. But they don't talk. It makes me feel lonely...|
+|1114004|111401|1|4|2|3|6|Your hand is so warm, mister. Is mine cold? If you hold it tighter, do you think it will warm up?|
+|1114005|111401|1|5|2|6.7|5|I'm gonna get bigger, you know. And when I do, I'll be able to cook. Hehehe... Am I a good kid?|
+|1114006|111431|1|1|1|0|1|I like to eat sandwiches. Do you like them too, mister?|
+|1114007|111431|1|2|1|0|1|I don't like going outside. Everyone else has somebody with them... Only I'm alone.|
+|1114008|111431|1|3|1|0|1|What do you like, mister? I like dolls, sandwiches, and... you!|
+|1114009|111431|1|4|1|0|1|If we become like Mother and Father, I'm sure it will be lots of fun. So wait for me, mister.|
+|1114010|111431|1|5|1|0|1|Do you like me, mister? Because I like you! So please don't hate me, okay?|
+|1114011|111401|2|6|6|1.7|2|It's your birthday, right? You're number one! Heehee, I'm so happy!|
+|1114012|111431|2|6|1|0|1|It's your birthday? Wow, wow! I love birthdays! So let's celebrate loads!|
+|1115001|111501|1|1|2|6.1|1|Happy holidays! Why don't you and I spend a stimulating "silent" night together? I won't take no for an answer, of course! ♪|
+|1115002|111501|1|2|6|6.4|4|Does this beverage intrigue you?\nI could let you have a sip, but you might regret it... Oh, you're really backing down? What a shame!|
+|1115003|111501|1|3|3|8.4|1|Now then, boy—entertain me!\nIf you disappoint on a special day like this, your life is forfeit!\n...Still, I won't judge too harshly.|
+|1115004|111501|1|4|6|6.1|2|My, my. Do I see you shivering?\nTo think you can't even handle the cold. Come, take refuge in my coat. Hahah.... No need to be shy!|
+|1115005|111501|1|5|1|3.1|2|I never dreamed I'd find myself spending the holidays with you... Still, I suppose it could be worse. You always keep me entertained.|
+|1115006|111531|1|1|1|0|1|How's this, boy? A sight worthy of this special night, is it not?\nLet's see some gratitude. You're the first person I've brought here!|
+|1115007|111531|1|2|1|0|1|Why are you gazing at me?\n...Actually, you needn't explain.\nMy beauty simply exceeds that of the scenery, doesn't it? Ahahah!|
+|1115008|111531|1|3|1|0|1|It's getting a bit chilly out here...\nAll right, boy—draw your blade!\nThe clash of steel upon steel will warm our bodies and hearts!|
+|1115009|111531|1|4|1|0|1|It's not an unpleasant feeling to spend the holidays in another's company. Particularly if it's with someone as entertaining as you!|
+|1115010|111531|1|5|1|0|1|That was a fine festive season.\nI trust you'll join me for the next, as well? Hahah. Don't forget, now. A pact with me is absolute!|
+|1115011|111501|2|6|6|6.5|1|Oh...? Your birthday has arrived?\n...Why the expectant look, boy?\nAhahah. If you desire a present, first prove yourself worthy!|
+|1115012|111531|2|6|1|0|1|The great Christina has prepared\na gift to celebrate the day of your birth! I trust you'll treat me to an appropriately elated reaction!|
+|1116001|111601|1|1|2|1.7|1|Happy holidays!\nI hope my concert turned out\nto be exactly the present\nyou were dreaming of.|
+|1116002|111601|1|2|2|4.6|6|Roast chicken, delicious cake...\nI love all these holiday treats!\nNobody can fault me if I eat a bit more than usual today, can they?|
+|1116003|111601|1|3|1|3|2|The holidays this year feel even more fun than usual.\nCould it be because I'm with you?|
+|1116004|111601|1|4|6|4.1|5|Brrrr...\nIt's so cold outside today.\n...Hey, you don't mind if I shuffle\na little bit closer, do you?|
+|1116005|111601|1|5|1|3.7|2|How do I look?\nThis costume's a real winner, don't you think? I only want you to see me at my very cutest!|
+|1116006|111631|1|1|1|0|1|I love the holidays because they put smiles on everyone's faces!\nSo I'm going to repay everyone with a perfect performance!|
+|1116007|111631|1|2|1|0|1|I'm going to get everyone in the festive mood with my concert!\nWhether I'm Santa or an idol, my job is to make dreams come true!|
+|1116008|111631|1|3|1|0|1|Happy holidays!\nI'm going to shine even brighter than all the festive light displays!|
+|1116009|111631|1|4|1|0|1|I came up with a second version of my festive song inspired by you. It's a little embarrassing, but I want you to hear it!|
+|1116010|111631|1|5|1|0|1|These are the best holidays\nof my entire life!\nI'm never going to forget this perfect day I spent with you.|
+|1116011|111601|2|6|2|1.6|1|Happy birthday!\nHere—a present for you!\nIt's even got my autograph.\nI hope you'll treasure it!|
+|1116012|111631|2|6|1|0|1|Happy birthday to you!\nLet's celebrate with a birthday song! I'll put on a private concert for your ears only!|
+|1117001|111701|1|1|4|3.1|1|The notion of a "holy night" does not please me, but a night of festivities is worth celebrating.\nWill you ensure that I enjoy it? ♪|
+|1117002|111701|1|2|2|4.1|5|This garb is a fine complement to the beauty I naturally possess.\n...Perhaps it will even increase my chances of seducing him! ♪|
+|1117003|111701|1|3|1|3.7|2|I have taken on the mantle of Santa Claus, after all.\n'Tis my duty to ensure that these festivities bring joy to all!|
+|1117004|111701|1|4|2|5.2|4|A festive banquet is not complete without chicken and a cake!\n...Wh-why do you side-eye me?\nI-I am not getting overexcited!|
+|1117005|111701|1|5|1|5|5|It would be folly to don this costume and not distribute gifts.\nS-so I suppose I shall have to find something for him as well!|
+|1117006|111731|1|1|1|0|1|I-it is traditional for Santa to distribute presents on this day, and right now I am Santa, so...\nA-accept this gift, you fool!|
+|1117007|111731|1|2|1|0|1|Let me consult the book Akari\nlent me... "Santa Illya has a very special present just for you! ☆"\n...As if I could say this nonsense!|
+|1117008|111731|1|3|1|0|1|You are honored with a gift from the Ruler of the Night! Accept it with gratitude and humility!\n...Yes, that sounds perfect!|
+|1117009|111731|1|4|1|0|1|I wonder, will he be glad to receive this present...?\nUrgh... why must my heart\nbegin racing...?|
+|1117010|111731|1|5|1|0|1|...Th-the moment of truth is nigh!\nI have his present... right here!\nAnd m-my heart is... a-also ready!\nNow I need only hand it to him!|
+|1117011|111701|2|6|6|4.8|2|As I recall, this is your birthday—\nam I not correct?\nThen it seems only right that\nI celebrate it for you.|
+|1117012|111731|2|6|1|0|1|Ah, the day of his birth! As I hand him this gift, I can thank him for... Huh? Why are you here, minion? F-forget what you just heeeard!|
+|1119001|111901|1|1|1|5.2|2|My lord, I wish you a wonderful new year. It brings me joy to be able to accompany you through its joys and hardships alike.|
+|1119002|111901|1|2|4|3.9|1|The cold weather may continue for some time. Let us hold hands to share a little warmth, my lord. Try to hold mine nice and tightly.|
+|1119003|111901|1|3|4|8|5|While I enjoy visiting my home,\nit pains me to leave your side, my lord. Would it be too much to ask you to accompany me next time?|
+|1119004|111901|1|4|6|4.9|1|The New Year's drink of amazake is said to heal fatigue. If you ever feel tired, I will blow on a cup so that you may drink it comfortably.|
+|1119005|111901|1|5|1|6.7|5|I had a lucky first dream of the year in which I was serving you, my lord. It would make me happy if I appeared in yours as well...|
+|1119006|111931|1|1|1|0|1|Each motion of this dance expresses my feelings for you,\nmy lord. I am an amateur in this art, but I hope you will watch me.|
+|1119007|111931|1|2|1|0|1|I see the spirits are dancing happily in response to the feelings I expressed. Did you also enjoy the performance, my lord?|
+|1119008|111931|1|3|1|0|1|Spending a private moment\nwith my lord upon this beautiful stage... I could not ask for a more wonderful New Year's gift.|
+|1119009|111931|1|4|1|0|1|My New Year's resolution, you ask? Naturally, I am resolved to guide my lord just as faithfully... no, more so than ever before.|
+|1119010|111931|1|5|1|0|1|When I dance while thinking of you, my lord, it warms my heart and body alike. I only wish that I could share this warmth with you.|
+|1119011|111901|2|6|2|5.9|5|Happy birthday to you, my lord.\nIf... if I may be so presumptuous,\nI would be honored if we could spend this special day together...|
+|1119012|111931|2|6|1|0|1|Today is an auspicious day for you, my lord. Please allow me to celebrate it through this dance.\nI wish you all the joy in the world.|
+|1120001|112001|1|1|1|4|2|What? You wanna play hanetsuki with me? Sure, but I won't hold back! Your face is gonna be so covered in ink!|
+|1120002|112001|1|2|5|4.6|1|Happy New Year.\nI guess I wish you all the best.\nThough I'm guessing this year will be another bumpy ride...|
+|1120003|112001|1|3|4|7.8|6|Why's everyone so lively at the start of the year? I just wanna snooze at home... N-no—I'm not saying I hate being around you!|
+|1120004|112001|1|4|3|5.5|2|This kimono suits me? A-as if I need you to tell me that! Still...\nI guess you've got good taste. Heheh. Feels good to be loved!|
+|1120005|112001|1|5|1|5.9|5|I bought a fortune slip, and it said "The one you seek is already by your side." It doesn't mean... you, does it? G-get away from me!|
+|1120006|112031|1|1|1|0|1|It's a once-a-year chance, so let's make tons of wishes! What are you gonna wish for? ...Good fortune for me? H-huh... R-really?|
+|1120007|112031|1|2|1|0|1|Temple trails are pretty cool at night. And it's not scary when I'm with you... Wait! I can handle the dark! Don't get the wrong idea!|
+|1120008|112031|1|3|1|0|1|C'mon, hurry up. If you're tired already, I can always hold your hand... Wait, you really want to do that?! W-well, fine, I guess...|
+|1120009|112031|1|4|1|0|1|We're just visiting a plain old temple, so why does it feel special? Is it the kimono?\nOr is it... because I'm with you?|
+|1120010|112031|1|5|1|0|1|It's so quiet here... We haven't wandered onto the wrong path, right?! Well, I guess we can take our time. Let's just keep walking.|
+|1120011|112001|2|6|1|5.7|4|Happy birthday!\nI bought you a cake, so let's dig into it together, shall we?\nI didn't poison it or anything.|
+|1120012|112031|2|6|1|0|1|Hope you're having a good birthday. I-I did bring a present for the occasion, okay? I'd better see you looking nice and grateful!|
+|1121001|112101|1|1|2|5.9|1|Oh, you're visiting the temple too? As you can see, I'm a shrine maiden today! I'm helping out here for the New Year's season.|
+|1121002|112101|1|2|2|2.7|1|This outfit's so cute, isn't it? ♪\nI don't usually get the chance to dress up as a shrine maiden, so it's such a fresh experience!|
+|1121003|112101|1|3|1|5.2|2|There are all sorts of protective charms available here, so you should look around. I bought a charm for household safety!|
+|1121004|112101|1|4|4|4.5|5|Ahhh... It's so cold my hands are freezing. W-wah?! Um... When you grab my hands so suddenly, it's a little bit embarrassing...|
+|1121005|112101|1|5|1|3.4|6|Would you like some amazake?\n...Huh? You'll share a cup with me?! U-u-um! I'm working right now, so I... I'm f-fine, thank you!|
+|1121006|112131|1|1|1|0|1|Oh, good morning! Are you visiting the temple today?\nI'm just cleaning the grounds!\nSee—doesn't it all look pristine?!|
+|1121007|112131|1|2|1|0|1|It'll be time for my break soon,\nso shall I join you on your visit?\nI can show you all the great spots the temple staff taught me about!|
+|1121008|112131|1|3|1|0|1|Well then, let me just finish up this... Huh? Look out? For what?\nWahhh! It's falling over!\nWait—stop—waaaaghhh!|
+|1121009|112131|1|4|1|0|1|My love fortune said the funniest thing this year—"Romance can be found close by." ...Wait! N-no, I didn't mean to imply anything!|
+|1121010|112131|1|5|1|0|1|What did your love fortune say?\n...Hm? "Romance may begin from failure"? I don't suppose that could mean... N-no, it's nothing!|
+|1121011|112101|2|6|2|5.1|6|A very happy birthday to you!\nI brought a present just for...\nWait, huh...? Where did it go?!\nOh no, I think I left it at home!|
+|1121012|112131|2|6|1|0|1|It's your birthday today, isn't it?\nHappy birthday! Let me give you a special charm to guarantee a prosperous year ahead!|
+|1122001|112201|1|1|6|6.4|4|W-wait, when I transform,\neven my hairstyle is different?\nWhat's the logic behind this?!\n*sigh* Best not to think about it...|
+|1122002|112201|1|2|1|5.9|5|Magical Detective Misty★\nKasumi...This is actually kind\nof fun! ...Wait—dear assistant?!\nF-forget you heard that just now!|
+|1122003|112201|1|3|4|5.1|1|Urgh... I can feel people staring...\nOh—are you guarding me from their gazes, my assistant? Thank\nyou. Heh... It's like I'm a princess.|
+|1122004|112201|1|4|1|3|4|Misty, Theory, Truly!\n*sigh*... I don't know how\nto feel about the fact that\nI'm getting used to this.|
+|1122005|112201|1|5|5|6.3|1|Just walking down the street gets me surrounded by kids... Magical girls sure are popular. Tell me, my assistant, are you a fan of them?|
+|1122006|112231|1|1|1|0|1|Misty, Theory, Truly! Magical Ribbon, Spiral! Magical Detective Misty★Kasumi! With a wave of my wand, I'm on the case!|
+|1122007|112231|1|2|1|0|1|Th-this really is embarrassing...\nPlease try not to stare too much.\nH-hey! Get back! Not so close!\nUrgh... Do I need to arrest you?!|
+|1122008|112231|1|3|1|0|1|I feel a great power welling from within me. But fighting in this costume feels... unsettling, with the skirt flapping around and all...|
+|1122009|112231|1|4|1|0|1|Your verdict, my dear assistant?\nDo I look the part of a magical girl? I could never go all out like this in front of anyone but you...|
+|1122010|112231|1|5|1|0|1|A magical girl and her partner...\nA detective and her assistant...\nIt seems the tides of destiny don't want us to stay apart. Heheh! ♪|
+|1122011|112201|2|6|1|5.9|2|Isn't it your birthday, my dear assistant? I'll finish my magical girl duties in no time, so let's celebrate together afterwards! ♪|
+|1122012|112231|2|6|1|0|1|With a wave of my wand, I'm on the case! ...I-I thought I'd give you a private transformation for your birthday. D-did you like it?|
+|1123001|112301|1|1|2|0|2|I've become a real magical girl!\nDoes this mean I'll be able to help lots of people just like my sister?\nI hope so... Eheheh...|
+|1123002|112301|1|2|1|5.4|2|Since becoming a magical girl,\nmy health has been much less of a problem for me. It's like a miracle out of a fantasy novel...|
+|1123003|112301|1|3|2|2.8|5|I've always looked up to magical girls. Even if their costumes can be, um... a little bit embarrassing.|
+|1123004|112301|1|4|1|5|4|I know I have to work hard to become a capable magical girl... but I don't want to sacrifice my precious reading time...!|
+|1123005|112301|1|5|6|5|2|I was just walking through Landosol, and I found myself surrounded by children. I have to work hard to keep them all safe...|
+|1123006|112331|1|1|1|0|1|Pure Heart Lock-On! Magical Arrow: Critical! Magical Huntress Purely★Shiori! My arrows of love won't miss your heart!|
+|1123007|112331|1|2|1|0|1|I will defend peace in Landosol.\nWith the power of love and hope welling up from deep within me... my arrows of love can't fail!|
+|1123008|112331|1|3|1|0|1|Leave this to me!\nI'll defeat the Antibeasts and rescue everyone's smiles!|
+|1123009|112331|1|4|1|0|1|I think becoming a magical girl has given me a little more confidence. I'm ready to protect this city. And that includes you...|
+|1123010|112331|1|5|1|0|1|As long as the Antibeasts keep attacking, we magical girls will fight on. Please stay by my side... Your presence gives me strength!|
+|1123011|112301|2|6|2|0|2|It's your birthday today, isn't it?\nEheh... Of course I remember.\nI should cast some special magic to celebrate!|
+|1123012|112331|2|6|1|0|1|Happy birthday to you.\nI hope this isn't the last time we celebrate it together. I want to do this every year...|
+|1124001|112401|1|1|1|3.8|2|Even a thousand-mile journey begins with a single step, right? To become a great idol someday, I'll work hard at my lessons!|
+|1124002|112401|1|2|6|4.6|4|My adventuring skills? I'm not all that confident in them, actually...\nI only have average reflexes, so I don't know if I can hold my own...|
+|1124003|112401|1|3|2|2.6|1|I'm just about to practice my dance skills! Will you watch my performance and tell me if I'm doing anything wrong?|
+|1124004|112401|1|4|5|9.6|2|When I'm humming randomly to myself, sometimes I feel like the melody sounds very precious and nostalgic... Isn't that strange?|
+|1124005|112401|1|5|3|3|4|Yahhh! Hahhh! Hmm, when you're swinging a sword, is it best to try to bring it down on top of the enemy's head?|
+|1124006|112431|1|1|1|0|1|This isn't a dream, right...?\nI can't believe I have this kind of power... I feel like the heroine of a fairy tale, under a magic spell!|
+|1124007|112431|1|2|1|0|1|It's like I've been transformed into a princess... no, a valiant hero!\nBut I guess bravely forging a path forward is what idols do too!|
+|1124008|112431|1|3|1|0|1|I'm really just your average girl, but I know I have a sparkling glow that's mine and mine alone!\nAfter all... I'm an idol!|
+|1124009|112431|1|4|1|0|1|Wouldn't it be amazing if I could summon a legendary sword?!\nMaybe if I wish hard enough...\nMmnhh...! ...I-it was worth a try...|
+|1124010|112431|1|5|1|0|1|I know! I should think up a cool special attack, just like Rin does! Let's see... "Bravely! Brightly! Pink Lively!" ...How's that?|
+|1124011|112401|2|6|1|4.7|2|The others told me what day it is today! Happy birthday!\nI'm sure you've got another wonderful year ahead of you!|
+|1124012|112431|2|6|1|0|1|Happy birthday to you! You've given me all sorts of help, so here's a present to say thank you for everything. I hope you like it!|
+|1125001|112501|1|1|6|5.4|1|I still don't really know if I'm cut out for this whole idol thing...\nbut I've decided I'm doing it,\nso I won't hold anything back.|
+|1125002|112501|1|2|1|4.9|6|I'm pretty confident in my skills as an adventurer. But being an idol is completely different, so I can't predict how this will go.|
+|1125003|112501|1|3|1|2.8|2|If idols need plenty of stamina...\ndoing practice swings with my sword should be good training as an idol and an adventurer, right?|
+|1125004|112501|1|4|6|11|3|Lazuli Leo! ...No, wait a minute.\nI need to focus on the image of my blade piercing the enemy...\nOne more time! Lazuli Leo!|
+|1125005|112501|1|5|1|6.7|2|I'm a little tired, so maybe I need to rest... Would you like some of this chocolate too? Eating candy helps you recover lost energy.|
+|1125006|112531|1|1|1|0|1|I won't falter, no matter who's in my way. I decided I'm not turning back, so I'll strike down any foe! Taste my Violet Blade! Hahhh!|
+|1125007|112531|1|2|1|0|1|Your mistake was taking me on. Maybe I didn't look like much to you... but I'm stronger than you'd think. An unlucky misjudgment.|
+|1125008|112531|1|3|1|0|1|Should I really be doing this\nwhen I'm aiming to be an idol?\n...Huh? Some people are fans of this too? I guess if you're sure...|
+|1125009|112531|1|4|1|0|1|Maybe it's time I tried coming up with a brand-new magic spell.\nI'll call it... Lapis... Turquoise...\nHmm, it's so tricky to choose...|
+|1125010|112531|1|5|1|0|1|You want to know why I chant these incantations? I suppose it just helps me visualize the magic. And, you know... it sounds cool.|
+|1125011|112501|2|6|2|7.5|1|So I hear it's your birthday today?\nThe others told me. Congrats.\nThey were planning celebrations too, so shall we join them?|
+|1125012|112531|2|6|1|0|1|Your birthday's today, isn't it?\nHere, have this present. It's not\nanything special, but... I wanted\nto thank you for all your help.|
+|1126001|112601|1|1|1|4.8|2|Adventuring and idol-ing—\nI'm gonna put everything I've got into them both! I can count on you to cheer me on, right~? ☆|
+|1126002|112601|1|2|2|5.9|1|Come on, let's get going! There are big adventures waiting for us!\nOh, and I've got lessons after that, so help me with those too!|
+|1126003|112601|1|3|6|2.6|1|Yup! Hup! ...Eheheh.\nI'm doing some extra practice!\nGotta put in the effort and get closer to being the ultimate idol!|
+|1126004|112601|1|4|1|9|6|Giving a loud, cheery greeting\nis a basic skill for any idol!\nReady, and... "Heyas!"\n...C'mon! That was way too quiet!|
+|1126005|112601|1|5|6|6.6|4|It's a shame that monster meat's never gone mainstream. It takes courage to try the first time, but once you do, it's good stuff...|
+|1126006|112631|1|1|1|0|1|Get ready for a show from the\nall-singing, all-dancing idol, Mio!\nWith a twinkle of my magic, I'll turn you all into my fans! ☆|
+|1126007|112631|1|2|1|0|1|When I dance and cast spells at the same time, I get so hyped up it's unreal! Gotta make the most of all my idol experience! ☆|
+|1126008|112631|1|3|1|0|1|Isn't this magic circle pretty?\nThe more intricately I draw it, the more stars pop out, and it's like a whole meteor shower! I love it!|
+|1126009|112631|1|4|1|0|1|I know! Try giving me a request, and I'll see if I can grant it! What kind of magic circle do you want me to cast? I'll abracadabra it up!|
+|1126010|112631|1|5|1|0|1|Smiles are a source of power! ☆\nLife can be tough sometimes,\nbut I never forget to smile!\nThat's the Mio way!|
+|1126011|112601|2|6|2|5.7|1|Whammity-bam! Happy birthday!\nIt's your big day today, right?\nC'mon, we can't let it go to waste! Let's all party together!|
+|1126012|112631|2|6|1|0|1|Happy birthday to you~!\nTo celebrate your step forward in life, here's a special Mio present!\nTake good care of it, OK? ☆|
+|1127001|112701|1|1|1|7.4|4|Me, doing work—now that's a crazy twist of fate.\nWell, I'll give it a decent shot.\nUgh, I wanna go home.|
+|1127002|112701|1|2|2|3.5|5|Can't deny sweet buns are tasty after a bit of hard work.\nThough they're also tasty when I don't work.|
+|1127003|112701|1|3|3|3.6|4|Hey, when's our next day off?\nUrgh... You're kidding...\nAll this working's gonna kill me!|
+|1127004|112701|1|4|1|5.9|2|You've helped me with all sorts of things since I started working. Maybe you haven't noticed, but I rely on you a whole bunch.|
+|1127005|112701|1|5|2|5.1|5|Whether I'm working or playing, lately it seems like I'm always with you. It's not so bad to have someone you can count on.|
+|1127006|112731|1|1|1|0|1|Nobody can match my skills in the woods! I'll show you how scary squirrels can be. C'mon, let's get this over with quickly.|
+|1127007|112731|1|2|1|0|1|Hmm? A job getting rid of monsters? Yeah yeah, I'll make short work of it. You just get the victory sweet buns ready.|
+|1127008|112731|1|3|1|0|1|Hey, do I look kind of cool?\nLike a total badass?\nMan, I'm gonna be so popular!\nThat sounds like a pain...|
+|1127009|112731|1|4|1|0|1|I'm getting used to this fighting stuff, but I still feel way more at ease when you're here with me.\n...So thanks for that.|
+|1127010|112731|1|5|1|0|1|My life's changed in ways I never expected, but you stay the same through it all. That's actually kind of reassuring.|
+|1127011|112701|2|6|6|6.6|7|Huh? It's your birthday today?\nI've been so busy I couldn't get you anything... F-for now, just take this shiny acorn, okay?!|
+|1127012|112731|2|6|1|0|1|Hey, happy birthday. Time to celebrate with games and sweet buns! C'mon, let's laze about and enjoy ourselves to the max.|
+|1128001|112801|1|1|1|3|3|Today, I'm the sacred guardian spirit of this farm!\nAin't nobody gonna lay a finger on this place while I'm on watch!|
+|1128002|112801|1|2|2|3.3|1|Gettin' stronger is great for my work 'round the farm! I've never liked fightin', but strength can be used to make people happy, too!|
+|1128003|112801|1|3|1|6.3|2|All the little 'uns seem to love my new getup! Even if it ain't with my jokes, I love puttin' smiles on people's faces!|
+|1128004|112801|1|4|6|5.4|5|L-look, I know I don't wear armor a whole lot, but when you stare that hard, it... it kinda makes me blush...|
+|1128005|112801|1|5|2|7.4|6|We ain't just a perfect comedy duo, we're in perfect sync in battle too! Maybe we oughtta tie the knot... N-no, it's nothing!|
+|1128006|112831|1|1|1|0|1|Try judgin' me by my looks, and you'll regret it. My body might be little, but the love in my heart is bigger than the open fields!|
+|1128007|112831|1|2|1|0|1|Just for today, I ain't goin' for laughs! I'll face any goon who thinks he can mess with my farm an' send him flying to the moon!|
+|1128008|112831|1|3|1|0|1|Maybe it's 'cause of all the hard work I do, but I feel pretty light on my feet in battle. Yeah, we'll be done here before breakfast!|
+|1128009|112831|1|4|1|0|1|To be honest with ya, I'm always scared of battle. But with a partner like you by my side, I can be just as strong as I need to!|
+|1128010|112831|1|5|1|0|1|If I get too strong, I worry the fellas won't find me so ladylike.\nI-if I struggle findin' a partner, would you... N-no, it's nothing!|
+|1128011|112801|2|6|1|5.2|2|A big happy birthday to ya!\nI made a cake and stuff to eat, but first, let's toast with a glass of milk straight from the cow!|
+|1128012|112831|2|6|1|0|1|Boy, I'm glad you could make it!\nI've got the farm decked out for a party in your honor, so come on in and have a great time!|
+|1804001|180401|1|1|2|4.5|1|Heyas! Would you like to come\non a walk with me? Just don't\ncall me "princess" or anything.\nI'm plain old Pecorine today! ☆|
+|1804002|180401|1|2|6|10.9|2|So tell me, what do you think of this special form? ...It looks really strong? Oh... that kind of answer. ...It's cute too? Eheheh. Perfect! ☆|
+|1804003|180401|1|3|1|7.1|2|It's kind of exciting, sneaking out of the palace just to see you! ♪\nThere aren't any guards here, so you'll have to protect me yourself!|
+|1804004|180401|1|4|4|4.2|1|Be honest—do you think I'm always thinking about food?\nWell, you're half right, but the other half... is all about you! ☆|
+|1804005|180401|1|5|2|7.7|6|I'm always happiest at a dinner table with you! ☆ Why don't you come live at the palace with me?\nOr would that be... a problem?|
+|1804006|180431|1|1|1|0|1|Full power, and beyond! ☆\nI'm not some feeble princess\nwho needs protecting. I'll fight\nfor this kingdom... and for you!|
+|1804007|180431|1|2|1|0|1|This form is super-duper strong, but it makes me hungrier than ever. Still, I guess that means...\nI get to enjoy even more food! ☆|
+|1804008|180431|1|3|1|0|1|I'm full of overwhelming power! With this strength, I'll protect everything that's precious to me!\nI won't lose any of it this time!|
+|1804009|180431|1|4|1|0|1|I can feel your energy more strongly than ever... It's warm, and makes my heart skip a beat. Eheheh... How crazy is that? ☆|
+|1804010|180431|1|5|1|0|1|I'm feeling hungry—aren't you?!\nCome on, let's go grab a nice, filling meal! We can eat together today, tomorrow, and every day!|
+|1804011|180401|2|6|1|8.1|5|Your birthday deserves a country-\nwide celebration! ...Or would you prefer something more private? Eheheh... That's so sweet! ☆|
+|1804012|180431|2|6|1|0|1|So, it's your birthday today, huh?\nI wish you a happy one!\nAnd also... thank you so much!\nFor coming into my life, I mean.|

@@ -1,0 +1,21 @@
+{
+    "hatsune_diary_data": [
+        {"diary_id":1,"contents_type":0,"diary_date":1,"sub_title":"What did I do to deserve this?","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/04 13:00:00","condition_story_id":5023000,"condition_boss_count":0},
+        {"diary_id":2,"contents_type":0,"diary_date":2,"sub_title":"Even greetings are beyond me...","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/04 13:00:00","condition_story_id":5023001,"condition_boss_count":0},
+        {"diary_id":3,"contents_type":0,"diary_date":3,"sub_title":"Kill me now!","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/04 13:00:00","condition_story_id":5023002,"condition_boss_count":0},
+        {"diary_id":4,"contents_type":0,"diary_date":4,"sub_title":"My thoughts on Yuni","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/05 13:00:00","condition_story_id":5023002,"condition_boss_count":0},
+        {"diary_id":5,"contents_type":0,"diary_date":5,"sub_title":"My thoughts on Chloe","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/05 13:00:00","condition_story_id":5023002,"condition_boss_count":0},
+        {"diary_id":6,"contents_type":0,"diary_date":6,"sub_title":"My thoughts on Chieru","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/05 13:00:00","condition_story_id":5023002,"condition_boss_count":0},
+        {"diary_id":7,"contents_type":0,"diary_date":7,"sub_title":"Yuni the Intellectual","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/06 13:00:00","condition_story_id":5023003,"condition_boss_count":0},
+        {"diary_id":8,"contents_type":0,"diary_date":8,"sub_title":"Chloe the Kindhearted","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/06 13:00:00","condition_story_id":5023003,"condition_boss_count":0},
+        {"diary_id":9,"contents_type":0,"diary_date":9,"sub_title":"Chieru the Incredible","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/06 13:00:00","condition_story_id":5023003,"condition_boss_count":0},
+        {"diary_id":10,"contents_type":0,"diary_date":10,"sub_title":"Preparing for my presentation","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/07 13:00:00","condition_story_id":5023003,"condition_boss_count":0},
+        {"diary_id":11,"contents_type":0,"diary_date":11,"sub_title":"The moment of truth...","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/07 13:00:00","condition_story_id":5023004,"condition_boss_count":0},
+        {"diary_id":12,"contents_type":0,"diary_date":12,"sub_title":"The BB Brigade's amazing leader!","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/07 13:00:00","condition_story_id":5023005,"condition_boss_count":0},
+        {"diary_id":13,"contents_type":0,"diary_date":13,"sub_title":"Mandragora on the loose!","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/07 13:00:00","condition_story_id":5023006,"condition_boss_count":0},
+        {"diary_id":14,"contents_type":0,"diary_date":14,"sub_title":"My final day...","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/18 13:00:00","condition_story_id":5023006,"condition_boss_count":1},
+        {"diary_id":15,"contents_type":1,"diary_date":0,"sub_title":"","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/18 23:00:00","condition_story_id":5023000,"condition_boss_count":0},
+        {"diary_id":16,"contents_type":1,"diary_date":0,"sub_title":"","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/18 23:00:00","condition_story_id":5023000,"condition_boss_count":0},
+        {"diary_id":17,"contents_type":1,"diary_date":0,"sub_title":"","forced_release_time":"2030/01/01 1:00:00","condition_time":"2022/08/18 23:00:00","condition_story_id":5023000,"condition_boss_count":0}
+    ]
+}

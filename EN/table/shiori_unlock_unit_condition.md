@@ -1,0 +1,2 @@
+|id|unit_id|event_id|condition_mission_id|top_description|description_1|description_2|
+| --- | --- | --- | --- | --- | --- | --- |

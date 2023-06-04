@@ -1,0 +1,31 @@
+|ailment_id|ailment_action|ailment_detail_1|ailment_name|
+| --- | --- | --- | --- |
+|1|8|1|Slow|
+|2|8|2|Haste|
+|3|8|3|Paralyze|
+|4|8|4|Freeze|
+|5|8|5|Bind|
+|6|8|6|Sleep|
+|7|8|7|Stun|
+|8|8|8|Petrify|
+|9|8|9|Confine|
+|10|9|0|Confine (Damage)|
+|11|9|1|Poison|
+|12|9|2|Burn|
+|13|9|3|Curse|
+|14|11|0|Charm|
+|15|12|-1|Blind|
+|16|13|0|Silence|
+|17|30|-1|Death|
+|18|3|-1|Knock(ed) back|
+|19|11|1|Confusion|
+|20|9|4|Venom|
+|21|56|-1|Clairvoyance|
+|22|59|-1|Chronic|
+|23|61|-1|Panic|
+|24|60|-1|(Gain) Crest|
+|25|62|-1|Cower|
+|26|69|-1|Reindeerification|
+|27|8|10|Daze|
+|28|9|5|Scourge|
+|29|70|-1|HP Change|

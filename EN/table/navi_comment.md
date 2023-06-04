@@ -1,0 +1,75 @@
+|comment_id|where_type|character_id|face_type|character_name|description|voice_id|start_time|end_time|pos_x|pos_y|change_face_time|change_face_type|event_id|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|7001|7|106001|1|Karyl|Doesn't hurt to work\ntogether sometimes,\nI guess. I'll lend you\na hand, too.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|7002|7|105901|1|Kokkoro|Here you can work together with\nothers and engage in battle.\nI am certain you will play\na very active role, my lord.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|7003|7|105801|1|Pecorine|This is a Co-op Battle\nwhere you play together\nwith lots of people!\nGood luck! ☆|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|10001|10|106001|1|Karyl|Think carefully\nwhen spending Jewels.\nDon't waste them!|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|10002|10|105901|1|Kokkoro|My lord, you can purchase\nvaluable items using Jewels.\nHowever, you must be\ncareful not to overspend.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|10003|10|105801|1|Pecorine|Jewels can be exchanged\nfor delicious fo—\nI mean, valuable items!|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|12001|12|105801|1|Pecorine|You can receive rewards\nwhen you achieve\ncertain goals!\nGood luck! ♪|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-416.5|0|0|1|0|
+|13001|13|106001|1|Karyl|Looks like it's full of\nmemories. We've been\nthrough a lot, but it doesn't\nhurt to look back sometimes.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|13002|13|105901|1|Kokkoro|Here we can look back\nagain and again...\non our happy days\ntogether! ♪|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|13003|13|105801|1|Pecorine|You can relive your memories\nwith all the girls in your life!\nWhoop, whoop! ♪\nWay to go, Mr. Popular! ☆|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|14001|14|106001|1|Karyl|You can also receive\nitems by clearing\nquests.\nLet's take all we can!|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|14002|14|105901|1|Kokkoro|In this quest, you can earn\nitems required for Training.\nI will become stronger\nfor you, my lord.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|14003|14|105801|1|Pecorine|You'll receive some nice items\nfor clearing this quest!\nCollect as many as you\ncan and get super strong!|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|15001|15|105901|1|Kokkoro|My lord, let us prepare\nfor our journey.\nIt will make for an even\nmore fulfilling adventure.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-470|0|0|1|0|
+|16001|16|106001|1|Karyl|Looks like you can join\na Clan.\nWhy not give it a try?\nCould be a lot of fun! ♪|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|16002|16|105901|1|Kokkoro|You can join a Clan here.\nThere are so many\nwonderful Clans,\nit is difficult to choose.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|16003|16|105801|1|Pecorine|Want to join a Clan?\nIt's a lot more fun\ngoing on adventures\nas a team!|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|17002|17|105901|1|Kokkoro|Here you can look back\nat the activities of\nfriends who participated\nin Clan Battles.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|17004|25|106001|1|Karyl|Looks like you can\nsave Battle Records\nof your favorite\npractice runs.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|17005|25|105901|1|Kokkoro|My lord, your activities\nin this Clan Battle have\nbeen recorded. You can now\nreview them for future battles.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|17006|25|105801|1|Pecorine|You can go over your\nBattle Record for this\nClan Battle!\nLet me have a look too!|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|18001|18|190801|1|Karin|Hello there!\nIn this section, you can choose\nnew music to play on your home\nscreen or in the guildhouse!|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|18002|18|190801|1|Karin|If you're looking to change the\nBGM or buy new tracks, you've\ncome to the right place! We have\na wide selection available!|2|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|19001|19|190801|1|Karin|You can choose all sorts of tracks\nto play on your home screen or in\nthe guildhouse! Why don't you\nshow me some of your favorites?|3|2015/12/17 15:00:00|2030/12/17 14:59:59|-470|0|0|1|0|
+|19002|19|190801|1|Karin|This is where you can change\nyour background music settings!\nWhat kind of track are you after?\nHaha, I can't wait to hear it!|4|2015/12/17 15:00:00|2030/12/17 14:59:59|-470|0|0|1|0|
+|20001|20|190801|1|Karin|This is where you can purchase\nnew music tracks to use!\nYou can listen to a sample first,\nso feel free to take your time.|5|2015/12/17 15:00:00|2030/12/17 14:59:59|-470|0|0|1|0|
+|20002|20|190801|1|Karin|Always a pleasure to see you!\nWelcome to the music store.\nThere are so many lovely tracks,\nit can be hard to choose, can't it?|6|2015/12/17 15:00:00|2030/12/17 14:59:59|-470|0|0|1|0|
+|21001|21|106001|1|Karyl|Looks like the items found here\nare useful for crafting Unique\nEquipment. Once you've got\nenough, let's try it out ourselves!|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|21002|21|105901|1|Kokkoro|It seems these quests may yield\nsome rather rare resources.\nWe can use them to craft\nUnique Equipment, my lord.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|21003|21|105801|1|Pecorine|If we collect enough items here,\nwe might be able to make some\nUnique Equipment! This is our\nchance to get even stronger!|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|24001|24|109001|1|Eriko (Valentine)|How could a chocolate cake\nthat you helped create\nbe anything other than delicious?|1|2022/01/23 3:00:00|2030/12/17 14:59:59|-385|8|4.08|2|10011|
+|24002|24|109001|1|Eriko (Valentine)|There must be some mistake.\nMy love would never produce\nanything less than perfect.\nLet's try again, shall we?|2|2022/01/23 3:00:00|2030/12/17 14:59:59|-385|8|5|2|10011|
+|24003|24|109001|1|Eriko (Valentine)|To think you would help me\ncreate the very cake I was baking\nfor your sake... Teehee.|3|2022/01/23 3:00:00|2030/12/17 14:59:59|-385|8|10.11|2|10011|
+|24004|24|109001|1|Eriko (Valentine)|There's nothing for you to be\nashamed of. I'll be happy to teach\nyou all the necessary techniques,\nno matter how long it may take...|4|2022/01/23 3:00:00|2030/12/17 14:59:59|-385|8|4|2|10011|
+|24005|24|109001|1|Eriko (Valentine)|You don't think you were quite on\nform today? Ah, but I would eat\nanything that was made by your\nhands, my love... Teehee.|5|2022/01/23 3:00:00|2030/12/17 14:59:59|-385|8|6|2|10011|
+|24006|24|109002|1|Eriko (Valentine)|Any cake that you make is\na priceless treasure to me.\nIf anyone disrespects it,\nI will swiftly end their lives.|6|2022/01/23 3:00:00|2030/12/17 14:59:59|0|0|0|1|10011|
+|24007|24|109002|1|Eriko (Valentine)|Oh, what a wonderful creation\nyou have brought into the world!\nFinally, a chocolate cake that is\ntruly worthy of my beloved!|7|2022/01/23 3:00:00|2030/12/17 14:59:59|0|0|0|1|10011|
+|24008|24|109002|1|Eriko (Valentine)|Now that we have made this cake\ntogether, you are fully ensnared\nin my charms... Let me whisk you\naway to a world of sweetness.|8|2022/01/23 3:00:00|2030/12/17 14:59:59|0|0|0|1|10011|
+|24009|24|109002|1|Eriko (Valentine)|I must savor every last morsel\nof this symbol of your passion.\nThe first of many fruits\nour love will bear... Teehee.|9|2022/01/23 3:00:00|2030/12/17 14:59:59|0|0|0|1|10011|
+|24010|24|109002|1|Eriko (Valentine)|This is the finest chocolate cake\nthe world has ever seen.\nAfter all, it is the one that you\nput your heart and soul into.|10|2022/01/23 3:00:00|2030/12/17 14:59:59|0|0|0|1|10011|
+|24011|24|109101|1|Shizuru (Valentine)|Aw, are you disappointed by\nhow it turned out? Don't worry,\nI'm just happy you did your best.\nYour big sis is here for you!|1|2022/01/23 3:00:00|2030/12/17 14:59:59|-385|8|2.12|2|10011|
+|24012|24|109101|5|Shizuru (Valentine)|Hmm, I think you might have let\nyour nerves get the better of you.\nLet's try again, shall we?|2|2022/01/23 3:00:00|2030/12/17 14:59:59|-385|8|4.19|2|10011|
+|24013|24|109101|2|Shizuru (Valentine)|What a good little brother,\nhelping your big sis with her\nbaking! Oh, but no sneaking any\nbites yet, you hear?|3|2022/01/23 3:00:00|2030/12/17 14:59:59|-385|8|2.3|4|10011|
+|24014|24|109102|1|Shizuru (Valentine)|Ooh, look! The cake has turned\na perfect golden brown!\nYou're so good at this!|4|2022/01/23 3:00:00|2030/12/17 14:59:59|0|0|0|1|10011|
+|24015|24|109101|5|Shizuru (Valentine)|It's all right! Don't look so down.\nThe cake may look a little...\nunique, but I'm sure it tastes\nperfectly delicious!|5|2022/01/23 3:00:00|2030/12/17 14:59:59|-385|8|5.23|2|10011|
+|24016|24|109102|1|Shizuru (Valentine)|This cake is almost as cute\nas my little bro!\nOh, I can't wait to eat it all up!|6|2022/01/23 3:00:00|2030/12/17 14:59:59|0|0|0|1|10011|
+|24017|24|109101|1|Shizuru (Valentine)|What's this? I think you've got\nchocolate on your fingers there.\nHere, let your big sis lick them\nnice and clean! Mmmm~!|7|2022/01/23 3:00:00|2030/12/17 14:59:59|-385|8|5.01|2|10011|
+|24018|24|109102|1|Shizuru (Valentine)|I think we did a pretty good job!\nBut I'm sure this isn't the best\nmy little bro is capable of!\nYour big sis always knows!|8|2022/01/23 3:00:00|2030/12/17 14:59:59|0|0|0|1|10011|
+|24019|24|109102|1|Shizuru (Valentine)|Wow, this looks super delicious!\nYou were such a good helper,\nit felt as though the cake just\ncame together like magic!|9|2022/01/23 3:00:00|2030/12/17 14:59:59|0|0|0|1|10011|
+|24020|24|109102|1|Shizuru (Valentine)|Aaahhh, a chocolate cake full of\nmy little bro's hard work!\nNo wonder it looks so delicious!|10|2022/01/23 3:00:00|2030/12/17 14:59:59|0|0|0|1|10011|
+|26001|26|106001|1|Karyl|These areas are pretty mystical.\nWe should be able to find some\ngreat treasure here, but we could\nalso get hurt if we're not careful.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|26002|26|105901|1|Kokkoro|The ruins ahead seem to be\nancient places of worship.\nWe should steel ourselves if we\nare to seek the treasures within.|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|26003|26|105801|1|Pecorine|Looks like we're heading into\nsacred territory, huh?\nI can't wait to see what crazy\ntreasures we'll find here!|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|27001|27|106001|1|Karyl|Looks like the items we find here\nwill help us unlock our true\npotential! Come on, let's get\nstronger than ever before!|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|27002|27|105901|1|Kokkoro|This place conceals resources\nthat will allow us to tap into our\nhidden potential. My lord, where\nshould we begin our search?|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|27003|27|105801|1|Pecorine|Apparently there are items here\nthat'll let us unlock our own\nhidden strength! Where do you\nthink we should start looking?!|1|2015/12/17 15:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|28001|28|190801|1|Karin|Welcome!\nThe Guild Association is here\nto support you in all your\nsocial endeavors!|1|2022/08/26 13:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|28002|28|190801|1|Karin|I'm your Guild Association\nrepresentative, and this is where\nyou can keep track of all the\nfriends you've made!|2|2022/08/26 13:00:00|2030/12/17 14:59:59|-363|0|0|1|0|
+|29001|29|190801|1|Karin|These are all the friends\nyou've made so far.\nI hope you'll support one another\nin your adventures!|3|2022/08/26 13:00:00|2030/12/17 14:59:59|-409|0|0|1|0|
+|29002|29|190801|1|Karin|Select a friend from the list\nto view their profile in detail!|4|2022/08/26 13:00:00|2030/12/17 14:59:59|-409|0|0|1|0|
+|30001|30|190801|1|Karin|This is where you can\nmanage your friend list.\nI hope you'll meet plenty\nof wonderful new people!|5|2022/08/26 13:00:00|2030/12/17 14:59:59|-409|0|0|1|0|
+|30002|30|190801|1|Karin|You can send friend requests\nor accept those you've received.\nIsn't it wonderful to get along?|6|2022/08/26 13:00:00|2030/12/17 14:59:59|-409|0|0|1|0|
+|31001|31|190801|1|Karin|Test your strength against\nyour friends' best parties!\nIsn't it wonderful to spur\none another to new heights?|7|2022/10/02 13:00:00|2030/12/17 14:59:59|-409|0|0|1|0|
+|31002|31|190801|1|Karin|Select the party you'd like\nto try facing in battle!\nI can't wait to see which\nstrategy comes out on top!|8|2022/10/02 13:00:00|2030/12/17 14:59:59|-409|0|0|1|0|
+|32001|32|190801|1|Karin|We've prepared some special\nmissions to support our\nup-and-coming rookies!\nWhy don't you give them a try?|1|2022-11-25 13:00:00|2022-12-11 12:59:59|-409|0|0|1|0|
+|32002|32|190801|1|Karin|There's a time-limited campaign\nin progress right now!\nDon't forget to complete\nas many missions as you can!|2|2022-11-25 13:00:00|2022-12-11 12:59:59|-409|0|0|1|0|
+|33001|33|190801|1|Karin|Try helping out beginner players\nby adding them as friends!\nYour good deeds might earn you\nsome shiny rewards!|3|2022-11-25 13:00:00|2022-12-11 12:59:59|-409|0|0|1|0|
+|33002|33|190801|1|Karin|There's a time-limited campaign\nin progress right now!\nDon't forget to complete\nas many missions as you can!|4|2022-11-25 13:00:00|2022-12-11 12:59:59|-409|0|0|1|0|
+|34001|34|190801|1|Karin|Thank you for participating!\nAny rewards you haven't claimed\nare still available to collect!|5|2022-12-11 13:00:00|2022-12-17 19:59:59|-409|0|0|1|0|
+|34002|34|190801|1|Karin|This is the right place to pick up\nany rewards you haven't claimed!\nDon't forget to collect them\nwhile they're still available!|6|2022-12-11 13:00:00|2022-12-17 19:59:59|-409|0|0|1|0|
+|38001|38|105801|1|Pecorine|It looks like you can enjoy past\nstory events at your leisure!\nIf there are any you missed out\non, why not give them a try? ♪|1|2023/02/17 13:00:00|2030/12/17 14:59:59|-458|0|5.3|2|0|
+|38002|38|105801|1|Pecorine|You can grab any exclusive\ncharacters you missed out on,\nor collect all sorts of Memory\nShards! How crazy is that?! ☆|2|2023/02/17 13:00:00|2030/12/17 14:59:59|-458|0|6.5|2|0|
+|39005|39|105801|3|Pecorine||0|2023/04/01 00:00:00|2023/04/08 23:59:59|9999|9999|0|3|0|

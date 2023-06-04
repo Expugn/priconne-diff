@@ -1,0 +1,2 @@
+|id|growth_id|unit_id|
+| --- | --- | --- |

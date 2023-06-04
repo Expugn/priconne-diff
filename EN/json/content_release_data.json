@@ -1,0 +1,33 @@
+{
+    "content_release_data": [
+        {"system_id":101,"team_level":1,"story_id":0,"quest_id":0,"dialog":""},
+        {"system_id":102,"team_level":1,"story_id":0,"quest_id":11002008,"dialog":"To unlock, clear Main Quest 2-8 (NORMAL)"},
+        {"system_id":103,"team_level":1,"story_id":0,"quest_id":11002005,"dialog":"To unlock,\\nclear Main Quest\\n2-5 (NORMAL)"},
+        {"system_id":104,"team_level":1,"story_id":0,"quest_id":11002012,"dialog":"To unlock,\\nclear Main Quest\\n2-12 (NORMAL)"},
+        {"system_id":107,"team_level":1,"story_id":0,"quest_id":11003001,"dialog":"To unlock, clear Main Quest 3-1 (NORMAL)"},
+        {"system_id":108,"team_level":1,"story_id":0,"quest_id":11009001,"dialog":"To unlock, clear Main Quest 9-1 (NORMAL)"},
+        {"system_id":109,"team_level":1,"story_id":0,"quest_id":11009002,"dialog":"To unlock, clear Main Quest 9-2 (NORMAL)"},
+        {"system_id":110,"team_level":1,"story_id":0,"quest_id":11001005,"dialog":"To unlock, clear Main Quest 1-5 (NORMAL)"},
+        {"system_id":111,"team_level":1,"story_id":0,"quest_id":12018001,"dialog":"To unlock, clear Main Quest 18-1 (HARD)"},
+        {"system_id":112,"team_level":1,"story_id":0,"quest_id":11018005,"dialog":"To unlock, clear Main Quest 18-5 (NORMAL)"},
+        {"system_id":201,"team_level":1,"story_id":0,"quest_id":0,"dialog":""},
+        {"system_id":202,"team_level":1,"story_id":0,"quest_id":11004006,"dialog":"To unlock, clear Main Quest 4-6 (NORMAL)"},
+        {"system_id":203,"team_level":1,"story_id":0,"quest_id":11008015,"dialog":"To unlock, clear Main Quest 8-15 (NORMAL)"},
+        {"system_id":204,"team_level":1,"story_id":0,"quest_id":11002012,"dialog":"To unlock, clear Main Quest 2-12 (NORMAL)"},
+        {"system_id":205,"team_level":1,"story_id":0,"quest_id":11003001,"dialog":"To unlock, clear Main Quest 3-1 (NORMAL)"},
+        {"system_id":206,"team_level":1,"story_id":0,"quest_id":11004013,"dialog":"To unlock, clear Main Quest 4-13 (NORMAL)"},
+        {"system_id":207,"team_level":1,"story_id":0,"quest_id":0,"dialog":""},
+        {"system_id":210,"team_level":1,"story_id":0,"quest_id":0,"dialog":""},
+        {"system_id":401,"team_level":1,"story_id":0,"quest_id":11004006,"dialog":"To unlock,\\nclear Main Quest\\n4-6 (NORMAL)"},
+        {"system_id":402,"team_level":1,"story_id":0,"quest_id":11008015,"dialog":"To unlock,\\nclear Main Quest\\n8-15 (NORMAL)"},
+        {"system_id":503,"team_level":1,"story_id":0,"quest_id":11002002,"dialog":"To unlock, clear Main Quest 2-2 (NORMAL)"},
+        {"system_id":506,"team_level":1,"story_id":0,"quest_id":11003005,"dialog":"To unlock, clear Main Quest 3-5 (NORMAL)"},
+        {"system_id":601,"team_level":1,"story_id":0,"quest_id":11002001,"dialog":"To unlock, clear Main Quest 2-1 (NORMAL)"},
+        {"system_id":602,"team_level":1,"story_id":0,"quest_id":11007001,"dialog":"To unlock, clear Main Quest 7-1 (NORMAL)"},
+        {"system_id":603,"team_level":1,"story_id":0,"quest_id":11016014,"dialog":"To unlock, clear Main Quest 16-14 (NORMAL)"},
+        {"system_id":701,"team_level":1,"story_id":0,"quest_id":11003001,"dialog":"To unlock, clear Main Quest 3-1 (NORMAL)"},
+        {"system_id":904,"team_level":1,"story_id":0,"quest_id":11002009,"dialog":"To unlock, clear Main Quest 2-9 (NORMAL)"},
+        {"system_id":906,"team_level":1,"story_id":0,"quest_id":0,"dialog":""},
+        {"system_id":8001,"team_level":1,"story_id":0,"quest_id":11003002,"dialog":"To unlock, clear Main Quest 3-2 (NORMAL)"}
+    ]
+}

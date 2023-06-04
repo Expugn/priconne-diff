@@ -1,0 +1,7 @@
+|id|minigame_scheme_id|event_id|release_conditions_1|conditions_id_1|first_time_story_id|display_condition_type|display_condition_id|
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|1|1001|10011|2|10011105|0|0|0|
+|2|1002|10015|2|10015103|0|0|0|
+|3|1003|10021|2|10021108|5021700|0|0|
+|4|1004|10027|3|5027007|5027700|0|0|
+|5|1005|10040|2|10040105|5040700|0|0|

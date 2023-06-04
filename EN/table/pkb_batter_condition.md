@@ -1,0 +1,2 @@
+|batter_id|pkb_score|name|detail|meet|critical|power|ability_name|ability_detail|is_playable|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

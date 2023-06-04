@@ -1,0 +1,15 @@
+{
+    "tower_story_data": [
+        {"story_group_id":7001,"story_type":7,"value":1,"title":"Where Lost Memories Lie","thumbnail_id":0,"disp_order":1,"start_time":"2021/09/10 13:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7002,"story_type":7,"value":2,"title":"The Sisters' Wishes","thumbnail_id":0,"disp_order":1,"start_time":"2021/10/13 13:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7003,"story_type":7,"value":3,"title":"Duet of the Stars","thumbnail_id":0,"disp_order":1,"start_time":"2021/11/10 13:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7004,"story_type":7,"value":4,"title":"Big Bro Booking","thumbnail_id":0,"disp_order":1,"start_time":"2022/01/05 13:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7005,"story_type":7,"value":5,"title":"Haunted House, Hidden Hearts","thumbnail_id":0,"disp_order":1,"start_time":"2022/02/05 13:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7006,"story_type":7,"value":6,"title":"Of Bonds and Pride","thumbnail_id":0,"disp_order":1,"start_time":"2022/04/17 13:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7007,"story_type":7,"value":7,"title":"Gale Chronicles: Legend of the Vampire","thumbnail_id":0,"disp_order":1,"start_time":"2022/06/16 13:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7008,"story_type":7,"value":8,"title":"Sweet Little Sisters","thumbnail_id":0,"disp_order":1,"start_time":"2022/08/19 13:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7009,"story_type":7,"value":9,"title":"Fluffy Fairy-Tale Adventure","thumbnail_id":0,"disp_order":1,"start_time":"2022/10/17 13:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7010,"story_type":7,"value":10,"title":"Teachers' Guidance","thumbnail_id":0,"disp_order":1,"start_time":"2022/12/18 13:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7011,"story_type":7,"value":11,"title":"Road to Ninja Swordsmanship","thumbnail_id":0,"disp_order":1,"start_time":"2023/02/13 13:00:00","end_time":"2030/04/24 14:59:59"}
+    ]
+}

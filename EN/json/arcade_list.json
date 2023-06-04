@@ -1,0 +1,9 @@
+{
+    "arcade_list": [
+        {"arcade_id":1001,"title":"The Battle for Big Bro!\\nStruggle for Chocolatey Dominance","start_time":"2023-01-19 13:00:00","price":10000,"sheet_id":"bgm_M199","cue_id":"bgm_M199_juke","where_type":1002,"description":"A sweet little game of rhythmic tapping!\\nDo your best to bake a chocolate cake full of love!"},
+        {"arcade_id":1002,"title":"Kuka the Whirling Wonder\\nFrantic Flight of Ecstasy","start_time":"2023-01-19 13:00:00","price":10000,"sheet_id":"bgm_M227","cue_id":"bgm_M227_juke","where_type":1003,"description":"Kuka's spinning out of control!\\nPull her back and watch her go!\\nSo this is the meaning of true ecstasy...!"},
+        {"arcade_id":1003,"title":"Kaori's Soulful Karate Dojo","start_time":"2023-01-19 13:00:00","price":10000,"sheet_id":"bgm_M249","cue_id":"bgm_M249_juke","where_type":1004,"description":"Defeat as many Majimun as you can in this fast-paced action game! Do you have the spirit of a Ryukyu warrior?!"},
+        {"arcade_id":1004,"title":"Alphabet Clash! Word Link Dragons","start_time":"2023-01-19 13:00:00","price":10000,"sheet_id":"bgm_M277","cue_id":"bgm_M277_juke","where_type":1005,"description":"A cerebral showdown between the members of Dragons' Nest! You'll need a massive brain to link some of these words!"},
+        {"arcade_id":1005,"title":"Squeak Squeak Panic!\\nThe Cheese Thief Thwacker","start_time":"2023-05-03 09:00:00","price":10000,"sheet_id":"bgm_M355_Lofi","cue_id":"bgm_M355_Lofi_juke","where_type":1006,"description":"Can you defend the cheese from the mouse menace?! This casual action game will test your reflexes to their limits!"}
+    ]
+}

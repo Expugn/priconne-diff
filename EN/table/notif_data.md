@@ -1,0 +1,679 @@
+|unit_id|notif_type|comment|
+| --- | --- | --- |
+|100101|1|stamina is back at full! I'm bursting with energy, too! Once you're ready, let's get out there and do some quests!|
+|100101|2|You have full skip tickets at the guildhouse! Let's go bop those baddies lickety-split!|
+|100101|3|Mr. Knight! Guildhouse stamina is at full! Being in shape is a key part of helping those in need!|
+|100101|4|The guildhouse is fully packed with EXP potions! We've got to drink lots and lots of these so we can get even stronger!|
+|100101|5|The guildhouse is bursting with Mana! It must be tough choosing how to spend it! Or have you already decided, Mr. Knight?|
+|100101|6|Yahoo! All items at the guildhouse are full! Oh, sorry... are you busy with something right now, Mr. Knight?|
+|100201|1|Mr. Knight, your stamina is back to full again. If you're going out into the field, I sure hope you take me along.|
+|100201|2|The skip tickets are all full at the guildhouse. Does this mean we won't have to fight as much?|
+|100201|3|You have full stamina at the guildhouse. Um, Mr. Knight? What do you say we step out somewhere for a bit?|
+|100201|4|You have full EXP potions back at the guildhouse. Hopefully they can help me improve my spellcasting a little...|
+|100201|5|The Mana back at the guildhouse is full again. I wonder if I can become a bit stronger, too...|
+|100201|6|Mr. Knight, you have full items at the guildhouse. How about we go collect them together?|
+|100301|1|I see that you have full stamina again. The surest way to grow stronger is to gain experience in actual combat. So let's get out there and fight!|
+|100301|2|Your skip tickets are full at the guildhouse. Being able to dispatch foes so quickly is proof that our skills have improved.|
+|100301|3|I see you have full stamina at the guildhouse. If you're feeling extra energetic, I'd appreciate it if you helped me train.|
+|100301|4|You have full EXP potions at the guildhouse. Diligent study is the quickest way to the next victory.|
+|100301|5|The guildhouse has full Mana again. With that, I can refine my swordplay even further. I feel as though my skills are going to reach new heights!|
+|100301|6|You have items waiting for you at the guildhouse. You need to collect them quickly. Understood?|
+|100401|1|Hey mister, your stamina is totally full! Now we can go have some fun!|
+|100401|2|You've got full skip tickets at the guildhouse, mister! Looks like you and me oughtta go on a big expedition!|
+|100401|3|Your stamina is full back at the guildhouse! C'mon, mister, hurry up and come get it!|
+|100401|4|We've got tons of EXP potions at the guildhouse! I might just end up bigger than you with these!|
+|100401|5|There’s a ton of Mana sitting at the guildhouse! You know, I could really use some new prank supplies...|
+|100401|6|The guildhouse is packed to the rafters with items! If you don't come get 'em quick, don't blame me if they disappear! ♪|
+|100501|1|Your stamina's full to bursting! And you know what that means—it's superhero time!|
+|100501|2|Whoa, look at all those skip tickets in your guildhouse! We're set for some adventuring!|
+|100501|3|You've got a full stash of stamina in your guildhouse! Let's go defend peace and justice!|
+|100501|4|Your guildhouse is full of those EXP potions! Just what I need to become a great hero!|
+|100501|5|Looks like your guildhouse is full of Mana. H-have you thought about buying some cool action figures?!|
+|100501|6|Whoa, all the items in your guildhouse are at max capacity! We're as ready as can be for adventure!|
+|100601|1|Hey, big guy, I see your stamina is full again. I was hoping we could go another round or two... ♪|
+|100601|2|Your skip tickets at the guildhouse are all full. Now you and I can do it even more... Battle with enemies, I mean! ♪|
+|100601|3|Your stamina at the guildhouse is replenished. Hurry back—I don't think I can wait much longer... ♪|
+|100601|4|Oh hey, the guildhouse is full on EXP potions. Don't you worry—I'm going to keep getting bigger and bigger! ♪|
+|100601|5|There's sooo much Mana at the guildhouse. Ooh, I want it so bad, I can barely control myself...|
+|100601|6|Is that a guildhouse full of items you have there, or are you just happy to see me? ♪|
+|100701|1|Your stamina is super full! Hurry up! Go buy Miyako pudding!|
+|100701|2|Hey you! Full skip tickets at the guildhouse! Time to take Miyako on a pudding hunt!|
+|100701|3|All your staminas at the guildhouse are full up! Use them all to get pudding for Miyako!|
+|100701|4|Ooo, the guildhouse is full of EXP potions... Pour them on some pudding and give them to Miyako!|
+|100701|5|Hey, the guildhouse is super full of Mana! Just what we need for buying all the puddings!|
+|100701|6|There's too many items in the guildhouse now. Come pick them up and give all the puddings to Miyako!|
+|100801|1|Oh, look at that—our stamina is full once more. At peak condition, I am the very embodiment of flawless beauty!|
+|100801|2|Oh, the guildhouse is full of skip tickets. Spare yourself the battles so you can spend more time basking in my beauty! ♪|
+|100801|3|Ah, your stamina at the guildhouse has replenished. Now you can gaze upon my splendor in peak condition! ♪|
+|100801|4|I hear there's full EXP potions at the guildhouse. It would appear my beauty was meant to soar to even greater heights! ♪|
+|100801|5|Word is you have Mana to spare at the guildhouse. I wouldn't be upset if you used it to lavish me with gifts... ♪|
+|100801|6|My, you have a lot of items at the guildhouse. I assume they're all gifts for me?|
+|100901|1|Sigurd, our stamina has fully recovered! Now is the time for us to press the attack! Hecate of the Gale shall lay waste to all who would stand in our path!|
+|100901|2|skip tickets at our bastion have reached capacity! There's no need to hesitate. Claim them as your own!|
+|100901|3|Our stronghold is overflowing with stamina! Do not squander this precious lifeforce, Sigurd!|
+|100901|4|EXP potions have replenished at the guildhouse! I shall obtain greater power, and thus advance on the path to being the mightiest of them all!|
+|100901|5|Our guildhouse is brimming with Mana reserves! Sigurd, I trust you will share this wealth with your comrade?|
+|100901|6|Your guildhouse is filled to the brim with valuable items! If you don't claim them, then perhaps I shall!|
+|101001|1|Aw look, your stamina is full again. Let's you and I take a li'l stroll together, my prince. ♪|
+|101001|2|The skip tickets at the guildhouse are all full. Hafta love bein' able to take it easy.|
+|101001|3|Gosh, you have full stamina at the guildhouse! What say we go on a li'l patrol together, my prince?|
+|101001|4|Gosh, look at all the EXP potions at the guildhouse. Will drinkin' these make my magic work better?|
+|101001|5|Goodness, look at all the Mana at the guildhouse! The way Mana sparkles like jewels is just pretty as can be! ♪|
+|101001|6|Your items at the guildhouse are all full, my prince! And you're just as dandy as ever, too. ♪|
+|101101|1|Looks like your stamina is back to full! You know what they say about adventuring—it pays to be well-perspired!|
+|101101|2|Hey, you have full skip tickets at the guildhouse! Quick and hasty wins the race, so let's skirt around those battles!|
+|101101|3|Your stamina at the guildhouse is full again! You know what they say—it's good to save for a snowy day!|
+|101101|4|Oh, there's full EXP potions at the guildhouse! They say the best medicine always tastes like glitter, but... Huh? What does that even mean?|
+|101101|5|The guildhouse has full Mana! You know what they say about money—easy come, easy stay!|
+|101101|6|You have full items to claim at the guildhouse! If you just let 'em sit there, it's like casting pearls before twine!|
+|101201|1|Ta-daaa! ☆ Your stamina is full! Let's go help some people!|
+|101201|2|Whoa! Piles of skip tickets in the guildhouse! Let's get a walk in before I take my nap!|
+|101201|3|Oho, I can feel it! stamina at the guildhouse... is back to full!|
+|101201|4|The guildhouse is brimming with EXP potions! Those can make my superpow—I mean, my m-magic even stronger!|
+|101201|5|Yahoo, look at all the Mana in the guildhouse! Surely you can spare some for me, right? Right?|
+|101201|6|Zzz... All items... guildhouse... full... Zzz...|
+|101301|1|Your stamina is chock-full, comrade! Let's go do our regular rounds!|
+|101301|2|Look at all these skip tickets in your guildhouse! Time to go hunting for the legendary spellbook!|
+|101301|3|Your guildhouse is full to bursting with stamina! This looks like a job for a magical girl!|
+|101301|4|These EXP potions in your guildhouse are overflowing! A magical girl's training is never done!|
+|101301|5|Your guildhouse is flooded with Mana! Let's spend it all on ancient tomes! ...Huh? That's a no?|
+|101301|6|All the items in your guildhouse have hit max capacity! So come get 'em! Don't be an item hoarder!|
+|101401|1|I detect that you're back at full stamina again. Time to kick off another fun case, my faithful assistant!|
+|101401|2|Your skip tickets are full over at the guildhouse. They'll make our detective work much more efficient!|
+|101401|3|Your stamina is full back at the guildhouse. It seems spending long hours on the case won't be an issue now!|
+|101401|4|I see the EXP potions are full at the guildhouse. Time to level up and challenge ourselves with a real brain-twister of a mystery!|
+|101401|5|Hey, you have a lot of Mana at the guildhouse. What luck! That ought to just about cover the costs of our investigation!|
+|101401|6|All of the items at the guildhouse are full! These'll be a big help in our investigations!|
+|101501|1|Look at you and your full stamina. What say we go off together somewhere? ♪|
+|101501|2|My, my. Your skip tickets at the guildhouse are all full. Now we can go all sorts of places together.|
+|101501|3|Your stamina at the guildhouse is full. And just where do you plan on taking me, young man?|
+|101501|4|The guildhouse is full to the brim with EXP potions. Seeing everyone's growth always makes me happy.|
+|101501|5|Goodness me! Look at all that Mana in the guildhouse! Just don't go wasting it now, you hear? Hehe.|
+|101501|6|All of your items at the guildhouse are full. Don't forget to collect them now, okay?|
+|101601|1|Whoa, look at who's got full stamina! You're just buzzing with energy!|
+|101601|2|Wow, you have full skip tickets at the guildhouse! You think there's skip tickets that work on studying, too?|
+|101601|3|Hey, you have full stamina at the guildhouse! We're gonna party today! ☆|
+|101601|4|I hear there's full EXP potions at the guildhouse! Maybe they can help me get better grades?|
+|101601|5|You have crazy amounts of Mana at the guildhouse! That means it's time for the two of us to go shopping!|
+|101601|6|Yay, you have full items at the guildhouse! C'mon, let's go spend 'em all on a big adventure!|
+|101701|1|Haitai! Your stamina is full again, so come join me on patrol! ♪|
+|101701|2|Heya, the skip tickets are full at the guildhouse! Moving quickly is important in both karate and questing!|
+|101701|3|Hey there, your stamina at the guildhouse is full. Let's use it to dance and sing together!|
+|101701|4|Wow, we've got full EXP potions at the guildhouse! Drink a few of these, and anyone can become a black belt!|
+|101701|5|There's lots and lots of Mana at the guildhouse. We can spend some of it polishing my karate techniques!|
+|101701|6|Heya, all your items at the guildhouse are full! Want me to help you collect them?|
+|101801|1|Looks like your stamina is completely refilled. I'll bet you can handle plenty of extra classwork now... Heehee, let's give it a shot! ♪|
+|101801|2|Oh, you have full skip tickets at the guildhouse! Don't go thinking those will let you skip your remedial classes, though! ♪|
+|101801|3|It seems you have full stamina at the guildhouse. This sounds like a perfect time to start class! ♪|
+|101801|4|It appears the guildhouse is full of EXP potions. Looks like we're both meant to keep growing and growing!|
+|101801|5|My, you have a lot of Mana at the guildhouse! Would you like to go shopping together once school is out?|
+|101801|6|You have items to claim back at the guildhouse. With these, you'll be in perfect form to study! ♪|
+|102001|1|Eheheh, you've got full stamina! ♪ Wanna come play with Mimi, mister?|
+|102001|2|Wooow, so many skip tickets at the guildhouse! I wanna go take a walk with you, mister!|
+|102001|3|La-la-la-la! ♪ Full stamina at the guildhouse! ♪ Can we hold hands when we go out?|
+|102001|4|Your guildhouse is full of these potion thingies! D'you think they could help me grow up fast?|
+|102001|5|Wow... What should we do with all this? Oh, hi, mister! Your guildhouse is full of Mana!|
+|102001|6|Ooh, look at all these items to get at the guildhouse! Wowie... Can I have some, too?|
+|102101|1|U-um, your stamina is back to full... C-can we play a game?|
+|102101|2|Um, you have full skip tickets at the guildhouse. I heard they're really useful.|
+|102101|3|Um, you have full stamina at the guildhouse... W-would you like to go on an adventure together?|
+|102101|4|There are so many EXP potions at the guildhouse... I wonder if they can help me learn to cook better?|
+|102101|5|Um, you have full Mana at the guildhouse... Make sure not to waste it, okay?|
+|102101|6|Um, your items at the guildhouse are full. Everybody really likes you, huh? ♪|
+|102201|1|All right, your stamina is completely recharged! Now we can do some serious gaming!|
+|102201|2|Your skip tickets are full at the guildhouse! Now we'll be knocking out quests left and right!|
+|102201|3|Your stamina at the guildhouse is completely full! Sounds like an opportunity for a nice, long questing session!|
+|102201|4|We have a lot of EXP potions at the guildhouse. Leveling up increases stats, too! How cool is that!|
+|102201|5|You've built up a lot of Mana at the guildhouse. We can use it to buy all kinds of gear that makes completing quests easier!|
+|102201|6|You've got lots of items at the guildhouse. Come collect them all so we can put them to use on our quests!|
+|102301|1|Hey, your stamina's all full! Let's play!|
+|102301|2|Your skip tickets at the guildhouse are full! Guess we can go to all sorts of places now!|
+|102301|3|Looks like your stamina at the guildhouse is full. So let's go on a big adventure!|
+|102301|4|Check out all those EXP potions at the guildhouse! Maybe I'll become a classy lady if I drink them...|
+|102301|5|There's tons of Mana at the guildhouse! And I've heard Mana is super, super important!|
+|102301|6|All your items at the guildhouse are full! Must be nice getting so many gifts!|
+|102501|1|Hello there, you have full stamina again! If you're going out, perhaps I can join you?|
+|102501|2|Oh, you have full skip tickets at the guildhouse. Um, I don't suppose they would help me finish my work faster, would they?|
+|102501|3|You have stamina waiting at the guildhouse. And I'm waiting for you too!|
+|102501|4|Oh, your EXP potions at the guildhouse are full. Do you think more experience could cure my klutziness?!|
+|102501|5|Wow, look at all the Mana in the guildhouse. If only the Orphanage had that much, imagine all the wonderful things we could do...|
+|102501|6|All of your items at the guildhouse are full. Let me get them for—Ack! They slipped right out of my hand!|
+|102601|1|Looks like your stamina's all full. Not that I'm gonna do anything about it, though.|
+|102601|2|Hey, your skip tickets are full at the guildhouse. So skip along and get me some sweet buns.|
+|102601|3|Your stamina at the guildhouse is all full. Think of all the work you can do on my behalf.|
+|102601|4|Those EXP potions at the guildhouse are all full. I'm still gonna laze about if you use them on me, though.|
+|102601|5|You see all that Mana at the guildhouse? Go collect it so you can buy me some games and high-grade sweet buns.|
+|102601|6|All your items at the guildhouse are full. Phew... Notifications sure are exhausting.|
+|102701|1|Oh, I see that your stamina has fully recovered. Now I can conduct all sorts of tests on you... Teehee. ♪|
+|102701|2|The guildhouse is full of skip tickets. Now we can let the fighting take care of itself and spend some quiet time together.|
+|102701|3|Oh, your stamina has recovered at the guildhouse. Now that you're practically bursting with vigor, perhaps I should... Teehee... ♪|
+|102701|4|Oh, look at all the EXP potions at the guildhouse. Medicine is a truly wonderful thing... Teehee. ♪|
+|102701|5|You have quite a wealth of Mana at the guildhouse. Don't worry, I'll decide exactly how you should spend it.|
+|102701|6|Your items at the guildhouse are all full. What's yours is mine... and that includes you. ♪|
+|102801|1|Oh, looks like your stamina has recovered. If you've got energy to spare, why not lend me a hand?|
+|102801|2|You have full skip tickets at the guildhouse. They're just sitting here gathering dust, so please pick them up quickly, okay?|
+|102801|3|You have stamina just sitting at the guildhouse. You shouldn't neglect your own physical vitality.|
+|102801|4|You have full EXP potions at the guildhouse. Experience is vital. It's an essential part of growth.|
+|102801|5|The guildhouse Mana stores are at full capacity. Money and Mana make the world go round, so be sure you spend it prudently.|
+|102801|6|You have items to claim at the guildhouse. You know, putting these kinds of things off until later always leads to trouble down the road.|
+|102901|1|Now that you have full stamina and all, I was hoping you could come and see me in concert! ♪|
+|102901|2|The skip tickets are full at the guildhouse. Do you think they'll make my lessons more productive?|
+|102901|3|Oh, you have full stamina at the guildhouse. I'm always ready to go out on the town, so all you have to do is ask. ♪|
+|102901|4|It seems the guildhouse is full of EXP potions. They might even be able to help me become a better idol!|
+|102901|5|Your Mana at the guildhouse is full, it seems. Say, would you like to go see a play with me?|
+|102901|6|You can't hold any more items at the guildhouse. Wow, you get almost as many presents as an idol! ♪|
+|103001|1|Your stamina is completely restored, Shogun! Now is the time to conquer the lands!|
+|103001|2|Shogun! The guildhouse is full of skip tickets. They're just like using my Ninpo: Flying Squirrel no Jutsu!|
+|103001|3|Shogun, your stamina is full at the guildhouse! I bet it works just like my ninja rations!|
+|103001|4|The guildhouse is chock full of EXP potions! I can feel the inspiration coming for a new ninja technique!|
+|103001|5|The guildhouse is laden with Mana, Shogun! We should save it up to purchase a castle!|
+|103001|6|All items at your guildhouse are full, Shogun! They'll all be vital resources to help us conquer the lands!|
+|103101|1|I sense that you are at peak stamina again. Let's go back out and save more lost souls from their suffering.|
+|103101|2|You have full skip tickets at the guildhouse... or at least that's what the little girl standing right behind you says.|
+|103101|3|It appears your stamina is full at the guildhouse. Would you mind assisting me with an exorcism I've been asked to perform?|
+|103101|4|Guildhouse EXP potions are now full. With these, perhaps I can take another step toward becoming a proper medium.|
+|103101|5|A guildhouse full of Mana? Then buy me something, brat! ...S-sorry, that was my father speaking.|
+|103101|6|All your items at the guildhouse are full... Or so the spirits tell me.|
+|103201|1|Your stamina has fully recovered! Time is money, as they say, so let's get straight to work!|
+|103201|2|You have so many skip tickets at the guildhouse. Why, with these, my horrible sense of direction won't matter in the slightest!|
+|103201|3|My, your stamina is quite full at the guildhouse. Perhaps I can request your services as a knight the next time I have to clear out some monsters.|
+|103201|4|Your guildhouse is fully stocked with EXP potions! I'm certain they can help me gain experience as an entrepreneur, too!|
+|103201|5|Ah, I see you have a wealth of Mana at the guildhouse. I suppose you could afford a house with that much.|
+|103201|6|My, it seems your guildhouse is full of items. Say, don't you have a butler to handle these things for you?|
+|103301|1|Looks like ya got full stamina again. C'mon, hoss, time to roll up those sleeves an' get to work!|
+|103301|2|The guildhouse is chock-full of skip tickets! Ya reckon they can help me practice my stand-up quicker, too?|
+|103301|3|Hey, you got a buncha stamina at the guildhouse! Just what we need to keep on truckin' at the farm!|
+|103301|4|You got a gaggle of EXP potions at the guildhouse. I reckon these li'l fellas can help me get 'em all laughing!|
+|103301|5|What? You got loads of Mana at the guildhouse? Haven't ya heard it's bad "Mana-rs" to leave Mana sittin' 'round like that?|
+|103301|6|Hey, ya got full items waitin' at the guildhouse. Maybe we can use 'em in some comedy sketches!|
+|103401|1|Seeing as you have full stamina and all now... w-would you maybe come and see me?|
+|103401|2|You have full skip tickets at the guildhouse. I wonder if they can help shorten my hangovers, too...|
+|103401|3|Um, you've got full stamina at the guildhouse, so, uh... Do you want to go somewhere, maybe?|
+|103401|4|There are lots of EXP potions at the guildhouse. These aren't going to get me drunk, are they?|
+|103401|5|Your Mana is full back at the guildhouse. I say it's high time for a drink! You'll be having soft drinks, of course. ♪|
+|103401|6|Um, your items at the guildhouse are all full. I-I wish someone would give me gifts, too...|
+|103601|1|It looks like your stamina's all recovered. Honestly, can you not remember anything without me reminding you?|
+|103601|2|The skip ticket supply in your guildhouse is full, you know. I just finished my homework, so shall we go out somewhere?|
+|103601|3|The extra stamina in your guildhouse seems to be full. What do you need all that stamina for? A gymnastics test?|
+|103601|4|Your guildhouse supply is filled up with EXP potions. Heheh... I'm going to grow up and catch you in no time!|
+|103601|5|Your guildhouse seems to be full of Mana. Huh? You'll buy something for me? That's a very suspicious offer...|
+|103601|6|All the supplies in your guildhouse are full to bursting. You'd forgotten all about them, hadn't you?|
+|103701|2|Your guildhouse is completely packed with skip tickets. These might come in useful for training.|
+|103701|3|Your guildhouse can't hold any more stamina. I guess I should get to work. You're coming too, right?|
+|103701|4|Your guildhouse is brimming with EXP potions. Perhaps it's time I honed my sword skills.|
+|103701|5|Just look at all that Mana in your guildhouse. I'm sure there are some good uses you could put it to.|
+|103701|6|You've let a lot of different resources pile up in your guildhouse. Come on, we really ought to take a look.|
+|103801|1|Our stamina seems to be full again. Maybe we can go checking out bookstores a bit further afield.|
+|103801|2|Oh, the skip tickets at the guildhouse are full. Now I can avoid any undue physical exertion in battle.|
+|103801|3|It seems you have full stamina at the guildhouse. If I get stronger, maybe I can help everyone, too.|
+|103801|4|The EXP potions at the guildhouse are full. I wonder if they can help improve my health, too...|
+|103801|5|Oh, we have a lot of Mana at the guildhouse. With this amount, we'll be able to put plenty of books on our shelves.|
+|103801|6|All of the items at the guildhouse are full. Once you finish collecting them, how about we do some reading together?|
+|104001|1|Now that we have full stamina again, l-let's go out to make some friends!|
+|104001|2|Um, your skip tickets are full at the guildhouse. I think I might've just taken another step toward making friends!|
+|104001|3|U-um, you've got full stamina at the guildhouse. Can I make more friends if I go on lots of adventures?|
+|104001|4|Um, the guildhouse is full of EXP potions. Do you think I can make more friends if I work on my conversation skills?|
+|104001|5|Oh, the guildhouse has so much Mana. Maybe giving people Mana is the secret to making friends... Huh? It isn't?|
+|104001|6|Your items at the guildhouse are all full. I-it must be nice to receive so many gifts...|
+|104201|1|Our stamina has completely recovered. My songs for the fairies are finished, but I still need to work on some songs for the stage...|
+|104201|2|You have full skip tickets at the guildhouse. Please, lend me your strength in keeping the people safe from evil.|
+|104201|3|You have maximum stamina at the guildhouse. Would you mind joining me for some singing practice today?|
+|104201|4|You’re full up with EXP potions at the guildhouse. Hopefully these will keep my throat in tip-top shape.|
+|104201|5|There is full Mana waiting at the guildhouse. It'd be lovely to acquire some new equipment and supplies in addition to the usual songs and skills.|
+|104201|6|All of the items at the guildhouse are full. Would you have preferred me to tell you with a song instead?|
+|104301|1|Your stamina is back at full. C'mon, we're heading out!|
+|104301|2|I hear your skip tickets are full at the guildhouse. That'll make our explorations easier for sure.|
+|104301|3|I hear ya got full stamina back at the guildhouse. If you're itchin' for something to do, let's go rough up some baddies!|
+|104301|4|There are full EXP potions at the guildhouse. Is that your way of saying you want to see me become even stronger?|
+|104301|5|You sure do have a lot of Mana at the guildhouse. Doesn't it make you want to just go blow it all in one big spree?|
+|104301|6|Hear you got full items waiting at the guildhouse. Some of them could come in handy in a fight.|
+|104401|1|Your stamina is fully primed, I see. The time is ripe for us to conquer the world!|
+|104401|2|Your guildhouse's supply of skip tickets is full. Let us make short work of our weaker foes!|
+|104401|3|Your guildhouse cannot hold any further stamina. With such a rich supply line, we can make war to our hearts' content!|
+|104401|4|Your guildhouse is overflowing with EXP potions. Could these concoctions restore me to my adult form?|
+|104401|5|Your guildhouse's store of Mana appears to be full. Excellent work... Any successful campaign requires funds!|
+|104401|6|Your guildhouse can generate no further items. Perhaps you should offer these supplies as a gift to your dark mistress.|
+|104501|1|Ahhh, you're practically bursting with stamina... "His body throbbing with forceful vigor, Mr. Sadist grabbed hold of Kuka and..." Gueheheh...|
+|104501|2|Oh my, the guildhouse has so many skip tickets... What are you going to do with me with all that extra time?|
+|104501|3|The stamina at the guildhouse is full, but you're still not coming to take it...? Ahhh... You're trying to drive me crazy with anticipation, aren't you?!|
+|104501|4|There are full EXP potions at the guildhouse. With these, I can climb that next step on the path of adulthood... Gueheheh...|
+|104501|5|You have so much Mana sitting at the guildhouse... Wait! C-could it be that you're planning on buying me with it?!|
+|104501|6|The guildhouse is completely full of items. Just think of all the sick things you could do to me with them... *drool*|
+|104601|1|Looks like your stamina is feline good. Time is money! Hurry back so we can claw in every last rupie possible!|
+|104601|2|Ya got full skip tickets back at the guildhouse. We'll be rakin' in the loot paw over claw with those!|
+|104601|3|Seems the guildhouse is at full stamina again. Nyow we can go clobber creeps until we're a couple of fat cats!|
+|104601|4|The guildhouse is littered with EXP potions! This little kitty is still growin', so these'll be a big help!|
+|104601|5|The guildhouse is overflowing with Mana nyow. We gotta sharpen our claws so we can keep scratching up even more loot!|
+|104601|6|Myahoo, you've got full items at the guildhouse! Come and get your paws on 'em before they go to waste!|
+|104701|1|Ah, your stamina has recovered. The time may be ripe to do battle.|
+|104701|2|Your guildhouse's skip ticket supply is full. Perhaps they could be put to use in carrying out some missions.|
+|104701|3|The stamina supply at your guildhouse seems to be full. If you have excess energy, perhaps some training is in order?|
+|104701|4|Your EXP potion generator seems full to bursting. Building your strength is the first step to defending justice!|
+|104701|5|Your guildhouse is practically overflowing with Mana. While awaiting your return, I was mistaken for a statue...|
+|104701|6|All the supplies in your guildhouse have reached maximum capacity. I will watch over them until your return.|
+|104801|1|I hear your stamina is back to full. Come on, let's get out there and make some money!|
+|104801|2|The skip tickets are full back at the guildhouse. Make sure you spend them wisely!|
+|104801|3|Looks like your stamina is full at the guildhouse. Go and snag it quickly so we can start putting it to good use!|
+|104801|4|The EXP potions at the guildhouse are full. More levels means greater efficiency!|
+|104801|5|Your Mana is full back at the guildhouse. Let's spend it on an efficient adventure!|
+|104801|6|All of your items at the guildhouse are full. Let's use them to make our adventures more efficient!|
+|104901|1|Uh-oh, look who has full stamina again! How about we go on a picnic... or rather, a big adventure!|
+|104901|2|You've got full skip tickets at the guildhouse! Now you don't have to fight any of those scary battles!|
+|104901|3|Yoo-hoo, there's full stamina at the guildhouse! Time to go on an adventure with your big sis!|
+|104901|4|You have lots of EXP potions at the guildhouse! I can't wait to see my little bro all grown up!|
+|104901|5|You have lots and lots of Mana at the guildhouse. But don't worry... Big Sis will be right there to make sure you don't spend it frivolously! ♪|
+|104901|6|The guildhouse is completely full of items! And they're all yours, just like your big sis!|
+|105001|1|Your stamina is back to full! Now, escort me around town as a proper gentleman should!|
+|105001|2|You have full skip tickets at the guildhouse. You'll be using them to take me someplace nice, right?|
+|105001|3|Look! stamina at the guildhouse is totally full! Only someone as mature and responsible as me would have noticed.|
+|105001|4|There's lots of EXP potions at the guildhouse! What's going to happen to me if I keep growing?|
+|105001|5|Look at all that Mana you have at the guildhouse! Now's your chance to take me out to a stylish cafe!|
+|105001|6|Hey, your items are all full at the guildhouse! I bet you'd never remember to get them if I didn't say anything, huh? What a goof!|
+|105101|1|My, looks like you have full stamina. If you're feeling so full of vim and vigor, why not join me for a few experiments?|
+|105101|2|The skip tickets at the guildhouse are full. I don't want to repeat anything that I don't have to, so let's put them to good use.|
+|105101|3|The stamina back at the guildhouse is full. That's odd, here I was thinking that lately I haven't felt as strong as I used to be... Oh, pretend you didn't hear any of that! ♪|
+|105101|4|How nice. Full EXP potions at the guildhouse. You know, any kind of experience can fuel growth.|
+|105101|5|Hey, there's lots of Mana back at the guildhouse. Naturally, you're going to give it all to me, right?|
+|105101|6|All of your items at the guildhouse are full... You know, I'm beginning to think you like to keep me waiting.|
+|105201|1|Oh my, your stamina has fully recovered! Let's go put in some work together! ♪|
+|105201|2|Your skip tickets are full at the guildhouse! I hear they make work as easy as pie!|
+|105201|3|Uh-oh, you've got full stamina at the guildhouse. Eheheh, now we can really chew the cud. ♪|
+|105201|4|Looks like the guildhouse is full of EXP potions. Could these be what I need to become a human?|
+|105201|5|My, there's a lot of Mana at the guildhouse! I just love the way it all sparkles!|
+|105201|6|Hey, you have full items at the Guildhouse! Must be nice being popular! ♪|
+|105301|1|You are back at full stamina once more. But this is no time for sitting idle. Come, adventure awaits us!|
+|105301|2|You've got a guildhouse full of skip tickets! Streamlining our outings will only make us stronger!|
+|105301|3|You have full stamina at the guildhouse! On your feet, soldier! We're going to run some drills!|
+|105301|4|The guildhouse is fully stocked with EXP potions! P-perhaps they can help me grow a little taller, too...|
+|105301|5|The guildhouse is overflowing with Mana. You may as well take it. After all, you need it to do pretty much anything, right?|
+|105301|6|All items at the guildhouse are fully stocked. It appears you have some very useful supplies in there.|
+|105401|1|Mr. Knight! Your stamina is full! No more sitting around—let's get moving!|
+|105401|2|Hey, you've got full skip tickets at the guildhouse! Let's get out there and use them up as fast as we can! Oh, is that not how it works?|
+|105401|3|Your stamina at the guildhouse is completely full! Now I can  juggle making costumes and organizing concerts, no problem!|
+|105401|4|You've got full EXP potions at the guildhouse! Once I take my needlework to the next level, I'm going to stitch up a storm!|
+|105401|5|Look at all that Mana at your guildhouse! I bet you're going to buy a present for Rei— What? For me? Wh-why would I want one?|
+|105401|6|All your items at the guildhouse are full! Um, hello? Mr. Knight? Are you listening to me?|
+|105501|1|Look, your stamina is completely full! ...Yes, that's how I'm going to say it...|
+|105501|2|*stare* The guildhouse is full of skip tickets... I wonder if he's noticed...|
+|105501|3|Y-your guildhouse is f-full of stamina! ...Aaaahhh, I actually said it!|
+|105501|4|His guildhouse can't hold any more EXP potions. I wish I could actually tell him...|
+|105501|5|Your guildhouse is full of Mana! But what are you going to spend it on? I think I can guess...|
+|105501|6|All the items in the guildhouse have filled up to the brim... I was watching the whole time.|
+|105601|1|Looks like your stamina's fully recovered. Don't hesitate to give me a call if you need a hand.|
+|105601|2|Your skip tickets at the guildhouse are all full. Nothing like a nice stroll, huh? The perfect excuse for a nap.|
+|105601|3|Hey, your stamina at the guildhouse is all full. Nothing wrong with having free time, but don't forget to stay active.|
+|105601|4|The guildhouse is full up on EXP potions. If you need me to get stronger, then I'll do just that.|
+|105601|5|The guildhouse is overflowing with Mana. It's up to you how you use it, though.|
+|105601|6|Your items at the guildhouse are all full. Now seems like as good a time as any to go all out, I'd say.|
+|105701|1|Your stamina is maxed out again! We're going to need to work together if we want to become top-class skyfarers!|
+|105701|2|You have full skip tickets at the guildhouse! Do you think traveling would be easier, too, if we could fly?|
+|105701|3|stamina is back to full at the guildhouse! I feel like no job is too big for us now!|
+|105701|4|The EXP potions at the guildhouse are at capacity! I'm going to get stronger and become a great skyfarer just like my father!|
+|105701|5|Your Mana has filled up again at the guildhouse! Do you think we'll be able to afford an airship if we keep saving up?|
+|105701|6|The items at the guildhouse are at max capacity! You've got all sorts of good stuff there, so don't let any of it go to waste!|
+|105801|1|Your stamina is completely full! But my stomach is completely empty. Let's go eat!|
+|105801|2|You have tons of skip tickets at the guildhouse. These tickets are just like food—you don't want to let any of them go to waste!|
+|105801|3|Both me and the guildhouse have stamina to spare!|
+|105801|4|You've got tons of EXP potions at the guildhouse! C'mon, let's go gulp 'em down!|
+|105801|5|Oh, you've got Mana wasting at the guildhouse! Hey, do you think Mana is edible?|
+|105801|6|Every item at the guildhouse is fully stocked! You think there's any food in there?|
+|105901|1|I see that your stamina has fully recovered. I shall accompany you wherever it is you decide to go, my lord.|
+|105901|2|Your skip tickets at the guildhouse are full. Would you consider taking some with you on your next adventure?|
+|105901|3|Excuse me, your stamina is full at the guildhouse. Hehe, you are so spirited, my lord.|
+|105901|4|The EXP potions at the guildhouse are full. I must become stronger so that I can keep my lord safe!|
+|105901|5|The guildhouse is full on Mana. I suppose I shouldn't be surprised that my lord is so skilled at earning it... ♪|
+|105901|6|All of your items at the guildhouse are full. These are the fruits of all your hard work, my lord.|
+|106001|1|Your stamina is topped off again. So? What're you sitting there for? We need to get out there and do some quests!|
+|106001|2|The skip tickets back at the guildhouse are full. Make sure to grab them if you're heading out.|
+|106001|3|Well, your stamina at the guildhouse is full, so it's time to get out into the field. C'mon, follow me!|
+|106001|4|The guildhouse is all filled up with EXP potions. I'm going to be more powerful than ever before! ♪|
+|106001|5|You've got full Mana sitting at the guildhouse. It comes in handy pretty much everywhere, so what's the harm in carrying it with you?|
+|106001|6|Hey, you've got items sitting at the guildhouse. Come grab them so we can get adventuring!|
+|106101|1|Your stamina's full, so let's go on an adventure! I can't wait around all day, you know!|
+|106101|2|Your guildhouse is full of skip tickets! Let's get the boring stuff out of the way, then go out for some crepes!|
+|106101|3|Your guildhouse is all done generating stamina! Now we can do whatever we like! Uh, within reason, I guess.|
+|106101|4|Look at all these EXP potions in your guildhouse! If you don't need 'em, can I take a few?|
+|106101|5|The guildhouse is packed with tons of Mana! Now if only it could help me grow a few inches... Well, can't hurt to try!|
+|106101|6|All the items at your guildhouse are full! If you're busy, I'll pick them up for you! ...What? Of course I'm not gonna run off with them!|
+|106301|1|Your stamina's all full! Time to go search for Losaria!|
+|106301|2|Your skip tickets at the guildhouse are full! It'd be nice if you showed me more places outside the city.|
+|106301|3|Your stamina at the guildhouse is all full! Come help me train for my forest guardian trial!|
+|106301|4|Look at all those EXP potions at the guildhouse! Maybe they'll help me become a full-fledged forest guardian?|
+|106301|5|Your Mana at the guildhouse is full! I'm almost out of arrows, so that's perfect!|
+|106301|6|All your items at the guildhouse are full! They're gonna go to waste if you leave them there!|
+|107101|1|Apparently your stamina is full. If you have any entertaining plans, I wouldn't mind accompanying you.|
+|107101|2|Your guildhouse's stock of skip tickets is full to bursting. But what would possess anyone to cut short the thrill of battle?|
+|107101|3|Your guildhouse has generated a full supply of stamina. Shall we go forth to rend flesh and dye the fields with blood?|
+|107101|4|Your guildhouse has produced all the EXP potions it can hold. But if I become even stronger, do you really think you can handle it?|
+|107101|5|Your guildhouse is full to the brim with Mana. If you want to make an offering to me, I'm not about to stop you.|
+|107101|6|All the items at your guildhouse are full to bursting. What's yours is yours, so hurry and accept it!|
+|107501|1|Heya, your stamina is back to full! ☆ Now we can go for a swim!|
+|107501|2|Skip tickets at the guildhouse are all ready to go! Which means it's time to go procure some seafood!|
+|107501|3|Your stamina at the guildhouse is full! Let's race each other to the ocean!|
+|107501|4|Heya, the guildhouse is full of EXP potions! If I grow any bigger than this, I'm going to need a new swimsuit!|
+|107501|5|The guildhouse has full Mana! I sure would love to chow down on some tropical fruit!|
+|107501|6|You've got full items waiting at the guildhouse! How crazy is that? ☆|
+|107601|1|Your stamina has fully recovered, my lord. I will wait for you on the beach.|
+|107601|2|Our stock of skip tickets at the guildhouse is full, my lord. Perhaps we should go out on a journey together.|
+|107601|3|Our guildhouse's stamina supply seems to be full. Come, my lord—let us practice our swimming technique.|
+|107601|4|Our guildhouse EXP potions have reached maximum capacity, my lord. Will they help me to grow in various ways?|
+|107601|5|It seems our Mana supply at the guildhouse is full, my lord. Perhaps we should splash out on a treat for ourselves!|
+|107601|6|All of the items at our guildhouse are at maximum capacity. Come, my lord—let us claim our rewards together!|
+|107701|1|Oh! Your stamina is—Oof! U-um, your stamina is full...|
+|107701|2|Your skip tickets at the guildhouse are full! Oh, going to the beach sure sounds nice.|
+|107701|3|Oh, your stamina is full at the guildhouse! Don't worry, I can perform my duties just as well in a swimsuit!|
+|107701|4|Oh, your EXP potions at the guildhouse are full! Maybe now I can leave my days as a disaster of a maid behind me!|
+|107701|5|The guildhouse is overflowing with Mana! I'll wait for you at the beachside cafe! ♪|
+|107701|6|Your items are all full at the guildhouse! Shall I gather them for you? Oh, you're not sure that's a good idea?|
+|107801|1|Hey, can't you see that you've got full stamina?! Quit goofing around and get back here!|
+|107801|2|Hey, you've got full skip tickets at the guildhouse! Come and grab them fast so you can take me to the beach!|
+|107801|3|Hey, you've got full stamina at the guildhouse! C'mon, it's time for a little fun in the sun!|
+|107801|4|There's tons of EXP potions at the guildhouse! You know, I might just end up getting even stronger!|
+|107801|5|You have a lot of Mana sitting at the guildhouse. Think carefully about how you spend it, okay?|
+|107801|6|Hey, you've got full items at the guildhouse. I thought I'd give you a reminder, since everything's in one ear and out the other with you.|
+|107901|1|Your stamina's nyice and full! Better get moving if you want to see me in my swimsuit!|
+|107901|2|Hey, your guildhouse is full of skip tickets! Let's go hunting for rare items!|
+|107901|3|There's a full pot of stamina at your guildhouse! And I'll cook up some taiyaki to give you even more energy!|
+|107901|4|Your guildhouse can't hold any more EXP potions. Let's go on a summer adventure! Myahahah!|
+|107901|5|Look at all the Mana you've generated at the guildhouse! With this much, we can take care of all the monsters on the beach!|
+|107901|6|All the items at your guildhouse are stocked to bursting! If you don't nyeed 'em, I'll take 'em instead!|
+|108001|1|You certainly seem full of stamina. Just what you need for some seaside adventures!|
+|108001|2|I think your skip ticket supply at the guildhouse is full. Let's head out and enjoy the summer sun!|
+|108001|3|Your guildhouse's stamina supply is full to the brim. I'm sure you'll be able to power through the summer heat now!|
+|108001|4|Your guildhouse has generated a full stock of EXP potions. Let's boost our levels and conquer the beach!|
+|108001|5|The Mana you've been generating at your guildhouse is full. Let's use it to fund a summer expedition!|
+|108001|6|All the items at your guildhouse are at full capacity. Let's put them to use and maximize our seaside efficiency!|
+|108101|1|Your stamina is fully recovered... Apparently my father would like to go out and look at girls in Halloween costumes.|
+|108101|2|Your guildhouse's skip ticket supply is full now... There's always time for some Halloween adventures.|
+|108101|3|Your guildhouse has generated a full supply of stamina... Perhaps we should throw a big Halloween party.|
+|108101|4|The EXP potion device in your guildhouse is overflowing... This should give us the strength to defeat any nasty Halloween spirits.|
+|108101|5|The Mana generator in your guildhouse is full. Let's buy some candy to hand out at Halloween.|
+|108101|6|All the resources being generated in your guildhouse are full. Do you think it's time for some Halloween adventures?|
+|108201|1|Your stamina filled right up! Time to go buy special Halloween pudding!|
+|108201|2|Trick or pudding! Your guildhouse is full of skip tickets!|
+|108201|3|Your guildhouse made too much stamina! Time for a Halloween party to use it up!|
+|108201|4|Your guildhouse filled up with EXP potions. Miyako will play tricks if you don't pick them up!|
+|108201|5|How much Mana is in your guildhouse now? Enough to buy puddings and treats for Miyako!|
+|108201|6|Your guildhouse is all filled up with items! Pick them up and let's do Halloween!|
+|108301|1|Your stamina's all recovered! Let's head out into town and enjoy Halloween!|
+|108301|2|Your skip tickets at the guildhouse are full! Which means you've got a responsibility to take me on a date.|
+|108301|3|Your stamina at the guildhouse is all full. And you look like you're in the mood for some candy, so let's go get some.|
+|108301|4|EXP potions at the guildhouse are full! I'll use them to become an even more bewitching woman. ♪|
+|108301|5|Hey, your Mana at the guildhouse is full! What, you think I'm excited? Of course I'm not!|
+|108301|6|Your items at the guildhouse are all full! Don't forget to pick them up—and some candy too!|
+|108401|1|Our stamina has completely refilled. Now I can give it my all at the holiday concert... I hope you'll be there to hear it.|
+|108401|2|Say, the skip tickets at the guildhouse are full. Let us use these blessed gifts wisely!|
+|108401|3|Oh my, there's so much stamina at the guildhouse. Could it be a present from Santa Claus?|
+|108401|4|Oh, the EXP potions at the guildhouse are full. I have a feeling these can help me sing even nicer hymns.|
+|108401|5|Oh, look at all the Mana in the guildhouse. Heehee, shall we throw a big holiday party?|
+|108401|6|All your items at the guildhouse are full! They should come in really handy for some holiday adventuring!|
+|108501|1|Oh, you have full stamina... U-um, would you like to walk around and see the holiday decorations with me?|
+|108501|2|Um, you have full skip tickets at the guildhouse. Maybe these tickets can let us go see some holiday performances? ♪|
+|108501|3|Y-you've got full stamina at the guildhouse... Um, if you don't mind, maybe you can help me rehearse for my play?|
+|108501|4|You have lots of EXP potions at the guildhouse... Do you think getting more experience will help me not mumble or be so shy?|
+|108501|5|Um, you've got lots of Mana at the guildhouse... It's the holidays, so I promise not to tell if you spend some of it on silly stuff. ♪|
+|108501|6|Um, you have full items back at the guildhouse... They must all be presents for you. ♪|
+|108601|1|Your stamina is back to full! ♪ Hey, come help me shop for presents!|
+|108601|2|You have full skip tickets at the guildhouse! I wanna go to the big plaza and make a snowman! ♪|
+|108601|3|Yay, you've got max stamina at the guildhouse! Let's start the holiday party right away! ♪|
+|108601|4|You have lots of EXP potions at the guildhouse! Think Pukichi will get bigger if he drinks some of them?|
+|108601|5|Yaaay, look at all that Mana at the guildhouse! Now we can stuff ourselves on a big, fat turkey and some super sweet cake! ♪|
+|108601|6|Hey, all your items at the guildhouse are full! Better get 'em quick, or Santa Pukichi is gonna give 'em out to the kids! ♪|
+|108801|1|Looks like your stamina has recovered. I was hoping we could go make our first shrine visit of the year together... Is that okay?|
+|108801|2|Your skip tickets are full at the guildhouse. Let's find a place with a nice view of the sunrise to ring in the new year.|
+|108801|3|You have full stamina waiting at the guildhouse. I'll be here making mochi for our New Year celebrations. I'd love it if you joined me.|
+|108801|4|The guildhouse is fully stocked with EXP potions. I'd like to get stronger and have the courage to express my feelings, too...|
+|108801|5|It looks like your Mana at the guildhouse is full. How about some New Year's shopping? We can try getting some grab bags.|
+|108801|6|The guildhouse is completely full of items. Since we have these osechi dishes here and all, maybe we can relax and eat some?|
+|108901|1|It appears your stamina is completely refilled. There's no excuse for lazing around, even if it is the new year. Let's go train!|
+|108901|2|So, your skip tickets are full at the guildhouse? Wrapping up early so we can take in the New Year's festivities does sound nice.|
+|108901|3|I see that your stamina is full at the guildhouse. Perhaps we should take advantage of the weather and do some snow combat training?|
+|108901|4|I see the guildhouse is full of EXP potions. Exploring the nature of true strength is a cause that never rests, not even on New Year's.|
+|108901|5|There's quite a lot of Mana at the guildhouse. With that much, we could visit the New Year’s sales and... Oh, um, it just so happens I'm free today...|
+|108901|6|You have items waiting for you at the guildhouse. Don't slack off just because it's the new year. I'm waiting, too, you know.|
+|108701|1|Hey, your stamina is full! And it's New Year's, so that means badminton! I'm not gonna let you get in a single point! ♪|
+|108701|2|Your skip tickets are full at the guildhouse! Hey, let's go fly kites after this! We'll see which of ours can fly the highest!|
+|108701|3|Heya, your stamina is full at the guildhouse! Hmm, something we can do indoors? Let's gather everyone to play some cards! ♪|
+|108701|4|Looks like the guildhouse is full of EXP potions! I want to get stronger so I can help all kinds of people!|
+|108701|5|Your Mana's full at the guildhouse! What're you gonna spend it on? I recommend some grilled squid from that food stand! ♪|
+|108701|6|All items at the guildhouse are filled to the max! Here, let me help you organize— Huh? This one looks broken. You'd better come get these!|
+|109001|1|Your stamina has fully recovered. Now we can spend a long and stimulating Valentine's Day together...|
+|109001|2|Your guildhouse can hardly hold any more skip tickets... I'll use them to gather chocolate ingredients.|
+|109001|3|Your guildhouse is brimming with stamina... Teehee. If you're going anywhere, I'll happily accompany you... for all eternity.|
+|109001|4|Your guildhouse is full of EXP potions. Perhaps I'll mix some into this chocolate... I'm just joking. Teehee...|
+|109001|5|Your guildhouse has finished generating Mana. Perhaps now we can procure the highest quality of ingredients...|
+|109001|6|All the items in your guildhouse are full. I'll wait right here for you to come and pick them up... As long as it takes... Teehee.|
+|109101|1|Your stamina's all full up! Are you ready for a sugary-sweet Valentine's Day with your big sis? ♪|
+|109101|2|Look, your guildhouse is full of skip tickets! Were you planning on a little Valentine's adventure? I'd love to come too! ♪|
+|109101|3|Your guildhouse is full of stamina! Now we can enjoy the whole day together without ever getting tired! ♪|
+|109101|4|Look at all these EXP potions at your guildhouse! Your big sis might get even stronger now! ♪|
+|109101|5|Your guildhouse is full of Mana! Here, let me budget it all out for you.|
+|109101|6|All the items at your guildhouse are full! Come on, let's tidy up together. If you do a good job, I'll pat you on the head! ♪|
+|109201|1|Your stamina has fully recovered! Come on, let's get a move on!|
+|109201|2|Hey, the skip tickets at the guildhouse are full! This way—hurry!|
+|109201|3|You have full stamina back at the guildhouse! All right, let's get out there and show the world what we've got!|
+|109201|4|Your EXP potions at the guildhouse are full! Let's put them to good use on our quests!|
+|109201|5|The guildhouse is full to the brim with Mana! Let's be careful how we spend it!|
+|109201|6|It seems all items at the guildhouse are full! Don't let them go to waste!|
+|109301|1|Our stamina is completely full again! Time for us to go and play!|
+|109301|2|We've got full skip tickets at the guildhouse! Let's go and live it up while we're young!|
+|109301|3|You've got full stamina waiting at the guildhouse! Now we can go out and play all day!|
+|109301|4|Guildhouse EXP potions are full to the brim! Let's use them right away!|
+|109301|5|You have lots and lots of Mana at the guildhouse! Boy, I sure could use something sweet to eat!|
+|109301|6|Hey, all of your items at the guildhouse are full! Better come get them!|
+|109401|1|Your stamina's recovered now. Shall we go on a new adventure?|
+|109401|2|I noticed you've got full skip tickets at the guildhouse. Maybe you should check in on them.|
+|109401|3|Your guildhouse supply is full of stamina. Do you think it's time we headed out?|
+|109401|4|Looks like your EXP Potion supply at the guildhouse is full. Will these make me even stronger?|
+|109401|5|You've got a full supply of Mana at the guildhouse. I wouldn't advise using it all at once, though...|
+|109401|6|You should check in on the items at your guildhouse. I think they're all full.|
+|109501|1|Your stamina is completely full... Ohhh! Are you going to use all that energy to tug on my belt?!|
+|109501|2|Your guildhouse is full to bursting with skip tickets! Are you planning to get battles out of the way so you can close in on my kimono...?!|
+|109501|3|Your guildhouse can't hold any more stamina! Are you planning to use it all at once so I won't have a moment's rest?!|
+|109501|4|Your guildhouse has produced a full stock of EXP Potions... Are you plotting to make me "grow up" so you can try all kinds of new things?!|
+|109501|5|Your guildhouse is full of Mana! I-I don't care what price you offer, Mr. Sadist, I'll never sell my dignity! Eheh... Gueheheh...|
+|109501|6|Your guildhouse is packed with more items than it can hold! Are you planning to drown me in all these supplies? *drool*...|
+|109601|1|Your stamina is full, Shogun! Let us go out on the town in disguise!|
+|109601|2|Shogun! Your guildhouse cannot hold all these skip tickets! Let's mount a swift offensive and conquer lands upon lands upon lands!|
+|109601|3|Your guildhouse has finished making stamina, Shogun! The ninja night is still young!|
+|109601|4|Your guildhouse is full of EXP potions! Time to complete my training and become an unbeatable ninja!|
+|109601|5|Look at these piles of Mana in your guildhouse! I'm sure they'll tip the balance in our favor when we contest with rival nations!|
+|109601|6|Shogun! Your guildhouse is full of all kinds of items! It's a cornucopia of conquest supplies!|
+|109701|1|Your stamina seems to have fully recovered. Shall we go on an adventure?|
+|109701|2|Your skip ticket supply at the guildhouse is full. You should probably collect them.|
+|109701|3|I noticed your guildhouse's stamina supplies are full. Let's go and pick them up—it would be a waste not to.|
+|109701|4|Your guildhouse has generated a full supply of EXP potions. I'd be happy to try them myself, if you like.|
+|109701|5|Your guildhouse has produced a full supply of Mana. This world's Mana is so mysterious...|
+|109701|6|All the items you can collect at your guildhouse seem to be full. You should pick them up soon, or I might have to tidy them up.|
+|109801|1|Oh look, your stamina is full. You want me to come on a quest? Fine, but you'd better be grateful.|
+|109801|2|Your guildhouse's skip ticket supply is full. Nice to be able to finish battles with a minimum of effort.|
+|109801|3|Your guildhouse's stamina supply is full. Time for you to work hard so I don't have to.|
+|109801|4|Your guildhouse can't hold any more EXP potions. The pursuit for strength never ends. See that you give it your all.|
+|109801|5|Did you see your guildhouse has finished generating Mana? Careful what you use it for, now.|
+|109801|6|Your guildhouse is utterly full of items. ...I should clean them up? Well, don't expect me to look happy about it.|
+|109901|1|I think you've recovered all your stamina! Hey, why don't we go out somewhere?|
+|109901|2|Your guildhouse is full of skip tickets now! They seem so convenient, you should really collect them!|
+|109901|3|Your guildhouse's stamina supply is full! Let's try not to waste any, shall we?|
+|109901|4|Oh, your guildhouse is full of EXP potions. Go on, you should pick them up quickly!|
+|109901|5|Your guildhouse is full of Mana! I'm sure Puck will be happy that we have so much to spare.|
+|109901|6|Your guildhouse finished filling up with items! Wow, all these different types. Think of all the things we could do!|
+|110001|1|Whiz-boy, you've got full stamina! Time to use it all at the beach!|
+|110001|2|You've got full skip tickets at the guildhouse! It'd be a waste not to use them, right?|
+|110001|3|There's full stamina waiting for you at the guildhouse! Let's go get it!|
+|110001|4|Did you hear? There's full EXP potions at the guildhouse! They'll boost my cute game for sure!|
+|110001|5|The guildhouse is bursting with Mana, my dude! Better not sleep on it!|
+|110001|6|Omigosh, you should see all the items at the guildhouse! You could swim in all of that, LOL!|
+|110101|1|Your stamina's completely refilled! You can forget about homework for now. Let's make the most of this holiday while we can!|
+|110101|2|You've got full skip tickets at the guildhouse! Looks like this vacation's getting a perfect score!|
+|110101|3|Your stamina at the guildhouse seems to be full, so would you mind helping with my swimming lessons?|
+|110101|4|The guildhouse is just full of EXP potions. Maybe they'll help me in my quest to learn how to swim.|
+|110101|5|Look at all that Mana at the guildhouse. How about we make our way to the beachside cafe for some food?|
+|110101|6|The guildhouse is full of items now! Let's go see if there's anything we can use at the beach!|
+|110301|1|Looks like your stamina's fully recovered. Seems like a good time for a swim, doesn't it?|
+|110301|2|You've got full skip tickets at the guildhouse. It'd be a waste to just leave them, wouldn't it?|
+|110301|3|Oh, you've got full stamina at the guildhouse. How about we all build some sandcastles together?|
+|110301|4|There's full EXP potions waiting for you at the guildhouse. Let's use them to strive for even greater heights.|
+|110301|5|The guildhouse is full of Mana. Maybe we could use it as capital to start up a new business?|
+|110301|6|The guildhouse is bursting full of items. You'll regret it later if you let them pile up further!|
+|110401|1|Your stamina's all full, so let's head out on a beachside adventure!|
+|110401|2|Your skip tickets at the guildhouse are full! The quicker we waste these enemies, the quicker we can get to swimming!|
+|110401|3|You've got full stamina back at the guildhouse. If there's somewhere you wanna go, I'll be right there with ya!|
+|110401|4|The guildhouse is full of EXP potions. No downsides to getting stronger, and it's always good to have reliable buds!|
+|110401|5|Check out all the Mana at the guildhouse. Dunno what you use that for, but don't blow it all on something useless.|
+|110401|6|Whoa! There's tons of items at the guildhouse! Fine, fine. I'll help out, so let's go collect them all.|
+|110501|1|Look at all that stamina! With that much, we can dance, sing, and even go on an adventure!|
+|110501|2|The skip tickets at the guildhouse are full! I wanna go swimming, so let's get this done in a jiffy!|
+|110501|3|Your stamina at the guildhouse is all full! The party isn't over yet!|
+|110501|4|We've got full EXP potions at the guildhouse! They might make my dancing even funkier!|
+|110501|5|Your Mana at the guildhouse is full! Don't think, feel! The summer atmosphere'll tell you how to spend it!|
+|110501|6|Your items at the guildhouse are full! Let's grab 'em all and make the most of our time at the beach!|
+|110601|1|Your stamina's all full again, my prince. Does a li'l trip to wonderland tickle your fancy? ♪|
+|110601|2|The skip tickets at the guildhouse are full. I ain't one for rushing, but I'll do anything for my prince. ♪|
+|110601|3|You've got full stamina at the guildhouse. How's about we go for a li'l swim together?|
+|110601|4|Gosh, look at all the EXP potions at the guildhouse. Are you savin' them up for one big moment?|
+|110601|5|A li'l birdie told me that your Mana at the guildhouse is all full. Hafta say, the way you save up is so lovely.|
+|110601|6|The guildhouse is burstin' full of items! Miracle Mahorin... Huh? Magic ain't the best way to clean them up?|
+|107001|1|Your stamina is entirely full. Come along, then. I suppose I'll lend you a hand in battle.|
+|107001|2|Your guildhouse has finished generating skip tickets. Hurry and accept them, now. Do you not appreciate convenience?|
+|107001|3|Your guildhouse stamina supply has reached capacity. If you have energy to spare, perhaps you can lend me a hand.|
+|107001|4|There's a full supply of EXP Potions in your guildhouse's generator. I suppose I'll take them for myself, if you're not using them.|
+|107001|5|Well, this is quite the supply of Mana you've generated. Just what I need to refine my abilities further.|
+|107001|6|Your guildhouse has generated a full supply of items. I'd like to make good use of them, so I suggest you collect them quickly.|
+|110701|1|Your stamina seems to be full. Will this help us say bye-bye to our bashful lives of lonerdom...?|
+|110701|2|I think the skip tickets in your guildhouse are at their limit! They, um... aren't useful for making friends, are they? No, I didn't think so...|
+|110701|3|Your guildhouse has generated a big supply of stamina! What are we going to do with it all? Sh-should I practice introducing myself?!|
+|110701|4|Your guildhouse is full of EXP potions... If I drink the whole supply, will I level up from "loner" all the way to "normie"?!|
+|110701|5|Your guildhouse is overflowing with Mana! Could I use some of it to build a brand new version of My Little Buddy?|
+|110701|6|All the item stocks in your guildhouse are bursting at the seams... just like me when I have to talk to new people...!|
+|110801|1|Uh. Hold up. Your stamina's full.  Shouldn't you be, like, doing something with that? Not that it's my business.|
+|110801|2|I'm at your guildhouse right now, and I gotta say. These skip tickets? There's a lot of them.|
+|110801|3|So, uh. The stamina at your guildhouse? It's kind of overflowing. Thought you might want to know.|
+|110801|4|Have you, like, checked your EXP potion machine lately? 'Cause I think it's full. Just a heads-up.|
+|110801|5|Amazing. Your guildhouse is drowning in Mana. How does that even happen.|
+|110801|6|So, these item gadgets at your guildhouse. Have you noticed they're all full?  Maybe you could... you know. Make them less full.|
+|111101|1|Your stamina seems to have filled up. Would you like to go to a Halloween party? I suppose you'll need me to come too.|
+|111101|2|Just look at all these skip tickets lying around at your guildhouse! Try not to use them all in a rush, or you might trip and fall.|
+|111101|3|Have you noticed the stamina supply at your guildhouse is full? If you put on a costume, I'll take you out to collect some candy.|
+|111101|4|It looks like your guildhouse has finished making EXP Potions. But if I grow up too much, will people still give me candy?|
+|111101|5|Your guildhouse is full of Mana, so do you want to make some candy treats? To hand out to children, I mean. Of course, I'll let you have some too.|
+|111101|6|How did you let your guildhouse get so full of items? You should hurry up and accept them. Halloween doesn't last forever, you know!|
+|111201|1|Hey, mister! Your stamina's full! C'mon, let's throw a huge Halloween party!|
+|111201|2|Look, your guildhouse is full of skip tickets! You know what that means... Trick or Ticket!|
+|111201|3|Whoa, there's tons of stamina here at your guildhouse! On a related note, you oughtta give me candy!|
+|111201|4|The EXP Potions at your guildhouse are full! Maybe I can use them to power up my tricks into SUPER tricks!|
+|111201|5|Your guildhouse just made a whole bunch of Mana! You're gonna use it to buy me candy, right?|
+|111201|6|The items at your guildhouse are all filled up! Come and collect them already! I haven't booby-trapped the generators or anything, heheh...|
+|111301|1|Wow, you've got so much stamina, mister! Let's go on a Halloween parade! ♪|
+|111301|2|Eheheh... Trick or Treat! ♪ You've got a guildhouse full of skip tickets, mister!|
+|111301|3|Hey, mister, your guildhouse made lots of stamina! Let's go for a walk in our pretty Halloween clothes! ♪|
+|111301|4|Oh, mister! There's lots of potions at your guildhouse, so let's use them to make Halloween fun for everyone! ♪|
+|111301|5|I heard your guildhouse is full of Mana, mister! I wonder if you'll buy any candy for me...|
+|111301|6|Oh, mister! Your guildhouse is full of all sorts of items! Eheheh... Happy Halloween! ♪|
+|111401|1|Your stamina is completely full. Hey, don't you want to go out and play?|
+|111401|2|There are loads of skip tickets waiting for you at the guildhouse! Let's hurry up and use them all!|
+|111401|3|The guildhouse is full of stamina! Come on, don't you want to go out yet?|
+|111401|4|There are so many potions at the guildhouse! I want to try one, too!|
+|111401|5|There's so much Mana at the guildhouse! I love Mana, it's so sparkly!|
+|111401|6|You've got loads of items to accept at the guildhouse, they're all full up!|
+|106501|1|Your stamina's maxed out, ready for some brawling! Now let's go show the world what we can do!|
+|106501|2|Looks like your skip ticket stock at the guildhouse is full. You wouldn't take the easy way out of a fight, though, would ya?|
+|106501|3|You've got a full stock of stamina at your guildhouse! How many brawls will that let us take on? I can't wait to get started!|
+|106501|4|Your guildhouse's EXP potion stock is full, bud! I'm gonna get even stronger, so my win record can stay unbroken!|
+|106501|5|That mana stock in your guildhouse seems pretty full. It's not much use if you just leave it there—let's get spending! You know it makes sense!|
+|106501|6|Looks like all the item stocks at your guildhouse are full as full can be! We've got everything we need to brawl to our hearts' content!|
+|111501|1|You seem to be brimming with stamina. Just what we need to enjoy all the thrills of the festive season! ♪|
+|111501|2|Your guildhouse is packed full of skip tickets. It's the season to be merry, so why not use them with abandon? Cut loose and go all out!|
+|111501|3|Your guildhouse stock is full to the brim with stamina. Come, you should accompany me to a place where we can expend it all! ♪|
+|111501|4|The EXP potion supply at your guildhouse is full. There's no such thing as too much strength, so let us take a generous swig!|
+|111501|5|Your guildhouse has a full supply of Mana. Do you need me to direct you in making productive use of it?|
+|111501|6|All of the item supplies at your guildhouse are full to bursting. Why don't we wrap them up as a grand seasonal gift? Hahahah, I jest!|
+|111601|1|Your stamina's fully recovered! Let's go into town and enjoy the holidays together!|
+|111601|2|Wow, your guildhouse is full of skip tickets! With all these tickets, we could hold a seasonal concert!|
+|111601|3|Your stamina supply at the guildhouse is full! With this much energy, I could sing all night long!|
+|111601|4|Did you notice your EXP potions at the guildhouse are full? Maybe they'll help me improve my performance!|
+|111601|5|There's a full supply of Mana at your guildhouse! Let's spend it on a fancy party for the holidays!|
+|111601|6|All the items at your guildhouse are completely full! Even Santa would be amazed by such a mountain of gifts!|
+|111701|1|Your stamina is full, and you are positively brimming with vitality... *gulp* C-could I have a taste of that blood, perhaps?|
+|111701|2|You have far too many skip tickets. We shouldn't let them go to waste, so, ah... shall we go out somewhere together?|
+|111701|3|The stamina you have been generating at the guildhouse is full. Let us use it to make merry on the glorious eve!|
+|111701|4|You have a full stock of EXP potions at your guildhouse, minion. Perhaps they will give me the strength to conquer my garlic weakness!|
+|111701|5|Your guildhouse has a full supply of Mana. With such riches, I could decorate my entire castle for a festive banquet!|
+|111701|6|All the items available at your guildhouse are full. Collect them swiftly, or I may claim them for myself! I-it's not that I am simply hoping for you to visit!|
+|112001|1|Looks like your stamina's full to bursting. So are you coming to the temple with me, or aren't you?|
+|112001|2|Your guildhouse's supply of skip tickets is full. I hope you're not just going to leave them lying around!|
+|112001|3|There's a full supply of stamina in your guildhouse, you know. Let's burn some energy in a game of hanetsuki.|
+|112001|4|Uh, your guildhouse is overflowing with EXP potions right now! I'm sure we can use all that extra strength for something.|
+|112001|5|Have you seen how full the Mana supply in your guildhouse has gotten? Come on, less skimping, more spending!|
+|112001|6|All your guildhouse items are full like you wouldn't believe. If you're not going to use them, maybe I will!|
+|112101|1|Your stamina is fully recovered! Let's keep helping out at the temple, shall we?|
+|112101|2|Your guildhouse has a full supply of skip tickets. Do you want to come on a walk with me?|
+|112101|3|Your guildhouse stamina supply is full! That sounds like my cue to go on a big cleaning spree!|
+|112101|4|You've got a full supply of EXP potions at the guildhouse. They'll help me grow less clumsy for sure, right? ...Right?|
+|112101|5|Wow, you've got a full Mana supply at your guildhouse. Is there anything we can spend them on that will bring us good fortune?|
+|112101|6|All the items you can collect at your guildhouse are full. Let me quickly tidy them up a little... Wait—w-wahhh! Noooo!|
+|111901|1|Your stamina is entirely recovered, my lord. This may be a good time to perform some good luck ceremonies. Of course, I will accompany you.|
+|111901|2|The skip ticket supply at our guildhouse is full, my lord. I feel certain that they will bring good fortune in our adventures.|
+|111901|3|My lord, our guildhouse stamina supply has reached full capacity. Perhaps we could use it to play some traditional New Year's games.|
+|111901|4|The EXP potion supply at our guildhouse is full, my lord. With this much experience, perhaps I will be able to dance more effectively...|
+|111901|5|My lord, we have generated a full Mana supply at the guildhouse. Let us use it with care, much like our New Year's pocket money.|
+|111901|6|Our guildhouse item supplies have all reached maximum capacity, my lord. Is this the good fortune that the new year brings?|
+|112201|1|Your stamina is full, my assistant! This city is full of cases to solve, so let's transform and begin the investigation!|
+|112201|2|A guildhouse full of skip tickets... This smells like foul play. As a Magical Detective, I must identify the culprit...|
+|112201|3|Your guildhouse seems to be positively brimming with stamina. I could solve this case with a wave of my wand, but perhaps you'd like to help?|
+|112201|4|Just look at this pile of EXP potions in your guildhouse! We magical girls draw our strength from love and hope, but I wouldn't turn down a little something extra.|
+|112201|5|My dear assistant, your guildhouse is brimming with Mana! Let me solve your predicament by suggesting some uses for it.|
+|112201|6|Every item supply in your guildhouse has reached its limit, and we both know who's responsible. Perhaps you'd like to do something about this, my dear assistant?|
+|112301|1|Your stamina is fully replenished. Let's go and defend peace in Landosol together!|
+|112301|2|The skip tickets in your guildhouse are full. This should help us to defeat some monsters.|
+|112301|3|You have a full stamina supply at your guildhouse. Maybe it's time to take the fight to the Antibeasts.|
+|112301|4|The EXP potion stock at your guildhouse seems to be full. I need to become strong just like my sister...|
+|112301|5|You have a lot of Mana waiting at your guildhouse. How much magical girl merchandise could that buy?|
+|112301|6|All the items waiting at your guildhouse are full. Once you've claimed them, will you join me on my patrol of Landosol?|
+|180401|1|Your stamina's totally full up! Let's go hunt some tasty monsters!|
+|180401|2|We've got a guildhouse full of skip tickets! You wouldn't skip mealtime, though, would you?|
+|180401|3|Our guildhouse can't hold all this stamina! Let's go burn it on exercise, and work up a healthy appetite!|
+|180401|4|Our guildhouse is full of EXP potions! The more you eat and drink, the bigger and stronger you'll grow! ☆|
+|180401|5|We've got too much Mana for the guildhouse to hold! And I'm starving! Let's head out and buy a huuuuuge meal!|
+|180401|6|Wh-whoa! Look at all these items at our guildhouse! A full stomach's one thing, but a full guildhouse is just a waste! We should claim them all right now! ☆|
+|112401|1|Your stamina's all recovered! I'll do some stretches to prepare, so let's get down to some lessons soon!|
+|112401|2|You guildhouse's skip ticket supply is full. Why don't we go on an adventure together for a change of pace?|
+|112401|3|I think your guildhouse's stamina supply is full. I'm in top form too! I can still keep doing my best!|
+|112401|4|There's a full supply of EXP potions in your guildhouse! Idols and adventurers both need to keep pushing their own limits! ♪|
+|112401|5|Your guildhouse has a full supply of Mana. If there's anything you need, shall we go on a quick shopping trip?|
+|112401|6|All the items you can collect at your guildhouse are full! If you want to clean it all up, I'll be happy to help!|
+|112601|1|Your stamina's totally full! C'mon, no time to laze around! We've gotta get back to our lessons!|
+|112601|2|Hey, your guildhouse is full of skip tickets! Wow, we could go pretty much anywhere with all these! Where d'you want to start?|
+|112601|3|Your guildhouse has a full supply of stamina right now! Time for a nonstop lesson challenge! Let's see how many hours we can keep going!|
+|112601|4|Hey, the EXP potions at your guildhouse are full! These'll help me get even better at singing and dancing... won't they?|
+|112601|5|Whoa, your guildhouse is full to bursting with Mana! Is this a chance to take advantage of some great deals?|
+|112601|6|All the supplies at your guildhouse are super full! C'mon, it's a huge waste if you don't clear them out soon!|
+|112501|1|Your stamina's completely recovered. Come on, let's get back to our lessons. You're going to help me practice, right?|
+|112501|2|The skip ticket supply at your guildhouse is full now. Going on a trip doesn't sound like such a bad idea.|
+|112501|3|You've got a full stamina supply at your guildhouse. I think that's enough resting. Let's focus, shall we?|
+|112501|4|Your guildhouse has a full supply of EXP potions. I feel like my Violet Power might be getting stronger too...|
+|112501|5|Your guildhouse Mana supply is full. Maybe it's time to buy a new set of equipment?|
+|112501|6|All the item supplies at your guildhouse are full. They'll go to waste if you don't come and clear them out.|
+|110901|1|Cheru~n! ♪ Your stamina's all full up! If you wanna go out somewhere, I guess I can tag along!|
+|110901|2|You've got a whole bunch of skip tickets in your guildhouse! Sounds like you're ready to do tons of errands for me.|
+|110901|3|That stamina thingy in your guildhouse is full! So I guess you're ready to work your butt off for me.|
+|110901|4|You've got a full stock of EXP potions in your guildhouse! Which is great, 'cause I needed a pick-me-up.|
+|110901|5|You've got soooo much Mana in your guildhouse! To spend on me, obviously.|
+|110901|6|Check your guildhouse out, 'cause all the supplies are full! Isn't that just the excuse you needed to drop by and see me? ♪|
+|111001|1|Ahem. Your stamina seems to be full. In the terms of the layfolk, it's time to hunt. Prepare to sally forth.|
+|111001|2|The skip tickets in your guildhouse have reached the limit of their capacity. I suggest you proceed to withdraw them.|
+|111001|3|The stamina at your guildhouse has reached the limit of its capacity. I suggest that you claim it forthwith.|
+|111001|4|The EXP potions at your guildhouse have reached the limit of their capacity. I suggest you retrieve them with haste.|
+|111001|5|The Mana at your guildhouse has reached the limit of its capacity. I suggest that you spend it with abandon.|
+|111001|6|All the supplies at your guildhouse have reached the limits of their capacity. What possessed you to leave them unchecked for so long?|
+|112701|1|Hey, your stamina's all recovered. ...Aw, c'mon, don't give me that "get to work" look.|
+|112701|2|Looks like your guildhouse skip ticket supply is full. Here's hoping we can skip all my work.|
+|112701|3|The stamina supply at your guildhouse is full, huh? Neat contrast with my stamina, which is at zero.|
+|112701|4|I spotted you've got a full pot of EXP potions over at the guildhouse. 'Course, all my experience just teaches me to slack off.|
+|112701|5|You've got a full Mana stash at the guildhouse. With a fortune like this, we'll never have to work again... right?|
+|112701|6|Wow, all your supplies at the guildhouse are full. Got any sweet buns tucked away in there? How about acorns?|
+|112801|1|Didja know your stamina's all full up? Let's go out an' sell some quality produce!|
+|112801|2|What a lotta skip tickets you've got lyin' around at the guildhouse! Looks like we'll be gettin' today's work done in no time!|
+|112801|3|That gizmo at your guildhouse is chock-full of stamina! Enough for me to defend the farm an' keep my friends safe too!|
+|112801|4|If this doodah at your guildhouse makes any more EXP potions, it's gonna spill over! This stuff can't be tastier than our good ol' cows' milk, right?|
+|112801|5|You oughtta check your guildhouse Mana supply, 'cause I ain't ever seen so much in one place! Is this what they call "Mana" from heaven?!|
+|112801|6|All the stuff you've been growin' at your guildhouse is as ready as it'll ever be! Now that's what I call a fine harvest!|

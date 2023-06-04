@@ -1,0 +1,12 @@
+{
+    "campaign_freegacha": [
+        {"id":1,"campaign_id":1,"freegacha_1":0,"freegacha_10":1,"start_time":"2021/04/20 13:00:00","end_time":"2021/04/30 12:59:59","stock_10_flag":0,"relation_id":0,"relation_count":0},
+        {"id":2,"campaign_id":2,"freegacha_1":0,"freegacha_10":1,"start_time":"2021/08/01 13:00:00","end_time":"2021/08/12 12:59:59","stock_10_flag":0,"relation_id":0,"relation_count":0},
+        {"id":3,"campaign_id":3,"freegacha_1":0,"freegacha_10":1,"start_time":"2021/12/11 13:00:00","end_time":"2021/12/24 12:59:59","stock_10_flag":0,"relation_id":0,"relation_count":0},
+        {"id":4,"campaign_id":4,"freegacha_1":0,"freegacha_10":1,"start_time":"2022/02/01 13:00:00","end_time":"2022/02/15 12:59:59","stock_10_flag":1,"relation_id":0,"relation_count":0},
+        {"id":6,"campaign_id":6,"freegacha_1":0,"freegacha_10":1,"start_time":"2022/07/19 13:00:00","end_time":"2022/08/05 12:59:59","stock_10_flag":1,"relation_id":0,"relation_count":0},
+        {"id":7,"campaign_id":7,"freegacha_1":0,"freegacha_10":1,"start_time":"2022/11/22 13:00:00","end_time":"2022/12/06 22:59:59","stock_10_flag":1,"relation_id":0,"relation_count":0},
+        {"id":8,"campaign_id":8,"freegacha_1":0,"freegacha_10":1,"start_time":"2023/01/19 13:00:00","end_time":"2023/02/02 12:59:59","stock_10_flag":1,"relation_id":0,"relation_count":0},
+        {"id":9,"campaign_id":9,"freegacha_1":0,"freegacha_10":1,"start_time":"2023/04/02 13:00:00","end_time":"2023/04/09 12:59:59","stock_10_flag":1,"relation_id":0,"relation_count":0}
+    ]
+}

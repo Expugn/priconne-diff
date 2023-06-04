@@ -1,0 +1,17 @@
+{
+    "clan_grade": [
+        {"clan_grade_id":1,"rank_from":1,"rank_to":10},
+        {"clan_grade_id":2,"rank_from":11,"rank_to":25},
+        {"clan_grade_id":3,"rank_from":26,"rank_to":50},
+        {"clan_grade_id":4,"rank_from":51,"rank_to":150},
+        {"clan_grade_id":5,"rank_from":151,"rank_to":300},
+        {"clan_grade_id":6,"rank_from":301,"rank_to":700},
+        {"clan_grade_id":7,"rank_from":701,"rank_to":1500},
+        {"clan_grade_id":8,"rank_from":1501,"rank_to":3000},
+        {"clan_grade_id":9,"rank_from":3001,"rank_to":5000},
+        {"clan_grade_id":10,"rank_from":5001,"rank_to":7000},
+        {"clan_grade_id":11,"rank_from":7001,"rank_to":10000},
+        {"clan_grade_id":12,"rank_from":10001,"rank_to":15000},
+        {"clan_grade_id":13,"rank_from":15001,"rank_to":-1}
+    ]
+}

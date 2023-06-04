@@ -1,0 +1,4082 @@
+|action_id|class_id|action_type|action_detail_1|action_detail_2|action_detail_3|action_value_1|action_value_2|action_value_3|action_value_4|action_value_5|action_value_6|action_value_7|target_assignment|target_area|target_range|target_type|target_number|target_count|description|level_up_disp|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|100100101|1|1|1|0|0|30|30|2.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Single-target physical damage + {0}|
+|100100102|1|3|3|0|0|50|0|500|0|0|0|0|1|1|-1|3|0|99|||
+|100100103|1|1|1|0|0|13.5|13.5|1.08|0|0|0|0|1|2|400|3|0|99|Deals {0} physical damage to enemies in range.|AOE physical damage + {0}|
+|100100201|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|100100301|1|1|1|0|0|8|8|0.6|0|0|0|0|1|1|0|1|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|100100302|1|10|10|1|0|1|11|11|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|100101101|1|1|1|0|0|60|60|4.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Single-target physical damage + {0}|
+|100101102|1|1|1|0|0|45|45|3.6|0|0|0|0|1|2|600|3|0|99|Deals {0} physical damage to enemies in range.|AOE physical damage + {0}|
+|100101201|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Single-target physical damage + {0}|
+|100101202|1|1|1|0|0|9|9|0.72|0|0|0|0|1|2|400|3|0|99|Deals {0} physical damage to enemies in range.|AOE physical damage + {0}|
+|100150101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|100151101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|100200101|1|4|2|0|0|1|6|6|0.45|0|0|0|2|3|2160|3|0|99|Recovers all allies' HP by {0}.|HP recovery + {0}|
+|100200201|1|1|2|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|100200301|1|10|20|1|0|1|0.23|0.23|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical defense by {0}.|Physical defense boost + {0}|
+|100201101|1|4|2|0|0|1|8|8|0.6|0|0|0|2|3|2160|3|0|99|Recovers all allies' HP by {0}.|HP recovery + {0}|
+|100201102|1|10|20|1|0|1|1.2|1.2|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical defense by {0}.|Physical defense boost + {0}|
+|100201103|1|6|1|0|0|45|45|18|0|0|0|0|2|3|2160|3|0|99|Deploys Barrier that negates {0} physical damage.|Negated damage + {0}|
+|100201104|1|8|2|0|0|2|0|18|0|0|0|1|2|3|2160|3|0|99|Boosts action speed of all allies.||
+|100201201|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|100201202|1|10|11|1|0|1|7.5|7.5|12|0|0|1|1|1|-1|3|0|1|Lowers an enemy's physical attack by {0}.|Physical attack lowered + {0}|
+|100250101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|100251101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|100251102|1|90|5|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.||
+|100300101|1|1|1|0|0|60|60|4.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|100300201|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|100300301|1|28|677|100300303|100300302|0|0|0|0|0|0|0|2|1|0|7|0|1|||
+|100300302|1|18|1|100300305|0|0.5|0|1.8|0|0|0|0|1|1|4320|3|0|1|||
+|100300303|1|18|1|100300306|0|1|0|1.8|0|0|0|0|1|1|4320|3|0|1|||
+|100300304|1|28|677|100300306|100300305|0|0|0|0|0|0|0|2|1|0|7|0|1|||
+|100300305|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|100300306|1|1|1|0|0|40|40|3.2|0|0|0|0|1|1|-1|3|0|1|||
+|100301101|1|1|1|0|0|120|120|9.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|100301102|1|35|0|0|0|1|77|18|1|0|0|0|2|1|0|7|0|1|Equips Blades of Wind for a set period of time.||
+|100301201|1|28|677|100301203|100301202|1|2|1|0|0|0|0|2|1|0|7|0|1|||
+|100301202|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|100301203|1|1|1|0|0|40|40|3.2|0|0|0|0|1|1|-1|3|0|1|||
+|100301204|1|10|21|1|0|1|0.6|0.6|12|0|0|1|1|1|-1|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|100301205|1|10|21|1|0|1|1.2|1.2|24|0|0|1|1|1|-1|3|0|1|||
+|100350101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|100351101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|100351102|1|90|1|0|0|1|1125|0|1|0|0|0|0|0|0|0|0|0|Boosts own max HP by {0}.||
+|100400101|1|7|1|0|0|0|0|0|0|0|0|0|1|2|2160|3|1|1|||
+|100400102|1|1|1|0|0|20.4|20.4|1.62|0|0|0|0|1|2|300|1|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|100400201|1|1|1|0|0|8|8|0.6|0|0|0|0|1|1|2160|3|1|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|100400202|1|12|70|0|0|8|0|100|0|0|0|0|1|1|2160|3|1|1|Inflicts Blind.|Blind success rate + 1|
+|100400301|1|1|1|0|0|10|10|0.8|0|0|0|0|1|2|2160|14|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|100400302|1|10|11|1|0|1|3.75|3.75|99|0|0|1|1|2|2160|1|0|1|Lowers an enemy's physical attack by {0}.|Physical attack lowered + {0}|
+|100400303|1|10|10|1|0|1|5.5|5.5|99|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|100401201|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|2160|3|1|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|100401202|1|12|80|0|0|10|0|100|0|0|0|0|1|1|2160|3|1|1|Inflicts Blind.|Blind success rate + 1|
+|100401203|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|3|1|1|||
+|100401204|1|10|11|1|0|1|5|5|180|0|0|0|1|2|200|1|0|99|Lowers physical attack of enemies in range by {0}.|Physical attack lowered + {0}|
+|100450101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|100451101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|100451102|1|90|2|0|0|1|225|0|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.||
+|100500101|1|2|3|0|0|100|0|0|0|0|0|0|1|1|2160|3|2|1|||
+|100500102|1|7|1|0|0|100|0|0|0|0|0|0|1|1|2160|3|2|1|||
+|100500103|1|1|1|0|0|30|30|2.4|0|0|0|0|1|2|300|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|100500201|1|1|1|0|0|3.4|3.4|0.27|0|0|0|0|1|2|300|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|100500202|1|8|7|0|0|0|0|2|0|0|0|0|1|2|300|3|0|99|Renders enemies in range immobile for a set period of time.|Stun success rate + 1|
+|100500301|1|1|1|0|0|10|10|0.8|0|0|0|0|1|2|300|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|100501201|1|1|1|0|0|3.4|3.4|0.54|0|0|0|0|1|2|300|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|100501202|1|8|7|0|0|0|0|2|0|0|0|0|1|2|300|3|0|99|Renders enemies in range immobile for a set period of time.|Stun success rate + 1|
+|100501203|1|10|20|1|0|1|2.24|2.24|12|0|0|0|2|1|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|100501204|1|10|40|1|0|1|2.24|2.24|12|0|0|0|2|1|0|7|0|1|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|100550101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|100551101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|100551102|1|90|3|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.||
+|100600101|1|32|0|0|0|4|4|1|0|0|0|0|2|3|2160|3|0|99|||
+|100600102|1|10|30|1|0|1|4.5|4.5|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|100600201|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|100600301|1|10|41|1|0|1|1|1|12|0|0|1|1|1|-1|3|0|1|Lowers an enemy's magic defense by {0}.|Magic defense lowered + {0}|
+|100601201|1|1|2|0|0|25|25|2|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|100601202|1|10|41|1|0|1|0.2|0.2|12|0|0|1|1|1|-1|3|0|1|Lowers an enemy's magic defense by {0}.|Magic defense lowered + {0}|
+|100610101|1|1|2|0|0|25|25|2|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|100610201|1|1|2|0|0|15|15|1.25|0|0|0|0|1|1|550|3|0|99|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|100650101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|100651101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|100700101|1|1|1|0|0|45|45|3.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|100700102|1|4|1|0|0|1|12|12|1|0|0|0|2|3|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|100700201|1|21|1|0|0|3|0.01|0|0|0|0|0|2|1|0|7|0|1|Becomes immune to all damage for a set period of time.|Immunity time + 0.01 seconds|
+|100700202|1|18|1|100700203|0|0|0|2.4|0|0|0|0|0|0|0|7|0|1|||
+|100700203|1|21|1|0|0|0|0|0|0|0|0|0|2|1|0|7|0|1|||
+|100700301|1|4|1|0|0|1|7.5|7.5|1|0|0|0|2|1|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|100701201|1|21|1|0|0|3|0.01|0|0|0|0|0|2|1|0|7|0|1|Becomes immune to all damage for a set period of time.|Immunity time + 0.01 seconds|
+|100701202|1|18|1|100701203|0|0|0|2.4|0|0|0|0|0|0|0|7|0|1|||
+|100701203|1|21|1|0|0|0|0|0|0|0|0|0|2|1|0|7|0|1|||
+|100701204|1|10|50|1|0|1|0.1|0.1|12|0|0|1|2|2|0|7|0|1|Boosts own evasion by {0}.|Evasion boost + {0}|
+|100701205|1|10|20|1|0|1|1.2|1.2|12|0|0|1|2|2|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|100750101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|100751101|1|90|3|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|100800101|1|1|2|0|0|4.5|4.5|0.405|0|0|0|0|1|1|2160|3|0|99|Deals {0} magic damage to all enemies.|Magic damage + {0}|
+|100800102|1|10|21|1|0|1|0.345|0.345|18|0|0|1|1|1|2160|3|0|99|Lowers all enemies' physical defense by {0}.|Physical defense lowered + {0}|
+|100800201|1|1|2|0|0|15|15|1.2|0|0|0|0|1|1|2160|3|1|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|100800202|1|12|40|0|0|8|0|100|0|0|0|0|1|1|2160|1|0|1|Inflicts Blind.|Blind success rate + 1|
+|100800301|1|16|1|0|0|75|2.5|0|0|0|0|0|2|1|2160|12|0|1|Recovers an ally's TP by {0}.|TP recovery + {0}|
+|100801201|1|1|2|0|0|15|15|1.2|0|0|0|0|1|1|2160|3|1|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|100801202|1|12|40|0|0|8|0|100|0|0|0|0|1|1|2160|3|1|1|Inflicts Blind.|Blind success rate + 1|
+|100801203|1|11|0|0|0|8|0|100|0|0|0|0|1|1|2160|3|1|1|Inflicts Charm on an enemy.|Charm success rate + 1|
+|100850101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|100851101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|100851102|1|90|3|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.||
+|100900101|1|1|2|0|0|18|18|1.44|0|0|0|0|1|3|2160|3|0|99|Deals {0} magic damage to all enemies.|Magic damage + {0}|
+|100900102|1|10|21|1|0|2|100|0|99|0|0|2|2|1|0|7|0|1|Lowers own physical defense to 0.||
+|100900103|1|10|41|1|0|2|100|0|99|0|0|2|2|1|0|7|0|1|Lowers own magical defense to 0.||
+|100900201|1|1|2|0|0|20|20|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|100900301|1|17|3|0|0|100|0|10|0|1|0|0|2|3|0|7|0|1|||
+|100900302|1|1|2|0|0|25|25|2|0|0|0|0|1|2|600|3|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|100900303|1|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|100900304|1|21|1|0|0|1.9|0|0|0|0|0|0|2|3|0|7|0|1|||
+|100901201|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|100901202|1|10|41|1|0|1|0.6|0.6|12|0|0|1|2|3|2160|3|0|99|Lowers an enemy's magic defense by {0}.|Magic defense lowered + {0}|
+|100950101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|100951101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|101000101|1|10|30|1|0|1|3.45|3.45|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|101000102|1|10|20|1|0|1|0.45|0.45|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' physical defense by {0}.|Physical defense boost + {0}|
+|101000103|1|16|1|1|0|50|0|0|18|0|0|0|2|3|2160|3|0|99|Recovers all allies' TP by {0}.||
+|101000201|1|4|2|0|0|1|7.5|7.5|1|0|0|0|2|2|2160|5|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|101000301|1|12|40|0|0|8|0|100|0|0|0|0|1|1|2160|3|1|1|Inflicts Blind.|Blind success rate + 1|
+|101001101|1|10|30|1|0|1|22.5|22.5|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|101001102|1|10|20|1|0|1|0.9|0.9|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' physical defense by {0}.|Physical defense boost + {0}|
+|101001103|1|16|1|1|0|120|0|0|0|0|0|0|2|3|2160|3|0|99|Recovers all allies' TP by {0}.||
+|101001104|1|48|1|2|0|10|0|0|0|10|0|0|2|3|2160|3|0|99|Recovers TP by 10 every second.||
+|101001201|1|4|2|0|0|1|8.5|8.5|1.2|0|0|0|2|3|2160|5|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|101001202|1|10|20|1|0|1|1|1|12|0|0|1|2|3|2160|5|0|1|Boosts an ally's physical defense by {0}.|Physical defense boost + {0}|
+|101001203|1|48|2|1|0|0.5|0.5|0.08|0|8.5|0|0|2|2|2160|5|0|1|Recovers HP by {0} every second.|Recovery + {0}|
+|101050101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|101051101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|101051102|1|90|4|0|0|1|225|0|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.||
+|101100101|1|1|1|0|0|20.4|20.4|1.62|0|0|0|1|1|1|1150|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|101100201|1|10|60|1|0|1|45|0|99|0|0|1|2|1|0|7|0|1|Boosts own physical critical rate by {0}.||
+|101100202|1|10|10|1|0|1|15|15|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack + {0}|
+|101100301|1|1|1|0|0|20|20|1.6|0|0|0|1|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|101101101|1|1|1|0|0|28|28|2.16|0|0|1.75|1|1|1|1300|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|101101201|1|10|60|1|0|1|75|0|99|0|0|1|2|1|0|7|0|1|Boosts own physical critical rate by {0}.||
+|101101202|1|10|10|1|0|1|20|20|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack + {0}|
+|101101203|1|8|2|0|0|1.8|0|12|0|0|0|0|2|1|0|7|0|1|Boosts own action speed.||
+|101150101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|101151101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|101200101|1|1|2|0|0|6.75|6.75|0.54|0|0|0|0|1|1|2160|20|0|99|Deals {0} extra magic damage to enemies that use physical attacks.|Extra magic damage + {0}|
+|101200102|1|1|2|0|0|9|9|0.81|0|0|0|0|1|1|2160|3|0|99|Deals {0} magic damage to all enemies.|AOE magic damage + {0}|
+|101200201|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|2160|14|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|101200301|1|1|2|0|0|10|10|0.8|0|0|0|0|1|1|2160|14|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|101200302|1|8|7|0|0|0|0|1.5|0|0|0|0|1|1|2160|14|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|101201101|1|1|2|0|0|9|9|2.4|0|0|0|0|1|2|2160|20|0|99|Deals {0} extra magic damage to enemies that use physical attacks.|Extra magic damage + {0}|
+|101201102|1|10|41|1|0|1|0.54|0.54|18|0|0|0|1|2|2160|20|0|99|Lowers magic defense of enemies that use physical attacks by {0}.||
+|101201103|1|8|7|0|0|0|0|6|0|0|0|0|1|2|2160|20|0|99|Inflicts Stun on enemies that use physical attacks.|Stun success rate + 1|
+|101201104|1|1|2|0|0|9|9|0.81|0|0|0|0|1|2|2160|3|0|99|Deals {0} magic damage to all enemies.|AOE magic damage + {0}|
+|101201201|1|1|2|0|0|22|22|1.8|0|0|0|0|1|1|2160|14|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|101201202|1|10|41|1|0|1|0.2|0.2|12|0|0|1|1|1|2160|14|0|1|Lowers an enemy's magic defense by {0}.|Magic defense lowered + {0}|
+|101250101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|101251101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|101300101|1|1|2|0|0|60|60|5.6|0|0|0|0|1|2|2160|6|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|101300201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|3|0|1|||
+|101300202|1|10|41|0|0|1|0.48|0.48|12|0|0|0|1|2|200|3|0|99|Lowers magic defense of enemies in range by {0}.|Magic defense lowered + {0}|
+|101300301|1|1|2|0|0|20|20|1.6|0|0|0|0|1|2|2160|6|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|101300302|1|8|7|0|0|0|0|1.5|0|0|0|0|1|2|2160|6|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|101301201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|3|0|1|||
+|101301202|1|10|41|0|0|1|0.8|0.8|12|0|0|0|1|2|200|3|0|99|Lowers magic defense of enemies in range by {0}.|Magic defense lowered + {0}|
+|101350101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|101351101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|101400101|1|7|3|0|0|0|0|0|0|0|0|0|1|1|2160|3|2|1|||
+|101400102|1|38|41|1|3|2.4|2.4|16|0|300|0|0|1|2|2160|3|2|1|Lowers magic defense of enemies within field by {0}.|Magic defense lowered + {0}|
+|101400103|1|38|81|1|0|10|0|16|0|300|0|0|1|2|2160|3|2|1|Lowers TP Boost of enemies within field by {0}.||
+|101400104|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|3|2|1|||
+|101400105|1|8|1|0|0|0.9|0|16|0|0|0|0|1|2|300|1|0|99|Reduces action speed of enemies in range for a set period of time.|Action speed reduction success rate + 1|
+|101400201|1|1|2|0|0|3.4|3.4|0.27|0|0|0|0|1|1|800|3|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|101400202|1|8|5|0|0|0|0|2.5|0|0|0|0|1|1|800|3|0|99|Renders enemies in range immobile for a set period of time.|Bind success rate + 1|
+|101400301|1|1|2|0|0|8|8|0.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|101400302|1|11|1|0|0|7.5|0|1|0|0|0|0|1|1|-1|3|0|1|Confuses an enemy.|Confusion success rate + 1|
+|101401201|1|1|2|0|0|9|9|0.72|0|0|0|0|1|1|800|3|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|101401202|1|26|101401203|3|0|4|0.2|0|0|0|0|0|1|1|800|3|0|99|||
+|101401203|1|8|5|0|0|0|0|2.5|0|0|0|0|1|1|800|3|0|99|Renders enemies in range immobile for a set period of time.|Bind success rate + 1|
+|101450101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|101451101|1|90|5|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|101500101|1|4|2|0|0|1|4.5|4.5|0.3375|0|0|0|2|3|2160|3|0|99|Recovers all allies' HP by {0}.|HP recovery + {0}|
+|101500102|1|10|40|1|0|1|0.45|0.45|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' magic defense by {0}.|Magic defense boost + {0}|
+|101500201|1|10|30|0|0|1|5.5|5.5|12|0|0|0|2|2|300|3|0|99|Boosts magic attack of all allies in range by {0}.|Magic attack boost + {0}|
+|101500301|1|48|2|1|0|1|1|0.12|0|7|0|0|2|2|2160|10|0|1|Recovers HP by {0} every second.|Recovery + {0}|
+|101501201|1|10|30|0|0|1|18|18|12|0|0|0|2|2|300|3|0|99|Boosts magic attack of all allies in range by {0}.|Magic attack boost + {0}|
+|101501202|1|10|70|1|0|1|40|0|12|0|0|1|2|2|300|3|0|99|Boosts magic critical rate of all allies in range by {0}.|Magic critical rate boost + {0}|
+|101550101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|101551101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|101600101|1|1|1|0|0|45|45|4|0|1|0|1|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|101600201|1|1|1|0|0|12|12|0.9|0|1|0|1|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|101600301|1|10|10|1|0|1|15|15|12|0|0|1|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack + {0}|
+|101601201|1|1|1|0|0|12|12|0.9|0|1|1.5|1|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|101601202|1|1|1|0|0|12|12|0.6|0|0|1.5|1|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|101601203|1|1|1|0|0|12|12|0.6|0|0|1.5|1|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|101650101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|101651101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|101700101|1|1|1|0|0|60|60|4.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|101700201|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|101700301|1|34|1|0|0|1|10|10|5|0|0|0|1|3|2160|3|0|99|Adds {0} damage per attack.|Extra damage + {0}|
+|101701201|1|1|1|0|0|30|30|2.3|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|101750101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|101751101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|101800101|1|1|2|0|0|4.5|4.5|0.405|0|0|0|0|1|3|2160|3|0|99|Deals {0} magic damage to all enemies.|AOE magic damage + {0}|
+|101800102|1|11|0|0|0|4|0|100|0|0|0|0|1|3|2160|3|0|99|Inflicts Attract on all enemies.|Attract success rate + 1|
+|101800201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|4000|3|1|1|||
+|101800202|1|1|2|0|0|9|9|0.72|0|0|0|0|1|2|100|1|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|101800301|1|16|2|0|0|50|1|0|0|0|0|0|1|3|-1|2|0|1|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|101800302|1|16|1|0|0|50|1|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|101801101|1|1|2|0|0|10|10|0.81|0|0|0|0|1|3|2160|3|0|99|Deals {0} magic damage to all enemies.|AOE magic damage + {0}|
+|101801102|1|16|2|0|0|20|0.4|0|0|0|0|0|1|3|2160|3|0|99|Reduces all enemies' TP by {0}.|TP damage + {0}|
+|101801103|1|10|81|1|0|1|15|0|18|0|0|1|1|3|2160|3|0|99|Lowers all enemies' TP Boosts by {0}.||
+|101801104|1|11|0|0|0|5|0|100|0|0|0|0|1|3|2160|3|0|99|Inflicts Charm on all enemies.|Charm success rate + 1|
+|101801201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|4000|3|1|1|||
+|101801202|1|23|300|101801203|101801205|0|1|0|0|0|0|0|1|2|100|3|0|99|||
+|101801203|1|1|2|0|0|9|9|1.2|0|0|0|0|1|2|100|3|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|101801204|1|16|2|0|0|300|1|0|0|0|0|0|1|2|100|3|0|99|Reduces an enemy's TP by {0} if they are Charmed.|TP damage + {0}|
+|101801205|1|1|2|0|0|9|9|1.2|0|0|0|0|1|2|100|3|0|99|||
+|101801206|1|10|11|1|0|1|10|10|12|0|0|1|1|2|100|3|0|99|Lowers physical attack of enemies in range by {0} if they are not Charmed.|Physical attack lowered + {0}|
+|101801207|1|10|31|1|0|1|10|10|12|0|0|1|1|2|100|3|0|99|Lowers magic attack of enemies in range by {0} if they are not Charmed.|Magic attack lowered + {0}|
+|101850101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|101851101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|101851102|1|90|5|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.||
+|102000101|1|1|1|0|0|24|24|1.8|0|0|0|0|1|2|2160|3|0|1|Deals {0} physical damage to closest enemy.|Physical damage to 1st target + {0}|
+|102000102|1|1|1|0|0|45|45|3.6|0|0|0|0|1|2|2160|3|1|1|Deals {0} physical damage to 2nd closest target.|Physical damage to 2nd target + {0}|
+|102000103|1|2|5|0|0|100|1200|0|0|0|0|0|1|2|2160|3|1|1|||
+|102000201|1|2|1|0|0|300|0|0|0|0|0|0|1|1|0|3|0|1|||
+|102000202|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|0|1|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|102000301|1|10|10|1|0|1|3|3|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|102001201|1|2|1|0|0|300|0|0|0|0|0|0|1|1|0|3|0|1|||
+|102001202|1|7|1|0|0|0|0|0|0|0|0|0|1|2|2160|3|0|1|||
+|102001203|1|1|1|0|0|27|27|2.1|0|0|0|0|1|1|500|1|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|102050101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|102051101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|102100101|1|1|1|0|0|30|30|2.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|102100102|1|8|7|0|0|0|0|5.5|0|0|0|0|1|1|-1|1|0|0|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|102100201|1|10|20|1|0|1|0.375|0.375|12|0|0|1|2|3|200|3|0|99|Boosts physical defense of all allies in range by {0}.|Physical defense boost + {0}|
+|102100202|1|10|40|1|0|1|0.375|0.375|12|0|0|1|2|3|200|3|0|99|Boosts magic defense of all allies in range by {0}.|Magic defense boost + {0}|
+|102100301|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|102100302|1|8|7|0|0|0|0|1.5|0|0|0|0|1|1|-1|1|0|0|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|102101201|1|10|20|1|0|1|0.75|0.75|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical defense by {0}.|Physical defense boost + {0}|
+|102101202|1|10|40|1|0|1|0.75|0.75|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic defense by {0}.|Magic defense boost + {0}|
+|102101203|1|16|1|1|0|50|0|0|0|0|0|0|2|3|2160|3|0|99|Recovers all allies' TP by {0}.||
+|102150101|1|90|1|0|0|1|75|75|1|0|0|0|0|0|0|0|0|0|Boosts own max HP by {0}.|Max HP + {0}|
+|102151101|1|90|1|0|0|1|1275|75|1|0|0|0|0|0|0|0|0|0|Boosts own max HP by {0}.|Max HP + {0}|
+|102151102|1|90|5|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.||
+|102200101|1|1|2|0|0|18|18|1.44|0|0|0|0|1|1|825|3|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|102200201|1|1|2|0|0|0|0|0.6|0|0|0|0|2|3|0|7|0|1|Reduces own HP by {0}.||
+|102200202|1|10|30|1|0|1|20|20|12|0|0|1|2|3|0|7|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|102200301|1|1|2|0|0|9|9|0.72|0|0|0|0|1|1|800|1|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|102201201|1|1|2|0|0|0|0|0.6|0|0|0|0|2|3|0|7|0|1|Reduces own HP by {0}.||
+|102201202|1|10|30|1|0|1|50|50|12|0|0|1|2|3|0|7|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|102201203|1|16|1|0|0|100|1|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|102250101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|102251101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|102300101|1|1|1|0|0|45|45|3.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|102300102|1|3|1|0|0|800|0|1500|1200|0|0|1|1|1|-1|3|0|1|||
+|102300103|1|8|7|0|0|0|0|2.5|0|0|0|1|1|1|-1|1|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|102300104|1|3|3|0|0|2160|0|3000|0|0|0|1|1|1|-1|3|0|1|||
+|102300201|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|325|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|102300202|1|8|7|0|0|0|0|1.5|0|0|0|0|1|1|325|3|0|99|Renders enemies in range immobile for a set period of time.|Stun success rate + 1|
+|102300301|1|1|1|0|0|6.8|6.8|0.54|0|0|0|0|1|2|325|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|102300302|1|10|21|1|0|1|0.2|0.2|12|0|0|1|1|2|325|3|0|99|Lowers physical defense of enemies in range by {0}.|Physical defense lowered + {0}|
+|102301201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|325|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|102301202|1|8|7|0|0|0|0|2.5|0|0|0|0|1|1|325|3|0|99|Renders enemies in range immobile for a set period of time.|Stun success rate + 1|
+|102301203|1|1|1|0|0|12|12|0.8|0|0|0|0|1|1|325|3|0|1|Deals {0} physical damage to closest enemy.|Physical damage + {0}|
+|102301204|1|8|1|0|0|0.8|0|10.5|0|0|0|0|1|2|325|3|0|1|Reduces an enemy's action speed for a set period of time.|Action speed reduction success rate + 1|
+|102350101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|102351101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|102351102|1|90|5|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.||
+|102500101|1|1|2|0|0|13.5|13.5|1.08|0|0|0|0|1|1|1100|3|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|102500102|1|28|33|102500103|102500104|1|2|0|0|0|0|0|2|1|0|7|0|1|||
+|102500103|1|10|21|1|0|1|0.855|0.855|18|0|0|1|1|1|1100|1|0|99|Lowers physical defense by {0} upon succeeding.|Physical defense lowered on success + {0}|
+|102500104|1|10|21|1|0|1|0.4275|0.4275|18|0|0|1|1|1|1100|1|0|99|Physical defense lowered by {0} upon failure.|Physical defense lowered on failure + {0}|
+|102500201|1|1|2|0|0|9|9|0.72|0|0|0|0|1|1|900|3|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|102500301|1|4|2|0|0|1|2.5|2.5|0.18|0|0|0|2|2|300|3|0|99|Recovers HP of all allies in range by {0}.|HP recovery + {0}|
+|102500302|1|10|10|1|0|1|4|4|12|0|0|1|2|2|300|3|0|99|Boosts physical attack of all allies in range by {0}.|Physical attack boost + {0}|
+|102501201|1|1|2|0|0|15|15|1.2|0|0|0|0|1|1|900|3|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|102501202|1|10|21|1|0|1|0.35|0.35|12|0|0|1|1|1|900|3|0|99|Lowers physical defense of enemies in range by {0}.|Physical defense lowered + {0}|
+|102501203|1|10|41|1|0|1|0.35|0.35|12|0|0|1|1|1|900|3|0|99|Lowers magic defense of enemies in range by {0}.|Magic defense lowered + {0}|
+|102550101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|102551101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|102551102|1|90|5|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|102600101|1|4|1|0|0|1|2.25|2.25|0.25|0|0|0|2|3|2160|3|0|99|Recovers all allies' HP by {0}.|HP recovery + {0}|
+|102600102|1|10|10|1|0|1|6|6|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|102600103|1|10|40|1|0|1|0.7|0.7|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' magic defense by {0}.|Magic defense boost + {0}|
+|102600201|1|10|40|1|0|1|1.2|1.2|12|0|0|1|2|2|150|3|0|99|Boosts magic defense of all allies in range by {0}.|Magic defense boost + {0}|
+|102600301|1|1|1|0|0|6|6|0.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|102600302|1|8|7|0|0|0|0|2.5|0|0|0|0|1|1|-1|3|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|102601201|1|10|40|1|0|1|1.4|1.4|12|0|0|1|2|2|250|3|0|99|Boosts magic defense of all allies in range by {0}.|Magic defense boost + {0}|
+|102601202|1|10|10|1|0|1|15|15|12|0|0|1|2|2|250|3|0|99|Boosts physical attack of all allies in range by {0}.|Physical attack boost + {0}|
+|102601203|1|10|60|1|0|1|50|0|12|0|0|1|2|2|250|3|0|99|Boosts physical critical rate of all allies in range by {0}.||
+|102650101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|102651101|1|90|5|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|102700101|1|1|1|0|0|60|60|4.5|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|102700102|1|28|1000|102700103|0|1|0|0|0|0|0|0|2|1|0|7|0|1|||
+|102700103|1|10|10|1|0|1|22.5|22.5|18|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0} upon defeating an enemy.|Physical attack boost + {0}|
+|102700201|1|10|10|1|0|1|7.5|7.5|12|0|0|0|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|102700301|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|102700302|1|9|1|0|0|2|2|8|0|0|0|0|1|1|-1|1|0|1|Inflicts Poison that deals {0} damage.|Poison damage per second + {0}|
+|102701201|1|10|10|1|0|1|20|20|12|0|0|0|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|102701202|1|10|10|1|0|1|90|90|7.5|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|102701203|1|10|60|1|0|1|400|0|7.5|0|0|0|2|1|0|7|0|1|Boosts own physical critical rate by {0}.|0|
+|102750101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|102751101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|102800101|1|26|102800102|1|0|1|0.2|0|0|0|0|0|2|1|0|7|0|1|||
+|102800102|1|1|1|0|0|18|18|1.44|0|0|0|0|1|1|700|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|102800201|1|1|1|0|0|9|9|0.72|0|0|0|0|1|1|500|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|102800301|1|16|1|0|0|75|2.5|0|0|0|0|0|2|3|2160|3|1|1|Recovers an ally's TP by {0}.|TP recovery + {0}|
+|102801201|1|26|102801202|1|0|1|0.4|0|0|0|0|0|2|1|0|7|0|1|||
+|102801202|1|1|1|0|0|12|12|0.9|0|0|0|0|1|1|500|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|102850101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|102851101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|102900101|1|10|10|1|0|1|4.5|4.5|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|102900102|1|10|20|1|0|1|1.8|1.8|18|0|0|1|2|3|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|102900103|1|10|40|0|0|1|1.8|1.8|18|0|0|0|2|3|0|7|0|1|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|102900104|1|20|1|0|0|10|0|0|0|0|0|0|2|3|0|7|0|1|Provokes all enemies.||
+|102900201|1|1|1|0|0|3.4|3.4|0.27|0|0|0|0|1|1|280|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|102900202|1|8|7|0|0|0|0|1.5|0|0|0|0|1|1|280|3|0|99|Renders enemies in range immobile for a set period of time.|Stun success rate + 1|
+|102900301|1|4|1|0|0|1|3.5|3.5|0.6|0|0|0|2|2|200|3|0|99|Recovers HP of all allies in range by {0}.|HP recovery + {0}|
+|102901201|1|1|1|0|0|8|8|0.6|0|0|0|0|1|1|280|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|102901202|1|8|7|0|0|0|0|2|0|0|0|0|1|1|280|3|0|99|Renders enemies in range immobile for a set period of time.|Stun success rate + 1|
+|102901203|1|10|11|1|0|1|1.5|1.5|12|0|0|1|1|1|280|3|0|99|Lowers physical attack of enemies in range by {0}.|Physical attack lowered + {0}|
+|102950101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|102951101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|102951102|1|90|5|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.||
+|103000101|1|1|1|0|0|18|18|1.44|0|0|0|0|1|1|750|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|103000201|1|1|1|0|0|9|9|0.72|0|0|0|0|1|1|750|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|103000202|1|28|1000|103000204|0|1|0|0|0|0|0|0|1|1|750|3|0|99|||
+|103000203|1|27|103000204|1|0|2|1|0|0|0|0|0|0|0|0|0|0|0|||
+|103000204|1|16|1|0|0|150|0|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0} upon defeating an enemy.|TP recovery + {0}|
+|103000301|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|103000302|1|3|3|0|0|100|0|500|0|0|0|0|1|1|-1|1|0|0|||
+|103001201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|750|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|103001202|1|28|1000|103001204|0|1|0|0|0|0|0|0|1|1|750|3|0|99|||
+|103001203|1|27|103001204|1|0|2|1|0|0|0|0|0|0|0|0|0|0|0|||
+|103001204|1|16|1|0|0|1000|0|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0} upon defeating an enemy.|TP recovery + {0}|
+|103050101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103051101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103100101|1|1|1|0|0|20.4|20.4|1.62|0|0|0|0|1|1|700|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|103100102|1|10|21|1|0|1|0.4275|0.4275|18|0|0|1|1|1|700|3|0|99|Lowers physical defense of enemies in range by {0}.|Physical defense lowered + {0}|
+|103100201|1|15|1|403101|1|0|0|1|0|1|1|200|2|1|0|7|0|1|Summons Shinobu's Skull Father.|Summoned Skull Father lvl + {0}|
+|103100301|1|10|21|1|0|1|0.15|0.15|12|0|0|1|1|3|2160|3|0|99|Lowers all enemies' physical defense by {0}.|Physical defense lowered + {0}|
+|103101201|1|15|1|403101|1|0|0|1|0|1|1|200|2|1|0|7|0|1|Summons Shinobu's Skull Father.|Summoned Skull Father lvl + {0}|
+|103101202|1|7|1|0|0|0|0|0|0|0|0|0|2|1|2160|3|0|1|||
+|103101203|1|10|10|1|0|1|12|12|12|0|0|1|2|2|225|3|0|99|Boosts physical attack of all allies in range by {0}.|Physical attack boost + {0}|
+|103101204|1|10|60|0|0|1|50|0|12|0|0|0|2|2|225|3|0|99|Boosts physical critical rate of all allies in range by {0}.||
+|103150101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103151101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103200101|1|1|1|0|0|60|60|4.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|103200201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|103200202|1|42|2|103200203|0|100|0|0|2|0|0|0|2|3|0|3|0|1|||
+|103200203|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|280|3|0|99|Deals {0} physical damage to enemies in range.|Physical counter damage + {0}|
+|103200204|1|10|10|1|0|1|5.5|5.5|12|0|0|1|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103200301|1|37|3|1|1|0.5|0.5|0.05|0|8|0|150|2|3|0|7|0|1|Deploys a field that recovers HP by {0} every second.|HP recovered per second + {0}|
+|103201201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|103201202|1|42|2|103201203|0|100|0|0|2|0|0|0|2|3|0|3|0|1|||
+|103201203|1|1|1|0|0|30|30|2.4|0|0|0|0|1|1|320|3|0|99|Deals {0} physical damage to enemies in range.|Physical counter damage + {0}|
+|103201204|1|10|10|1|0|1|15|15|12|0|0|1|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103201205|1|10|80|1|0|1|15|0|12|0|0|1|2|1|0|7|0|1|Boosts own TP Boost by {0}.||
+|103201206|1|20|1|0|0|5|0|0|0|0|0|0|2|3|0|7|0|1|||
+|103250101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103251101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103251102|1|90|3|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.||
+|103300101|1|1|1|0|0|50|50|4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|103300102|1|8|7|0|0|0|0|2|0|0|0|0|1|1|0|1|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|103300201|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|103300202|1|3|3|0|0|200|0|500|0|0|0|0|1|1|0|1|0|1|||
+|103300301|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|103300302|1|10|10|1|0|1|5.5|5.5|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack + {0}|
+|103301201|1|1|1|0|0|10|10|2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|103301202|1|3|3|0|0|600|0|1500|0|0|0|0|1|1|-1|3|0|1|||
+|103301203|1|11|1|0|0|7|0|1|0|0|0|0|1|1|-1|3|0|1|Confuses an enemy.|Confusion success rate + 1|
+|103350101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103351101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103351102|1|90|3|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.||
+|103400101|1|6|2|0|0|18|18|18|0|0|0|0|2|3|2160|3|0|99|Deploys Barrier that negates {0} magic damage.|Negated damage + {0}|
+|103400201|1|4|1|0|0|1|7.5|7.5|1|0|0|0|2|3|2160|5|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|103400301|1|16|1|0|0|75|2.5|0|0|0|0|0|2|3|2160|13|0|1|Recovers an ally's TP by {0}.|TP recovery + {0}|
+|103401101|1|6|2|0|0|36|36|18|0|0|0|0|2|3|2160|3|0|99|Deploys Barrier that negates {0} magic damage.|Negated damage + {0}|
+|103401102|1|10|40|1|0|1|1.2|1.2|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic defense by {0}.|Magic defense boost + {0}|
+|103401103|1|4|1|0|0|1|5|5|0.25|0|0|0|2|3|2160|3|0|99|Recovers all allies' HP by {0}.|HP recovery + {0}|
+|103401201|1|4|1|0|0|1|10|10|1.2|0|0|0|2|3|2160|5|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|103401202|1|10|40|1|0|1|0.8|0.8|12|0|0|1|2|3|2160|5|0|1|Boosts an ally's magic defense by {0}.|Magic defense boost + {0}|
+|103401203|1|48|1|1|0|0.5|0.5|0.08|0|8.5|0|0|2|2|2160|5|0|1|Recovers HP by {0} every second.|Recovery + {0}|
+|103450101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|103451101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|103451102|1|90|2|0|0|1|225|0|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.||
+|103600101|1|1|2|0|0|60|60|5|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|103600201|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|103600301|1|10|30|1|0|1|28|28|9|0|0|0|2|3|0|3|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|103601201|1|1|2|0|0|20|20|2.4|0|0|2|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|103650101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|103651101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|103700101|1|1|1|0|0|30|30|2.25|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|103700102|1|10|10|1|0|1|64|64|24|0|0|0|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103700103|1|8|2|0|0|1.25|0|24|0|0|0|0|2|1|0|7|0|1|Boosts own action speed.||
+|103700201|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|600|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|103700301|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|103700302|1|16|1|0|0|60|0.6|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|103701201|1|26|103701202|3|0|4|0.15|0|0|0|0|0|1|1|600|3|0|99|||
+|103701202|1|1|1|0|0|10|10|0.9|0|0|0|0|1|1|600|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|103750101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103751101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103800101|1|10|10|1|0|1|22.5|22.5|90|8|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103800102|1|1|1|0|0|30|30|2.4|0|0|0|0|1|1|2160|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|103800201|1|1|1|0|0|4.5|4.5|0.36|0|0|0|0|1|1|2160|3|0|1|Deals {0} physical damage to a maximum of 3 characters.|Physical damage + {0}|
+|103800202|1|1|1|0|0|4.5|4.5|0.36|0|0|0|0|1|1|2160|3|1|1|||
+|103800203|1|1|1|0|0|4.5|4.5|0.36|0|0|0|0|1|1|2160|3|2|1|||
+|103800204|1|16|1|0|0|40|1|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|103800301|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|103800302|1|16|1|0|0|40|1|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|103801201|1|1|1|0|0|4.5|4.5|0.54|0|0|0|0|1|1|2160|3|0|1|Deals {0} physical damage to closest target.|Physical damage + {0}|
+|103801202|1|1|1|0|0|4.5|4.5|0.72|0|0|0|0|1|1|2160|3|1|1|Deals {0} physical damage to 2nd closest target.|Physical damage + {0}|
+|103801203|1|1|1|0|0|4.5|4.5|0.9|0|0|0|0|1|1|2160|3|2|1|Deals {0} physical damage to 3rd closest target.|Physical damage + {0}|
+|103801204|1|16|1|0|0|60|1.25|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|103850101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|103851101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|104000101|1|7|1|0|0|0|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|104000102|1|1|1|0|0|18|18|1.44|0|0|0|0|1|2|150|1|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|104000201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|104000202|1|9|1|0|0|2.25|2.25|8|0|0|0|0|1|3|2160|2|0|1|Inflicts Poison that deals {0} damage.|Poison damage per second + {0}|
+|104000301|1|1|1|0|0|8|8|0.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|104000302|1|8|3|0|0|0|0|2.25|0|0|0|0|1|1|-1|1|0|1|Renders an enemy immobile for a set period of time.|Paralyze success rate + 1|
+|104001201|1|23|502|104001203|104001202|1|2|0|0|0|0|0|1|1|-1|3|0|1|||
+|104001202|1|1|1|0|0|50|50|4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy if they are Poisoned.|Physical damage + {0}|
+|104001203|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy if they are not Poisoned.|Physical damage + {0}|
+|104001204|1|9|4|0|0|28|28|12|0|0|0|0|1|1|-1|3|0|1|Inflicts Venom that deals {0} damage on an enemy if they are Poisoned.|Venom damage per second + {0}|
+|104001205|1|9|1|0|0|3.75|3.75|24|0|0|0|0|1|1|-1|3|0|1|Inflicts Poison that deals {0} damage on an enemy if they are not Poisoned.|Poison damage per second + {0}|
+|104050101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|104051101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|104051102|1|90|3|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.||
+|104200101|1|4|2|0|0|1|5.25|5.25|0.4|0|0|0|2|1|2160|3|0|99|Recovers HP of all allies in range by {0}.|HP recovery + {0}|
+|104200102|1|15|1|404201|1|0|0|1|0|1|1|0|2|1|2160|10|0|1|Summons a spirit.|Level of summoned spirit + {0}|
+|104200201|1|7|1|0|0|0|0|0|0|0|0|0|2|1|2160|10|0|1|||
+|104200202|1|10|10|1|0|1|8|8|12|0|0|1|2|2|200|1|0|99|Boosts physical attack of all allies in range by {0}.|Physical attack boost + {0}|
+|104200301|1|10|11|1|0|1|7.5|7.5|12|0|0|0|1|1|-1|3|0|1|Lowers an enemy's physical attack by {0}.|Physical attack lowered + {0}|
+|104201201|1|7|1|0|0|0|0|0|0|0|0|0|2|1|2160|10|0|1|||
+|104201202|1|10|10|1|0|1|18|18|12|0|0|1|2|2|200|1|0|99|Boosts physical attack of all allies in range by {0}.|Physical attack boost + {0}|
+|104201203|1|10|60|1|0|1|50|0|12|0|0|1|2|2|200|1|0|99|Boosts physical critical rate of all allies in range by {0}.|Physical critical rate boost + {0}|
+|104201204|1|37|4|0|1|0.5|0.5|0.05|0|8|0|250|2|1|2160|10|0|1|Deploys a field that recovers HP by {0} every second.|HP recovered per second + {0}|
+|104210101|1|15|1|404202|1|0|0|1|0|1|1|0|2|3|0|7|0|1|||
+|104210201|1|15|1|404203|1|0|0|1|0|1|1|300|2|3|0|7|0|1|||
+|104210301|1|15|1|404204|1|0|0|1|0|1|1|300|2|3|0|7|0|1|||
+|104250101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|104251101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|104251102|1|90|5|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.||
+|104300101|1|1|1|0|0|45|45|3.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|104300102|1|10|21|1|0|1|0.9|0.9|18|0|0|1|1|1|-1|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|104300201|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|104300301|1|10|21|1|0|1|0.8|0.8|12|0|0|1|1|1|-1|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|104301201|1|1|1|0|0|25|25|2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|104301202|1|10|10|1|0|1|7.5|7.5|12|0|0|1|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|104350101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|104351101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|104400101|1|7|1|0|0|0|0|0|0|0|0|0|1|2|2160|3|0|1|||
+|104400102|1|1|2|0|0|27|27|2.16|0|0|0|0|1|2|250|1|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|104400103|1|4|2|0|0|1|13.5|13.5|0.6|0|0|0|2|3|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|104400104|1|2|1|0|0|100|0|0|0|0|0|0|1|1|2160|3|0|1|||
+|104400201|1|1|2|0|0|0|0|1|0|0|0|0|2|3|0|7|0|1|Reduces own HP by {0}.||
+|104400202|1|10|30|1|0|1|11|11|12|0|0|1|2|3|0|7|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|104400203|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|104400301|1|1|2|0|0|0|0|1|0|0|0|0|2|3|0|7|0|1|Reduces own HP by {0}.||
+|104400302|1|1|2|0|0|15|15|1.2|0|0|0|0|1|1|600|3|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|104401201|1|1|2|0|0|0|0|1|0|0|0|0|2|3|0|7|0|1|Reduces own HP by {0}.||
+|104401202|1|10|30|1|0|1|13|13|12|0|0|1|2|3|0|7|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|104401203|1|1|2|0|0|25|25|2|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|104450101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|104451101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|104500101|1|6|4|0|0|35|35|18|0|0|0|0|2|1|0|7|0|1|Deploys Barrier that absorbs {0} magic damage.|Damage absorbed + {0}|
+|104500102|1|4|1|0|0|1|12|12|1|0|0|0|2|1|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|104500201|1|20|1|0|0|5|0.05|0|0|0|0|0|2|1|0|7|0|1|Provokes all enemies.||
+|104500202|1|10|20|1|0|1|1.2|1.2|12|0|0|0|2|1|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|104500301|1|10|40|1|0|1|1.6|1.6|12|0|0|0|2|1|0|7|0|1|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|104501201|1|20|1|0|0|5|0.05|0|0|0|0|0|2|1|0|7|0|1|Provokes all enemies.||
+|104501202|1|10|20|1|0|1|1.5|1.5|12|0|0|0|2|1|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|104501203|1|4|1|0|0|1|7|7|0.7|0|0|0|2|1|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|104550101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|104551101|1|90|5|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|104600101|1|2|1|0|0|0|0|0|0|0|0|0|1|2|2160|16|0|1|||
+|104600102|1|1|1|0|0|60|60|4.8|0|0|0|0|1|2|2160|16|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|104600201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|2160|16|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|104600202|1|10|31|1|0|1|2.75|2.75|12|0|0|1|1|1|-1|1|0|1|Lowers an enemy's magic attack by {0}.|Magic attack lowered + {0}|
+|104600301|1|16|2|0|0|40|1.25|0|0|0|0|0|1|1|2160|16|0|1|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|104600302|1|16|1|0|0|40|1.25|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|104601101|1|23|1300|104601102|104601103|0|0|0|0|0|0|0|1|2|2160|16|0|1|||
+|104601102|1|1|1|0|0|60|60|4.8|0|0|0|0|1|2|2160|16|0|1|If target uses physical attacks, deals {0} physical damage.|Physical damage + {0}|
+|104601103|1|1|1|0|0|124|124|9.9|0|0|0|0|1|2|2160|16|0|1|If target uses magic attacks, deals {0} physical damage.|Physical damage + {0}|
+|104601104|1|10|21|0|0|1|1.35|1.35|18|0|0|0|1|2|2160|16|0|1|If target uses magic attacks, lowers their physical defense by {0}.|Physical defense lowered + {0}|
+|104601201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|2160|16|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|104601202|1|10|31|1|0|1|5.5|5.5|12|0|0|1|1|1|2160|1|0|1|Lowers an enemy's magic attack by {0}.|Magic attack lowered + {0}|
+|104601203|1|8|7|0|0|0|0|1.5|0|0|0|0|1|1|2160|1|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|104650101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|104651101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|104700101|1|6|6|0|0|55|55|18|0|0|0|0|2|3|0|7|0|1|Deploys Barrier that absorbs {0} physical and magic damage.|Damage absorbed + {0}|
+|104700201|1|4|1|0|0|1|7.5|7.5|1|0|0|0|2|2|300|5|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|104700301|1|1|1|0|0|8|8|0.6|0|0|0|0|1|2|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|104700302|1|10|21|0|0|1|0.6|0.6|12|0|0|0|1|2|-1|1|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|104701201|1|4|1|0|0|1|10|10|1|0|0|0|2|2|300|5|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|104701202|1|10|10|1|0|1|11|11|12|0|0|1|2|2|300|5|0|1|Boosts an ally's physical attack by {0}.|Physical attack boost + {0}|
+|104701203|1|8|2|0|0|1.2|0|12|0|0|0|0|2|2|300|5|0|1|Boosts an ally's action speed.||
+|104750101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|104751101|1|90|5|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|104800101|1|2|1|0|0|50|0|1|0|0|0|0|1|1|-1|3|0|1|||
+|104800102|1|1|1|0|0|50|50|4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|104800103|1|8|7|0|0|0|0|1.5|0|0|0|0|1|1|-1|1|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|104800201|1|4|1|0|0|1|10|10|1|0|0|0|2|3|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|104800301|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|104800302|1|8|7|0|0|0|0|1.5|0|0|0|0|1|1|-1|1|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|104801201|1|4|1|0|0|1|12|12|1.2|0|0|0|2|3|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|104801202|1|10|20|1|0|1|1.2|1.2|12|0|0|1|2|3|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|104801203|1|10|40|1|0|1|1.2|1.2|12|0|0|1|2|3|0|7|0|1|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|104801204|1|37|3|1|1|0.5|0.5|0.07|0|8.5|0|150|2|3|0|7|0|1|Deploys a field that recovers HP by {0} every second.|HP recovered per second + {0}|
+|104850101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|104851101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|104851102|1|90|3|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.||
+|104900101|1|1|1|0|0|45|45|3.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|104900102|1|6|3|0|0|10|10|18|0|0|0|0|2|3|0|7|0|1|Deploys Barrier that absorbs {0} physical damage.|Damage absorbed + {0}|
+|104900201|1|4|1|0|0|1|7.5|7.5|1|0|0|0|2|2|2160|5|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|104900301|1|6|1|0|0|6|6|12|0|0|0|0|2|2|150|3|0|99|Deploys Barrier that negates {0} physical damage.|Negated damage + {0}|
+|104901201|1|4|1|0|0|1|7.5|7.5|1|0|0|0|2|2|2160|5|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|104901202|1|10|20|1|0|1|0.8|0.8|12|0|0|1|2|2|2160|5|0|1|Boosts an ally's physical defense by {0}.|Physical defense boost + {0}|
+|104950101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|104951101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|104951102|1|90|2|0|0|1|225|0|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.||
+|105000101|1|1|2|0|0|12|12|1.08|0|0|0|0|1|1|2160|3|0|99|Deals {0} magic damage to all enemies.|Magic damage + {0}|
+|105000201|1|1|2|0|0|10|10|0.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|105000202|1|8|1|0|0|0.8|0|8|0|0|0|0|1|1|-1|1|0|1|Reduces an enemy's action speed for a set period of time.|Action speed reduction success rate + 1|
+|105000301|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|3|0|1|||
+|105000302|1|1|2|0|0|3|3|0.24|0|0|0|0|1|2|100|1|0|0|Deals {0} magic damage per hit to enemies in range.|Magic damage + {0}|
+|105000303|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|3|1|1|||
+|105000304|1|1|2|0|0|3|3|0.24|0|0|0|0|1|2|100|1|0|0|||
+|105000305|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|3|2|1|||
+|105000306|1|1|2|0|0|3|3|0.24|0|0|0|0|1|2|100|1|0|0|||
+|105001201|1|7|1|0|0|0|0|0|0|0|0|0|1|2|2160|3|0|1|||
+|105001202|1|1|2|0|0|22|22|1.6|0|0|0|0|1|2|200|1|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|105001203|1|8|1|0|0|0.65|0|10|0|0|0|0|1|2|200|1|0|99|Reduces action speed of enemies in range for a set period of time.|Action speed reduction success rate + 1|
+|105050101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|105051101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|105100101|1|1|1|0|0|20.4|20.4|1.62|0|0|0|0|1|1|750|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|105100102|1|27|105100103|2|0|2|1|0|0|0|0|0|0|0|0|0|0|1|||
+|105100103|1|4|1|0|0|2|20|0|0|0|0|0|2|1|0|7|0|1|Recovers HP based on enemies defeated ×20%.||
+|105100201|1|9|3|0|0|2.4|2.4|12|0|0|0|0|1|1|620|3|0|99|Inflicts Curse that deals {0} damage.|Curse damage per second + {0}|
+|105100301|1|7|3|0|0|1000|0|0|0|0|0|0|2|1|2160|11|0|1|||
+|105100302|1|38|21|1|2|1.2|1.2|8|0|250|0|0|1|1|2160|11|0|0|Lowers physical defense of enemies within the field by {0}.|Physical defense lowered + {0}|
+|105101201|1|9|3|0|0|3.6|3.6|12|0|0|0|0|1|1|620|3|0|99|Inflicts Curse that deals {0} damage.|Curse damage per second + {0}|
+|105101202|1|8|1|0|0|0.95|0|12|0|0|0|0|1|1|620|3|0|99|Reduces action speed of enemies in range for a set period of time.|Action speed reduction success rate + 1|
+|105150101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|105151101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|105200101|1|1|1|0|0|13.5|13.5|1.08|0|0|0|0|1|1|400|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|105200102|1|3|3|0|0|50|0|250|0|0|0|0|1|1|-1|1|0|1|||
+|105200103|1|10|20|0|0|1|2.4|2.4|18|0|0|0|2|3|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105200201|1|44|0|0|0|1|0|0|0|0|0|1|2|3|0|7|0|1|||
+|105200202|1|2|5|105200203|0|100|800|0|0|0|0|0|1|1|4000|3|0|1|||
+|105200203|1|1|1|0|0|20|20|1.6|0|0|0|1|1|1|2160|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105200204|1|21|1|0|0|1|0|0|0|0|0|0|2|3|0|7|0|1|||
+|105200205|1|10|20|0|0|1|0.8|0.8|16|0|0|0|2|3|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105200301|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|-1|1|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105200302|1|8|7|0|0|0|0|1.5|0|0|0|0|1|1|-1|1|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|105201101|1|1|1|0|0|27|27|2.16|0|0|0|0|1|1|400|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|105201102|1|3|3|0|0|250|0|1250|0|0|0|0|1|1|400|3|0|99|||
+|105201103|1|10|20|0|0|1|3.2|3.2|18|0|0|0|2|3|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105201104|1|6|1|0|0|15|15|18|0|0|0|0|2|3|2160|3|0|99|Deploys Barrier that negates {0} physical damage.|Negated damage + {0}|
+|105201201|1|44|0|0|0|1|0|0|0|0|0|1|2|3|0|7|0|1|||
+|105201202|1|2|5|105201203|0|100|800|0|0|0|0|0|1|1|4000|3|0|1|||
+|105201203|1|1|1|0|0|20|20|1.6|0|0|0|1|1|1|2160|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105201204|1|21|1|0|0|1|0|0|0|0|0|0|2|3|0|7|0|1|||
+|105201205|1|10|20|0|0|1|1|1|16|0|0|0|2|3|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105201206|1|6|1|0|0|36|36|16|0|0|0|0|2|3|2160|3|0|99|Deploys Barrier that negates {0} physical damage.|Negated damage + {0}|
+|105250101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105251101|1|90|3|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105300101|1|1|1|0|0|18|18|1.44|0|0|0|0|1|1|720|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|105300201|1|10|10|1|0|1|1.5|1.5|20|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|105300202|1|10|30|1|0|1|1.5|1.5|20|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|105300203|1|8|2|0|0|1.5|0|20|0|0|0|0|2|3|2160|3|0|99|Boosts action speed of all allies.||
+|105300301|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|0|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105300302|1|8|7|0|0|0|0|1.5|0|0|0|0|1|1|-1|1|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|105301201|1|10|10|1|0|1|12|12|20|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|105301202|1|10|30|1|0|1|12|12|20|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|105301203|1|8|2|0|0|2|0|20|0|0|0|0|2|3|2160|3|0|99|Boosts action speed of all allies.||
+|105350101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|105351101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|105351102|1|90|3|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.||
+|105400101|1|1|1|0|0|18|18|1.44|0|0|0|0|1|1|900|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|105400102|1|3|3|1|0|-300|0|6000|0|0|0|1|1|1|900|4|0|1|||
+|105400103|1|3|3|1|0|300|0|6000|0|0|0|1|1|1|900|3|0|1|||
+|105400104|1|8|5|0|0|0|0|2.5|0|0|0|0|1|1|900|3|0|99|Renders enemies in range immobile for a set period of time.|Bind success rate + 1|
+|105400201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|2160|3|1|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105400202|1|3|3|1|0|-100|0|750|0|0|0|1|1|1|2160|1|0|1|||
+|105400301|1|1|1|0|0|2.25|2.25|0.18|0|0|0|0|1|1|700|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|105400302|1|10|101|0|0|1|150|0|12|0|0|0|1|1|700|3|0|99|Reduces movement speed of enemies in range for a set period of time.|Movement speed reduction success rate + 1|
+|105400303|1|8|1|0|0|0.9|0|12|0|0|0|0|1|1|700|3|0|99|Reduces action speed of enemies in range for a set period of time.|Action speed reduction success rate + 1|
+|105401201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|2160|3|1|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105401202|1|3|3|1|0|-100|0|750|0|0|0|1|1|1|2160|1|0|1|||
+|105401203|1|8|7|0|0|0|0|1.5|0|0|0|1|1|1|2160|1|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|105401204|1|10|10|1|0|1|12|12|12|0|0|1|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|105401205|1|10|20|1|0|1|0.4|0.4|12|0|0|1|2|3|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105450101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105451101|1|90|3|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105500101|1|1|1|0|0|12|12|1.08|0|0|0|0|1|1|1200|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|105500102|1|12|30|0|0|6|0|100|0|0|0|0|1|1|1200|3|0|99|Blinds enemies in range.|Blind success rate + 1|
+|105500103|1|11|1|0|0|4|0|100|0|0|0|0|1|1|1200|3|0|99|Confuses enemies in range.|Confusion success rate + 1|
+|105500201|1|1|1|0|0|9|9|0.72|0|0|0|0|1|2|-1|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|105500202|1|10|11|1|0|1|4|4|12|0|0|1|1|2|-1|3|0|99|Lowers the physical attack of enemies in range by {0}.|Physical attack lowered + {0}|
+|105500301|1|1|1|0|0|5|5|0.4|0|0|0|0|1|1|1200|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|105500302|1|8|7|0|0|0|0|2.4|0|0|0|0|1|1|1200|3|0|99|Renders enemies in range immobile for a set period of time.|Stun success rate + 1|
+|105501201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|2|-1|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|105501202|1|10|11|1|0|1|6.4|6.4|12|0|0|1|1|2|-1|3|0|99|Lowers physical attack of enemies in range by {0}.|Physical attack lowered + {0}|
+|105550101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105551101|1|90|3|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105600101|1|1|1|0|0|30|30|2.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105600102|1|10|21|1|0|1|1.2|1.2|18|0|0|1|1|1|-1|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|105600201|1|20|1|0|0|5|0.05|0|0|0|0|0|2|1|0|7|0|1|Provokes all enemies.||
+|105600202|1|42|2|105600203|0|100|0|0|2|0|0|0|2|3|0|7|0|1|||
+|105600203|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|200|3|0|99|Deals {0} physical damage to enemies in range.|Physical counter damage + {0}|
+|105600204|1|3|3|1|0|200|0|750|0|0|0|1|1|1|200|3|0|99|||
+|105600301|1|4|1|0|0|1|5|5|0.8|0|0|0|2|1|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|105600302|1|10|20|1|0|1|0.8|0.8|12|0|0|0|2|1|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105601201|1|20|1|0|0|5|0.05|0|0|0|0|0|2|1|0|7|0|1|Provokes all enemies.||
+|105601202|1|42|2|105601203|0|100|0|0|2|0|0|0|2|3|0|7|0|1|||
+|105601203|1|1|1|0|0|26|26|2.1|0|0|0|0|1|1|200|3|0|99|Deals {0} physical damage to enemies in range.|Physical counter damage + {0}|
+|105601204|1|3|3|1|0|200|0|750|0|0|0|1|1|1|200|3|0|99|||
+|105601205|1|10|21|1|0|1|0.24|0.24|12|0|0|1|1|1|200|3|0|99|Lowers physical defense of enemies in range by {0}.|Physical defense lowered + {0}|
+|105650101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|105651101|1|90|5|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|105700101|1|1|1|0|0|60|60|4.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105700201|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105700301|1|16|1|0|0|150|1.5|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|105701201|1|1|1|0|0|28|28|2.25|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105701202|1|16|1|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by 200.|TP recovery + {0}|
+|105701203|1|16|1|0|0|100|0|0|0|0|0|0|2|2|2160|3|0|99|Recovers all other allies' TP by 100.|TP recovery + {0}|
+|105750101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|105751101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|105800101|1|1|1|0|0|30|30|2.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105800102|1|10|20|1|0|1|1.8|1.8|18|0|0|0|2|1|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105800103|1|10|40|1|0|1|1.8|1.8|18|0|0|0|2|1|0|7|0|1|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|105800201|1|10|40|1|0|1|0.8|0.8|12|0|0|0|2|1|0|7|0|1|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|105800202|1|4|1|0|0|1|5|5|1|0|0|0|2|1|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|105800301|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105801101|1|1|1|0|0|60|60|4.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105801102|1|10|20|1|0|1|2.4|2.4|18|0|0|0|2|1|0|7|0|1|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|105801103|1|10|40|1|0|1|2.4|2.4|18|0|0|0|2|1|0|7|0|1|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|105801104|1|26|105801105|2|0|0|0.05|0|0|0|0|0|2|1|0|7|0|1|||
+|105801105|1|10|10|1|0|1|10|10|18|0|0|0|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|105801201|1|10|40|1|0|1|1|1|12|0|0|0|2|1|0|7|0|1|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|105801202|1|4|1|0|0|1|10|10|1.2|0|0|0|2|1|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|105801203|1|6|6|0|0|22.5|22.5|8|0|0|0|0|2|3|0|7|0|1|Deploys Barrier that absorbs {0} physical and magic damage.|Damage absorbed + {0}|
+|105850101|1|90|1|0|0|1|75|75|1|0|0|0|0|0|0|0|0|0|Boosts own max HP by {0}.|Max HP + {0}|
+|105851101|1|90|1|0|0|1|1275|75|1|0|0|0|0|0|0|0|0|0|Boosts own max HP by {0}.|Max HP + {0}|
+|105900101|1|10|10|1|0|1|4.5|4.5|18|0|0|1|2|3|0|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|105900102|1|10|30|1|0|1|4.5|4.5|18|0|0|1|2|3|0|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|105900103|1|4|1|0|0|1|12|12|1|0|0|0|2|3|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|105900201|1|2|1|0|0|100|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|105900202|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105900301|1|8|2|0|0|1.2|0|12|0|0|0|0|2|3|2160|3|0|99|Boosts action speed of all allies.||
+|105900302|1|10|10|1|0|1|1.15|1.15|12|0|0|1|2|3|0|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|105901101|1|4|1|0|0|1|14.4|14.4|1.2|0|0|0|2|3|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|105901102|1|4|1|0|0|1|6|6|0.5|0|0|0|2|3|2160|3|0|99|Recovers all allies' HP by {0}.|HP recovery + {0}|
+|105901103|1|10|10|1|0|1|18|18|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|105901104|1|10|30|1|0|1|18|18|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|105901105|1|10|80|1|0|1|10|0|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' TP Boost by {0}.||
+|105901201|1|2|1|0|0|100|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|105901202|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|105901203|1|10|10|1|0|1|11|11|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack + {0}|
+|105901204|1|10|80|1|0|1|15|0|12|0|0|1|2|1|0|7|0|1|Boosts own TP Boost by {0}.||
+|105950101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|105951101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|105951102|1|90|5|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.||
+|106000101|1|1|2|0|0|12|12|1.08|0|0|0|0|1|3|3000|3|0|99|Deals {0} magic damage to all enemies.|Magic damage + {0}|
+|106000201|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|106000301|1|10|21|1|0|1|0.4|0.4|12|0|0|1|1|1|-1|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|106000302|1|10|41|1|0|1|0.4|0.4|12|0|0|1|1|1|-1|1|0|1|Lowers an enemy's magic defense by {0}.|Magic defense lowered + {0}|
+|106001101|1|1|2|0|0|24|24|2.16|0|0|0|0|1|3|2160|3|0|99|Deals {0} magic damage to all enemies.|Magic damage + {0}|
+|106001102|1|61|0|0|0|8|0|100|0|0|0|0|1|3|3000|3|0|99|Inflicts Panic on all enemies.|Panic success rate + 1|
+|106001201|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|106001202|1|7|1|0|0|0|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|106001203|1|1|2|0|0|4.5|4.5|0.36|0|0|0|0|1|1|200|3|0|99|Deals {0} magic damage to all enemies in range.|Magic damage + {0}|
+|106001204|1|10|41|1|0|1|0.1425|0.1425|12|0|0|1|1|1|200|3|0|99|Lowers magic defense of all enemies in range by {0}.|Magic defense lowered + {0}|
+|106050101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|106051101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|106100101|1|14|2|10610102|0|100|0|0|0|0|0|0|2|1|0|7|0|1|||
+|106100102|1|14|3|10610101|0|0|0|0|0|0|0|0|2|1|0|7|0|1|||
+|106100103|1|1|1|0|0|50|50|4.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|106100201|1|1|1|0|0|3.4|3.4|0.27|0|0|0|0|1|1|280|3|0|99|Deals {0} physical damage to enemies in range with a slash.|Physical damage + {0}|
+|106100202|1|1|1|0|0|4.5|4.5|0.36|0|0|0|0|1|1|280|3|0|99|Deals {0} physical damage to enemies in range with a kick.|Physical damage + {0}|
+|106100203|1|8|7|0|0|0|0|1.5|0|0|0|0|1|1|280|3|0|99|Renders enemies in range immobile for a set period of time.|Stun success rate + 1|
+|106100204|1|3|3|0|0|150|0|300|0|0|0|0|1|1|280|3|0|99|||
+|106100301|1|10|21|1|0|1|0.375|0.375|12|0|0|1|1|1|280|3|0|99|Lowers physical defense of enemies in range by {0}.|Physical defense lowered + {0}|
+|106110101|1|1|1|0|0|60|60|4.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|106110201|1|1|1|0|0|40|40|3.6|0|0|0|0|1|2|575|3|0|99|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|106150101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|106151101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|106300101|1|28|1211|106300103|106300102|1|2|0|0|0|0|0|2|3|0|7|0|1|||
+|106300102|1|1|1|0|0|50|50|4.2|0|0|0|0|1|1|2160|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|106300103|1|1|1|0|0|80|80|6.4|0|0|0|0|1|1|2160|3|0|1|After using Union Burst, deals {0} physical damage to an enemy.|Physical damage after Union Burst + {0}|
+|106300104|1|45|1|0|0|1|0|0|0|0|0|0|2|3|0|7|0|1|||
+|106300201|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|2160|16|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|106300202|1|8|1|0|0|0.8|0|8|0|0|0|0|1|1|2160|16|0|1|Reduces an enemy's action speed for a set period of time.|Action speed reduction success rate + 1|
+|106300301|1|28|1211|106300303|106300302|1|2|0|0|0|0|0|2|3|0|7|0|1|||
+|106300302|1|16|1|1|0|125|1.25|0|0|0|0|1|2|3|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|106300303|1|16|1|1|0|200|2|0|0|0|0|1|2|3|0|7|0|1|After using Union Burst, recovers own TP by {0}.|TP recovery after Union Burst + {0}|
+|106300401|2|26|106300402|3|0|4|0.3|0|0|0|0|0|2|3|0|7|0|1|||
+|106300402|2|1|1|0|0|45|45|3.6|0|0|0|0|1|1|-1|3|0|1|||
+|106301201|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|2160|16|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|106301202|1|8|1|0|0|0.8|0|8|0|0|0|0|1|1|2160|16|0|1|Reduces an enemy's action speed for a set period of time.|Action speed reduction success rate + 1|
+|106301203|1|10|31|1|0|1|3.75|3.75|12|0|0|1|2|3|2160|3|0|99|Lowers an enemy's magic attack by {0}.|Magic attack lowered + {0}|
+|106350101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|106351101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|106500101|1|28|1211|106500102|106500103|1|2|0|0|0|0|0|2|3|0|7|0|1|||
+|106500102|1|1|1|0|0|40|40|4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|106500103|1|1|1|0|0|120|120|9.6|0|0|0|0|1|1|-1|3|0|1|On first use, deals {0} physical damage to an enemy.|First-use physical damage + {0}|
+|106500104|1|45|1|0|0|1|0|0|0|0|0|0|2|3|0|7|0|1|||
+|106500201|1|1|1|0|0|20|20|1.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|106500301|1|10|10|1|0|1|20|20|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|106500302|1|10|60|1|0|1|100|0|12|0|0|1|2|1|0|7|0|1|Boosts own physical critical rate by {0}.||
+|106550101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|106551101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|107000101|1|15|3|407001|1|0|1|1|0|1|1|200|2|1|0|7|0|1|Creates a clone of oneself.|Clone level + {0}|
+|107000102|1|38|30|1|3|28|28|18|0|400|0|0|2|1|0|7|0|1|Deploys a field that boosts magic attack by {0}.|Magic attack boost + {0}|
+|107000103|1|38|80|1|0|15|0|18|0|400|0|0|2|1|0|7|0|1|Deploys a field that boosts TP Boost by {0}.|TP Boost boost + {0}|
+|107000201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|107000202|1|1|2|0|0|20|20|1.6|0|0|0|0|1|2|250|3|0|99|Deals {0} magic damage to all enemies in range.|Magic damage + {0}|
+|107000203|1|8|7|0|0|0|0|0.5|0|0|0|0|1|2|250|3|0|99|Renders enemies in range immobile for a set period of time.|Stun success rate + 1|
+|107000301|1|1|2|0|0|15|15|1.2|0|0|0|0|1|2|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|107000302|1|10|41|0|0|1|0.6|0.6|12|0|0|0|1|2|-1|1|0|1|Lowers an enemy's magic defense by {0}.|Magic defense lowered + {0}|
+|107050101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|107051101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|107100101|1|1|3|1|0|45|45|3.6|0|1|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|107100102|1|21|2|0|0|3|0.01|0|0|0|0|0|2|1|0|7|0|1|Dodges all physical attacks for a set period of time.|Effect duration + 0.01 s|
+|107100201|1|10|10|1|0|1|15|15|15|0|0|0|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|107100202|1|10|80|1|0|1|15|0|15|0|0|0|2|3|0|7|0|1|Boosts own TP Boost by {0}.||
+|107100301|1|1|1|0|0|15|15|1.2|0|0|0|0|1|2|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|107100302|1|10|21|0|0|1|0.6|0.6|12|0|0|0|1|2|-1|1|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|107101201|1|10|10|1|0|1|36|36|15|0|0|0|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|107101202|1|10|80|1|0|1|30|0|15|0|0|0|2|3|0|7|0|1|Boosts own TP Boost by {0}.||
+|107101203|1|16|1|0|0|150|1.5|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|107101204|1|10|110|1|1|2|10|0|180|0|0|1|2|1|0|7|0|1|Boosts the damage of own physical critical attacks by {0}%.||
+|107150101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|107151101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|107500101|1|1|1|1|0|32|32|2.55|0|0|0|0|1|1|600|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|107500201|1|10|10|1|0|1|40|40|12|0|0|0|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|107500202|1|10|41|0|0|2|20|0|12|0|0|0|2|3|0|7|0|1|Lowers own magic defense by 20%.||
+|107500301|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|325|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|107500302|1|3|3|0|0|200|0|500|0|0|0|0|1|1|325|3|0|1|||
+|107501201|1|10|10|1|0|1|90|90|12|0|0|0|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|107501202|1|10|60|0|0|1|100|0|12|0|0|0|2|3|0|7|0|1|Boosts own physical critical rate by {0}.||
+|107501203|1|10|41|0|0|2|20|0|12|0|0|0|2|3|0|7|0|1|Lowers own magic defense by 20%.||
+|107550101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|107551101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|107600101|1|4|1|0|0|1|22.5|22.5|2.7|0|0|0|2|2|2160|5|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|107600201|1|2|1|0|0|50|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|107600202|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|107600203|1|10|21|0|0|1|0.6|0.6|12|0|0|0|1|1|-1|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|107600301|1|10|10|0|0|1|6|6|12|0|0|0|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|107601201|1|2|1|0|0|50|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|107601202|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|107601203|1|10|21|0|0|1|1|1|12|0|0|0|1|1|-1|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|107650101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|107651101|1|90|5|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|107700101|1|10|20|1|0|1|0.45|0.45|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' physical defense by {0}.|Physical defense boost + {0}|
+|107700102|1|10|40|1|0|1|0.45|0.45|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' magic defense by {0}.|Magic defense boost + {0}|
+|107700103|1|48|2|1|0|1.5|1.5|0.09|0|10|0|0|2|3|2160|3|0|99|Recovers HP by {0} every second.|Recovery + {0}|
+|107700201|1|15|1|407701|1|0|0|1|0|1|1|200|2|1|0|7|0|1|Summons a Mini-Golem.|Summoned Mini-Golem level + {0}|
+|107700301|1|7|1|0|0|0|0|0|0|0|0|0|2|1|2160|10|0|1|||
+|107700302|1|10|40|1|0|1|0.75|0.75|12|0|0|1|2|2|200|1|0|99|Boosts magic defense of all allies in range by {0}.|Magic defense boost + {0}|
+|107701201|1|15|1|407701|1|0|0|1|0|1|1|200|2|1|0|7|0|1|Summons a Mini-Golem.|Summoned Mini-Golem level + {0}|
+|107701202|1|38|20|1|3|1.35|1.35|12|0|250|0|0|2|1|2160|10|0|1|Deploys a field that boosts physical defense by {0}.|Physical defense boost + {0}|
+|107701203|1|38|40|1|0|1.35|1.35|12|0|250|0|0|2|1|2160|10|0|1|Deploys a field that boosts magic defense by {0}.|Magic defense boost + {0}|
+|107750101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|107751101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|107751102|1|90|3|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.||
+|107800101|1|1|2|0|0|60|60|5|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|107800201|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|107800301|1|1|2|0|0|8|8|0.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|107800302|1|10|41|0|0|1|0.8|0.8|12|0|0|0|1|1|800|1|0|1|Lowers an enemy's magic defense by {0}.|Magic defense lowered + {0}|
+|107801201|1|1|2|0|0|30|30|2.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|107801202|1|10|41|0|0|1|0.6|0.6|12|0|0|0|1|1|-1|3|0|1|Lowers an enemy's magic defense by {0}.|Magic defense lowered + {0}|
+|107850101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|107851101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|107900101|1|1|1|0|0|16|16|1.4|0|0|0|0|1|1|480|2|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|107900102|1|1|1|0|0|16|16|1.4|0|0|0|0|1|1|480|2|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|107900103|1|1|1|0|0|16|16|1.4|0|0|0|0|1|1|480|2|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|107900104|1|1|1|0|0|16|16|1.4|0|0|0|0|1|1|480|2|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|107900201|1|16|2|0|0|40|1.25|0|0|0|0|0|1|1|2160|3|0|1|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|107900202|1|16|1|0|0|40|1.25|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|107900301|1|10|10|1|0|1|11|11|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|107900302|1|8|2|0|0|2|0|12|0|0|0|0|2|1|0|7|0|1|Boosts own action speed.||
+|107901201|1|16|2|0|0|50|1.5|0|0|0|0|0|1|1|2160|3|0|1|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|107901202|1|16|1|0|0|50|1.5|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|107901203|1|10|11|1|0|1|16|16|12|0|0|1|1|1|2160|3|0|1|Lowers an enemy's physical attack by {0}.|Physical attack lowered + {0}|
+|107901204|1|10|10|1|0|1|32|32|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|107950101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|107951101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108000101|1|1|1|0|0|45|45|3.6|0|0|0|0|1|1|2160|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|108000102|1|10|10|1|0|1|6.9|6.9|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|108000201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|108000202|1|7|1|0|0|0|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|108000203|1|1|1|0|0|3.4|3.4|0.27|0|0|0|0|1|2|300|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|108000301|1|10|10|1|0|1|15|15|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack + {0}|
+|108000302|1|10|60|1|0|1|100|0|12|0|0|1|2|1|0|7|0|1|Boosts own physical critical rate by {0}.||
+|108001201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|108001202|1|7|1|0|0|0|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|108001203|1|1|1|0|0|26|26|2.1|0|0|0|0|1|2|450|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|108050101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108051101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108100101|1|1|1|0|0|50|50|4|0|0|0|0|1|1|2160|5|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|108100102|1|28|1000|108100103|0|1|0|0|0|0|0|0|2|1|0|7|0|1|||
+|108100103|1|1|1|0|0|9|9|0.81|0|0|0|0|1|3|2160|3|0|99|Deals {0} physical damage to all enemies.|Physical damage + {0}|
+|108100201|1|10|10|1|0|1|20|20|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack + {0}|
+|108100301|1|1|1|0|0|15|15|1.2|0|0|0|0|1|2|800|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|108101201|1|10|10|1|0|1|50|50|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack + {0}|
+|108101202|1|10|60|1|0|1|150|0|12|0|0|1|2|1|0|7|0|1|Boosts own physical critical rate by {0}.||
+|108150101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108151101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108200101|1|2|1|0|0|80|0|0|0|0|0|0|1|1|2160|4|0|1|||
+|108200102|1|1|1|1|0|50|50|4|0|0|0|1|1|1|2160|4|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|108200103|1|9|3|0|0|6|6|12|0|0|0|0|1|1|2160|4|0|1|Inflicts Curse that deals {0} damage.|Curse damage per second + {0}|
+|108200201|1|2|1|0|0|100|0|0|0|0|0|0|1|1|2160|4|0|1|||
+|108200202|1|16|2|0|0|60|1.8|0|0|0|0|0|1|1|2160|4|0|1|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|108200203|1|8|7|0|0|0|0|1.8|0|0|0|0|1|1|2160|4|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|108200301|1|10|11|1|0|1|6|6|12|0|0|1|1|2|2160|4|0|1|Lowers an enemy's physical attack by {0}.|Physical attack lowered + {0}|
+|108200302|1|10|31|1|0|1|6|6|12|0|0|1|1|2|2160|4|0|1|Lowers an enemy's magic attack by {0}.|Magic attack lowered + {0}|
+|108201201|1|2|1|0|0|100|0|0|0|0|0|0|1|1|2160|4|0|1|||
+|108201202|1|16|2|0|0|60|1.8|0|0|0|0|0|1|1|2160|4|0|1|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|108201203|1|8|7|0|0|0|0|1.8|0|0|0|0|1|1|2160|4|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|108201204|1|61|0|0|0|8|0|100|0|0|0|0|1|1|2160|4|0|1|Inflicts Panic on an enemy.|Panic success rate + 1|
+|108250101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108251101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108300101|1|1|2|0|0|9|9|0.81|0|0|0|0|1|1|2160|3|0|99|Deals {0} magic damage to all enemies.|Magic damage + {0}|
+|108300102|1|8|5|0|0|0|0|2.5|0|0|0|0|1|1|2160|3|0|99|Renders all enemies immobile for a set period of time.|Paralyze success rate + 1|
+|108300103|1|9|3|0|0|3.5|3.5|12|0|0|0|0|1|1|2160|3|0|99|Inflicts Curse that deals {0} damage.|Curse damage per second + {0}|
+|108300104|1|10|41|1|0|1|0.45|0.45|18|0|0|1|1|1|2160|3|0|99|Lowers magic defense of all enemies by {0}.|Magic defense lowered + {0}|
+|108300201|1|1|2|0|0|10|10|0.8|0|0|0|0|1|1|2160|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|108300202|1|11|0|0|0|5|0|100|0|0|0|0|1|1|2160|3|0|1|Inflicts Charm on an enemy.|Charm success rate + 1|
+|108300301|1|10|30|0|0|1|11|11|12|0|0|0|2|2|400|3|0|99|Boosts magic attack of all allies in range by {0}.|Magic attack boost + {0}|
+|108301201|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|2160|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|108301202|1|11|0|0|0|8|0|100|0|0|0|0|1|1|2160|3|0|1|Inflicts Charm on an enemy.|Charm success rate + 1|
+|108301203|1|16|2|0|0|50|1|0|0|0|0|0|1|1|2160|3|0|1|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|108350101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|108351101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|108400101|1|15|1|408401|1|0|1|1|0|1|0|450|2|1|0|7|0|1|Summons a spirit that performs magic attacks.|Level of summoned spirit + {0}|
+|108400102|1|15|1|408402|1|0|2|1|0|1|0|100|2|1|0|7|0|1|Summons a spirit that recovers the HP of the ally with the lowest HP.|Level of summoned spirit + {0}|
+|108400103|1|15|1|408403|1|0|-2|1|0|1|0|275|2|1|0|7|0|1|Summons a spirit that recovers the TP of all allies.|Level of summoned spirit + {0}|
+|108400201|1|10|10|1|0|1|20|20|12|0|0|1|2|2|2160|14|0|1|Boosts an ally's physical attack by {0}.|Physical attack boost + {0}|
+|108400301|1|10|20|1|0|1|0.9|0.9|12|0|0|1|2|2|200|3|0|99|Boosts physical defense of all allies in range by {0}.|Physical defense boost + {0}|
+|108400302|1|16|1|0|0|30|0.3|0|0|0|0|1|2|2|200|3|0|99|Recovers TP of allies in range by {0}.|TP recovery + {0}|
+|108401201|1|26|108401202|2|0|8|0.3|0|0|0|0|1|2|1|0|7|0|1|||
+|108401202|1|10|10|1|0|1|20|20|12|0|0|1|2|2|2160|14|0|1|Boosts an ally's physical attack by {0}.|Physical attack boost + {0}|
+|108401203|1|10|60|1|0|1|100|0|12|0|0|1|2|2|2160|14|0|1|Boosts an ally's physical critical rate by {0}.|Physical critical rate boost + {0}|
+|108450101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|108451101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|108451102|1|90|5|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.||
+|108500101|1|10|40|1|0|1|0.69|0.69|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic defense by {0}.|Magic defense boost + {0}|
+|108500102|1|6|4|0|0|15|15|18|0|0|0|0|2|1|0|7|0|1|Deploys Barrier that absorbs {0} magic damage.|Damage absorbed + {0}|
+|108500201|1|50|20|1|1|1|2.25|2.25|10|0|0|0|2|2|300|3|0|99|While ringing the bell, boosts physical defense of allies in range by {0}.|Physical defense boost + {0}|
+|108500301|1|37|3|1|1|0.5|0.5|0.05|0|8|0|150|2|3|0|7|0|1|Deploys a field that recovers HP by {0} every second.|HP recovered per second + {0}|
+|108501201|1|50|20|1|5|1|2.25|2.25|10|0|0|0|2|2|300|3|0|99|While ringing the bell, boosts physical defense of allies in range by {0}.|Physical defense boost + {0}|
+|108501202|1|10|20|1|0|1|0.9|0.9|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical defense by {0}.|Physical defense boost + {0}|
+|108501203|1|16|1|0|0|30|0.3|0|0|0|0|1|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|108550101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|108551101|1|90|5|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|108600101|1|1|1|0|0|80|80|7.4|0|0|0|0|1|1|2160|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|108600102|1|1|3|0|0|0|0|1.8|0|0|0|0|2|3|0|7|0|1|Reduces own HP by {0}.||
+|108600201|1|10|10|1|0|1|22|22|10|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108600301|1|1|1|0|0|12|12|1|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|108600302|1|3|3|0|0|200|0|500|0|0|0|0|1|1|-1|3|0|1|||
+|108601201|1|10|10|1|0|1|42|42|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108601202|1|8|2|0|0|1.75|0|12|0|0|0|0|2|1|0|7|0|1|Boosts own action speed.||
+|108650101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108651101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108700101|1|1|1|0|0|52|52|4.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|108700102|1|10|21|1|0|1|0.2|0.2|18|0|0|1|1|1|-1|1|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|108700103|1|10|81|1|0|1|20|0|18|0|0|0|1|1|-1|1|0|1|Lowers an enemy's TP Boost by {0}.||
+|108700201|1|10|10|1|0|1|9|9|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108700202|1|10|10|1|0|1|6|6|12|0|0|1|2|3|2160|20|0|99|Boosts target allies' physical attack by {0}.|Physical attack boost + {0}|
+|108700301|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|108701201|1|10|10|1|0|1|9|9|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108701202|1|10|10|1|0|1|24|24|12|0|0|1|2|3|2160|20|0|99|Boosts target allies' physical attack by {0}.|Physical attack boost + {0}|
+|108701203|1|10|60|1|0|1|60|0|12|0|0|1|2|3|2160|20|0|99|Boosts target allies' physical critical rate by {0}.|Physical critical rate boost + {0}|
+|108750101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108751101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|108800101|1|6|5|0|0|45|45|18|0|0|0|0|2|3|2160|3|0|99|Deploys Barrier that negates {0} physical and magic damage.|Negated damage + {0}|
+|108800102|1|48|2|1|0|2|2|0.12|0|10|0|0|2|3|2160|3|0|99|Recovers HP by {0} every second.|Recovery + {0}|
+|108800103|1|10|31|1|0|2|90|0|18|0|0|1|2|3|0|7|0|1|Lowers own magic attack by 90% of base value.||
+|108800201|1|10|11|1|0|1|5.5|5.5|12|0|0|1|1|1|2160|3|1|1|Lowers an enemy's physical attack by {0}.|Physical attack lowered + {0}|
+|108800202|1|10|31|1|0|1|5.5|5.5|12|0|0|1|1|1|2160|3|1|1|Lowers an enemy's magic attack by {0}.|Magic attack lowered + {0}|
+|108800301|1|10|30|1|0|1|11|11|12|0|0|1|2|3|2160|21|0|99|Boosts target allies' magic attack by {0}.|Magic attack boost + {0}|
+|108801201|1|10|11|1|0|1|5.5|5.5|12|0|0|1|1|1|2160|3|1|1|Lowers an enemy's physical attack by {0}.|Physical attack lowered + {0}|
+|108801202|1|10|31|1|0|1|5.5|5.5|12|0|0|1|1|1|2160|3|1|1|Lowers an enemy's magic attack by {0}.|Magic attack lowered + {0}|
+|108801203|1|10|41|1|0|1|0.8|0.8|12|0|0|1|1|1|2160|3|1|1|Lowers an enemy's magic defense by {0}.|Magic defense lowered + {0}|
+|108801204|1|10|81|1|0|1|30|0|12|0|0|1|1|1|2160|3|1|1|Lowers an enemy's TP Boost by {0}.||
+|108850101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|108851101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|108900101|1|1|1|0|0|12|12|1.08|0|0|0|0|1|3|2160|3|0|99|Deals {0} physical damage to all enemies.|Physical damage + {0}|
+|108900102|1|8|7|0|0|0|0|4|0|0|0|0|1|3|2160|3|0|99|Renders all enemies immobile for a set period of time.|Stun success rate + 1|
+|108900201|1|20|1|0|0|5|0.05|0|0|0|0|0|2|1|0|7|0|1|Provokes all enemies.||
+|108900202|1|42|2|108900203|0|100|0|0|2|0|0|0|2|3|0|3|0|1|||
+|108900203|1|1|1|0|0|3.6|3.6|0.29|0|0|0|0|1|1|280|3|0|99|Deals {0} physical damage to enemies in range.|Physical counter damage + {0}|
+|108900204|1|10|21|1|0|1|0.16|0.16|12|0|0|1|1|1|280|3|0|99|Lowers physical defense of enemies in range by {0}.|Physical defense lowered + {0}|
+|108900301|1|6|2|0|0|10|10|12|0|0|0|0|2|2|280|3|0|99|Deploys Barrier that negates {0} magic damage.|Negated damage + {0}|
+|108900302|1|10|40|1|0|1|1|1|12|0|0|1|2|1|0|7|0|1|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|108901201|1|20|1|0|0|5|0.05|0|0|0|0|0|2|1|0|7|0|1|Provokes all enemies.||
+|108901202|1|42|2|108901203|0|100|0|0|2|0|0|0|2|3|0|3|0|1|||
+|108901203|1|1|1|0|0|14.4|3.6|1.2|0|0|0|0|1|1|430|3|0|99|Deals {0} physical damage to enemies in range.|Physical counter damage + {0}|
+|108901204|1|10|21|1|0|1|0.24|0.24|12|0|0|1|1|1|430|3|0|99|Lowers physical defense of enemies in range by {0}.|Physical defense lowered + {0}|
+|108901205|1|10|40|1|0|1|2|2|12|0|0|1|2|1|0|7|0|1|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|108901206|1|8|7|0|0|0|0|1.5|0|0|0|0|1|1|430|3|0|99|Renders enemies in range immobile for a set period of time.|Stun success rate + 1|
+|108950101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|108951101|1|90|5|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|109000101|1|26|109000102|1|0|1|4|0|0|0|0|0|2|1|0|7|0|1|||
+|109000102|1|1|1|0|0|55|55|4.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|109000201|1|26|109000202|1|0|1|2|0|0|0|0|0|2|1|0|7|0|1|||
+|109000202|1|1|1|0|0|18|18|1.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|109000301|1|1|3|0|0|0|0|1.5|0|0|0|0|2|3|0|7|0|1|Reduces own HP by {0}.||
+|109000302|1|26|109000303|2|0|1|0.12|0|0|0|0|0|2|1|0|7|0|1|||
+|109000303|1|10|10|1|0|1|15|15|12|0|0|1|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|109001201|1|26|109001202|1|0|1|4|0|0|0|0|0|2|1|0|7|0|1|||
+|109001202|1|1|1|0|0|27|27|2.1|0|0|2|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|109050101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|109051101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|109100101|1|38|10|1|3|12|12|16|0|400|0|0|2|3|0|7|0|1|Deploys a field that boosts physical attack by {0}.|Physical attack boost + {0}|
+|109100102|1|38|60|1|0|100|0|16|0|400|0|0|2|3|0|7|0|1|Deploys a field that boosts physical critical rate by {0}.|Physical critical rate boost + {0}|
+|109100103|1|38|80|1|0|5|0|16|0|400|0|0|2|3|0|7|0|1|Deploys a field that boosts TP Boost by {0}.|TP Boost boost + {0}|
+|109100201|1|53|109100101|109100203|109100202|1|2|0|0|0|0|0|0|0|0|0|0|0|||
+|109100202|1|4|1|0|0|1|5|5|0.4|0|0|0|2|2|200|5|0|1|Recovers targets' HP by {0}.|HP recovery + {0}|
+|109100203|1|4|1|0|0|1|5|5|0.4|0|0|0|2|3|2160|3|0|99|||
+|109100204|1|53|109100101|109100206|109100205|1|2|0|0|0|0|0|0|0|0|0|0|0|||
+|109100205|1|16|1|0|0|40|0.4|0|0|0|0|0|2|2|200|5|0|1|Recovers targets' TP by {0}.|TP recovery + {0}|
+|109100206|1|16|1|0|0|40|0.4|0|0|0|0|0|2|3|2160|3|0|99|||
+|109100301|1|53|109100101|109100303|109100302|1|2|0|0|0|0|0|0|0|0|0|0|0|||
+|109100302|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|109100303|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|If field is active, deals {0} physical damage to an enemy.|Physical damage + {0}|
+|109100304|1|53|109100101|109100306|109100305|1|2|0|0|0|0|0|0|0|0|0|0|0|||
+|109100305|1|10|21|0|0|1|0.15|0.15|12|0|0|0|1|1|-1|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|109100306|1|10|21|0|0|1|0.25|0.25|12|0|0|0|1|1|-1|3|0|1|If field is active, lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|109101201|1|53|109100101|109101203|109101202|1|2|0|0|0|0|0|0|0|0|0|0|0|||
+|109101202|1|4|1|0|0|1|6.25|6.25|0.5|0|0|0|2|2|200|5|0|1|Recovers targets' HP by {0}.|HP recovery + {0}|
+|109101203|1|4|1|0|0|1|6.25|6.25|0.5|0|0|0|2|3|2160|3|0|99|||
+|109101204|1|53|109100101|109101206|109101205|1|2|0|0|0|0|0|0|0|0|0|0|0|||
+|109101205|1|16|1|0|0|50|0.5|0|0|0|0|0|2|2|200|5|0|1|Recovers targets' TP by {0}.|TP recovery + {0}|
+|109101206|1|16|1|0|0|50|0.5|0|0|0|0|0|2|3|2160|3|0|99|||
+|109101207|1|10|10|1|0|1|15|15|12|0|0|1|2|3|2160|3|0|99|Boosts target allies' physical attack by {0}.|Physical attack boost + {0}|
+|109150101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|109151101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|109200101|1|1|2|0|0|45|45|4|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|109200102|1|23|650|109200103|0|1|0|0|0|0|0|0|2|2|2160|3|0|99|||
+|109200103|1|10|30|1|0|1|18|18|18|0|0|1|2|2|2160|3|0|99|Boosts target allies' magic attack by {0}.|Magic attack boost + {0}|
+|109200201|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|109200301|1|35|0|0|0|1|50|12|1|0|0|0|2|2|200|3|0|99|Grants Spirit's Blessing to allies in range.||
+|109200302|1|8|2|0|0|1.1|0|12|0|0|0|0|2|2|200|3|0|99|Boosts action speed of allies in range.||
+|109200303|1|10|30|1|0|1|12.5|12.5|12|0|0|1|2|2|200|3|0|99|Boosts magic attack of all allies in range by {0}.|Magic attack boost + {0}|
+|109201201|1|1|2|0|0|33.5|33.5|2.7|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|109201202|1|28|650|109201203|109201204|1|2|0|0|0|0|0|2|1|0|7|0|1|||
+|109201203|1|16|1|0|0|100|0|0|0|0|0|1|2|3|2160|3|0|99|Recovers all allies' TP by {0}.||
+|109201204|1|8|2|0|0|1.25|0|12|0|0|0|0|2|1|0|7|0|1|Boosts own action speed.||
+|109250101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|109251101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|109300101|1|26|109300103|3|0|102|0.12|0|0|0|0|0|2|1|0|7|0|1|||
+|109300102|1|7|1|0|0|0|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|109300103|1|1|2|0|0|4.2|4.2|0.45|0|0|0|0|1|2|200|3|0|99|Deals {0} magic damage to enemies in range 5 times.|Magic damage + {0}|
+|109300201|1|33|5|2|0|30|30|1|0|0|0|1|2|3|0|7|0|1|Summons a Mr. Gawker that deals {0} damage to an enemy that attacks Lou, then disappears. (Up to 5)|Counter damage + {0}|
+|109300301|1|1|2|0|0|24|24|2|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|109301201|1|33|5|2|0|30|30|2|0|0|0|1|2|3|0|7|0|1|Summons 2 Mr. Gawkers that each deal {0} damage to an enemy that attacks Lou, then disappear. (Up to 5)|Counter damage + {0}|
+|109301202|1|10|30|1|0|1|10|10|90|0|0|1|2|1|0|7|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|109350101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|109351101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|109400101|1|1|2|0|0|32|32|2.55|0|0|0|0|1|1|890|3|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|109400201|1|21|1|0|0|2.2|0|0|0|0|0|0|2|1|0|7|0|1|Becomes immune to all damage while in flight.||
+|109400202|1|1|2|0|0|20|20|1.6|0|0|0|1|1|1|2160|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|109400203|1|2|1|0|0|325|0|0|0|0|0|0|1|1|2160|3|0|1|||
+|109400301|1|36|4|0|0|2|2|0.15|0|8.5|0|300|1|1|2160|14|0|1|Deploys a field that deals {0} magic damage every second.|Damage per second + {0}|
+|109401201|1|21|1|0|0|2.2|0|0|0|0|0|0|2|1|0|7|0|1|Becomes immune to all damage while in flight.||
+|109401202|1|1|2|0|0|26|26|2.1|0|0|0|1|1|1|2160|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|109401203|1|2|1|0|0|325|0|0|0|0|0|0|1|1|2160|3|0|1|||
+|109401204|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|3|0|1|||
+|109401205|1|1|2|0|0|24|24|1.89|0|0|0|1|1|2|450|3|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|109450101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|109451101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|109500101|1|4|2|0|0|1|22.5|22.5|2.1|0|0|0|2|1|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|109500102|1|10|20|1|0|1|1.5|1.5|18|0|0|1|2|2|50|3|0|99|Boosts physical defense of all allies in range by {0}.|Physical defense boost + {0}|
+|109500103|1|10|40|1|0|1|1.5|1.5|18|0|0|1|2|2|50|3|0|99|Boosts magic defense of all allies in range by {0}.|Magic defense boost + {0}|
+|109500201|1|10|30|0|0|1|6|6|12|0|0|0|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|109500301|1|1|2|0|0|10|10|0.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|109500302|1|10|41|0|0|1|0.6|0.6|12|0|0|0|1|1|-1|3|0|1|Lowers an enemy's magic defense by {0}.|Magic defense lowered + {0}|
+|109501201|1|10|30|1|0|1|16|16|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|109501202|1|10|70|1|0|1|75|0|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic critical rate by {0}.||
+|109501203|1|8|2|0|0|1.25|0|12|0|0|0|0|2|3|2160|3|0|99|Boosts action speed of all allies.||
+|109550101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|109551101|1|90|5|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|109600101|1|1|1|0|0|56|56|4.5|0|0|1.5|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|109600201|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|109600202|1|10|21|1|0|1|0.2|0.2|12|0|0|1|1|1|-1|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|109600301|1|10|10|1|0|1|11|11|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|109600302|1|8|2|0|0|2|0|12|0|0|0|0|2|1|0|7|0|1|Boosts own action speed.||
+|109601201|1|1|1|0|0|22.5|22.5|1.8|0|0|1.5|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|109601202|1|10|21|1|0|1|0.36|0.36|12|0|0|1|1|1|-1|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|109650101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|109651101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|109700101|1|23|100|109700102|109700103|1|2|0|0|0|0|0|1|1|800|3|0|99|||
+|109700102|1|1|1|0|0|45|45|3.6|0|0|0|0|1|1|800|3|0|99|Deals {0} physical damage to all immobile enemies in range.|Physical damage + {0}|
+|109700103|1|1|1|0|0|25|25|2|0|0|0|0|1|1|800|3|0|99|Deals {0} physical damage to all other enemies in range.|Physical damage + {0}|
+|109700201|1|1|1|0|0|15|15|1.2|0|0|0|1|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|109700202|1|8|4|0|0|0|0|3|0|0|0|1|1|1|-1|3|0|1|Renders an enemy immobile for a set period of time.|Freeze success rate + 1|
+|109700301|1|4|1|0|0|1|7.5|7.5|1|0|0|0|2|2|2160|5|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|109750101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|109751101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|109800101|1|1|2|0|0|12|12|1.08|0|0|0|0|1|3|2160|3|0|99|Deals {0} magic damage to all enemies.|Magic damage + {0}|
+|109800102|1|8|5|0|0|0|0|4|0|0|0|0|1|3|2160|3|0|99|Renders all enemies immobile for a set period of time.|Bind success rate + 1|
+|109800201|1|23|100|109800202|109800203|1|2|0|0|0|0|0|1|1|-1|3|0|1|||
+|109800202|1|1|2|0|0|30|30|2.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy if they are immobile.|Magic damage + {0}|
+|109800203|1|1|2|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy if they are not immobile.|Magic damage + {0}|
+|109800204|1|3|3|0|0|300|0|500|0|0|0|0|1|1|-1|3|0|1|||
+|109800205|1|3|3|0|0|150|0|500|0|0|0|0|1|1|-1|3|0|1|||
+|109800301|1|56|1|0|0|2|1|0|0|0|0|0|1|1|2160|14|0|1|Inflicts a status on an enemy causing their next physical attack to miss.|Success rate + 1|
+|109850101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|109851101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|109900101|1|4|2|0|0|1|15|15|1.5|0|0|0|2|2|2160|25|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|109900102|1|10|20|1|0|1|0.9|0.9|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' physical defense by {0}.|Physical defense boost + {0}|
+|109900103|1|10|40|1|0|1|0.9|0.9|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' magic defense by {0}.|Magic defense boost + {0}|
+|109900201|1|1|2|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|109900202|1|10|30|1|0|1|11|11|12|0|0|1|2|3|0|7|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|109900301|1|1|2|0|0|7.5|7.5|0.6|0|0|0|0|1|1|1000|2|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|109900302|1|1|2|0|0|7.5|7.5|0.6|0|0|0|0|1|1|1000|2|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|109900303|1|1|2|0|0|7.5|7.5|0.6|0|0|0|0|1|1|1000|2|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|109900304|1|1|2|0|0|7.5|7.5|0.6|0|0|0|0|1|1|1000|2|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|109950101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|109951101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|110000101|1|28|1211|110000103|110000102|1|2|0|0|0|0|0|2|3|0|7|0|1|||
+|110000102|1|1|1|0|0|60|60|4.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|110000103|1|1|1|0|0|60|60|4.8|0|1|0|0|1|1|-1|3|0|1|||
+|110000201|1|1|1|0|0|8|8|0.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage an enemy 3 times.|Physical damage + {0}|
+|110000202|1|1|1|0|0|8|8|0.6|0|0|0|0|1|1|-1|3|0|1|||
+|110000203|1|1|1|0|0|8|8|0.6|0|0|0|0|1|1|-1|3|0|1|||
+|110000301|1|10|10|1|0|1|32|32|180|0|0|1|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110000302|1|45|1|0|0|1|0|0|0|0|0|0|2|3|0|7|0|1|||
+|110000303|1|16|1|0|0|1000|0|0|0|0|0|1|2|3|0|7|0|1|Fully recovers own TP.||
+|110050101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110051101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110100101|1|1|2|0|0|12|12|1.08|0|0|0|0|1|3|2160|3|0|99|Deals {0} magic damage to all enemies.|AOE magic damage + {0}|
+|110100102|1|4|2|0|0|1|6|6|0.45|0|0|0|2|3|2160|3|0|99|Recovers all allies' HP by {0}.|HP recovery + {0}|
+|110100201|1|1|2|0|0|8|8|0.6|0|0|0|0|1|1|900|3|0|99|Deals {0} magic damage to all enemies in range.|Magic damage + {0}|
+|110100202|1|26|110100203|4|0|4|0.18|0|0|0|0|0|1|1|900|3|0|99|||
+|110100203|1|4|2|0|0|1|4|4|0.25|0|0|0|2|2|2160|5|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|110100301|1|1|2|0|0|4.5|4.5|0.36|0|0|0|0|1|1|900|3|0|99|Deals {0} magic damage to all enemies in range.|Magic damage + {0}|
+|110100302|1|10|41|1|0|1|0.375|0.375|12|0|0|1|1|1|900|3|0|99|Lowers magic defense of all enemies in range by {0}.|Magic defense lowered + {0}|
+|110150101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|110151101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|110300101|1|10|10|1|0|1|10.5|10.5|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|110300102|1|10|30|1|0|1|10.5|10.5|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|110300103|1|8|2|0|0|1.5|0|12|0|0|0|0|2|3|2160|3|0|99|Boosts action speed of all allies.||
+|110300201|1|16|1|0|0|175|1.25|0|0|0|0|0|2|3|2160|3|0|99|Recovers all allies' TP by {0}.|TP recovery + {0}|
+|110300301|1|10|10|1|0|1|2.5|2.5|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|110300302|1|10|30|1|0|1|2.5|2.5|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|110300303|1|10|60|1|0|1|20|0|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical critical rate by {0}.|Physical critical rate boost + {0}|
+|110300304|1|10|70|1|0|1|20|0|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic critical rate by {0}.|Magic critical rate boost + {0}|
+|110350101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110351101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110351102|1|90|5|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.||
+|110400101|1|23|700|110400102|110400103|1|2|0|0|0|0|0|1|1|-1|3|0|1|||
+|110400102|1|1|1|0|0|60|60|5|0|0|0|0|1|1|-1|3|0|1|If only 1 target remains, deals {0} physical damage to an enemy.|Physical damage + {0}|
+|110400103|1|1|1|0|0|40|40|3.6|0|0|0|0|1|1|-1|3|0|1|If 2 or more targets remain, deals {0} physical damage to an enemy.|Physical damage + {0}|
+|110400104|1|10|21|1|0|1|1.1|1.1|18|0|0|1|1|1|-1|3|0|1|If only 1 target remains, lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|110400201|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|110400202|1|23|700|110400203|0|1|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|110400203|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|-1|3|0|1|If only 1 target remains, deals {0} extra physical damage to an enemy.|Physical damage + {0}|
+|110400204|1|10|21|1|0|1|0.3|0.3|12|0|0|0|1|1|-1|3|0|1|If only 1 target remains, lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|110400301|1|28|700|110400302|110400303|1|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|110400302|1|10|10|1|0|1|10|10|180|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110400303|1|10|10|1|0|1|10|10|12|0|0|1|2|1|0|7|0|1|||
+|110450101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110451101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110500101|1|26|110500102|3|0|4|0.5|0|0|0|0|0|1|1|790|3|0|99|||
+|110500102|1|1|1|0|0|30|30|1.42|0|0|0|0|1|1|790|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|110500201|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|790|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|110500202|1|3|3|0|0|200|0|500|0|0|0|0|1|1|790|3|0|1|||
+|110500301|1|10|10|1|0|1|20|20|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110500302|1|8|2|0|0|1.35|0|12|0|0|0|0|2|2|300|3|0|99|Boosts action speed of allies in range.||
+|110550101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110551101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110600101|1|1|2|0|0|20|20|1.6|0|0|0|0|1|2|2160|2|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|110600102|1|1|2|0|0|20|20|1.6|0|0|0|0|1|2|2160|2|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|110600103|1|1|2|0|0|20|20|1.6|0|0|0|0|1|2|2160|2|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|110600104|1|1|2|0|0|20|20|1.6|0|0|0|0|1|2|2160|2|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|110600201|1|10|30|1|0|1|15|15|12|0|0|1|2|1|0|7|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|110600202|1|16|1|0|0|100|1|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|110600301|1|1|2|0|0|25|25|2|0|0|0|0|1|2|2160|2|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|110650101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|110651101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|110700101|1|1|1|0|0|30|30|2.4|0|0|0|0|1|1|2160|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|110700102|1|10|21|1|0|1|1|1|18|0|0|1|1|1|2160|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|110700103|1|9|1|0|0|6|6|20|0|0|0|0|1|1|2160|3|0|1|Inflicts Poison that deals {0} damage.|Poison damage per second + {0}|
+|110700201|1|23|512|110700202|110700203|1|2|0|0|0|0|0|1|1|2160|3|0|1|||
+|110700202|1|36|3|0|0|6.5|6.5|0.5|0|8.5|0|300|1|1|2160|3|0|1|If central enemy is suffering from Poison or Venom upon activation, deploys a field that deals {0} physical damage every second.|Damage per second + {0}|
+|110700203|1|36|3|0|0|1.3|1.3|0.1|0|8.5|0|300|1|1|2160|3|0|1|If central enemy is not suffering from Poison or Venom upon activation, deploys a field that deals {0} physical damage every second.|Damage per second + {0}|
+|110700301|1|23|512|110700302|110700303|1|2|0|0|0|0|0|1|1|2160|3|0|1|||
+|110700302|1|10|21|1|0|1|0.7|0.7|12|0|0|1|1|1|2160|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|110700303|1|10|21|1|0|1|0.7|0.7|12|0|0|1|1|1|2160|3|0|1|||
+|110700304|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|2160|3|0|1|If target is suffering from Poison or Venom, deals {0} physical damage to an enemy.|Physical damage + {0}|
+|110750101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110751101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110800101|1|1|1|0|0|60|60|4.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|110800201|1|60|3|1|0|66|57|180|0|180|0|0|1|3|2160|3|0|99|Causes attacks to apply Cower to the enemy.||
+|110800202|1|10|10|1|0|1|15|15|12|0|0|1|2|3|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110800301|1|26|110800302|3|0|257|0.03|0|0|0|0|0|1|1|-1|3|0|1|||
+|110800302|1|1|1|0|0|16|16|1.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|110800303|1|26|110800304|2|0|257|0.01|0.0096|0|0|0|0|1|1|-1|3|0|1|||
+|110800304|1|10|21|1|0|1|0.18|0.18|12|0|0|0|1|1|-1|3|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|110850101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110851101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110900101|1|1|1|0|0|45|45|3.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|110900102|1|10|10|1|0|1|20|20|18|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110900103|1|10|60|1|0|1|120|0|18|0|0|1|2|1|0|7|0|1|Boosts own physical critical rate by {0}.|Physical critical rate boost + {0}|
+|110900201|1|10|10|1|0|1|28|28|20|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110900202|1|10|60|1|0|1|80|0|20|0|0|1|2|1|0|7|0|1|Boosts own physical critical rate by {0}.|Physical critical rate boost + {0}|
+|110900203|1|8|2|0|0|2|0|20|0|0|0|1|2|1|0|7|0|1|Boosts own action speed.||
+|110900204|1|60|4|1|1|30|76|180|0|180|0|1|2|1|0|7|0|1|Causes successful critical hits to apply Cheru effects to self.||
+|110900301|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|110900302|1|10|11|1|0|1|12|12|12|0|0|1|1|1|-1|3|0|1|Lowers an enemy's physical attack by {0}.|Physical attack lowered + {0}|
+|110900303|1|26|110900304|2|0|276|0.5|0.5|0|0|0|0|1|1|0|7|0|1|||
+|110900304|1|10|10|0|0|1|6|6|12|0|0|0|1|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110900305|1|26|110900306|2|0|276|7|0|0|0|0|0|1|1|0|7|0|1|||
+|110900306|1|10|60|1|0|1|35|0|12|0|0|0|1|1|0|7|0|1|Boosts own physical critical rate by {0}.|Physical critical rate boost + {0}|
+|110950101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|110951101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|111000101|1|10|10|1|0|1|24|24|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|111000102|1|10|60|1|0|1|110|0|18|0|0|0|2|3|2160|3|0|99|Boosts all allies' physical critical rate by {0}.|Physical critical rate boost + {0}|
+|111000201|1|10|10|1|0|1|20|20|12|0|0|0|2|2|2160|14|0|1|Boosts an ally's physical attack by {0}.|Physical attack boost + {0}|
+|111000202|1|10|60|1|0|1|100|0|12|0|0|0|2|2|2160|1|0|0|Boosts an ally's physical critical rate by {0}.|Physical critical rate boost + {0}|
+|111000203|1|16|1|1|0|18|0.6|0|0|0|0|0|2|2|2160|1|0|0|Recovers an ally's TP by {0}.|TP recovery + {0}|
+|111000204|1|10|21|1|0|2|15|0|12|0|0|1|2|3|0|7|0|1|Lowers own physical defense by 15% of base value.||
+|111000205|1|10|41|1|0|2|15|0|12|0|0|1|2|3|0|7|0|1|Lowers own magic defense by 15% of base value.||
+|111000301|1|48|1|2|0|5|0|0|0|10|0|0|2|3|2160|3|0|99|Recovers TP by 5 every second.||
+|111000302|1|6|2|0|0|12|12|12|0|0|0|0|2|3|2160|3|0|99|Deploys Barrier that negates {0} magic damage.|Negated damage + {0}|
+|111000303|1|10|31|1|0|2|70|0|12|0|0|1|2|3|0|7|0|1|Lowers own magic attack by 70% of base value.||
+|111050101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|111051101|1|90|5|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|111051102|1|90|3|0|0|1|30|0|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.||
+|111100101|1|10|41|1|0|1|0.8|0.8|18.9|0|0|1|1|1|-1|3|0|1|Lowers an enemy's magic defense by {0}.|Magic defense lowered + {0}|
+|111100102|1|10|30|1|0|1|20|20|18.9|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|111100201|1|26|111100202|2|0|8|0.2|0|0|0|0|1|2|1|0|7|0|1|||
+|111100202|1|10|30|1|0|1|15|15|12|0|0|1|2|3|2160|31|0|1|Boosts an ally's magic attack by {0}.|Magic attack boost + {0}|
+|111100301|1|10|30|1|0|1|5|5|180|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|111150101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|111151101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|111200101|1|57|111200102|0|0|5|0|0|0|0|0|0|1|1|2160|3|0|99|||
+|111200102|1|1|1|0|0|12|12|1|0|0|0|0|1|3|4320|3|0|99|Deals {0} physical damage to all enemies.|Physical damage + {0}|
+|111200201|1|2|1|0|0|200|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|111200202|1|7|1|0|0|0|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|111200203|1|1|1|0|0|15|15|1.2|0|0|0|0|1|2|400|3|0|99|Deals {0} physical damage to all enemies in range.|Physical damage + {0}|
+|111200301|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|3|2|1|||
+|111200302|1|1|1|0|0|15|15|1.2|0|0|0|0|1|2|300|3|0|99|Deals {0} physical damage to all enemies in range.|Physical damage + {0}|
+|111250101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|111251101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|111300101|1|1|1|0|0|40|40|3.6|0|0|0|0|1|1|880|3|0|99|Deals {0} physical damage to all enemies in range.|Physical damage + {0}|
+|111300201|1|1|1|0|0|30|30|2.4|0|0|0|0|1|1|730|3|0|99|Deals {0} physical damage to all enemies in range.|Physical damage + {0}|
+|111300301|1|10|10|1|0|1|22|22|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|111300302|1|10|21|1|0|2|10|0|18|0|0|1|2|3|2160|3|0|99|Lowers all allies' physical defense by 10% of base value.||
+|111300303|1|10|41|1|0|2|10|0|18|0|0|1|2|3|2160|3|0|99|Lowers all allies' magic defense by 10% of base value.||
+|111350101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|111351101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|111400101|1|28|660|111400104|111400103|1|2|5|0|0|0|0|2|1|0|7|0|1|||
+|111400102|1|26|111400103|3|0|260|1.2|0|0|0|0|0|2|1|0|7|0|1|||
+|111400103|1|1|2|0|0|12.5|12.5|1|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|111400104|1|1|2|0|0|12.5|12.5|7|0|0|0|0|1|1|-1|3|0|1|||
+|111400105|1|35|1|0|0|99|60|180|-5|0|0|0|2|1|0|7|0|1|Loses up to 5 Friends.||
+|111400201|1|1|2|0|0|0|0|1|0|0|0|0|2|3|2160|6|0|1|Deals {0} magic damage to an ally.||
+|111400202|1|16|1|3|0|150|2.5|0|0|0|0|0|2|3|2160|6|0|1|Recovers an ally's TP by {0}.|TP recovery + {0}|
+|111400203|1|35|1|0|0|99|60|180|1|0|0|0|2|1|0|7|0|1|Adds 1 additional Friend.||
+|111400301|1|28|660|111400303|111400302|1|2|2|0|0|0|0|2|1|0|7|0|1|||
+|111400302|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|If Luna doesn't have 2 or more Friends, deals {0} magic damage to an enemy.|Magic damage + {0}|
+|111400303|1|1|2|0|0|40|40|3.2|0|0|0|0|1|1|-1|3|0|1|If Luna has 2 or more Friends, deals {0} magic damage to an enemy.|Magic damage + {0}|
+|111400304|1|23|660|111400305|0|0|0|2|0|0|0|0|2|1|0|7|0|1|||
+|111400305|1|35|1|0|0|99|60|180|-2|0|0|0|2|1|0|7|0|1|If Luna has 2 or more Friends, loses 2 Friends.||
+|111410101|1|60|1|1|1|99|60|180|0|180|0|0|2|1|0|7|0|1|For every action, gains 1 Friend.||
+|111450101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|111451101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|111500101|1|28|661|111500103|111500102|1|2|1|0|0|0|0|2|1|0|7|0|1|||
+|111500102|1|1|1|0|0|60|60|4.8|0|0|0|0|1|1|-1|3|0|1|If Christina doesn't have a Coin, deals {0} physical damage to an enemy.|Physical damage + {0}|
+|111500103|1|1|3|0|0|120|120|9.6|0|0|0|0|1|1|-1|3|0|1|If Christina has a Coin, deals {0} physical damage to an enemy.|Physical damage + {0}|
+|111500104|1|23|661|111500107|111500105|1|2|1|0|0|0|0|2|1|0|7|0|1|||
+|111500105|1|35|0|0|0|1|61|180|1|0|0|0|2|1|0|7|0|1|||
+|111500106|1|10|10|1|1|1|36|36|18|0|0|1|2|1|0|7|0|1|If Christina doesn't have a Coin, boosts own physical attack by {0}.|Physical attack boost + {0}|
+|111500107|1|35|0|0|0|1|61|180|-2|0|0|0|2|1|0|7|0|1|||
+|111500201|1|28|661|111500203|111500202|1|2|1|0|0|0|0|2|1|0|7|0|1|||
+|111500202|1|10|10|1|0|1|20|20|12|0|0|1|2|3|2160|20|0|99|If Christina doesn't have a Coin, boosts target allies' physical attack by {0}.|Physical attack boost + {0}|
+|111500203|1|10|10|1|0|1|10|10|12|0|0|1|2|3|2160|20|0|99|If Christina has a Coin, boosts target allies' physical attack by {0}.|Physical attack boost + {0}|
+|111500204|1|28|661|111500205|0|0|0|1|0|0|0|0|2|1|0|7|0|1|||
+|111500205|1|10|10|1|0|1|35|35|12|0|0|1|2|1|0|7|0|1|If Christina has a Coin, boosts own physical attack by {0}.|Physical attack boost + {0}|
+|111500301|1|28|661|111500303|111500302|1|2|1|0|0|0|0|2|1|0|7|0|1|||
+|111500302|1|1|1|0|0|22.5|22.5|1.8|0|0|0|0|1|1|2160|3|0|1|If Christina doesn't have a Coin, deals {0} physical damage to an enemy.|Physical damage + {0}|
+|111500303|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|2160|3|0|1|If Christina has a Coin, deals {0} physical damage to an enemy.|Physical damage + {0}|
+|111500304|1|28|661|111500305|0|1|0|1|0|0|0|0|2|1|0|7|0|1|||
+|111500305|1|10|80|1|0|1|10|0|12|0|0|0|2|3|2160|3|0|99|If Christina has a Coin, boosts all allies' TP Boost by {0}.||
+|111500306|1|2|1|0|0|100|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|111550101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|111551101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|111600101|1|26|111600102|2|0|12|0.5|0.5|0|0|0|0|2|3|2160|3|0|99|||
+|111600102|1|10|20|1|0|1|0.25|0.25|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical defense by {0}.|Physical defense boost + {0}|
+|111600201|1|6|1|0|0|10|10|18|0|0|0|0|2|3|2160|3|0|99|Deploys Barrier that negates {0} physical damage.|Negated damage + {0}|
+|111600301|1|1|1|0|0|18|18|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|111600302|1|8|4|0|0|0|0|3|0|0|0|0|1|1|-1|1|0|1|Renders an enemy immobile for a set period of time.|Freeze success rate + 1|
+|111650101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|111651101|1|90|3|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|111700101|1|26|111700102|1|0|1|6|0|0|0|0|0|2|1|0|7|0|1|||
+|111700102|1|1|2|0|0|60|60|4.8|0|0|0|0|1|1|2160|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|111700103|1|10|30|1|0|1|15|15|180|0|0|1|2|1|0|7|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|111700201|1|26|111700202|1|0|1|2|0|0|0|0|0|2|1|0|7|0|1|||
+|111700202|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|111700301|1|26|111700302|1|0|1|1|0|0|0|0|0|2|1|0|7|0|1|||
+|111700302|1|1|2|0|0|12.5|12.5|1|0|0|0|0|1|1|615|3|0|99|Deals {0} magic damage to all enemies in range.|Magic damage + {0}|
+|111700303|1|10|30|1|1|1|15|15|12|0|0|1|2|1|0|7|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|111700304|1|46|2|2|0|20|0|0|0|0|0|0|2|1|0|7|0|1|Reduces own remaining HP by 20%||
+|111750101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|111751101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|111900101|1|4|1|0|0|1|6|6|0.5|0|0|0|2|3|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|111900102|1|48|1|1|0|1.6|1.6|0.1|0|10|0|0|2|3|2160|3|0|99|Recovers HP by {0} every second.|Recovery + {0}|
+|111900103|1|10|10|1|1|1|18|18|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|111900201|1|6|6|0|0|16.5|16.5|12|0|0|0|0|2|1|0|7|0|1|Deploys Barrier that absorbs {0} physical and magic damage.|Damage absorbed + {0}|
+|111900202|1|20|1|0|0|5|0.05|0|0|0|0|0|2|1|0|7|0|1|Provokes all enemies.||
+|111900301|1|10|10|1|1|1|12|12|12|0|0|1|2|3|2160|14|0|1|Boosts an ally's physical attack by {0}.|Physical attack boost + {0}|
+|111900302|1|10|60|1|1|1|100|0|12|0|0|1|2|3|2160|14|0|1|Boosts an ally's physical critical rate by {0}.|Physical critical rate boost + {0}|
+|111900303|1|10|110|1|1|2|29.9|0|12|0|0|1|2|3|2160|14|0|1|Boosts the damage of an ally's physical critical attacks by 30%.||
+|111950101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|111951101|1|90|3|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|112000101|1|1|2|0|0|60|60|4.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|112000102|1|26|112000103|2|0|6|0.1125|0|0|0|0|0|1|1|-1|3|0|1|||
+|112000103|1|10|30|1|1|1|10|10|18|0|0|1|2|1|0|7|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|112000201|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|112000301|1|10|30|1|1|1|6|6|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|112000302|1|26|112000303|1|0|8|0.08|0|0|0|0|1|2|1|0|7|0|1|||
+|112000303|1|6|1|0|0|3|3|12|0|0|0|0|2|3|2160|3|0|99|Deploys Barrier that negates {0} physical damage.|Negated damage + {0}|
+|112050101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|112051101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|112100101|1|4|2|0|0|1|4.5|4.5|0.3375|0|0|0|2|3|-1|3|0|99|Recovers all allies' HP by {0}.|HP recovery + {0}|
+|112100102|1|8|2|0|0|1.6|0|18|0|0|0|0|2|3|2160|3|0|99|Boosts action speed of all allies.||
+|112100201|1|1|2|0|0|10|10|0.8|0|0|0|0|1|1|2160|4|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|112100202|1|3|3|0|0|300|0|1000|0|0|0|0|1|1|2160|4|0|1|||
+|112100301|1|6|2|0|0|12.5|12.5|10|0|0|0|0|2|3|2160|3|0|99|Deploys Barrier that negates {0} magic damage.|Negated damage + {0}|
+|112150101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|112151101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|112200101|1|1|2|0|0|12|12|1.08|0|0|0|0|1|3|2160|3|0|99|Deals {0} magic damage to all enemies.|Magic damage + {0}|
+|112200102|1|16|2|0|0|50|0.5|0|0|0|0|0|1|3|2160|3|0|99|Reduces all enemies' TP by {0}.|TP damage + {0}|
+|112200201|1|16|2|0|0|150|1.5|0|0|0|0|0|1|2|2160|12|0|1|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|112200301|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|4|0|1|||
+|112200302|1|1|2|0|0|3.4|3.4|0.27|0|0|0|0|1|2|280|3|0|99|Deals {0} magic damage to enemies in range.|Magic damage + {0}|
+|112200303|1|8|5|0|0|0|0|2.5|0|0|0|0|1|2|280|3|0|99|Renders enemies in range immobile for a set period of time.|Bind success rate + 1|
+|112250101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|112251101|1|90|3|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|112300101|1|10|10|1|0|1|30|30|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|112300201|1|10|10|1|0|1|10|10|12|0|0|1|2|2|300|3|0|99|Boosts physical attack of all allies in range by {0}.|Physical attack boost + {0}|
+|112300202|1|10|60|1|0|1|60|0|12|0|0|1|2|2|300|3|0|99|Boosts physical critical rate of all allies in range by {0}.|Physical critical rate boost + {0}|
+|112300301|1|10|10|1|0|1|15|15|12|0|0|1|2|2|300|3|0|99|Boosts physical attack of all allies in range by {0}.|Physical attack boost + {0}|
+|112300302|1|1|1|0|0|75|75|6|0|0|0|0|1|1|2160|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|112350101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|112351101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|112400101|1|1|1|0|0|25|25|2|0|0|0|0|1|1|735|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|112400102|1|10|10|1|0|1|9.8|9.8|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' physical attack by {0}.|Physical attack boost + {0}|
+|112400103|1|10|30|1|0|1|9.8|9.8|18|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic attack by {0}.|Magic attack boost + {0}|
+|112400201|1|16|1|0|0|50|0.3|0|0|0|0|0|2|3|2160|3|0|99|Recovers all allies' TP by {0}.|TP recovery + {0}|
+|112400202|1|10|80|1|0|1|5|0|12|0|0|0|2|3|2160|3|0|99|Boosts all allies' TP Boost by {0}.||
+|112400301|1|1|1|0|0|15|15|1.2|0|0|0|0|1|2|735|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|112450101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|112451101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|112500101|1|1|1|0|0|30|30|2.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|112500102|1|6|5|0|0|105|105|18|0|0|0|0|2|3|0|7|0|1|Deploys Barrier that negates {0} physical and magic damage.|Negated damage + {0}|
+|112500201|1|1|1|0|1|7.5|7.5|0.6|0|0|0|1|1|1|400|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|112500202|1|10|21|1|0|1|0.3|0.3|12|0|0|1|1|1|400|3|0|99|Lowers physical defense of enemies in range by {0}.|Physical defense lowered + {0}|
+|112500203|1|10|41|1|0|1|0.3|0.3|12|0|0|1|1|1|400|3|0|99|Lowers magic defense of enemies in range by {0}.|Magic defense lowered + {0}|
+|112500204|1|20|1|0|0|5|0.05|0|0|0|0|0|2|1|0|7|0|1|Provokes all enemies.||
+|112500301|1|8|5|0|0|0|0|2.5|0|0|0|0|1|1|400|3|0|99|Renders enemies in range immobile for a set period of time.|Bind success rate + 1|
+|112550101|1|90|3|0|0|1|2|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|112551101|1|90|3|0|0|1|32|2|1|0|0|0|0|0|0|0|0|0|Boosts own physical defense by {0}.|Physical defense boost + {0}|
+|112600101|1|1|2|0|0|50|50|4.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} magic damage to an enemy.|Magic damage + {0}|
+|112600102|1|10|30|1|0|1|20|20|18|0|0|1|2|1|0|7|0|1|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|112600201|1|1|2|0|0|10|10|0.54|0|0|0|0|1|1|2160|3|0|1|Deals {0} magic damage to closest target.|Magic damage + {0}|
+|112600202|1|1|2|0|0|10|10|0.72|0|0|0|0|1|1|2160|3|1|1|Deals {0} magic damage to 2nd closest target.|Magic damage + {0}|
+|112600203|1|1|2|0|0|10|10|0.9|0|0|0|0|1|1|2160|3|2|1|Deals {0} magic damage to 3rd closest target.|Magic damage + {0}|
+|112600301|1|7|1|0|0|0|0|0|0|0|0|0|2|3|2160|5|0|1|||
+|112600302|1|4|2|0|0|1|2.5|2.5|0.25|0|0|0|2|2|300|3|0|99|Recovers HP of all allies in range by {0}.|HP recovery + {0}|
+|112650101|1|90|4|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|112651101|1|90|4|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own magic attack by {0}.|Magic attack boost + {0}|
+|112700101|1|1|1|0|0|19|19|1.5|0|0|0|0|1|1|790|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|112700102|1|10|21|1|0|1|0.5|0.5|18|0|0|1|1|1|790|3|0|99|Lowers physical defense of enemies in range by {0}.|Physical defense lowered + {0}|
+|112700201|1|1|1|0|0|22.5|22.5|1.8|0|0|0|0|1|1|790|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|112700202|1|10|21|1|0|1|0.9|0.9|20|0|0|1|1|1|790|3|0|99|Lowers physical defense of enemies in range by {0}.|Physical defense lowered + {0}|
+|112700203|1|8|1|0|0|0.33|0|180|0|0|0|0|2|1|0|7|0|1|Reduces own action speed.||
+|112700301|1|1|1|0|0|7.5|7.5|0.6|0|0|0|0|1|1|790|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|112700302|1|10|21|1|0|1|0.15|0.15|12|0|0|1|1|1|790|3|0|99|Lowers physical defense of enemies in range by {0}.|Physical defense lowered + {0}|
+|112750101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|112751101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|112800101|1|1|1|0|0|22.5|22.5|1.8|0|0|0|0|1|1|825|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|112800102|1|11|1|0|0|6|0|100|0|0|0|0|1|1|825|3|0|99|Confuses enemies in range.|Confusion success rate + 1|
+|112800201|1|10|10|1|1|1|18|18|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|112800202|1|48|1|2|0|15|0|0|0|8.5|0|0|2|1|0|7|0|1|Recovers TP by 15 every second.||
+|112800301|1|26|112800302|3|0|4|0.2|0|0|0|0|0|1|1|775|3|0|99|||
+|112800302|1|1|1|0|0|16|16|0.9|0|0|0|0|1|1|775|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|112800303|1|3|3|0|0|450|0|900|0|0|0|0|1|1|-1|3|0|1|||
+|112850101|1|90|2|0|0|1|15|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|112851101|1|90|2|0|0|1|240|15|1|0|0|0|0|0|0|0|0|0|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|180400101|1|26|180400102|1|0|0|2.7|0|0|0|0|0|2|1|0|7|0|1|||
+|180400102|1|1|1|0|0|60|60|5.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|180400103|1|23|950|180400104|0|0|0|0|0|0|0|1|2|1|0|7|0|1|||
+|180400104|1|71|1|72|0|1|20|20|1|0|12|0|2|1|0|7|0|1|If HP falls to 0 while Knight's Blessing active, consumes Knight's Blessing and recovers {0} HP.|HP recovery + {0}|
+|180400201|1|26|180400202|2|0|0|0.1|0|0|0|0|0|2|1|0|7|0|1|||
+|180400202|1|10|10|1|0|1|20|20|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|180400203|1|23|950|180400204|0|0|0|0|0|0|0|1|2|1|0|7|0|1|||
+|180400204|1|6|6|0|0|36|36|12|0|0|0|0|2|1|0|7|0|1|Deploys Barrier that absorbs {0} physical and magic damage.|Damage absorbed + {0}|
+|180400301|1|26|180400302|1|0|0|0.6|0|0|0|0|0|2|1|0|7|0|1|||
+|180400302|1|1|1|1|0|15|15|1.2|0|0|0|1|1|1|300|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|180400303|1|23|950|180400307|180400305|1|2|0|0|0|0|1|2|1|0|7|0|1|||
+|180400304|1|26|180400305|2|0|6|0.1|0|0|0|0|0|1|1|300|3|0|99|||
+|180400305|1|10|10|1|0|1|10|10|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|180400306|1|26|180400307|2|0|6|0.15|0|0|0|0|0|2|1|0|7|0|1|||
+|180400307|1|4|1|0|0|1|6|6|0.5|0|0|0|2|1|0|7|0|1|Recovers own HP by {0}.|HP recovery + {0}|
+|180450101|1|90|1|0|0|1|75|75|1|0|0|0|0|0|0|0|0|0|Boosts own max HP by {0}.|Max HP + {0}|
+|180451101|1|90|1|0|0|1|1275|75|1|0|0|0|0|0|0|0|0|0|Boosts own max HP by {0}.|Max HP + {0}|
+|200100101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|2160|4|0|1|||
+|200200101|1|4|2|0|0|1|3.2|3.2|0.2625|0|0|0|2|1|1500|2|0|3|||
+|200300101|1|1|2|0|0|0|1|1|0|0|0|0|1|1|400|3|0|5|||
+|200300102|1|9|2|0|0|2.25|2.25|4|0|0|0|0|1|1|0|1|0|1|||
+|200400101|1|1|1|0|0|100|10|1|0|0|0|0|1|1|500|2|0|1|||
+|200400102|1|10|11|0|0|1|16.5|16.5|18|0|0|0|1|1|-1|1|0|0|||
+|200700101|1|1|2|0|0|0|0|1|0|0|0|0|1|1|1500|3|1|1|||
+|200701101|1|1|2|0|0|0|1|1|0|0|0|0|1|1|1500|3|1|1|||
+|200701102|1|9|2|0|0|2.25|2.25|4|0|0|0|0|1|3|1500|3|1|1|||
+|200800101|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|4|4|1|||
+|200800102|1|1|1|0|0|1|1|1|0|0|0|0|1|2|2160|1|4|1|||
+|200902101|1|1|1|0|0|1|1|1|0|0|0|0|1|2|2160|4|1|1|||
+|201000101|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|4|2|1|||
+|201000102|1|1|2|0|0|1|1|1|0|0|0|0|1|2|2160|1|2|1|||
+|201100101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|2160|4|2|1|||
+|201101101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|2160|4|2|1|||
+|201300101|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|4|2|1|||
+|201300102|1|1|1|0|0|1|1|1|0|0|0|0|1|2|2160|1|2|1|||
+|201301101|1|1|1|0|0|1|1|1|0|0|0|0|1|2|2160|8|0|1|||
+|201301102|1|9|1|0|0|2.25|2.25|4|0|0|0|0|1|3|0|1|0|1|||
+|201302101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|850|2|0|1|||
+|201302102|1|8|3|0|0|0|0|1|0|0|0|0|2|1|0|1|0|0|||
+|201400101|1|1|2|0|0|0|0|0.5|0|0|0|0|1|1|1500|2|0|3|||
+|201400201|1|10|30|1|0|1|1.8|1.8|12|0|0|1|2|1|0|1|0|99|||
+|201500101|1|4|2|0|0|1|3.2|3.2|0.2625|0|0|0|2|3|1500|5|0|5|||
+|201500201|1|10|30|1|0|1|1.8|1.8|12|0|0|1|2|1|0|1|0|99|||
+|201600101|1|15|2|100000001|1|0|0|1|0|1|1|-200|2|1|-1|7|0|1|||
+|201602101|1|1|2|0|0|0|0|0.5|0|0|0|0|1|1|800|2|0|1|||
+|201602102|1|8|1|0|0|0.5|0|6|0|0|0|0|1|1|800|1|0|0|||
+|201900101|1|1|1|0|0|0|1|1|0|0|0|0|1|1|1500|3|1|1|||
+|201900102|1|9|1|0|0|2.25|2.25|4|0|0|0|0|1|1|-1|1|0|1|||
+|201901101|1|1|1|0|0|0|1|1|0|0|0|0|1|1|1500|3|1|1|||
+|201901102|1|9|2|0|0|2.25|2.25|4|0|0|0|0|1|1|-1|1|0|1|||
+|202000101|1|6|1|0|0|99999|60|90|0|0|0|0|2|3|2160|3|0|1|||
+|202300101|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|4|4|1|||
+|202300102|1|1|2|0|0|1|1|1|0|0|0|0|1|2|2160|1|4|1|||
+|202600101|1|4|2|0|0|1|4.2|4.2|0.35|0|0|0|2|1|1500|5|0|5|||
+|202800101|1|1|1|0|0|0|0|0.8|0|0|0|0|1|1|650|3|0|99|||
+|202903101|1|2|4|0|0|1550|0|0|0|0|0|0|2|3|0|7|0|1|||
+|202903201|1|2|4|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|202903301|1|2|4|0|0|1350|0|0|0|0|0|0|2|3|0|7|0|1|||
+|202903401|1|2|4|0|0|1390|0|0|0|0|0|0|2|3|0|7|0|1|||
+|202904101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|350|2|0|1|||
+|203400101|1|4|2|0|0|1|9|9|0.9|0|0|0|2|3|1500|4|0|1|||
+|203500101|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|4|2|1|||
+|203500102|1|1|1|0|0|1|1|1|0|0|0|0|1|2|2160|1|2|1|||
+|203501101|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|4|2|1|||
+|203501102|1|1|1|0|0|1|1|1|0|0|0|0|1|2|2160|1|2|1|||
+|203700101|1|7|1|0|0|0|0|0|0|0|0|0|1|1|710|4|1|1|||
+|203700102|1|1|1|0|0|0|0|1|0|0|0|0|1|2|88|3|0|5|||
+|203702101|1|7|1|0|0|0|0|0|0|0|0|0|1|1|710|4|1|1|||
+|203702102|1|1|1|0|0|0|0|1|0|0|0|0|1|2|88|3|0|99|||
+|203702103|1|12|40|0|0|8|0|40|0|0|0|0|1|2|88|1|0|1|||
+|204200101|1|4|2|0|0|1|3.2|3.2|0.2625|0|0|0|2|1|1500|2|0|3|||
+|204300101|1|1|1|0|0|1|1|1|0|0|0|0|1|2|2160|3|0|1|||
+|204300102|1|9|1|0|0|25|5|4|0|0|0|0|1|3|0|1|0|1|||
+|204400101|1|7|1|0|0|0|0|0|0|0|0|0|1|1|2160|4|2|1|||
+|204400102|1|1|2|0|0|1|1|1|0|0|0|0|1|2|2160|1|2|1|||
+|204502101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|150|2|0|1|||
+|204502102|1|10|21|0|0|2|10|0|10|0|0|1|1|2|-1|1|0|0|||
+|204502103|1|10|41|0|0|2|10|0|10|0|0|1|1|2|-1|1|0|0|||
+|204600101|1|1|2|0|0|1|1|1|0|0|0|0|1|2|2160|3|0|2|||
+|204702101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|-1|3|0|1|||
+|204702102|1|10|21|1|0|1|0.23|0.23|3|0|0|1|1|1|-1|1|0|1|||
+|205000101|1|1|1|0|0|1|1|0|0|0|0|0|1|1|-1|3|0|2|||
+|205000102|1|9|1|0|0|2.25|2.25|4|0|0|0|0|1|1|-1|3|0|2|||
+|205000201|1|1|1|0|0|1|1|1|0|0|0|0|1|1|-1|3|0|2|||
+|205000202|1|9|1|0|0|2.25|2.25|4|0|0|0|0|1|1|-1|3|0|2|||
+|205100101|1|2|1|0|0|-100|0|0|0|0|0|0|1|1|550|16|0|1|||
+|205100102|1|1|1|0|0|1|1|0|0|0|0|0|1|1|550|16|0|1|||
+|205100103|1|16|2|0|0|100|0|0|0|0|0|0|1|1|550|16|0|1|||
+|205200101|1|1|1|0|0|0|0|1|0|0|0|0|1|1|1500|3|2|1|||
+|205300101|1|1|2|0|0|0|0|1|0|0|0|0|1|1|1500|3|1|1|||
+|205500101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|550|2|0|1|||
+|205500102|1|8|1|0|0|0.8|0|4|0|0|0|0|1|2|0|1|0|0|||
+|205500103|1|9|1|0|0|2.25|2.25|4|0|0|0|0|1|1|0|1|0|0|||
+|205800101|1|6|3|0|0|105|105|18|0|0|0|0|2|3|0|7|0|1|Deploys Barrier that absorbs {0} physical and magic damage.||
+|205801101|1|7|1|0|0|0|0|0|0|0|0|0|1|3|3000|3|0|1|Target select||
+|205801102|1|1|1|0|0|12|14|0.72|0|0|0|0|1|3|400|1|0|99|AOE magic damage around target||
+|205801103|1|9|3|0|0|10|0.8|8|0|0|0|0|1|3|400|1|0|99|Curse to target area if condition cleared||
+|205801201|1|17|3|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|HP trigger||
+|205801202|1|16|1|0|0|300|0|0|0|0|0|0|2|2|3000|16|0|1|TP recovery||
+|205802101|1|1|2|0|0|40|40|2.5|0|0|0|0|1|3|3000|3|0|99|Magic damage to all||
+|205806101|1|6|3|0|0|105|105|18|0|0|0|0|2|3|0|7|0|1|Deploys Barrier that absorbs {0} physical and magic damage.||
+|205807101|1|7|1|0|0|0|0|0|0|0|0|0|1|3|3000|3|0|1|Target select||
+|205807102|1|1|1|0|0|12|14|0.72|0|0|0|0|1|3|400|1|0|99|AOE magic damage around target||
+|205807103|1|9|3|0|0|10|0.8|8|0|0|0|0|1|3|400|1|0|99|Curse to target area if condition cleared||
+|205807201|1|17|3|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|HP trigger||
+|205807202|1|16|1|0|0|300|0|0|0|0|0|0|2|2|3000|16|0|1|TP recovery||
+|205808101|1|1|2|0|0|40|40|2.5|0|0|0|0|1|3|3000|3|0|99|Magic damage to all||
+|205900101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|650|4|0|2|Damage||
+|205900102|1|8|1|0|0|0.5|0|6|0|0|0|0|1|1|650|1|0|0|Action speed down||
+|206000101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|150|3|0|1|Damage||
+|206000102|1|3|1|0|0|140|0|1050|450|0|0|0|1|1|150|1|0|1|Knockback (vertical)||
+|206000103|1|3|3|0|0|270|0|525|0|0|0|0|1|1|150|1|0|1|Knockback (horizontal)||
+|206000104|1|10|41|1|0|1|0.8|0.8|12|0|0|0|1|1|150|1|0|1|Magic defense debuff||
+|206100101|1|1|2|0|0|1|1|1|0|0|0|0|1|1|3000|6|0|1|Magic damage to all||
+|206100102|1|10|11|1|0|1|6|6|12|0|0|0|1|1|3000|1|0|1|Physical attack debuff||
+|206100103|1|10|31|1|0|1|6|6|12|0|0|0|1|1|3000|1|0|1|Magic attack debuff||
+|206200101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|750|2|0|1|Damage||
+|206200102|1|8|7|0|0|0|0|1|0|0|0|0|1|1|750|1|0|1|Stun||
+|206201101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|3000|16|0|1|Damage||
+|206201102|1|10|31|0|0|1|0.6|0.6|10|0|0|0|1|1|750|1|0|1|Magic attack debuff||
+|206300101|1|16|1|0|0|99|1|0|0|0|0|0|2|1|1500|24|0|1|||
+|206700101|1|1|1|0|0|30|30|2.4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Single-target physical damage + {0}|
+|206700102|1|3|3|0|0|50|0|500|0|0|0|0|1|1|-1|3|0|99|||
+|206700103|0|1|1|0|0|13.5|13.5|1.08|0|0|0|0|1|2|400|3|0|99|Deals {0} physical damage to enemies in range.|AOE physical damage + {0}|
+|206700201|1|1|1|0|0|20|20|1.6|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|206700301|1|1|1|0|0|8|8|0.6|0|0|0|0|1|1|0|1|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|206700302|1|10|10|1|0|1|11|11|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|206701101|1|1|1|0|0|12|12|1.08|0|0|0|0|1|3|2160|3|0|99|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|206701102|1|8|7|0|0|0|0|1.5|0|0|0|0|1|3|2160|3|0|99|Renders enemies in range immobile for a set period of time.|Bind success rate + 1|
+|206701201|1|20|1|0|0|5|0.05|0|0|0|0|0|2|1|0|7|0|1|Provokes all enemies.||
+|206701202|1|42|2|108900203|0|100|0|0|2|0|0|0|2|3|0|3|0|1|||
+|206701203|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|280|3|0|99|Deals {0} physical damage to enemies in range.|Physical counter damage + {0}|
+|206701204|1|10|21|1|0|1|5.5|5.5|12|0|0|1|1|1|280|3|0|99|Lowers physical defense of enemies in range by {0}.|Physical defense lowered + {0}|
+|206701301|1|6|2|0|0|18|18|18|0|0|0|0|2|2|280|3|0|99|Deploys Barrier that negates {0} magic damage.|Negated damage + {0}|
+|206701302|1|10|40|1|0|1|1.6|1.6|12|0|0|1|2|1|0|7|0|1|Boosts own magic defense by {0}.|Magic defense boost + {0}|
+|206702101|1|6|5|0|0|30|30|18|0|0|0|0|2|3|2160|3|0|99|Deploys Barrier that negates {0} physical and magic damage.|Negated damage + {0}|
+|206702102|1|48|2|1|0|1.5|1.5|0.09|0|10|0|0|2|3|2160|3|0|99|Recovers HP by {0} every second.|Recovery + {0}|
+|206702103|1|10|31|1|0|2|80|0|18|0|0|1|2|3|0|7|0|1|Lowers an enemy's physical defense by {0}.|Physical defense lowered + {0}|
+|206702201|1|10|11|1|0|1|0.6|0.6|12|0|0|1|1|1|2160|3|1|1|Lowers an enemy's physical attack by {0}.|Physical attack lowered + {0}|
+|206702202|1|10|31|1|0|1|0.6|0.6|12|0|0|1|1|1|2160|3|1|1|Lowers an enemy's magic attack by {0}.|Magic attack lowered + {0}|
+|206702301|1|10|30|1|0|1|8|8|12|0|0|1|2|3|2160|21|0|99|Boosts own physical attack by {0}.|Physical attack boost + {0}|
+|206800101|1|17|4|0|0|100|0|0|0|0|0|0|2|3|0|7|0|1|||
+|206800102|1|24|1|0|0|0|1|0|0|0|0|0|2|3|0|7|0|1|||
+|206800103|1|2|7|0|0|-400|0|0|0|0|0|0|2|3|0|7|0|1|||
+|206800301|1|1|1|0|0|5800|100|0|0|0|0|0|1|1|2160|3|0|99|Deals physical damage to enemies in range.||
+|206800302|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|206800303|1|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|206800401|2|17|3|0|1|100|0|50|0|0|0|1|2|1|-1|7|0|1|If HP falls below 50%,||
+|206800402|2|4|1|0|0|2|15|0|0|0|0|0|1|3|3000|1|0|99|recovers HP,|HP recovery + {0}|
+|206800403|2|21|1|0|0|0.1|0|0|0|0|0|0|2|1|0|7|0|1|becomes invincible until recovery is complete,||
+|206800404|2|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|206800405|2|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|Dies.||
+|206801101|1|1|1|0|0|1|1|1|0|0|0|0|1|2|2160|1|2|1|||
+|206802101|1|1|1|0|0|1|1|1|0|0|0|0|1|2|2160|1|2|1|||
+|206804101|1|1|1|0|0|5800|100|0|0|0|0|0|1|1|2160|3|0|99|Deals physical damage to enemies in range.||
+|206804102|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|206804103|1|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|206804201|2|17|3|0|1|100|0|50|0|0|0|1|2|1|-1|7|0|1|If HP falls below 50%,||
+|206804202|2|4|1|0|0|2|15|0|0|0|0|0|1|3|3000|1|0|99|recovers HP,|HP recovery + {0}|
+|206804203|2|21|1|0|0|0.1|0|0|0|0|0|0|2|1|0|7|0|1|becomes invincible until recovery is complete,||
+|206804204|2|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|206804205|2|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|Dies.||
+|206900101|1|1|2|0|0|1|1|1|0|0|0|0|1|3|450|6|0|1|Magic damage to high HP in range.||
+|206900102|1|8|5|0|0|0|0|3|0|0|0|0|1|3|-1|1|0|1|Inflicts Bind on high HP in range.||
+|207000101|1|21|1|0|0|5.5|0|0|0|0|0|0|2|1|0|7|0|1|Becomes invincible.||
+|207000201|1|1|2|0|0|1|1|1|0|0|0|0|1|3|200|2|0|1|Random magic damage in range.||
+|207100101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|2160|12|0|1|Deals physical damage to the enemy with the highest TP.||
+|207100102|1|23|950|207100103|0|0|0|0|0|0|0|0|1|1|2160|1|0|1|Activates when target's HP is at 50% or below.||
+|207100103|1|8|3|0|0|0|0|3.5|0|0|0|0|1|3|2160|1|0|1|Inflicts Paralyze on target.||
+|207200101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|2160|3|0|1|Physical damage in front.||
+|207200102|1|3|3|0|0|10|0|500|0|0|0|0|1|1|-1|3|0|1|Knock(ed) back||
+|207300101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|2160|3|1|1|Physical damage in front.||
+|207300102|1|10|61|0|0|2|90|0|10|0|0|0|1|1|2160|1|0|1|Physical critical rate down.||
+|207300103|1|3|3|0|0|200|0|670|0|0|0|0|1|1|2160|1|0|1|Knock(ed) back||
+|207300104|1|10|101|1|0|2|75|0|4|0|0|0|1|1|2160|1|0|1|Slow||
+|207500101|1|46|1|2|0|25|0|0|0|0|0|0|1|3|200|2|0|1|Random magic damage in range.||
+|207500201|1|46|1|1|0|13|0|0|0|0|0|0|1|3|200|3|0|1|Frontmost physical damage.||
+|207600101|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|600|14|0|1|||
+|207600102|1|9|1|0|0|3|3|8|0|0|0|0|1|1|0|1|0|0|||
+|207600201|1|17|3|0|0|100|0|35|0|0|0|0|0|0|0|0|0|0|||
+|207600202|1|16|1|0|0|150|0|0|0|0|0|0|2|3|3000|14|0|1|||
+|207600203|1|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|207700101|1|17|3|0|0|100|0|1|0|0|0|0|2|1|0|7|0|1|Triggers when HP is at 1% or below.||
+|207700102|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|207700201|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|When in Stealth and damage-taking actions have ended, removes self from battle and applies Sturdy.||
+|207700202|1|46|1|1|0|30|0|0|0|0|0|0|1|3|3000|3|0|99|Percentage-based damage to all.||
+|207702101|1|17|3|0|0|100|0|1|0|0|0|0|2|1|0|7|0|1|Triggers when HP is at 1% or below.||
+|207702102|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|207702201|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|When in Stealth and damage-taking actions have ended, removes self from battle and applies Sturdy.||
+|207702202|1|1|1|0|0|180|68|4|0|0|0|0|1|3|3000|1|0|99|Deals {0} physical damage to an enemy.||
+|207703201|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|When in Stealth and damage-taking actions have ended, removes self from battle and applies Sturdy.||
+|207703202|1|46|1|1|0|15|0|0|0|0|0|0|1|3|3000|3|0|99|Percentage-based damage to all.||
+|207704201|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|When in Stealth and damage-taking actions have ended, removes self from battle and applies Sturdy.||
+|207704202|1|46|1|1|0|20|0|0|0|0|0|0|1|3|3000|3|0|99|Percentage-based damage to all.||
+|207705201|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|When in Stealth and damage-taking actions have ended, removes self from battle and applies Sturdy.||
+|207705202|1|46|1|1|0|20|0|0|0|0|0|0|1|3|3000|3|0|99|Percentage-based damage to all.||
+|207706201|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|When in Stealth and damage-taking actions have ended, removes self from battle and applies Sturdy.||
+|207706202|1|46|1|1|0|25|0|0|0|0|0|0|1|3|3000|3|0|99|Percentage-based damage to all.||
+|207707201|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|When in Stealth and damage-taking actions have ended, removes self from battle and applies Sturdy.||
+|207707202|1|46|1|1|0|10|0|0|0|0|0|0|1|3|3000|3|0|99|Percentage-based damage to all.||
+|207708201|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|When in Stealth and damage-taking actions have ended, removes self from battle and applies Sturdy.||
+|207708202|1|46|1|1|0|10|0|0|0|0|0|0|1|3|3000|3|0|99|Percentage-based damage to all.||
+|207800101|1|54|207800102|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|207800102|1|1|1|0|0|120|60|3|0|0|0|0|1|3|3000|1|0|99|Deals {0} physical damage to an enemy.||
+|207800201|1|54|207800202|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|207800202|1|46|1|1|0|15|0|0|0|0|0|0|2|3|3000|24|0|1|Deals {0} physical damage to an enemy.||
+|207800203|1|17|3|0|0|100|0|1|99|0|0|0|2|1|0|7|0|1|Trigger||
+|207900101|1|39|207900102|0|0|180|0|2160|0|0|0|0|2|1|0|7|0|1|||
+|207900102|1|59|0|0|0|0.1|0|0|0|0|0|0|1|3|3000|3|0|99|||
+|207900103|1|36|4|0|0|2000|0|0|0|180|0|2160|2|1|0|7|0|1|||
+|207900201|1|17|3|0|0|100|0|1|0|0|0|0|2|1|0|7|0|1|Triggers when HP is at 1% or below.||
+|207900202|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|207900301|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|When in Stealth and damage-taking actions have ended, removes self from battle and applies Sturdy.||
+|207900302|1|58|207900101|0|0|0|0|0|0|0|0|0|1|1|2160|3|0|99|||
+|207900303|1|58|207900103|0|0|0|0|0|0|0|0|0|1|1|2160|3|0|99|||
+|207900304|1|10|21|1|0|1|90|0|180|0|0|2|2|3|2160|3|0|99|||
+|207900305|1|10|41|1|0|1|70|0|180|0|0|2|2|3|2160|3|0|99|||
+|208000101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|2160|3|0|1|Physical damage in front.||
+|208000102|1|35|1|0|0|99|56|99|1|0|0|0|2|3|0|24|0|1|Applies mark to parent.||
+|208000201|1|17|5|0|0|100|0|0|1|0|0|0|0|1|0|7|0|1|When receiving a critical attack||
+|208000202|1|35|1|0|0|99|56|99|-1|0|0|0|2|3|0|24|0|1|Applies mark to parent.||
+|208000501|1|17|4|0|0|100|0|0|0|0|0|0|2|3|0|7|0|1|Triggers own death.||
+|208000502|1|24|1|0|0|0|1|0|0|0|0|0|2|3|0|7|0|1|Revives self.||
+|208000503|1|2|7|0|0|-300|0|0|0|0|0|0|2|3|0|7|0|1|Changes coordinates.||
+|208000504|1|3|3|0|0|200|0|1000|0|0|0|0|1|2|2160|3|0|99|Small knockback.||
+|208300101|1|4|2|0|0|1|7.5|7.5|1|0|0|0|2|2|2160|33|0|1|||
+|208300201|1|16|1|0|0|100|0|0|0|0|0|0|2|2|2160|33|0|1|||
+|208300301|1|16|1|0|0|200|0|0|0|0|0|0|2|2|2160|33|0|1|||
+|208300401|2|16|1|0|0|1|1|0|0|0|0|0|2|2|2160|33|0|1|||
+|208400101|1|1|1|0|0|0|1|1|0|0|0|0|1|1|450|16|0|1|||
+|208400102|1|16|2|0|0|75|0|0|0|0|0|0|1|1|450|16|0|1|||
+|208500101|1|1|1|0|0|0|1|1|0|0|0|0|1|1|550|2|0|1|||
+|208500102|1|10|21|1|0|1|70|0|10|0|0|0|1|1|550|2|0|1|||
+|208600101|1|17|3|0|0|100|0|1|0|0|0|0|2|1|0|7|0|1|Triggers when HP is at 1% or below.||
+|208600102|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|208600201|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|At start of battle, applies Sturdy. Triggers when in Stealth and damage-taking actions have ended. On activation, eliminates self.||
+|208600202|1|28|720|0|208600203|1|2|208602|0|0|0|0|2|2|3000|3|0|99|If C exists, does nothing. If no C, deals damage to boss.||
+|208600203|1|46|1|1|1|1.4|0|0|0|0|0|0|2|2|3000|24|0|1|{0} physical damage to boss.||
+|208600204|1|10|11|1|1|2|35|0|20|0|0|0|2|2|3000|24|0|1|{0} attack debuff to boss.||
+|208601101|1|17|3|0|0|100|0|1|0|0|0|0|2|1|0|7|0|1|Triggers when HP is at 1% or below.||
+|208601102|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|208601201|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|At start of battle, applies Sturdy. Triggers when in Stealth and damage-taking actions have ended. On activation, eliminates self.||
+|208601202|1|28|720|0|208601203|1|2|208602|0|0|0|0|2|2|3000|3|0|99|If C exists, does nothing. If no C, deals damage to boss.||
+|208601203|1|46|1|1|1|2|0|0|0|0|0|0|2|2|3000|24|0|1|{0} physical damage to boss.||
+|208601204|1|10|11|1|1|2|35|0|20|0|0|0|2|2|3000|24|0|1|||
+|208602101|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|At start of battle, applies Sturdy. Triggers when in Stealth and damage-taking actions have ended. On activation, removes self from battle.||
+|208602102|1|46|1|1|0|1.4|0.411|0|0|0|0|0|1|3|3000|1|0|99|Large damage to enemy.||
+|208602301|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|208602302|1|30|1|0|0|0|0|0|0|0|0|0|2|2|0|3|1|1|Eliminates Bit A.||
+|208602303|1|30|1|0|0|0|0|0|0|0|0|0|2|2|0|3|2|1|Eliminates Bit B.||
+|208603101|1|17|3|0|0|100|0|1|0|0|0|0|2|1|0|7|0|1|Triggers when HP is at 1% or below.||
+|208603102|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|208603201|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|At start of battle, applies Sturdy. Triggers when in Stealth and damage-taking actions have ended. On activation, eliminates self.||
+|208603202|1|28|720|0|208603203|1|2|208605|0|0|0|0|2|2|3000|3|0|99|If C exists, does nothing. If no C, deals damage to boss.||
+|208603203|1|46|1|1|1|1.4|0|0|0|0|0|0|2|2|3000|24|0|1|{0} physical damage to boss.||
+|208603204|1|10|11|1|1|2|35|0|20|0|0|0|2|2|3000|24|0|1|{0} attack debuff to boss.||
+|208604101|1|17|3|0|0|100|0|1|0|0|0|0|2|1|0|7|0|1|Triggers when HP is at 1% or below.||
+|208604102|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|208604201|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|At start of battle, applies Sturdy. Triggers when in Stealth and damage-taking actions have ended. On activation, eliminates self.||
+|208604202|1|28|720|0|208604203|1|2|208605|0|0|0|0|2|2|3000|3|0|99|If C exists, does nothing. If no C, deals damage to boss.||
+|208604203|1|46|1|1|1|2|0|0|0|0|0|0|2|2|3000|24|0|1|{0} physical damage to boss.||
+|208604204|1|10|11|1|1|2|35|0|20|0|0|0|2|2|3000|24|0|1|||
+|208605101|1|17|8|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|At start of battle, applies Sturdy. Triggers when in Stealth and damage-taking actions have ended. On activation, removes self from battle.||
+|208605102|1|46|1|1|0|1.4|0.411|0|0|0|0|0|1|3|3000|1|0|99|Large damage to enemy.||
+|208605301|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|208605302|1|30|1|0|0|0|0|0|0|0|0|0|2|2|0|3|1|1|Eliminates Bit A.||
+|208605303|1|30|1|0|0|0|0|0|0|0|0|0|2|2|0|3|2|1|Eliminates Bit B.||
+|208800101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|2160|3|0|1|Physical damage in front.||
+|208800102|1|8|2|0|0|1.25|0|90|0|0|0|0|2|3|0|7|0|1|10% haste to self.||
+|208900101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|3000|3|1|1|Physical damage in front.||
+|208900102|1|8|1|0|0|0.5|0|6|0|0|0|0|1|3|-1|1|0|1|Slow 50% to enemy/ies||
+|208901101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|3000|3|0|1|Physical damage in front.||
+|208901102|1|8|1|0|0|0.5|0|6|0|0|0|0|1|3|-1|1|0|1|Slow 50% to enemy/ies||
+|209000101|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|209000201|1|1|2|0|0|25|38|1.8|0|0|0|0|1|3|-1|3|0|99|Attack to all player||
+|209000202|1|23|940|209000203|0|1|2|0|0|0|0|0|1|3|-1|3|0|99|Checks target status.||
+|209000203|1|3|3|0|0|300|0|500|0|0|0|1|1|3|-1|3|0|99|Knockback||
+|209000204|1|28|710|209000205|209000207|1|2|0|0|0|0|0|2|3|-1|24|0|1|Water current split||
+|209000205|1|46|1|2|1|1|0|0|0|0|0|0|2|3|-1|24|0|1|Fixed magic damage to summoner||
+|209000206|1|16|2|0|0|180|0|0|0|0|0|0|2|3|-1|24|0|1|Reduces TP of summoner||
+|209000207|1|10|30|1|0|1|1|25|90|0|0|0|2|3|-1|24|0|1|Mag. attack buff to summoner||
+|209001101|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|Places Stealth effect on self.||
+|209001201|1|1|2|0|0|25|38|1.8|0|0|0|0|1|3|-1|3|0|99|Attack to all player||
+|209001202|1|23|940|209001203|0|1|2|0|0|0|0|0|1|3|-1|3|0|99|Checks target status.||
+|209001203|1|3|3|0|0|300|0|500|0|0|0|1|1|3|-1|3|0|99|Knockback||
+|209001204|1|28|710|209001205|209001207|1|2|0|0|0|0|0|2|3|-1|24|0|1|Water current split||
+|209001205|1|46|1|2|1|1|0|0|0|0|0|0|2|3|-1|24|0|1|Fixed magic damage to summoner||
+|209001206|1|16|2|0|0|180|0|0|0|0|0|0|2|3|-1|24|0|1|Reduces TP of summoner||
+|209001207|1|10|30|1|0|1|1|25|90|0|0|0|2|3|-1|24|0|1|Mag. attack buff to summoner||
+|209100101|1|1|1|0|0|0|0|1|0|0|0|0|1|1|300|1|0|1|Damage||
+|209100102|1|3|1|0|0|140|0|1050|450|0|0|0|1|1|300|1|0|1|Knockback (vertical)||
+|209100103|1|3|3|0|0|270|0|525|0|0|0|0|1|1|300|1|0|1|Knockback (horizontal)||
+|209200101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|-1|3|0|99|||
+|209200102|1|16|2|0|0|0|0|0|0|0|0|0|1|1|-1|3|0|99|||
+|209200201|1|16|1|0|0|0|1|0|0|0|0|0|2|3|-1|24|0|1|||
+|209200301|1|17|3|0|0|100|0|0|0|0|0|0|2|3|0|7|0|1|||
+|209200302|1|10|10|1|0|1|0|15|90|0|0|0|1|3|-1|3|0|99|||
+|209200303|1|10|30|1|0|1|0|15|90|0|0|0|1|3|-1|3|0|99|||
+|209200304|1|30|1|0|0|0|0|0|0|0|0|0|2|2|0|7|0|1|||
+|209201101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|-1|3|0|99|||
+|209201102|1|16|2|0|0|0|0|0|0|0|0|0|1|1|-1|3|0|99|||
+|209201201|1|16|1|0|0|0|1.5|0|0|0|0|0|2|3|-1|24|0|1|||
+|209201301|1|17|3|0|0|100|0|0|0|0|0|0|2|3|0|7|0|1|||
+|209201302|1|10|10|1|0|1|0|15|90|0|0|0|1|3|-1|3|0|99|||
+|209201303|1|10|30|1|0|1|0|15|90|0|0|0|1|3|-1|3|0|99|||
+|209201304|1|30|1|0|0|0|0|0|0|0|0|0|2|2|0|7|0|1|||
+|209202101|1|1|1|0|0|1|1|1|0|0|0|0|1|1|-1|3|0|99|||
+|209202102|1|16|2|0|0|0|0|0|0|0|0|0|1|1|-1|3|0|99|||
+|209202201|1|16|1|0|0|0|2.5|0|0|0|0|0|2|3|-1|24|0|1|||
+|209202301|1|17|3|0|0|100|0|0|0|0|0|0|2|3|0|7|0|1|||
+|209202302|1|10|10|1|0|1|0|15|90|0|0|0|1|3|-1|3|0|99|||
+|209202303|1|10|30|1|0|1|0|15|90|0|0|0|1|3|-1|3|0|99|||
+|209202304|1|30|1|0|0|0|0|0|0|0|0|0|2|2|0|7|0|1|||
+|209300101|1|1|2|0|0|50|1|1|0|0|0|0|1|1|250|3|0|99|Area attack around frontmost enemy (Kyukon-chan self-destruct: HARD)||
+|209300102|1|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|209300201|1|2|5|209300202|0|800|800|0|0|0|0|0|1|1|2160|4|0|1|||
+|209300202|1|1|2|0|0|50|1|1|0|0|0|0|1|1|250|3|0|99|||
+|209300203|1|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|209301101|1|1|2|0|0|100|3|2|0|0|0|0|1|1|500|3|0|2|Area attack around frontmost enemy (Kyukon-chan self-destruct: VH)||
+|209301102|1|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|209302101|1|1|2|0|0|200|5|1.5|0|0|0|0|1|1|600|3|0|2|Area attack around frontmost enemy (Kyukon-chan self-destruct: SP1)||
+|209302102|1|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|209303101|1|1|2|0|0|200|5|1.5|0|0|0|0|1|1|600|3|0|2|Area attack around frontmost enemy (Kyukon-chan self-destruct: SP1)||
+|209303102|1|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|209304101|1|1|2|0|0|200|5|1.5|0|0|0|0|1|1|600|3|0|2|Area attack around frontmost enemy (Kyukon-chan self-destruct: SP1)||
+|209304102|1|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|209601101|1|1|1|0|0|15|1.5|1|0|0|0|0|1|1|2160|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|209601201|1|1|1|0|1|25|2|1.2|0|0|0|0|1|1|2160|3|0|1|Deals {0} physical damage to enemies in range.|Physical damage + {0}|
+|209700101|1|17|2|0|0|100|0|0|0|0|0|0|0|0|0|7|0|1|||
+|209700102|1|28|66|209700103|209700104|0|1|0|0|0|0|0|2|1|0|7|0|1|||
+|209700103|1|28|50|209700105|209700106|2|3|0|0|0|0|0|2|1|0|7|0|1|||
+|209700104|1|10|21|0|0|1|1|10|15|0|0|0|2|1|2160|3|1|1|||
+|209700105|1|10|21|0|0|1|1|10|15|0|0|0|2|1|2160|3|1|1|||
+|209700106|1|10|21|0|0|1|1|10|15|0|0|0|2|1|2160|3|1|1|||
+|209700107|1|10|41|0|0|1|1|10.5|15|0|0|0|2|1|2160|3|1|1|||
+|209703101|1|17|2|0|0|100|0|0|0|0|0|0|0|0|0|7|0|1|||
+|209703102|1|28|66|209703103|209703104|0|1|0|0|0|0|0|2|1|0|7|0|1|||
+|209703103|1|28|50|209703105|209703106|2|3|0|0|0|0|0|2|1|0|7|0|1|||
+|209703104|1|10|21|0|0|1|1|10|6|0|0|0|2|1|2160|3|1|1|||
+|209703105|1|10|21|0|0|1|1|10|6|0|0|0|2|1|2160|3|1|1|||
+|209703106|1|10|21|0|0|1|1|10|6|0|0|0|2|1|2160|3|1|1|||
+|209703107|1|10|41|0|0|1|1|10.5|6|0|0|0|2|1|2160|3|1|1|||
+|209800101|1|1|1|0|0|50|50|4|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|209800102|1|8|7|0|0|0|0|2|0|0|0|0|1|1|0|1|0|1|Renders an enemy immobile for a set period of time.|Stun success rate + 1|
+|209800201|1|1|1|0|0|10|10|0.8|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|209800202|1|3|3|0|0|200|0|500|0|0|0|0|1|1|0|1|0|1|||
+|209800301|1|1|1|0|0|15|15|1.2|0|0|0|0|1|1|-1|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|209800302|1|10|10|1|0|1|5.5|5.5|12|0|0|1|2|1|0|7|0|1|Boosts own physical attack by {0}.|Physical attack + {0}|
+|300100101|1|1|1|0|0|17|17|3|0.0045|0|0|0|1|3|3000|3|0|99|||
+|300100102|1|9|2|0|0|4|8|7|0|0|0|0|1|3|3000|3|0|99|||
+|300100201|1|1|1|0|0|10|30|5|0.005|0|0|0|1|1|3000|16|0|1|||
+|300100202|1|3|3|0|0|2160|0|3000|0|0|0|0|1|1|0|16|0|1|||
+|300100203|1|8|7|0|0|0|0|3|0|0|0|0|1|1|0|16|0|1|||
+|300100301|1|1|2|0|0|16|16|1.1|0.007|0|0|0|1|3|3000|3|0|3|||
+|300100302|1|8|3|0|0|0|0|3|0|0|0|0|2|1|0|1|0|0|||
+|300100401|1|1|1|0|0|100|0|1|0.05|0|0|0|1|1|3000|3|0|1|||
+|300100501|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|300100502|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|300100503|2|22|2|3001001|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|300100601|2|22|2|3001001|0|30|0|0|0|0|0|0|2|1|0|7|0|1|||
+|300101101|1|1|1|0|0|17|17|3|0.0045|0|0|0|1|3|3000|3|0|99|||
+|300101102|1|9|2|0|0|4|8|7|0|0|0|0|1|3|3000|3|0|99|||
+|300101201|1|1|1|0|0|10|30|5|0.005|0|0|0|1|1|3000|16|0|1|||
+|300101202|1|3|3|0|0|2160|0|3000|0|0|0|0|1|1|0|16|0|1|||
+|300101203|1|8|7|0|0|0|0|3|0|0|0|0|1|1|0|16|0|1|||
+|300101301|1|1|2|0|0|16|16|1.1|0.007|0|0|0|1|3|3000|3|0|3|||
+|300101302|1|8|3|0|0|0|0|3|0|0|0|0|2|1|0|1|0|0|||
+|300101401|1|10|10|1|0|2|60|0|16|0|0|0|2|3|3000|7|0|0|||
+|300101402|1|10|30|1|0|2|500|0|16|0|0|0|2|3|3000|7|0|0|||
+|300101403|1|1|1|0|0|160|160|1|0.005|0|0|0|1|1|3000|3|0|1|||
+|300101404|1|1|1|0|0|160|160|1|0.005|0|0|0|1|1|3000|3|1|1|||
+|300101405|1|10|21|1|0|1|50|0|16|0|0|0|2|3|3000|7|0|0|||
+|300101406|1|10|41|1|0|1|100|0|16|0|0|0|2|3|3000|7|0|0|||
+|300101407|1|16|2|0|0|150|0|0|0|0|0|0|2|3|3000|7|0|0|||
+|300101501|1|1|1|0|0|100|0|1|0.05|0|0|0|1|1|3000|3|0|1|||
+|300101601|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|300101602|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|300102101|1|1|1|0|0|17|17|3|0.0045|0|0|0|1|3|3000|3|0|99|||
+|300102102|1|9|2|0|0|4|8|7|0|0|0|0|1|3|3000|3|0|99|||
+|300102201|1|1|1|0|0|10|30|5|0.005|0|0|0|1|1|3000|16|0|1|||
+|300102202|1|3|3|0|0|2160|0|3000|0|0|0|0|1|1|0|16|0|1|||
+|300102203|1|8|7|0|0|0|0|3|0|0|0|0|1|1|0|16|0|1|||
+|300102301|1|1|2|0|0|16|16|1.1|0.007|0|0|0|1|3|3000|3|0|3|||
+|300102302|1|8|3|0|0|0|0|3|0|0|0|0|2|1|0|1|0|0|||
+|300102401|1|10|10|1|0|2|60|0|16|0|0|0|2|3|3000|7|0|0|||
+|300102402|1|10|30|1|0|2|500|0|16|0|0|0|2|3|3000|7|0|0|||
+|300102403|1|1|1|0|0|160|160|1|0.005|0|0|0|1|1|3000|3|0|1|||
+|300102404|1|1|1|0|0|160|160|1|0.005|0|0|0|1|1|3000|3|1|1|||
+|300102405|1|10|21|1|0|1|50|0|16|0|0|0|2|3|3000|7|0|0|||
+|300102406|1|10|41|1|0|1|100|0|16|0|0|0|2|3|3000|7|0|0|||
+|300102407|1|16|2|0|0|150|0|0|0|0|0|0|2|3|3000|7|0|0|||
+|300102501|1|1|1|0|0|100|0|1|0.05|0|0|0|1|1|3000|3|0|1|||
+|300102601|1|10|11|1|1|2|100|0|12|0|0|0|1|3|3000|3|0|99|||
+|300102602|1|10|31|1|1|2|100|0|12|0|0|0|1|3|3000|3|0|99|||
+|300102603|1|10|10|1|1|1|22000|0|12|0|0|0|1|3|3000|3|0|99|||
+|300102604|1|10|30|1|1|1|30000|0|12|0|0|0|1|3|3000|3|0|99|||
+|300102605|1|10|11|1|1|2|100|0|12|0|0|0|2|3|3000|7|0|1|||
+|300102606|1|10|10|1|1|1|30000|0|12|0|0|0|2|3|3000|7|0|1|||
+|300102607|1|49|1|0|0|100|0|0|0|0|0|0|1|3|3000|3|0|99|||
+|300102701|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|300102702|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|300200101|1|1|1|0|0|5|7|1.2|0|0|0|0|1|1|2160|3|0|99|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|300200102|1|34|1|0|0|2|75|0|3|0|0|0|1|3|2160|3|0|99|Adds {0} damage per attack.|Extra damage + {0}|
+|300200201|1|7|1|0|0|0|0|0|0|0|0|0|1|2|2160|3|0|1|||
+|300200202|1|1|1|0|0|20|1.3|0.4|0|0|0|0|1|2|100|1|0|99|||
+|300200203|1|9|1|0|0|80|8.5|5|0|0|0|0|1|2|100|1|0|99|||
+|300200301|1|49|2|0|0|100|0|0|0|0|0|0|2|3|-1|7|0|1|||
+|300200302|1|10|20|1|0|2|35|0|7|0|0|1|2|3|-1|7|0|1|||
+|300200401|2|1|1|0|0|0|0|1.2|0|0|0|0|1|1|250|3|0|99|||
+|300200501|2|17|3|0|0|100|0|50|0|0|0|0|2|1|0|7|0|1|||
+|300200502|2|22|1|30020002|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|300200503|2|22|2|3002001|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|300200601|2|22|2|3002001|0|30|0|0|0|0|0|0|2|1|0|7|0|1|||
+|300201101|1|1|1|0|0|5|7|0.3|0.007|0|0|0|1|3|-1|3|0|99|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|300201102|1|34|1|0|0|2|75|0|3|0|0|0|1|3|-1|3|0|99|Adds {0} damage per attack.|Extra damage + {0}|
+|300201201|1|7|1|0|0|0|0|0|0|0|0|0|1|2|2160|3|0|1|||
+|300201202|1|1|1|0|0|20|1.3|0.1|0.01|0|0|0|1|2|100|1|0|99|||
+|300201203|1|9|1|0|0|80|8.5|5|0|0|0|0|1|2|100|1|0|99|||
+|300201301|1|49|2|0|0|100|0|0|0|0|0|0|2|3|-1|7|0|1|||
+|300201302|1|10|20|1|0|2|35|0|7|0|0|1|2|3|-1|7|0|1|||
+|300201401|1|1|1|0|0|5|7|1.2|0.05|0|0|0|1|1|3000|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|300202101|1|1|1|0|0|5|7|0.3|0.007|0|0|0|1|3|-1|3|0|99|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|300202102|1|34|1|0|0|2|50|0|3|0|0|0|1|3|-1|3|0|99|Adds {0} damage per attack.|Extra damage + {0}|
+|300202201|1|7|1|0|0|0|0|0|0|0|0|0|1|2|2160|3|0|1|||
+|300202202|1|1|1|0|0|20|1.3|0.1|0.018|0|0|0|1|2|100|1|0|99|||
+|300202203|1|9|1|0|0|80|8|5|0|0|0|0|1|2|100|1|0|99|||
+|300202301|1|49|2|0|0|100|0|0|0|0|0|0|2|3|-1|7|0|1|||
+|300202302|1|10|20|1|0|2|35|0|7|0|0|1|2|3|-1|7|0|1|||
+|300202401|1|1|1|0|0|5|7|1.2|0.04|0|0|0|1|1|3000|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|300202501|2|28|703|300202502|300202503|2|1|0|0|0|0|0|2|2|3000|3|0|99|Branch based on number of summons||
+|300202502|2|15|2|401042008|1|0|-4|0|0|1|0|-500|2|1|250|7|0|1|Summons C.||
+|300202503|2|28|701|300202504|300202505|1|1|0|0|0|0|0|2|2|3000|3|0|99|Branch if only Lesathapult present||
+|300202504|2|15|2|401042006|1|0|-8|0|0|1|0|-400|2|1|250|7|0|1|Summons A.||
+|300202505|2|28|720|300202507|300202506|1|1|208600|0|0|0|0|2|2|3000|3|0|99|If A exists||
+|300202506|2|15|2|401042006|1|0|-8|0|0|1|0|-400|2|1|250|7|0|1|Summons A.||
+|300202507|2|15|2|401042007|1|0|-1|0|0|1|0|-600|2|1|250|7|0|1|Summons B.||
+|300202601|1|21|1|0|0|1|0|0|0|0|0|0|2|3|-1|18|0|99|When summoning C, protects A and B.||
+|300203101|1|1|1|0|0|5|7|1.2|0|0|0|0|1|3|-1|3|0|99|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|300203102|1|34|1|0|0|2|75|0|3|0|0|0|1|3|-1|3|0|99|Adds {0} damage per attack.|Extra damage + {0}|
+|300203201|1|7|1|0|0|0|0|0|0|0|0|0|1|2|2160|3|0|1|||
+|300203202|1|1|1|0|0|20|1.3|0.4|0|0|0|0|1|2|100|1|0|99|||
+|300203203|1|9|1|0|0|80|8.5|5|0|0|0|0|1|2|100|1|0|99|||
+|300203301|1|49|2|0|0|100|0|0|0|0|0|0|2|3|-1|7|0|1|||
+|300203302|1|10|20|1|0|2|35|0|7|0|0|1|2|3|-1|7|0|1|||
+|300203401|1|1|1|0|0|5|7|1.2|0.05|0|0|0|1|1|3000|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|300204101|1|1|1|0|0|5|7|0.3|0.007|0|0|0|1|3|-1|3|0|99|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|300204102|1|34|1|0|0|2|50|0|3|0|0|0|1|3|-1|3|0|99|Adds {0} damage per attack.|Extra damage + {0}|
+|300204201|1|7|1|0|0|0|0|0|0|0|0|0|1|2|2160|3|0|1|||
+|300204202|1|1|1|0|0|20|1.3|0.1|0.018|0|0|0|1|2|100|1|0|99|||
+|300204203|1|9|1|0|0|80|8|5|0|0|0|0|1|2|100|1|0|99|||
+|300204301|1|49|2|0|0|100|0|0|0|0|0|0|2|3|-1|7|0|1|||
+|300204302|1|10|20|1|0|2|35|0|7|0|0|1|2|3|-1|7|0|1|||
+|300204401|1|1|1|0|0|5|7|1.2|0.04|0|0|0|1|1|3000|3|0|1|Deals {0} physical damage to an enemy.|Physical damage + {0}|
+|300204501|2|28|703|300204502|300204503|2|1|0|0|0|0|0|2|2|3000|3|0|99|Branch based on number of summons||
+|300204502|2|15|2|401046008|1|0|-4|0|0|1|0|-500|2|1|250|7|0|1|Summons C.||
+|300204503|2|28|701|300204504|300204505|1|1|0|0|0|0|0|2|2|3000|3|0|99|Branch if only Lesathapult present||
+|300204504|2|15|2|401046006|1|0|-8|0|0|1|0|-400|2|1|250|7|0|1|Summons A.||
+|300204505|2|28|720|300204507|300204506|1|1|208600|0|0|0|0|2|2|3000|3|0|99|If A exists||
+|300204506|2|15|2|401046006|1|0|-8|0|0|1|0|-400|2|1|250|7|0|1|Summons A.||
+|300204507|2|15|2|401046007|1|0|-1|0|0|1|0|-600|2|1|250|7|0|1|Summons B.||
+|300204601|1|21|1|0|0|1|0|0|0|0|0|0|2|3|-1|18|0|99|When summoning C, protects A and B.||
+|300300101|1|1|2|0|0|25|25|1.7|0|0|0|0|1|2|3000|3|0|99|||
+|300300102|1|23|100|300300103|0|0|0|0|0|0|0|0|1|1|0|1|0|0|||
+|300300103|1|1|2|0|0|10|10|1|0|0|0|0|1|1|3000|1|0|0|||
+|300300201|1|1|2|0|0|6|6|0.54|0|0|0|0|1|1|540|3|0|99|||
+|300300301|1|8|5|0|0|0|0|3|0.04|0|0|0|1|1|3000|5|0|1|||
+|300300302|1|8|5|0|0|0|0|3|0.06|0|0|0|1|1|0|1|0|0|||
+|300300401|1|1|2|0|0|0|0|0.1|0.01|0|0|0|1|3|3000|3|0|1|||
+|300300501|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|300300502|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|300301101|1|1|2|0|0|30|30|1.9|0|0|0|0|1|2|3000|3|0|99|||
+|300301102|1|23|100|300301103|0|0|0|0|0|0|0|0|1|1|0|1|0|0|||
+|300301103|1|1|2|0|0|40|40|1.8|0|0|0|0|1|1|3000|1|0|0|||
+|300301201|1|1|2|0|0|20.4|20.4|1.62|0|0|0|0|1|1|540|3|0|99|||
+|300301301|1|8|5|0|0|0|0|3|0.04|0|0|0|1|1|3000|5|0|1|||
+|300301302|1|8|5|0|0|0|0|3|0.06|0|0|0|1|1|0|1|0|0|||
+|300301401|1|1|2|0|0|13.5|13.5|0.3|0|0|0|0|1|3|3000|3|0|99|||
+|300301402|1|23|970|300301403|0|0|0|0|0|0|0|0|1|3|-1|3|0|99|||
+|300301403|1|8|5|0|0|0|0|4|0|0|0|0|1|3|-1|1|0|0|||
+|300301501|1|1|2|0|0|0|0|0.1|0.01|0|0|0|1|3|3000|3|0|1|||
+|300301601|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|300301602|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|300302101|1|1|2|0|0|30|30|1.9|0|0|0|0|1|2|3000|3|0|99|||
+|300302102|1|23|100|300302103|0|0|0|0|0|0|0|0|1|1|0|1|0|0|||
+|300302103|1|1|2|0|0|40|40|1.8|0.0005|0|0|0|1|1|3000|1|0|0|||
+|300302104|1|16|2|0|0|100|1|0|0|0|0|0|1|1|3000|1|0|0|||
+|300302201|1|1|2|0|0|20.4|20.4|1|0|0|0|0|1|1|540|3|0|99|||
+|300302301|1|8|5|0|0|0|0|3|0.03|0|0|0|1|1|3000|5|0|1|||
+|300302401|1|1|2|0|0|13.5|13.5|0.3|0|0|0|0|1|3|3000|3|0|99|||
+|300302402|1|23|970|300302403|0|0|0|0|0|0|0|0|1|3|-1|3|0|99|||
+|300302403|1|8|5|0|0|0|0|4|0|0|0|0|1|3|-1|1|0|0|||
+|300302501|1|8|5|0|0|0|0|8|0|0|0|0|1|3|3000|16|0|2|||
+|300302502|1|10|21|1|0|1|0|0.5|8|0|0|0|2|3|3000|7|0|1|||
+|300302503|1|10|41|1|0|1|0|0.5|8|0|0|0|2|3|3000|7|0|1|||
+|300302601|1|1|2|0|0|0|0|0.1|0.01|0|0|0|1|3|3000|3|0|1|||
+|300302701|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|300302702|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|300400101|1|1|2|0|0|20|2.3|1.6|0|0|0|0|1|1|3000|3|0|99|||
+|300400102|1|10|11|1|0|2|70|0|12|0|0|0|1|1|3000|20|0|99|||
+|300400103|1|10|41|1|0|2|70|0|12|0|0|0|1|1|3000|21|0|99|||
+|300400201|1|1|2|0|0|8|0.8|0.8|0|0|0|0|1|1|3000|3|0|2|||
+|300400202|1|13|0|0|0|11|0|100|0|0|0|0|1|1|3000|1|0|2|||
+|300400203|1|1|2|0|0|15|1.6|1.5|0|0|0|0|1|1|3000|3|0|99|||
+|300400301|1|1|2|0|0|30|2.6|4|0|0|0|0|1|1|2160|14|0|1|||
+|300400302|1|16|2|0|0|300|0|0|0|0|0|0|1|1|2160|14|0|1|||
+|300400401|2|7|1|0|0|0|0|0|0|0|0|0|1|1|0|10|0|1|||
+|300400402|2|1|1|0|0|0|0|1.2|0|0|0|0|1|1|0|1|0|0|||
+|300400501|2|1|1|0|0|0|0|1.2|0|0|0|0|1|1|0|1|0|0|||
+|300400502|2|22|1|30040002|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|300400503|2|22|2|3004001|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|300400601|2|1|2|0|0|50|2|0.5|0.2|0|0|0|1|1|3000|3|0|99|||
+|300401101|1|1|2|0|0|20|2.3|1|0.008|0|0|0|1|1|3000|3|0|99|||
+|300401102|1|10|11|1|0|2|1|0.29|12|0|0|0|1|1|3000|20|0|99|||
+|300401103|1|10|31|1|0|2|1|0.29|12|0|0|0|1|1|3000|21|0|99|||
+|300401201|1|1|2|0|0|8|0.8|0.8|0.03|0|0|0|1|1|3000|3|0|1|||
+|300401202|1|13|0|0|0|1|0.06|100|0|0|0|0|1|1|3000|1|0|1|||
+|300401203|1|1|2|0|0|5|2|1|0.005|0|0|0|1|1|3000|3|0|99|||
+|300401301|1|1|2|0|0|30|2.6|4|0|0|0|0|1|1|2160|14|0|1|||
+|300401302|1|16|2|0|0|300|0|0|0|0|0|0|1|1|2160|14|0|1|||
+|300401401|1|1|2|0|0|10|0|0.1|0.018|0|0|0|1|2|3000|3|0|1|||
+|300402101|1|1|2|0|0|20|2.3|1|0.008|0|0|0|1|1|3000|3|0|99|||
+|300402102|1|10|11|1|0|2|1|0.29|12|0|0|0|1|1|3000|20|0|99|||
+|300402103|1|10|31|1|0|2|1|0.29|12|0|0|0|1|1|3000|21|0|99|||
+|300402201|1|1|2|0|0|8|0.8|0.8|0.03|0|0|0|1|1|3000|3|0|1|||
+|300402202|1|13|0|0|0|1|0.12|100|0|0|0|0|1|1|3000|1|0|1|||
+|300402203|1|1|2|0|0|5|2|1|0.005|0|0|0|1|1|3000|3|0|99|||
+|300402301|1|1|2|0|0|30|1.3|3|0|0|0|0|1|1|2160|14|0|1|||
+|300402302|1|16|2|0|0|300|0|0|0|0|0|0|1|1|2160|14|0|1|||
+|300402401|1|1|2|0|0|10|0|0.1|0.018|0|0|0|1|2|3000|3|0|1|||
+|300402501|1|28|599|300402504|300402502|1|2|0|0|0|0|0|2|3|-1|7|0|1|||
+|300402502|1|1|2|0|0|1|0.1|0.1|0.02|0|0|0|1|3|-1|3|0|99|||
+|300402503|1|13|0|0|0|1|0.04|100|0|0|0|0|1|3|-1|3|0|99|||
+|300402504|1|1|2|0|0|1|0.1|0.1|0.024|0|0|0|2|3|-1|7|0|1|||
+|300402505|1|13|0|0|0|1|0.023|100|0|0|0|0|2|3|-1|7|0|1|||
+|300403101|1|1|2|0|0|20|2.3|1|0.008|0|0|0|1|1|3000|3|0|99|||
+|300403102|1|10|11|1|0|2|1|0.29|12|0|0|0|1|1|3000|20|0|99|||
+|300403103|1|10|31|1|0|2|1|0.29|12|0|0|0|1|1|3000|21|0|99|||
+|300403201|1|1|2|0|0|8|0.8|0.8|0.015|0|0|0|1|1|3000|3|0|1|||
+|300403202|1|13|0|0|0|1|0.12|100|0|0|0|0|1|1|3000|1|0|1|||
+|300403203|1|1|2|0|0|5|2|1|0.005|0|0|0|1|1|3000|3|0|99|||
+|300403301|1|1|2|0|0|30|2.6|4|0|0|0|0|1|1|2160|14|0|1|||
+|300403302|1|16|2|0|0|300|0|0|0|0|0|0|1|1|2160|14|0|1|||
+|300403401|1|1|2|0|0|10|0|0.1|0.018|0|0|0|1|2|3000|3|0|1|||
+|300403501|1|28|599|300403504|300403502|1|2|0|0|0|0|0|2|3|-1|7|0|1|||
+|300403502|1|1|2|0|0|1|0.1|0.1|0.02|0|0|0|1|3|-1|3|0|99|||
+|300403503|1|13|0|0|0|1|0.04|100|0|0|0|0|1|3|-1|3|0|99|||
+|300403504|1|1|2|0|0|1|0.1|0.1|0.024|0|0|0|2|3|-1|7|0|1|||
+|300403505|1|13|0|0|0|1|0.023|100|0|0|0|0|2|3|-1|7|0|1|||
+|300500101|1|1|1|0|0|30|30|2.4|0|0|0|0|1|1|3000|2|0|1|||
+|300500201|1|7|1|0|0|0|0|0|0|0|0|0|1|2|3000|8|0|1|||
+|300500202|1|1|1|0|0|3|3|0.24|0|0|0|0|1|2|120|1|0|99|||
+|300500203|1|12|80|0|0|5|0.5|60|0.1|0|0|0|1|1|120|1|0|99|||
+|300600101|1|1|1|0|0|13.5|13.5|1.08|0|0|0|0|1|1|3000|3|0|2|||
+|300600201|1|9|1|0|0|2.25|2.25|4|0|0|0|0|1|2|3000|3|0|3|||
+|300600202|1|10|21|1|0|1|0.36|0.36|8|0|0|0|1|2|3000|3|0|3|||
+|300601101|1|1|1|0|0|13.5|13.5|2.8|0|0|0|0|1|1|3000|3|0|2|||
+|300601102|1|8|5|0|0|0|0|2|0|0|0|0|1|1|3000|3|0|2|||
+|300601201|1|9|1|0|0|3|3|4|0|0|0|0|1|2|3000|3|0|3|||
+|300601202|1|10|21|1|0|1|0.36|0.36|8|0|0|0|1|2|3000|3|0|3|||
+|300602101|1|1|1|0|0|13.5|13.5|2.8|0|0|0|0|1|1|3000|3|0|2|||
+|300602102|1|8|5|0|0|0|0|4|0|0|0|0|1|1|3000|3|0|2|||
+|300602201|1|9|1|0|0|3|5|4|0|0|0|0|1|2|3000|3|0|3|||
+|300602202|1|10|21|1|0|1|0.36|0.36|8|0|0|0|1|2|3000|3|0|3|||
+|300603101|1|1|1|0|0|13.5|13.5|2.8|0|0|0|0|1|1|3000|3|0|2|When summoning C, protects A and B.||
+|300603102|1|8|5|0|0|0|0|4|0|0|0|0|1|1|3000|3|0|2|||
+|300603201|1|9|1|0|0|3|5|4|0|0|0|0|1|2|3000|3|0|3|||
+|300603202|1|10|21|1|0|1|0.36|0.36|8|0|0|0|1|2|3000|3|0|3|||
+|300700101|1|1|1|0|0|9|9|0.81|0|0|0|0|1|1|3000|8|0|3|||
+|300700102|1|10|20|1|0|1|11|11|6|0.05|0|0|2|3|3000|1|0|3|||
+|300700201|1|10|10|1|0|1|11|11|6|0.05|0|0|2|3|3000|3|0|99|||
+|300701101|1|1|1|0|0|13.5|13.5|2.8|0|0|0|0|1|1|3000|3|0|3|||
+|300701102|1|8|7|0|0|0|0|2|0|0|0|0|1|3|3000|3|0|3|||
+|300701201|1|10|21|1|0|1|0.4|1.8|6|0.05|0|0|1|3|3000|3|0|2|||
+|300800101|1|1|1|0|0|6.75|6.75|0.54|0|3|0|0|1|1|3000|3|0|99|||
+|300800102|1|3|3|0|0|-150|0|250|0|0|0|0|1|3|3000|3|0|99|||
+|300800201|1|1|1|0|0|4.5|4.5|0.36|0|3|0|0|1|1|3000|3|0|3|||
+|300800202|1|10|21|1|0|1|0.48|0.48|8|0|0|0|1|2|3000|3|0|3|||
+|300800203|1|10|11|1|0|11|11|0|6|0.05|0|0|2|3|3000|3|0|3|||
+|300801101|1|1|2|0|0|0.5|0.8|0.01|0.007|3|0|0|1|1|3000|3|0|3|||
+|300801102|1|3|3|0|0|800|0|3000|0|0|0|1|1|1|-1|3|0|3|||
+|300801103|1|8|7|0|0|0|0|1|0.015|0|0|0|1|1|0|1|0|0|||
+|300801201|1|1|2|0|0|4.5|6.5|0.43|0|3|0|0|1|1|3000|3|0|3|||
+|300801202|1|10|41|1|0|2|0.48|0.65|8|0|0|0|1|2|3000|3|0|2|||
+|300801203|1|8|1|0|0|0.6|0|1|0.015|0|0|0|1|2|3000|3|0|2|||
+|300900101|1|1|1|0|0|9|9|0.72|0|0|0|0|1|1|3000|3|0|4|||
+|300900102|1|8|3|0|0|0|0|2|0|0|0|0|2|1|3000|3|0|4|||
+|300900201|1|10|21|0|0|1|0.48|0.48|8|0|0|0|1|1|3000|3|0|3|||
+|301000101|1|1|1|0|0|9|9|0.72|0|0|0|0|1|1|3000|3|0|3|||
+|301000201|1|1|1|0|0|10.2|10.2|0.81|0|0|0|0|1|1|3000|3|0|2|||
+|301000202|1|8|4|0|0|0|0|4|0|0|0|0|1|1|3000|3|0|2|||
+|301001101|1|1|1|0|0|15|15|1.6|0|0|0|0|1|1|3000|3|0|3|||
+|301001201|1|1|1|0|0|13|13|1.3|0|0|0|0|1|1|3000|3|0|1|||
+|301001202|1|8|4|0|0|0|0|0|0.01|0|0|0|1|1|3000|3|0|1|||
+|301001301|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|301001302|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|301002101|1|1|1|0|0|15|15|1.6|0|0|0|0|1|1|3000|3|0|3|||
+|301002201|1|1|1|0|0|13|13|1.3|0|0|0|0|1|1|3000|3|0|2|||
+|301002202|1|8|4|0|0|0|0|0|0.03|0|0|0|1|1|3000|3|0|2|||
+|301002301|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|301002302|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|301100101|1|1|1|0|0|27|27|2.16|0|0|0|0|1|1|3000|3|0|4|||
+|301100201|1|1|1|0|0|15|15|1.2|0|3|0|0|1|1|3000|3|0|1|||
+|301100202|1|10|11|1|0|2|80|0|4|0.05|0|0|1|2|3000|3|0|1|||
+|301100203|1|10|10|1|0|2|120|0|4|0.05|0|0|2|3|3000|7|0|1|||
+|301101101|1|1|1|0|0|13.5|13.5|3.2|0.001|0|0|0|1|1|3000|3|0|3|||
+|301101102|1|8|7|0|0|0|0|3|0|0|0|0|1|1|3000|3|0|3|||
+|301101201|1|7|1|0|0|10|0|0|0|0|0|0|1|2|3000|3|0|1|||
+|301101202|1|1|1|0|0|10|10|2|0|3|0|0|1|1|200|3|0|3|||
+|301101203|1|10|11|1|0|2|0|0.4|8|0|0|0|1|2|3000|3|0|0|||
+|301101204|1|10|31|1|0|2|0|0.3|8|0|0|0|1|2|3000|7|0|0|||
+|301101301|1|1|1|0|0|1|13.5|2|0.001|0|0|0|1|1|3000|3|0|1|||
+|301101401|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|301101402|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|301102101|1|1|1|0|0|9|9|2.5|0.0007|0|0|0|1|1|3000|3|0|3|||
+|301102102|1|8|7|0|0|0|0|4|0|0|0|0|1|1|3000|3|0|3|||
+|301102201|1|7|1|0|0|0|0|0|0|0|0|0|1|2|3000|3|0|1|||
+|301102202|1|1|1|0|0|5|5|1.5|0|3|0|0|1|1|200|3|0|3|||
+|301102203|1|10|11|1|0|2|90|0|12|0|0|0|1|2|3000|3|0|0|||
+|301102204|1|10|31|1|0|2|60|0|12|0|0|0|1|2|3000|7|0|0|||
+|301102301|1|1|1|0|0|1|13.5|2|0.001|0|0|0|1|1|3000|3|0|1|||
+|301102401|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|301102402|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|301200101|1|1|1|0|0|13.5|13.5|1.08|0|0|0|0|1|1|3000|3|0|4|||
+|301200102|1|16|2|0|0|300|0|0|0|0|0|0|1|1|3000|3|0|4|||
+|301200201|1|15|2|101050603|1|0|0|1|0|1|2|0|2|1|-1|7|0|1|||
+|301201101|1|49|2|0|0|100|0|0|0|0|0|0|2|3|2160|7|0|99|Cancels debuffs.||
+|301201102|1|10|20|1|0|2|100|0.5|6|0|0|2|2|3|0|7|0|1|Monumental boost fo own phys. def.||
+|301201103|1|10|40|1|0|2|100|0.5|6|0|0|2|2|3|0|7|0|1|Monumental boost fo own mag. def.||
+|301201104|1|10|20|1|0|2|10|0.25|18|0|0|2|2|3|2160|3|1|99|Boosts phys. def. of allies other than self.||
+|301201105|1|10|40|1|0|2|10|0.25|18|0|0|2|2|3|2160|3|1|99|Boosts mag. def. of allies other than self.||
+|301201201|1|1|1|0|0|13.5|13.5|1.08|0|0|0|0|1|3|2160|3|0|99|Physical damage to all enemies.||
+|301201202|1|8|7|0|0|0|0|3|0|0|0|0|1|3|2160|1|0|0|Stuns damage target.||
+|301201301|1|1|1|0|0|20.4|20.4|1.62|0|0|0|0|1|1|450|3|0|99|Physical damage to area in front.||
+|301201302|1|16|1|0|0|300|0|0|0|0|0|0|2|3|0|7|0|1|Recovers own TP.||
+|301201303|1|10|10|1|0|2|3|0.1|18|0|0|2|2|3|2160|3|0|99|Small boost to all allies' phys. atk.||
+|301201304|1|10|30|1|0|2|3|0.1|18|0|0|2|2|3|2160|3|0|99|Small boost to all allies' phys. atk.||
+|301201401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|Trigger||
+|301201402|1|22|1|30120102|0|180|0|0|0|0|0|0|2|3|0|7|0|1|Action pattern change||
+|301201403|1|10|10|1|0|2|15|0|90|0|0|0|2|3|0|7|0|1|Boosts own phys. atk.||
+|301201404|1|8|2|0|0|1.25|0|90|0|0|0|2|2|3|0|7|0|1|Haste to self.||
+|301201501|1|17|10|0|0|100|0|0|1|0|0|0|0|0|0|0|0|0|Trigger||
+|301201502|1|8|1|0|0|0.1|0|8|0|0|0|0|2|3|0|7|0|1|Slow to self.||
+|301300101|1|1|2|0|0|1|1|1.7|0|0|0|0|1|1|2160|3|0|99|||
+|301300102|1|10|10|1|0|2|100|0|25|0|0|0|2|2|2160|3|0|1|||
+|301300103|1|10|30|1|0|2|100|0|25|0|0|0|2|2|2160|3|0|1|||
+|301300201|1|1|2|0|0|11|10|1.4|0|0|0|0|1|1|2160|4|0|2|||
+|301300301|1|16|2|0|0|40|2.2|0|0|0|0|0|1|1|2160|3|0|3|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|301300302|1|16|1|0|0|120|2.2|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|301300303|1|1|2|0|0|6|1.4|1|0|0|0|0|1|1|2160|3|0|3|||
+|301300401|1|7|1|0|0|0|0|0|0|0|0|0|1|2|3000|3|0|1|||
+|301300402|1|1|1|0|0|1|1.5|0.8|0|0|0|0|1|2|100|1|0|99|||
+|301300501|2|17|3|0|0|100|0|50|0|0|0|0|2|1|0|7|0|1|||
+|301300502|2|22|1|30130002|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|301300503|2|22|2|3013001|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|301301101|1|1|2|0|0|1|1|1.7|0|0|0|0|1|1|2160|3|0|99|||
+|301301102|1|10|10|1|0|2|100|0|25|0|0|0|2|2|2160|3|0|1|||
+|301301103|1|10|30|1|0|2|100|0|25|0|0|0|2|2|2160|3|0|1|||
+|301301201|1|1|2|0|0|11|10|1.4|0|0|0|0|1|1|2160|4|0|2|||
+|301301301|1|16|2|0|0|40|2.2|0|0|0|0|0|1|1|2160|3|0|3|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|301301302|1|16|1|0|0|120|2.2|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|301301303|1|1|2|0|0|6|1.4|1|0|0|0|0|1|1|2160|3|0|3|||
+|301301401|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|301301402|1|10|21|2|0|1|1|1.5|20|0|0|0|2|1|0|7|0|1|||
+|301301403|1|10|41|2|0|1|1|1.5|20|0|0|0|2|1|0|7|0|1|||
+|301301501|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|301301502|1|10|31|2|0|1|1|30|20|0|0|0|2|1|0|7|0|1|||
+|301301601|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|301301602|1|10|21|2|0|1|1|0.8|20|0|0|0|2|1|0|7|0|1|||
+|301301603|1|10|41|2|0|1|1|0.8|20|0|0|0|2|1|0|7|0|1|||
+|301301701|1|1|1|0|0|2|1|1|0.04|0|0|0|1|1|3000|3|0|1|||
+|301302101|1|1|2|0|0|1|1|1.6|0.02|0|0|0|1|1|3000|3|0|99|||
+|301302102|1|10|10|1|0|1|1|6|25|0|0|0|2|2|3000|3|0|1|||
+|301302103|1|10|30|1|0|1|1|6|25|0|0|0|2|2|3000|3|0|1|||
+|301302201|1|1|2|0|0|1|1|1|0.011|0|0|0|1|1|3000|4|0|2|||
+|301302301|1|16|2|0|0|40|2.2|0|0|0|0|0|1|1|3000|3|0|3|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|301302302|1|16|1|0|0|120|2.2|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|301302303|1|1|2|0|0|2|1|1|0.0045|0|0|0|1|1|3000|3|0|3|||
+|301302401|1|1|2|0|0|2|1|1|0.01|0|0|0|1|1|3000|3|0|3|||
+|301302402|1|8|5|0|0|0|0|2.15|0|0|0|0|1|1|3000|3|0|3|||
+|301302403|1|23|710|301302404|0|0|0|0|0|0|0|0|2|3|-1|7|0|1|||
+|301302404|1|10|30|1|0|1|1|15|20|0|0|0|2|3|-1|1|0|1|||
+|301302501|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|301302502|1|10|21|2|0|1|1|1.5|20|0|0|0|2|1|0|7|0|1|||
+|301302503|1|10|41|2|0|1|1|1.5|20|0|0|0|2|1|0|7|0|1|||
+|301302601|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|301302602|1|10|31|2|0|1|1|30|20|0|0|0|2|1|0|7|0|1|||
+|301302701|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|301302702|1|10|21|2|0|1|1|0.8|20|0|0|0|2|1|0|7|0|1|||
+|301302703|1|10|41|2|0|1|1|0.8|20|0|0|0|2|1|0|7|0|1|||
+|301302801|1|1|1|0|0|2|1|1|0.1|0|0|0|1|1|3000|3|0|1|||
+|301303101|1|1|2|0|0|1|1|0.9|0|0|0|0|1|1|2160|3|0|99|||
+|301303102|1|10|10|1|0|2|100|0|25|0|0|0|2|2|2160|3|0|1|||
+|301303103|1|10|30|1|0|2|100|0|25|0|0|0|2|2|2160|3|0|1|||
+|301303201|1|1|2|0|0|3|4|0.5|0|0|0|0|1|1|2160|4|0|2|||
+|301303301|1|16|2|0|0|40|2.2|0|0|0|0|0|1|1|2160|3|0|3|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|301303302|1|16|1|0|0|120|2.2|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|301303303|1|1|2|0|0|5|1|0.7|0|0|0|0|1|1|2160|3|0|3|||
+|301303401|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|301303402|1|10|21|2|0|1|1|1.5|20|0|0|0|2|1|0|7|0|1|||
+|301303403|1|10|41|2|0|1|1|1.5|20|0|0|0|2|1|0|7|0|1|||
+|301303501|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|301303502|1|10|31|2|0|1|1|30|20|0|0|0|2|1|0|7|0|1|||
+|301303601|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|301303602|1|10|21|2|0|1|1|0.8|20|0|0|0|2|1|0|7|0|1|||
+|301303603|1|10|41|2|0|1|1|0.8|20|0|0|0|2|1|0|7|0|1|||
+|301303701|1|1|1|0|0|2|1|1|0.01|0|0|0|1|1|3000|3|0|1|||
+|301304101|1|1|2|0|0|1|1|1.6|0.01|0|0|0|1|1|3000|3|0|99|||
+|301304102|1|10|10|1|0|1|1|6|25|0|0|0|2|2|3000|3|0|1|||
+|301304103|1|10|30|1|0|1|1|6|25|0|0|0|2|2|3000|3|0|1|||
+|301304201|1|1|2|0|0|1|1|1|0.011|0|0|0|1|1|3000|4|0|2|||
+|301304301|1|16|2|0|0|40|2.2|0|0|0|0|0|1|1|3000|3|0|3|Reduces an enemy's TP by {0}.|TP damage + {0}|
+|301304302|1|16|1|0|0|120|2.2|0|0|0|0|0|2|1|0|7|0|1|Recovers own TP by {0}.|TP recovery + {0}|
+|301304303|1|1|2|0|0|2|1|1|0.0045|0|0|0|1|1|3000|3|0|3|||
+|301304401|1|1|2|0|0|2|1|1|0.01|0|0|0|1|1|3000|3|0|3|||
+|301304402|1|8|5|0|0|0|0|2.15|0|0|0|0|1|1|3000|3|0|3|||
+|301304403|1|23|710|301304404|0|0|0|0|0|0|0|0|2|3|-1|7|0|1|||
+|301304404|1|10|30|1|0|1|1|15|10|0|0|0|2|3|-1|1|0|1|||
+|301304501|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|301304502|1|10|21|2|0|1|1|1.5|20|0|0|0|2|1|0|7|0|1|||
+|301304503|1|10|41|2|0|1|1|1.5|20|0|0|0|2|1|0|7|0|1|||
+|301304601|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|301304602|1|10|31|2|0|1|1|30|20|0|0|0|2|1|0|7|0|1|||
+|301304701|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|301304702|1|10|21|2|0|1|1|0.8|20|0|0|0|2|1|0|7|0|1|||
+|301304703|1|10|41|2|0|1|1|0.8|20|0|0|0|2|1|0|7|0|1|||
+|301304801|1|1|1|0|0|2|1|1|0.02|0|0|0|1|1|3000|3|0|1|||
+|301400101|1|1|2|0|0|0.5|1.2|1.4|0|0|0|0|1|1|2160|3|0|99|||
+|301400102|1|8|8|0|0|0|0|0|0.05|0|0|0|1|2|200|3|0|99|||
+|301400201|1|1|1|0|0|0.5|0.5|0.45|0|0|0|0|1|1|2160|3|0|3|||
+|301400202|1|23|100|301400203|0|1|0|0|0|0|0|0|1|1|2160|3|0|3|||
+|301400203|1|16|2|0|0|30|4|0|0|0|0|0|1|1|2160|1|0|3|||
+|301400301|1|1|2|0|0|5|1.2|1.8|0|0|0|0|1|1|2160|14|0|1|||
+|301400302|1|9|1|0|0|440|3|5|0|0|0|0|1|1|2160|1|0|1|||
+|301400401|2|17|3|0|0|100|0|50|0|0|0|0|2|1|0|7|0|1|||
+|301400402|2|22|1|30140002|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|301400403|2|22|2|3014001|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|301400501|2|22|2|3014001|0|30|0|0|0|0|0|0|2|1|0|7|0|1|||
+|301401101|1|1|2|0|0|0.5|1.2|1.4|0.004|0|0|0|1|1|3000|3|0|99|||
+|301401102|1|8|8|0|0|0|0|0|0.05|0|0|0|1|2|225|3|0|99|||
+|301401201|1|1|1|0|0|1|1|0.45|0.002|0|0|0|1|1|1000|3|0|99|||
+|301401202|1|23|100|301401203|0|1|0|0|0|0|0|0|1|1|1000|3|0|99|||
+|301401203|1|16|2|0|0|30|8|0|0|0|0|0|1|1|1000|1|0|99|||
+|301401301|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|4|1|1|||
+|301401302|1|1|2|0|0|3|1|1|0|0|0|0|1|2|100|1|0|99|||
+|301401303|1|9|1|0|0|100|4|5|0|0|0|0|1|2|100|1|0|99|||
+|301402101|1|1|2|0|0|0.5|1.2|1.4|0.016|0|0|0|1|1|3000|3|0|99|||
+|301402102|1|8|8|0|0|0|0|21|0|0|0|0|1|2|225|3|0|99|||
+|301402201|1|1|1|0|0|1|1|0.45|0.003|0|0|0|1|1|1000|3|0|99|||
+|301402202|1|23|100|301402203|0|1|0|0|0|0|0|0|1|1|1000|3|0|99|||
+|301402203|1|16|2|0|0|30|8|0|0|0|0|0|1|1|1000|1|0|99|||
+|301402301|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|4|1|1|||
+|301402302|1|1|2|0|0|3|1|1|0|0|0|0|1|2|100|1|0|99|||
+|301402303|1|9|1|0|0|100|4|6|0|0|0|0|1|2|100|1|0|99|||
+|301402401|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|4|1|1|||
+|301402402|1|1|2|0|0|5|1.3|0.4|0|0|0|0|1|2|100|1|0|99|||
+|301402403|1|23|960|301402404|0|1|2|0|0|0|0|0|1|2|100|1|0|99|Checks target status.||
+|301402404|1|8|8|0|0|0|0|13|0|0|0|0|1|2|100|1|0|99|||
+|301500101|1|1|1|0|0|20.4|20.4|1.62|0|0|0|0|1|1|3000|8|0|2|||
+|301500201|1|1|2|0|0|6.8|6.8|0.54|0|0|0|0|1|3|3000|3|0|3|||
+|301500202|1|8|3|0|0|0|0|2|0|0|0|0|1|3|3000|3|0|3|||
+|301500301|1|1|1|0|0|0|1|1|0|0|0|0|1|1|3000|2|0|1|||
+|301501101|1|1|1|0|0|20.4|20.4|1.62|0.005|0|0|0|1|1|3000|1|0|2|||
+|301501201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|301501202|1|1|2|0|0|6.8|6.8|0.54|0.04|0|0|0|1|1|3000|1|0|99|||
+|301501203|1|8|3|0|0|0|0|1|0.01|0|0|0|1|1|340|1|0|1|||
+|301501301|1|1|1|0|0|20.4|20.4|1.62|0.015|0|0|0|1|1|3000|3|0|1|||
+|301600101|1|46|1|1|0|7|0|0|0|0|0|0|1|3|9999|3|0|99|||
+|301600201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|9999|2|0|1|||
+|301600202|1|47|1|200|300|15|15|1.2|0|1.5|2|400|1|1|100|1|0|2|||
+|301600203|1|8|7|0|0|0|0|3.5|0|0|0|0|1|1|100|1|0|0|||
+|301600204|1|9|1|0|0|2|2|8|0|0|0|0|1|1|100|1|0|0|||
+|301600301|1|7|1|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|301600302|1|46|1|1|0|30|0|0|0|0|0|0|1|1|100|1|0|4|||
+|301600303|1|10|21|1|0|2|80|0|4|0.05|0|0|1|1|100|1|0|0|||
+|301600401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|301600402|1|8|2|0|0|1.43|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|301600403|1|8|2|0|0|1.43|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|301601101|1|46|1|1|0|8|0|0|0|0|0|0|1|3|9999|3|0|99|||
+|301601201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|9999|2|0|1|||
+|301601202|1|47|1|1000|1400|15|15|1.2|0|1.5|2|1600|1|1|100|1|0|2|||
+|301601203|1|8|7|0|0|0|0|3.5|0|0|0|0|1|1|100|1|0|0|||
+|301601204|1|9|1|0|0|2|2|8|0|0|0|0|1|1|100|1|0|0|||
+|301601301|1|7|1|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|301601302|1|46|1|1|0|35|0|0|0|0|0|0|1|1|100|1|0|4|||
+|301601303|1|10|21|1|0|2|80|0|4|0.05|0|0|1|1|100|1|0|0|||
+|301601401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|301601402|1|8|2|0|0|1.62|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|301601403|1|22|1|30160102|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|301601404|1|22|1|30160102|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|301700101|1|1|2|0|0|180|10|0.66|0|0|0|0|1|1|-1|3|0|99|-||
+|301700102|1|9|1|0|0|80|4.5|4|0|0|0|0|1|1|-1|1|0|99|Poison||
+|301700103|1|3|3|0|0|100|0|1500|0|0|0|2|1|3|-1|3|0|99|Knock(ed) back||
+|301700201|1|1|1|0|0|180|10|0.7|0|0|0|0|1|1|-1|3|0|2|-||
+|301700202|1|10|11|1|0|2|80|0|10|0|0|0|1|1|-1|1|0|2|-||
+|301700203|1|16|2|0|0|300|0|0|6|0|0|0|1|1|-1|1|0|99|-||
+|301700301|1|15|2|501010502|1|0|0|-1|0|1|500|500|2|1|0|7|0|1|-||
+|301700302|1|15|2|501010504|1|0|0|1|0|1|600|600|2|1|0|7|0|1|-||
+|301700303|1|15|2|501010505|1|0|0|2|0|1|700|700|2|1|0|7|0|1|-||
+|301700304|1|15|2|501010503|1|0|0|-2|0|1|1400|1400|2|1|0|7|0|1|-||
+|301700401|1|17|3|0|0|100|0|40|0|0|0|0|2|1|-1|7|0|1|-||
+|301700402|1|8|2|0|0|0.28|0|90|0|0|0|0|2|3|-1|7|0|1|-||
+|301700403|1|10|10|1|0|2|120|0|90|0|0|0|2|3|-1|7|0|1|-||
+|301700404|1|22|1|30170002|0|90|0|0|0|0|0|0|2|3|-1|7|0|1|-||
+|301700405|1|10|81|1|0|2|50|0|0|0|0|2|2|3|-1|7|0|99|-||
+|301700501|1|17|7|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|-||
+|301700502|1|3|3|0|0|50|0|1500|0|0|0|2|1|3|-1|3|0|99|Knock(ed) back||
+|301700503|1|9|1|0|0|80|6|90|0|0|0|0|1|3|-1|3|0|99|Poison||
+|301700504|1|9|1|0|0|80|6|90|0|0|0|0|1|3|-1|3|0|99|Poison||
+|301700505|1|16|2|0|0|1000|0|0|0|0|0|0|2|3|-1|7|0|1|-||
+|301700506|1|10|81|1|0|2|100|0|0|0|0|2|3|3|-1|3|0|99|-||
+|301700507|1|30|0|0|0|0|0|0|0|0|0|0|2|3|-1|18|0|99|-||
+|301800101|1|46|1|2|0|30|0|0|0|0|0|0|1|1|3000|3|0|99|||
+|301800102|1|23|200|301800103|0|1|2|0|0|0|0|0|1|1|3000|3|0|99|||
+|301800103|1|46|1|2|0|60|0|0|0|0|0|0|1|1|3000|3|0|99|||
+|301800201|1|1|2|0|0|20|10|1.5|0|0|0|0|1|1|3000|3|0|99|||
+|301800202|1|12|1|0|0|8|0|100|0|0|0|0|1|1|3000|5|0|1|||
+|301800203|1|12|1|0|0|8|0|100|0|0|0|0|1|1|100|5|0|1|||
+|301800301|1|1|1|0|0|6|1.4|1|0|0|0|0|1|1|2160|3|0|3|||
+|301800302|1|16|1|0|0|120|2.2|0|0|0|0|0|2|1|2160|7|0|1|||
+|301800401|2|17|3|0|0|100|0|50|0|0|0|0|2|1|0|7|0|1|||
+|301800402|2|22|1|30180002|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|301800403|2|22|2|3018001|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|301800501|1|1|1|0|0|1|1.5|0.8|0|0|0|0|1|2|100|1|0|2|||
+|301801101|1|46|1|2|0|1|0.16|0|0|0|0|0|1|1|3000|3|0|99|||
+|301801102|1|10|31|0|0|2|1|0.3|1|0.1|0|0|1|1|3000|3|0|99|||
+|301801103|1|23|200|301801104|0|1|2|0|0|0|0|0|1|1|3000|3|0|99|||
+|301801104|1|46|1|2|0|1|0.21|0|0|0|0|0|1|1|3000|3|0|99|||
+|301801105|1|10|31|0|0|2|1|0.08|1|0.1|0|0|1|1|3000|3|0|99|||
+|301801201|1|1|2|0|0|1|3|1|0.008|0|0|0|1|1|3000|3|0|99|||
+|301801202|1|12|1|0|0|8|0|100|0|0|0|0|1|1|3000|5|0|1|||
+|301801203|1|12|1|0|0|8|0|100|0|0|0|0|1|1|100|5|0|1|||
+|301801301|1|1|1|0|0|6|1.4|1|0|0|0|0|1|1|3000|3|0|3|||
+|301801401|1|1|1|0|0|10|0|0.1|0.005|0|0|0|1|2|3000|3|0|1|||
+|301801501|1|17|9|0|0|100|0|10|0|0|0|0|2|1|0|7|0|1|||
+|301801502|1|10|21|2|0|1|1|0.3|0|0|0|0|2|1|0|7|0|1|||
+|301801503|1|10|41|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|301801601|1|17|9|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|||
+|301801602|1|10|21|2|0|1|1|0.5|0|0|0|0|2|1|0|7|0|1|||
+|301801603|1|10|41|2|0|1|1|0.3|0|0|0|0|2|1|0|7|0|1|||
+|301802101|1|46|1|2|0|1|0.31|0|0|0|0|0|1|1|3000|3|0|99|||
+|301802102|1|10|31|0|0|2|1|0.3|1|0.1|0|0|1|1|3000|3|0|99|||
+|301802103|1|23|200|301802104|0|1|2|0|0|0|0|0|1|1|3000|3|0|99|||
+|301802104|1|46|1|2|0|1|0.1|0|0|0|0|0|1|1|3000|3|0|99|||
+|301802105|1|10|31|0|0|2|1|0.08|1|0.1|0|0|1|1|3000|3|0|99|||
+|301802201|1|1|2|0|0|1|3|1|0.008|0|0|0|1|1|3000|3|0|99|||
+|301802202|1|12|1|0|0|8|0|100|0|0|0|0|1|1|3000|5|0|1|||
+|301802203|1|12|1|0|0|8|0|100|0|0|0|0|1|1|100|5|0|1|||
+|301802301|1|1|1|0|0|6|1.4|1|0|0|0|0|1|1|3000|3|0|3|||
+|301802401|1|1|1|0|0|10|0|0.1|0.04|0|0|0|1|2|3000|3|0|1|||
+|301802501|1|28|710|0|301802502|0|0|0|0|0|0|0|2|3|-1|7|0|1|||
+|301802502|1|35|1|0|0|3|63|120|1|0|0|0|2|3|-1|7|0|1|Applies mark.||
+|301802503|1|1|1|0|0|1|3|1|0.05|0|0|0|1|3|-1|16|0|1|||
+|301802504|1|28|663|301802505|0|0|0|2|0|0|0|0|2|1|0|7|0|1|||
+|301802505|1|10|21|0|0|2|3|1.1|10|0|0|0|1|3|-1|16|0|1|||
+|301802506|1|28|663|301802507|0|0|0|3|0|0|0|0|2|1|0|7|0|1|||
+|301802507|1|1|1|0|0|1|3|1|0.02|0|0|0|1|3|-1|16|0|1|||
+|301802601|1|17|9|0|0|100|0|10|0|0|0|0|2|1|0|7|0|1|||
+|301802602|1|10|21|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|301802603|1|10|41|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|301802701|1|17|9|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|||
+|301802702|1|10|21|2|0|1|1|0.15|0|0|0|0|2|1|0|7|0|1|||
+|301802703|1|10|41|2|0|1|1|0.15|0|0|0|0|2|1|0|7|0|1|||
+|301900101|1|1|1|0|0|18|18|1.44|0|0|0|0|1|1|3000|3|0|4|||
+|301900102|1|10|11|0|0|1|0.4275|0.4275|8|0|0|0|1|1|3000|3|0|4|||
+|301900201|1|1|2|0|0|9|9|0.72|0|0|0|0|1|1|3000|3|0|2|||
+|301900202|1|16|2|0|0|400|0|0|0|0|0|0|1|1|3000|3|0|2|||
+|301901101|1|1|1|0|0|20.4|20.4|1.62|0|0|0|0|1|1|3000|3|0|4|Physical damage to 4th character from front||
+|301901102|1|10|11|0|0|2|30|0.1|8|0|0|0|1|1|3000|3|0|4|Physical attack down||
+|301901103|1|10|80|0|0|1|15|0|8|0|0|0|2|3|3000|3|0|99|TP Boost up||
+|301901201|1|1|2|0|0|15|15|1.2|0|0|0|0|1|1|450|3|0|99|Magic damage to area in front.||
+|301901202|1|16|2|0|0|400|0|0|0|0|0|0|1|1|450|3|0|99|TP reduction||
+|301901301|1|7|4|0|0|0|0|0|0|0|0|0|1|3|3000|4|1|1|Targets 2nd character from rear.||
+|301901302|1|1|1|0|0|13.5|13.5|1.08|0|0|0|0|1|2|100|1|0|99|Physical damage to front/rear range 100||
+|301901303|1|10|31|0|0|2|60|0.1|8|0|0|0|1|2|100|1|0|0|Magic attack down||
+|301901401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|Trigger||
+|301901402|1|22|1|30190102|0|180|0|0|0|0|0|0|2|3|0|7|0|1|Action pattern change||
+|301901403|1|10|10|1|0|2|15|0|90|0|0|0|2|3|0|7|0|1|Phys. atk. up to self||
+|301901404|1|8|2|0|0|1.25|0|90|0|0|0|2|2|3|0|7|0|1|Haste to self||
+|302000101|1|1|2|0|0|13.5|13.5|2.8|0|0|0|0|1|3|3000|3|0|3|||
+|302000201|1|1|1|0|0|1|13.5|0.15|0.0004|0|0|0|1|1|3000|3|0|1|||
+|302000301|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|302000302|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|302001101|1|1|2|0|0|13.5|13.5|2.8|0|0|0|0|1|3|3000|3|0|3|||
+|302001201|1|1|1|0|0|1|13.5|0.15|0.0004|0|0|0|1|1|3000|3|0|1|||
+|302001301|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|302001302|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|302002101|1|1|2|0|0|13.5|13.5|2.4|0.002|0|0|0|1|3|3000|3|0|3|||
+|302002102|1|23|940|302002103|0|0|0|0|0|0|0|0|1|3|-1|3|0|3|||
+|302002103|1|8|7|0|0|0|0|6|0|0|0|0|1|3|-1|1|0|3|||
+|302002104|1|3|3|0|0|500|0|1000|0|0|0|0|1|1|3000|3|0|3|||
+|302002201|1|1|1|0|0|1|13.5|0.15|0.0004|0|0|0|1|1|3000|3|0|1|||
+|302002301|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|302002302|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|302100101|1|7|1|0|0|0|0|0|0|0|0|0|1|2|3000|3|0|1|||
+|302100102|1|1|1|0|0|13.5|13.5|2.6|0|0|0|0|1|2|300|1|0|3|||
+|302100201|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|302100202|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|302100301|1|1|1|0|0|1|13.5|0.15|0.0004|0|0|0|1|1|3000|3|0|1|||
+|302101101|1|7|1|0|0|0|0|0|0|0|0|0|1|2|3000|3|0|1|||
+|302101102|1|1|1|0|0|13.5|13.5|2.2|0.0004|0|0|0|1|2|300|1|0|3|||
+|302101103|1|10|10|1|0|1|1|50|10|0|0|0|2|3|-1|7|0|1|||
+|302101201|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|302101202|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|302101301|1|1|1|0|0|1|13.5|0.15|0.0004|0|0|0|1|1|3000|3|0|1|||
+|302102101|1|7|1|0|0|0|0|0|0|0|0|0|1|2|3000|3|0|1|||
+|302102102|1|1|1|0|0|13.5|13.5|2.6|0.001|0|0|0|1|2|300|1|0|3|||
+|302200101|1|1|2|0|0|20.4|20.4|1.62|0|0|0|0|1|3|3000|3|0|99|||
+|302200102|1|10|41|1|0|2|80|5|6|0.05|0|0|1|3|3000|3|0|99|||
+|302200201|1|1|1|0|0|13.5|13.5|1.08|0|0|0|0|1|3|3000|3|0|3|||
+|302200301|1|1|2|0|0|6.8|6.8|0.54|0|3|0|0|1|3|3000|3|0|2|||
+|302200302|1|8|3|0|0|0|0|4|0|0|0|0|2|1|0|1|0|0|||
+|302200401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|302201101|1|1|2|0|0|15|7.5|1.08|0|0|0|0|1|3|3000|3|0|99|||
+|302201102|1|10|41|1|0|2|80|5|6|0.05|0|0|1|3|3000|3|0|99|||
+|302300101|1|1|2|0|0|8.1|8.1|0.72|0|0|0|0|1|3|3000|3|0|99|||
+|302300201|1|1|1|0|0|10|10|0.8|0|0|0|0|1|3|3000|2|0|1|||
+|302300202|1|8|3|0|0|0|0|2|0|0|0|0|2|1|0|1|0|0|||
+|302400101|1|1|2|0|0|18|18|1.44|0|0|0|0|1|3|3000|3|0|99|||
+|302400201|1|1|1|0|0|9|9|0.72|0|0|0|0|1|1|685|3|0|99|||
+|302400301|1|1|2|0|0|3|3|0.24|0|0|0|0|1|3|3000|3|0|99|||
+|302400302|1|13|0|0|0|5|0|60|0|0|0|0|1|3|3000|3|0|3|||
+|302500101|1|1|3|0|0|13.5|13.5|1.08|0|0|0|0|1|1|350|3|0|99|||
+|302500102|1|1|3|0|0|9|9|0.72|0|0|0|0|1|1|600|3|0|99|||
+|302500103|1|3|3|0|0|500|0|1500|0|0|0|0|1|1|-1|3|0|99|||
+|302500104|1|1|3|0|0|12|12|1.08|0|0|0|0|1|1|3000|3|0|99|||
+|302500105|1|3|1|0|0|400|0|1500|2000|0|0|1|1|1|-1|3|0|99|||
+|302500201|1|1|3|0|0|9|9|0.72|0|0|0|0|1|1|3000|3|0|3|||
+|302500202|1|9|2|0|0|3|3|4|0|0|0|0|1|3|3000|3|0|3|||
+|302500301|1|1|2|0|0|4.5|4.5|0.36|0|0|0|0|1|1|3000|3|0|99|||
+|302500302|1|10|21|1|0|2|80|0|8|0|0|0|1|2|3000|3|0|99|||
+|302500303|1|10|41|1|0|2|80|0|8|0|0|0|1|2|3000|3|0|99|||
+|302500304|1|8|1|0|0|0.8|0|8|0|0|0|0|1|2|3000|3|0|99|||
+|302500401|1|17|7|0|0|100|0|10|0|0|0|0|2|1|0|7|0|1|||
+|302500402|1|1|2|0|0|181800|0|0|0|0|0|0|1|1|3000|3|0|99|||
+|302500403|1|16|2|0|0|1000|0|0|0|0|0|0|2|3|0|7|0|1|||
+|302500501|1|17|3|0|0|100|0|50|0|0|0|0|2|1|0|7|0|1|||
+|302500502|1|22|1|30250002|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|302500503|1|22|2|3025001|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|302500601|1|22|2|3025001|0|30|0|0|0|0|0|0|2|1|0|7|0|1|||
+|302600101|1|46|1|1|0|6|0|0|0|0|0|0|1|1|3000|3|0|99|||
+|302600102|1|46|1|1|0|20|0|0|0|0|0|0|1|1|3000|3|0|99|||
+|302600201|1|1|1|0|0|18|18|0.2|0|0|0|0|1|1|3000|4|0|2|||
+|302600202|1|8|1|0|0|0.5|0|4|0|0|0|0|1|1|3000|4|0|2|||
+|302600301|1|1|1|0|0|18|18|0.23|0|0|0|0|1|3|3000|3|0|99|||
+|302600302|1|55|0|0|0|-850|0|0|1|2|0|0|2|1|3000|7|0|1|||
+|302600401|1|1|1|0|0|35|35|0.1|0.001|0|0|0|1|3|3000|3|0|1|||
+|302600501|1|17|9|0|0|100|0|10|0|0|0|0|2|1|0|7|0|1|||
+|302600502|1|10|21|2|0|1|1|1|0|0|0|0|2|1|0|7|0|1|||
+|302600503|1|10|41|2|0|1|1|1|0|0|0|0|2|1|0|7|0|1|||
+|302600601|1|17|9|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|||
+|302600602|1|10|21|2|0|1|1|1|0|0|0|0|2|1|0|7|0|1|||
+|302600603|1|10|41|2|0|1|1|1|0|0|0|0|2|1|0|7|0|1|||
+|302600701|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|302600702|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|302601101|1|46|1|1|0|6|0|0|0|0|0|0|1|1|3000|3|0|99|||
+|302601102|1|46|1|1|0|20|0|0|0|0|0|0|1|1|3000|3|0|99|||
+|302601201|1|1|1|0|0|18|18|0.2|0|0|0|0|1|1|3000|4|0|2|||
+|302601202|1|8|1|0|0|0.5|0|4|0|0|0|0|1|1|3000|4|0|2|||
+|302601301|1|1|1|0|0|18|18|0.23|0|0|0|0|1|3|3000|3|0|99|||
+|302601302|1|55|0|0|0|-850|0|0|1|2|0|0|2|1|3000|7|0|1|||
+|302601401|1|10|21|1|0|1|100|1|3|0|0|0|2|1|0|7|0|99|||
+|302601402|1|10|41|1|0|1|100|1|3|0|0|0|2|1|0|7|0|99|||
+|302601403|1|10|60|1|0|1|65000|0|15|0|0|0|2|1|0|7|0|99|||
+|302601404|1|10|80|1|0|1|700|0|15|0|0|0|2|1|0|7|0|99|||
+|302601405|1|1|1|0|0|35|35|0.33|0|0|0|0|1|1|3000|3|0|99|||
+|302601501|2|17|3|0|0|100|0|50|0|0|0|0|2|1|0|7|0|1|||
+|302601601|1|17|9|0|0|100|0|10|0|0|0|0|2|1|0|7|0|1|||
+|302601602|1|10|21|2|0|1|1|1|0|0|0|0|2|1|0|7|0|1|||
+|302601603|1|10|41|2|0|1|1|1|0|0|0|0|2|1|0|7|0|1|||
+|302601701|1|17|9|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|||
+|302601702|1|10|21|2|0|1|1|1|0|0|0|0|2|1|0|7|0|1|||
+|302601703|1|10|41|2|0|1|1|1|0|0|0|0|2|1|0|7|0|1|||
+|302601801|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|302601802|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|302602101|1|46|1|1|0|6|0|0|0|0|0|0|1|1|3000|3|0|99|||
+|302602102|1|46|1|1|0|20|0|0|0|0|0|0|1|1|3000|3|0|99|||
+|302602201|1|1|1|0|0|18|18|0.2|0|0|0|0|1|1|3000|4|0|2|||
+|302602202|1|8|1|0|0|0.5|0|4|0|0|0|0|1|1|3000|4|0|2|||
+|302602301|1|1|1|0|0|18|18|0.23|0|0|0|0|1|3|3000|3|0|99|||
+|302602302|1|55|0|0|0|-850|0|0|1|2|0|0|2|1|3000|7|0|1|||
+|302602401|1|10|21|1|0|1|100|1|3|0|0|0|2|1|0|7|0|99|||
+|302602402|1|10|41|1|0|1|100|1|3|0|0|0|2|1|0|7|0|99|||
+|302602403|1|10|60|1|0|1|65000|0|15|0|0|0|2|1|0|7|0|99|||
+|302602404|1|10|80|1|0|1|700|0|15|0|0|0|2|1|0|7|0|99|||
+|302602405|1|1|1|0|0|35|35|0.33|0|0|0|0|1|1|3000|3|0|99|||
+|302602501|1|1|1|0|0|35|35|0.1|0.001|0|0|0|1|3|3000|3|0|1|||
+|302602601|1|16|2|0|0|60|0|0|0|0|0|0|1|3|3000|3|0|99|||
+|302602602|1|10|21|1|0|1|100|1|3.5|0|0|0|2|1|0|7|0|99|||
+|302602603|1|10|41|1|0|1|100|1|3.5|0|0|0|2|1|0|7|0|99|||
+|302602701|1|17|9|0|0|100|0|10|0|0|0|0|2|1|0|7|0|1|||
+|302602702|1|10|21|2|0|1|1|1|0|0|0|0|2|1|0|7|0|1|||
+|302602703|1|10|41|2|0|1|1|1|0|0|0|0|2|1|0|7|0|1|||
+|302602801|1|17|9|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|||
+|302602802|1|10|21|2|0|1|1|1|0|0|0|0|2|1|0|7|0|1|||
+|302602803|1|10|41|2|0|1|1|1|0|0|0|0|2|1|0|7|0|1|||
+|302602901|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|302602902|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|302700101|1|1|2|0|0|0.5|1.2|1.52|0|0|0|0|1|1|3000|3|0|99|-||
+|302700102|1|10|21|1|0|1|11|4.5|6|0|0|0|1|1|3000|3|0|99|-||
+|302700201|1|1|1|0|0|0.5|0.8|1.52|0|0|0|0|1|1|200|3|0|99|-||
+|302700202|1|8|7|0|0|0|0|6|0|0|0|0|1|1|200|1|0|99|Stun||
+|302700301|1|1|1|0|0|5|0.5|0.55|0|0|0|0|1|1|3000|3|0|99|-||
+|302700401|2|1|1|0|0|70|2|0.5|0.1|0|0|0|1|2|300|3|0|99|||
+|302700501|2|17|3|0|0|100|0|50|0|0|0|0|2|1|0|7|0|1|||
+|302700502|2|22|1|30270002|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|302700503|2|22|2|3027001|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|302700601|2|22|2|3027001|0|30|0|0|0|0|0|0|2|1|0|7|0|1|||
+|302701101|1|1|2|0|0|2|2|1.35|0|0|0|0|1|1|3000|3|0|99|Magic dmg to all||
+|302701102|1|10|21|1|0|1|11|4.5|6|0|0|0|1|1|3000|3|0|99|Physical defense down||
+|302701201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|9999|3|0|1|Select range||
+|302701202|1|1|1|0|0|0.5|0.8|1.82|0|0|0|0|1|1|120|3|0|99|Physical dmg to area in front.||
+|302701203|1|8|7|0|0|0|0|0|0.02|0|0|0|1|1|120|3|0|99|Stun||
+|302701301|1|1|1|0|0|5|0.5|0.55|0|0|0|0|1|1|3000|3|0|99|Small physical damage to all||
+|302702101|1|1|2|0|0|2|2|1.35|0|0|0|0|1|1|3000|3|0|99|Magic dmg to all||
+|302702102|1|10|21|1|0|1|11|4.5|6|0|0|0|1|1|3000|3|0|99|Physical defense down||
+|302702201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|9999|3|0|1|Select range||
+|302702202|1|1|1|0|0|0.5|0.8|1.82|0|0|0|0|1|1|120|3|0|99|Physical dmg to area in front.||
+|302702203|1|8|7|0|0|0|0|0|0.02|0|0|0|1|1|120|3|0|99|Stun||
+|302702301|1|1|1|0|0|5|0.5|0.55|0|0|0|0|1|1|3000|3|0|99|Small physical damage to all||
+|302702401|1|14|1|30270202|1|20|0|0|0|0|0|0|2|1|0|7|0|1|Super Karkinos Mode||
+|302702402|1|14|3|30270201|0|0|0|0|0|0|0|0|2|1|0|7|0|1|Super Karkinos Mode deactivate||
+|302702403|1|10|21|1|0|1|220|0|21|0|0|2|2|1|0|7|0|1|Super Karkinos Mode debuff||
+|302702404|1|10|41|1|0|1|180|0|21|0|0|2|2|1|0|7|0|1|Super Karkinos Mode debuff||
+|302702405|1|10|30|1|0|2|50|0|21|0|0|2|2|1|0|7|0|1|Super Karkinos Mode buff||
+|302702406|1|8|2|0|0|4|0|21|0|0|0|0|2|3|-1|7|0|1|Super Karkinos Mode buff||
+|302702501|1|7|4|0|0|0|0|0|0|0|0|0|1|1|9999|3|0|1|Select range||
+|302702502|1|1|2|0|0|0.3|0.5|0.7|0|0|0|0|1|1|120|3|0|99|Physical dmg to area in front.||
+|302702503|1|8|7|0|0|0|0|5|0|0|0|0|1|1|120|3|0|99|Stun||
+|302702601|1|1|2|0|0|3|0.5|0.24|0|0|0|0|1|1|3000|3|0|99|Small physical damage to all||
+|302702602|1|1|2|0|0|0.5|0.5|0.05|0|0|0|0|1|1|3000|3|0|1|Small physical damage to all||
+|302702603|1|3|3|0|0|150|0|1500|0|0|0|0|1|1|3000|1|0|1|Knock(ed) back||
+|302702604|1|10|101|1|0|2|80|0|5|0|0|0|1|1|3000|1|0|1|Movement speed debuff||
+|302702701|1|1|2|0|0|5|5|3.5|0|0|0|0|1|1|3000|3|0|1|Standard attack-ish skill||
+|302800101|1|46|1|1|0|25|0|0|0|0|0|0|1|1|3000|3|0|99|||
+|302800102|1|23|950|302800103|0|1|2|0|0|0|0|0|1|1|3000|3|0|99|-||
+|302800103|1|9|2|0|0|15|2.4|1.5|0.08|0|0|0|1|1|3000|3|0|99|-||
+|302800201|1|1|1|0|0|10|0.5|1.2|0|0|0|0|1|1|3000|3|0|1|-||
+|302800202|1|23|500|302800203|0|1|2|0|0|0|0|0|1|1|3000|3|0|1|-||
+|302800203|1|1|1|0|0|20|0.8|1.5|0|0|0|0|1|1|3000|3|0|1|-||
+|302800301|1|1|1|0|0|10|0.8|0.5|0|0|0|0|1|1|3000|3|0|3|-||
+|302800302|1|23|500|302800303|0|1|2|0|0|0|0|0|1|1|3000|3|0|3|-||
+|302800303|1|1|1|0|0|5|1.3|0.4|0|0|0|0|1|1|3000|3|0|3|-||
+|302800401|2|17|3|0|0|100|0|50|0|0|0|0|2|1|0|7|0|1|||
+|302800402|2|22|1|30280002|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|302800403|2|22|2|3028001|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|302800501|2|1|1|0|0|85|2|0.5|0.1|0|0|0|1|3|3000|3|0|99|||
+|302800601|2|22|2|3028001|0|30|0|0|0|0|0|0|2|1|0|7|0|1|||
+|302801101|1|46|1|1|0|25|0|0|0|0|0|0|1|1|3000|3|0|99|||
+|302801102|1|23|950|302801103|0|1|2|0|0|0|0|0|1|1|3000|3|0|99|Checks target status.||
+|302801103|1|9|2|0|0|15|2.4|1.5|0.08|0|0|0|1|1|3000|3|0|99|If result positive, inflicts Burn.||
+|302801201|1|1|1|0|0|8|0.1|0.1|0|0|0|0|1|1|3000|3|0|1|Damage to single target.||
+|302801202|1|23|500|302801203|0|1|2|0|0|0|0|0|1|1|3000|3|0|1|Checks target status.||
+|302801203|1|1|1|0|0|20|0.8|1.5|0|0|0|0|1|1|3000|3|0|1|If result positive, extra damage.||
+|302801301|1|1|1|0|0|20|3|3|0|0|0|0|1|1|550|3|0|3|Small damage to 3 targets.||
+|302801302|1|23|500|302801303|0|1|2|0|0|0|0|0|1|1|550|3|0|3|Checks target status.||
+|302801303|1|1|1|0|0|5|1.3|0.4|0|0|0|0|1|1|550|3|0|3|Small damage to 3 targets.||
+|302802101|1|46|1|1|0|25|0|0|0|0|0|0|1|1|3000|3|0|99|||
+|302802102|1|23|950|302802103|0|1|2|0|0|0|0|0|1|1|3000|3|0|99|Checks target status.||
+|302802103|1|9|2|0|0|15|2.4|1.5|0.08|0|0|0|1|1|3000|3|0|99|If result positive, inflicts Burn.||
+|302802201|1|1|1|0|0|8|0.1|0.1|0|0|0|0|1|1|3000|3|0|1|Damage to single target.||
+|302802202|1|23|500|302802203|0|1|2|0|0|0|0|0|1|1|3000|3|0|1|Checks target status.||
+|302802203|1|1|1|0|0|20|0.8|1.5|0|0|0|0|1|1|3000|3|0|1|If result positive, extra damage.||
+|302802301|1|1|1|0|0|20|3|3|0|0|0|0|1|1|550|3|0|3|Small damage to 3 targets.||
+|302802302|1|23|500|302802303|0|1|2|0|0|0|0|0|1|1|550|3|0|3|Checks target status.||
+|302802303|1|1|1|0|0|5|1.3|0.4|0|0|0|0|1|1|550|3|0|3|Small damage to 3 targets.||
+|302802401|1|46|1|2|0|25|0|0|0|0|0|0|1|1|3000|3|0|99|Percentage-based damage to all.||
+|302802402|1|23|930|302802403|302802404|1|2|0|0|0|0|0|1|1|3000|3|0|99|Checks target status.||
+|302802403|1|8|7|0|0|0|0|10|0|0|0|0|1|1|3000|3|0|99|Checks target status.||
+|302802404|1|8|7|0|0|0|0|1|0|0|0|0|1|1|3000|3|0|99|||
+|302900101|1|1|2|0|0|25|12|2.5|0|0|0|0|1|1|2160|3|0|99|||
+|302900102|1|23|980|302900103|0|1|2|0|0|0|0|0|1|1|2160|3|0|99|-||
+|302900103|1|3|3|0|0|300|0|500|0|0|0|1|1|1|2160|3|0|99|||
+|302900104|1|23|940|302900105|0|1|2|0|0|0|0|0|1|1|2160|3|0|99|-||
+|302900105|1|3|3|0|0|300|0|500|0|0|0|1|1|1|2160|3|0|99|||
+|302900106|1|8|7|0|0|0|0|5|0|0|0|0|1|1|100|1|0|99|||
+|302900201|1|49|1|0|0|100|0|0|0|0|0|0|1|3|2160|3|0|99|-||
+|302900202|1|16|1|0|0|30|0|0|0|0|0|0|2|2|-1|7|0|1|||
+|302900203|1|49|2|0|0|100|0|0|0|0|0|0|2|3|2160|7|0|99|-||
+|302900301|1|1|1|0|0|25|8|2|0|0|0|0|1|3|2160|3|0|3|||
+|302900401|2|1|1|0|0|70|2|0.5|0.1|0|0|0|1|2|300|3|0|99|||
+|302900501|2|1|1|0|0|70|2|0.5|0.1|0|0|0|1|2|300|3|0|99|||
+|302900601|2|1|1|0|0|70|2|0.5|0.1|0|0|0|1|2|300|3|0|99|||
+|302901101|1|1|2|0|0|25|18|2.2|0|0|0|0|1|1|2160|3|0|99|||
+|302901102|1|23|980|302901103|0|1|2|0|0|0|0|0|1|1|2160|3|0|99|Checks target status.||
+|302901103|1|3|3|0|0|300|0|500|0|0|0|1|1|1|2160|3|0|99|||
+|302901104|1|23|940|302901105|0|1|2|0|0|0|0|0|1|1|2160|3|0|99|Checks target status.||
+|302901105|1|3|3|0|0|300|0|500|0|0|0|1|1|1|2160|3|0|99|||
+|302901106|1|8|7|0|0|0|0|5|0|0|0|0|1|1|100|1|0|99|||
+|302901201|1|10|20|1|0|1|1|0.1|21|0|0|0|2|1|0|7|0|1|||
+|302901202|1|10|40|1|0|1|1|0.1|21|0|0|0|2|1|0|7|0|1|||
+|302901203|1|16|1|0|0|20|0|0|0|0|0|0|2|2|-1|7|0|1|||
+|302901204|1|49|1|0|0|100|0|1|0|0|0|0|1|3|2160|3|0|99|Cancels buffs.||
+|302901301|1|1|1|0|0|25|40|8|0|0|0|0|1|3|2160|3|0|1|||
+|302901302|1|1|1|0|0|25|20|2|0|0|0|0|1|3|2160|3|1|2|||
+|302901401|1|1|1|0|0|10|80|3|0.02|0|0|0|1|2|3000|3|0|1|||
+|302901501|1|17|9|0|0|100|0|10|0|0|0|0|2|1|0|7|0|1|||
+|302901502|1|10|21|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|302901503|1|10|41|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|302901601|1|17|9|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|||
+|302901602|1|10|21|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|302901603|1|10|41|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|302902101|1|1|2|0|0|25|18|2.2|0|0|0|0|1|1|2160|3|0|99|||
+|302902102|1|23|980|302902103|0|1|2|0|0|0|0|0|1|1|2160|3|0|99|Checks target status.||
+|302902103|1|3|3|0|0|300|0|500|0|0|0|1|1|1|2160|3|0|99|||
+|302902104|1|23|940|302902105|0|1|2|0|0|0|0|0|1|1|2160|3|0|99|Checks target status.||
+|302902105|1|3|3|0|0|300|0|500|0|0|0|1|1|1|2160|3|0|99|||
+|302902106|1|8|7|0|0|0|0|5|0|0|0|0|1|1|100|1|0|99|||
+|302902201|1|10|20|1|0|1|1|0.1|21|0|0|0|2|1|0|7|0|1|||
+|302902202|1|10|40|1|0|1|1|0.1|21|0|0|0|2|1|0|7|0|1|||
+|302902203|1|16|1|0|0|20|0|0|0|0|0|0|2|2|-1|7|0|1|||
+|302902204|1|49|1|0|0|100|0|1|0|0|0|0|1|3|2160|3|0|99|Cancels buffs.||
+|302902301|1|1|1|0|0|25|40|12|0|0|0|0|1|3|2160|3|0|1|||
+|302902302|1|1|1|0|0|25|20|6.5|0|0|0|0|1|3|2160|3|1|2|||
+|302902401|1|1|1|0|0|10|80|3|0.02|0|0|0|1|2|3000|3|0|1|||
+|302902501|1|17|7|0|0|100|0|90|0|0|0|0|1|1|0|0|0|0|Immediate activation||
+|302902502|2|15|2|401042308|1|0|0|0|0|1|0|-800|2|1|250|7|0|1|Summons field effect||
+|302902601|1|17|9|0|0|100|0|10|0|0|0|0|2|1|0|7|0|1|||
+|302902602|1|10|21|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|302902603|1|10|41|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|302902701|1|17|9|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|||
+|302902702|1|10|21|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|302902703|1|10|41|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|302903101|1|1|2|0|0|25|18|2.2|0|0|0|0|1|1|2160|3|0|99|||
+|302903102|1|23|980|302903103|0|1|2|0|0|0|0|0|1|1|2160|3|0|99|Checks target status.||
+|302903103|1|3|3|0|0|300|0|500|0|0|0|1|1|1|2160|3|0|99|||
+|302903104|1|23|940|302903105|0|1|2|0|0|0|0|0|1|1|2160|3|0|99|Checks target status.||
+|302903105|1|3|3|0|0|300|0|500|0|0|0|1|1|1|2160|3|0|99|||
+|302903106|1|8|7|0|0|0|0|5|0|0|0|0|1|1|100|1|0|99|||
+|302903201|1|10|20|1|0|1|1|0.1|21|0|0|0|2|1|0|7|0|1|||
+|302903202|1|10|40|1|0|1|1|0.1|21|0|0|0|2|1|0|7|0|1|||
+|302903203|1|16|1|0|0|20|0|0|0|0|0|0|2|2|-1|7|0|1|||
+|302903204|1|49|1|0|0|100|0|1|0|0|0|0|1|3|2160|3|0|99|Cancels buffs.||
+|302903301|1|1|1|0|0|25|40|8|0|0|0|0|1|3|2160|3|0|1|||
+|302903302|1|1|1|0|0|25|20|2|0|0|0|0|1|3|2160|3|1|2|||
+|302903401|1|1|1|0|0|10|80|3|0.02|0|0|0|1|2|3000|3|0|1|||
+|302903501|1|17|7|0|0|100|0|90|0|0|0|0|1|1|0|0|0|0|Immediate activation||
+|302903502|2|15|2|401046308|1|0|0|0|0|1|0|-800|2|1|250|7|0|1|Summons field effect||
+|302903601|1|17|9|0|0|100|0|10|0|0|0|0|2|1|0|7|0|1|||
+|302903602|1|10|21|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|302903603|1|10|41|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|302903701|1|17|9|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|||
+|302903702|1|10|21|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|302903703|1|10|41|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|303000101|1|1|3|0|0|58|7|0.2|0.07|3|0|0|1|2|2160|3|0|99|-||
+|303000102|1|8|2|0|0|2|0|12|0|0|0|0|2|3|2160|7|0|1|-||
+|303000103|1|10|10|1|0|2|40|0|12|0|0|0|2|3|2160|7|0|1|-||
+|303000201|1|1|3|0|0|20|2|0.2|0.05|0|0|0|1|1|2160|3|0|99|-||
+|303000301|1|1|3|0|0|70|5|0.4|0.07|0|0|0|1|1|2160|3|0|2|-||
+|303000302|1|10|21|1|0|1|40|0.2|5|0|0|0|1|1|2160|1|0|2|-||
+|303000401|2|1|1|0|0|9|9|1.3|0|0|0|0|1|1|2160|3|2|1|||
+|303000501|2|1|1|0|0|235|11|0.8|0.07|0|0|0|1|1|2160|3|0|1|||
+|303000601|2|1|1|0|0|9|9|0.72|0|0|0|0|1|1|0|1|0|0|||
+|303001101|1|1|3|0|0|58|7|0.2|0.07|3|0|0|1|2|2160|3|0|99|||
+|303001102|1|8|2|0|0|2|0|12|0|0|0|0|2|3|2160|7|0|1|||
+|303001103|1|10|10|1|0|2|40|0|12|0|0|0|2|3|2160|7|0|1|||
+|303001201|1|1|3|0|0|20|2|0.2|0.05|0|0|0|1|1|2160|3|0|99|||
+|303001301|1|1|3|0|0|70|5|0.4|0.07|0|0|0|1|1|2160|3|0|2|||
+|303001302|1|10|21|1|0|1|40|0.2|5|0|0|0|1|1|2160|1|0|2|||
+|303001401|2|1|1|0|0|9|9|1.3|0|0|0|0|1|1|2160|3|0|1|||
+|303001501|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|303001502|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|303002101|1|1|3|0|0|58|100|0.1|0.005|3|0|0|1|2|2160|3|0|99|||
+|303002102|1|8|2|0|0|2|0|12|0|0|0|0|2|3|2160|7|0|1|||
+|303002103|1|10|10|1|0|1|100|12|90|0|0|0|2|3|2160|7|0|1|||
+|303002201|1|1|3|0|0|20|80|0.1|0.0006|0|0|0|1|1|2160|3|0|99|||
+|303002301|1|1|3|0|0|70|100|0.1|0.001|0|0|0|1|1|2160|3|0|2|||
+|303002302|1|10|21|1|0|1|40|0.2|5|0|0|0|1|1|2160|1|0|2|||
+|303002401|2|1|1|0|0|9|150|2|0.3|0|0|0|1|1|2160|3|0|1|||
+|303002501|2|28|703|303002502|303002503|2|1|0|0|0|0|0|2|2|3000|3|0|99|||
+|303002502|2|15|2|401042408|1|0|-5|0|0|1|0|300|2|1|250|7|0|1|||
+|303002503|2|28|701|303002504|303002505|1|1|0|0|0|0|0|2|2|3000|3|0|99|||
+|303002504|2|15|2|401042406|1|0|5|0|0|1|0|-100|2|1|250|7|0|1|||
+|303002505|2|28|720|303002507|303002506|1|1|209200|0|0|0|0|2|2|3000|3|0|99|||
+|303002506|2|15|2|401042406|1|0|5|0|0|1|0|-100|2|1|250|7|0|1|||
+|303002507|2|15|2|401042407|1|0|-5|0|0|1|0|-300|2|1|250|7|0|1|||
+|303002601|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|303002602|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|303003101|1|1|3|0|0|58|100|0.1|0.0005|3|0|0|1|2|2160|3|0|99|||
+|303003102|1|8|2|0|0|2|0|12|0|0|0|0|2|3|2160|7|0|1|||
+|303003103|1|10|10|1|0|1|70|4.5|90|0|0|0|2|3|2160|7|0|1|||
+|303003201|1|1|3|0|0|20|80|0.1|0.0004|0|0|0|1|1|2160|3|0|99|||
+|303003301|1|1|3|0|0|70|100|0.1|0.001|0|0|0|1|1|2160|3|0|2|||
+|303003302|1|10|21|1|0|1|40|0.2|15|0|0|0|1|1|2160|1|0|2|||
+|303003401|2|1|1|0|0|9|130|2|0.2|0|0|0|1|1|2160|3|0|1|||
+|303003501|2|28|703|303003502|303003503|2|1|0|0|0|0|0|2|2|3000|3|0|99|||
+|303003502|2|15|2|401052408|1|0|-5|0|0|1|0|300|2|1|250|7|0|1|||
+|303003503|2|28|701|303003504|303003505|1|1|0|0|0|0|0|2|2|3000|3|0|99|||
+|303003504|2|15|2|401052406|1|0|5|0|0|1|0|-100|2|1|250|7|0|1|||
+|303003505|2|28|720|303003507|303003506|1|1|209200|0|0|0|0|2|2|3000|3|0|99|||
+|303003506|2|15|2|401052406|1|0|5|0|0|1|0|-100|2|1|250|7|0|1|||
+|303003507|2|15|2|401052407|1|0|-5|0|0|1|0|-300|2|1|250|7|0|1|||
+|303003601|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|303003602|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|303004101|1|1|3|0|0|58|100|0.1|0.005|3|0|0|1|2|2160|3|0|99|||
+|303004102|1|8|2|0|0|2|0|12|0|0|0|0|2|3|2160|7|0|1|||
+|303004103|1|10|10|1|0|1|100|12|90|0|0|0|2|3|2160|7|0|1|||
+|303004201|1|1|3|0|0|20|80|0.1|0.0006|0|0|0|1|1|2160|3|0|99|||
+|303004301|1|1|3|0|0|70|100|0.1|0.001|0|0|0|1|1|2160|3|0|2|||
+|303004302|1|10|21|1|0|1|40|0.2|5|0|0|0|1|1|2160|1|0|2|||
+|303004401|2|1|1|0|0|9|150|2|0.3|0|0|0|1|1|2160|3|0|1|||
+|303004501|2|28|703|303004502|303004503|2|1|0|0|0|0|0|2|2|3000|3|0|99|||
+|303004502|2|15|2|401046408|1|0|-5|0|0|1|0|300|2|1|250|7|0|1|||
+|303004503|2|28|701|303004504|303004505|1|1|0|0|0|0|0|2|2|3000|3|0|99|||
+|303004504|2|15|2|401046406|1|0|5|0|0|1|0|-100|2|1|250|7|0|1|||
+|303004505|2|28|720|303004507|303004506|1|1|209200|0|0|0|0|2|2|3000|3|0|99|||
+|303004506|2|15|2|401046406|1|0|5|0|0|1|0|-100|2|1|250|7|0|1|||
+|303004507|2|15|2|401046407|1|0|-5|0|0|1|0|-300|2|1|250|7|0|1|||
+|303004601|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|303004602|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|303100101|1|1|2|0|0|18|18|1.1|0|0|0|0|1|3|3000|3|0|99|||
+|303100102|1|10|11|1|0|2|50|0|8|0.05|0|0|1|3|3000|1|0|99|||
+|303100201|1|1|1|0|0|6.8|6.8|0.32|0|0|0|0|1|1|3000|3|0|3|||
+|303100202|1|3|3|0|0|1200|0|3000|0|0|0|0|1|1|3000|3|0|1|||
+|303100203|1|8|4|0|0|0|0|3|0|0|0|0|1|1|3000|3|0|1|||
+|303100204|1|10|101|1|0|2|50|0|8|0|0|0|1|1|3000|3|0|1|||
+|303200101|1|1|2|0|0|18|18|1.44|0|0|0|0|1|1|3000|3|0|4|||
+|303200102|1|10|11|1|0|2|80|0|4|0.05|0|0|1|2|3000|3|0|4|||
+|303200201|1|1|2|0|0|6.8|6.8|0.54|0|0|0|0|1|1|3000|8|0|2|||
+|303200202|1|8|4|0|0|0|0|5|0|0|0|0|1|1|3000|8|0|2|||
+|303300101|1|1|2|0|0|18|18|1.44|0|0|0|0|1|1|3000|3|0|5|||
+|303300102|1|9|2|0|0|3|3|6|0|0|0|0|1|1|0|1|0|0|||
+|303300103|1|10|41|1|0|2|60|0|8|0.05|0|0|1|1|0|1|0|0|||
+|303300201|1|1|2|0|0|9|9|0.72|0|0|0|0|1|1|3000|8|0|3|||
+|303300202|1|12|80|0|0|8|0|100|0|0|0|0|1|1|0|1|0|0|||
+|303301101|1|1|2|0|0|18|18|1.44|0.003|0|0|0|1|1|3000|3|0|5|||
+|303301102|1|9|2|0|0|3|5|6|0|0|0|0|1|1|0|1|0|0|||
+|303301103|1|10|41|1|0|2|1|0.29|8|0.05|0|0|1|1|0|1|0|0|||
+|303301201|1|1|2|0|0|9|9|0.72|0.0035|0|0|0|1|1|3000|3|0|99|||
+|303301202|1|10|31|0|0|2|1|0.28|1|0.15|0|0|1|1|3000|3|0|99|||
+|303301203|1|10|11|0|0|2|1|0.06|1|0.15|0|0|1|1|3000|3|0|99|||
+|303301301|1|1|1|0|0|2|1|1|0.04|0|0|0|1|1|3000|3|0|1|||
+|303302101|1|1|2|0|0|10|10|1|0.003|0|0|0|1|1|3000|3|0|5|||
+|303302102|1|9|2|0|0|3|5|6|0|0|0|0|1|1|0|1|0|0|||
+|303302103|1|10|41|1|0|2|1|0.29|8|0.05|0|0|1|1|0|1|0|0|||
+|303302201|1|1|2|0|0|6|6|0.5|0.003|0|0|0|1|1|3000|3|0|99|||
+|303302202|1|10|31|0|0|2|1|0.11|1|0.15|0|0|1|1|3000|3|0|99|||
+|303302203|1|10|11|0|0|2|1|0.05|1|0.15|0|0|1|1|3000|3|0|99|||
+|303302301|1|1|1|0|0|2|1|1|0.04|0|0|0|1|1|3000|3|0|1|||
+|303400101|1|1|1|0|0|18|18|1.44|0|0|0|0|1|1|3000|3|0|99|||
+|303400102|1|8|1|0|0|0.8|0|6|0|0|0|0|1|1|0|1|0|0|||
+|303400103|1|10|10|1|0|2|120|0|6|0.05|0|0|2|3|3000|3|0|99|||
+|303400201|1|7|1|0|0|0|0|0|0|0|0|0|1|2|3000|3|0|1|||
+|303400202|1|1|1|0|0|9|9|0.72|0|0|0|0|1|2|10|1|0|99|||
+|303400203|1|9|1|0|0|3|3|6|0|0|0|0|1|2|0|1|0|0|||
+|303400204|1|10|21|1|0|2|80|0|6|0|0|0|1|2|0|1|0|0|||
+|303401101|1|1|1|0|0|30|30|1.44|0|0|0|0|1|2|3000|3|0|99|||
+|303401102|1|16|2|0|0|200|0|0|0|0|0|0|1|2|3000|3|0|99|||
+|303401201|1|1|1|0|0|20|20|1.1|0|0|0|0|1|2|3000|3|0|2|||
+|303401202|1|9|1|0|0|5|5|8|0|0|0|0|1|2|3000|3|0|2|||
+|303401301|1|1|1|0|0|20|20|1.1|0|0|0|0|1|2|3000|3|0|3|||
+|303401302|1|1|1|0|0|20|20|1.44|0|0|0|0|1|2|3000|3|0|1|||
+|303401303|1|10|21|1|0|2|50|0|12|0|0|0|1|2|3000|3|0|1|||
+|303401304|1|10|41|1|0|2|50|0|12|0|0|0|1|2|3000|3|0|1|||
+|303401401|1|17|3|0|0|100|0|80|0|0|0|0|0|0|0|7|0|1|||
+|303401402|1|22|1|30340102|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|303401403|1|10|10|0|0|2|35|0|90|0|0|0|2|1|0|7|0|1|||
+|303402101|1|1|1|0|0|30|30|1.44|0|0|0|0|1|2|3000|3|0|99|||
+|303402102|1|16|2|0|0|200|0|0|0|0|0|0|1|2|3000|3|0|99|||
+|303402201|1|1|1|0|0|20|20|1.1|0|0|0|0|1|2|3000|3|0|2|||
+|303402202|1|9|1|0|0|4|4|8|0|0|0|0|1|2|3000|3|0|2|||
+|303402301|1|1|1|0|0|20|20|1.1|0|0|0|0|1|2|3000|3|0|3|||
+|303402302|1|1|1|0|0|20|20|1.44|0|0|0|0|1|2|3000|3|0|1|||
+|303402303|1|10|21|1|0|2|60|0|12|0|0|0|1|2|3000|3|0|1|||
+|303402304|1|10|41|1|0|2|60|0|12|0|0|0|1|2|3000|3|0|1|||
+|303402401|1|17|3|0|0|100|0|80|0|0|0|0|0|0|0|7|0|1|||
+|303402402|1|22|1|30340102|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|303402403|1|10|10|0|0|2|35|0|90|0|0|0|2|1|0|7|0|1|||
+|303500101|1|1|2|0|0|12|12|1.1|0|0|0|0|1|1|3000|3|0|99|||
+|303500102|1|16|2|0|0|150|2.5|0|0|0|0|0|1|1|3000|21|0|99|||
+|303500201|1|7|1|0|0|0|0.1|0|0|0|0|0|1|2|3000|3|0|1|||
+|303500202|1|1|2|0|0|7|3|0.4|0|0|0|0|1|2|3000|1|0|2|||
+|303500203|1|10|41|1|0|2|50|0|6|0|0|0|1|2|3000|1|0|2|||
+|303501101|1|1|2|0|0|20|20|1|0|0|0|0|1|1|3000|3|0|99|||
+|303501102|1|16|2|0|0|150|2.5|0|0|0|0|0|1|1|3000|21|0|99|||
+|303501201|1|7|1|0|0|0|0.1|0|0|0|0|0|1|2|3000|3|0|1|||
+|303501202|1|1|2|0|0|19|19|1.9|0|0|0|0|1|2|3000|1|0|2|||
+|303501203|1|10|41|1|0|2|10|0.32|6|0.03|0|0|1|2|3000|1|0|2|||
+|303600101|1|1|1|0|0|12|12|1.1|0|3|0|0|1|1|3000|3|0|99|||
+|303600102|1|8|2|0|0|2|0|8|0|0|0|0|2|3|9999|7|0|1|||
+|303600201|1|1|1|0|0|12|12|1.1|0|3|0|0|1|1|3000|3|0|3|||
+|303600202|1|8|1|0|0|0.5|0|4|0|0|0|0|1|1|9999|3|0|3|||
+|303700101|1|1|1|0|0|12|14.4|0.72|0|0|0|0|1|2|9999|14|0|99|-||
+|303700102|1|9|2|0|0|3|9|3|0|0|0|0|1|2|9999|14|0|99|-||
+|303700103|1|4|1|0|0|1|3.2|3.2|1|0|0|0|2|1|9999|18|0|1|-||
+|303700201|1|15|2|101151408|1|0|0|1|0|1|1|400|2|1|-1|7|0|1|||
+|303800101|1|46|1|2|0|30|0|0|0|0|0|0|1|1|9999|3|0|99|||
+|303800201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|9999|3|0|1|||
+|303800202|1|47|1|200|300|15|15|1.2|0|1.5|2|400|1|1|100|1|0|3|||
+|303800301|1|7|1|0|0|0|0|0|0|0|0|0|1|1|9999|6|0|1|||
+|303800302|1|46|1|2|0|30|0|0|0|0|0|0|1|1|9999|6|0|1|||
+|303800303|1|8|3|0|0|0|0|3|0|0|0|0|1|1|9999|6|0|1|||
+|303800401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|303800402|1|8|2|0|0|1.62|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|303800403|1|22|1|30380102|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|303801101|1|46|1|2|0|60|0|0|0|0|0|0|1|1|9999|3|0|99|||
+|303801201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|9999|3|0|1|||
+|303801202|1|47|1|1000|1400|15|15|1.2|0|1.5|2|1600|1|1|100|1|0|3|||
+|303900101|1|23|999|0|303900102|1|2|0|0|0|0|0|1|1|2160|3|0|99|-||
+|303900102|1|1|2|0|0|10|5|1|0.01|0|0|0|1|1|2160|3|0|99|-||
+|303900103|1|8|1|0|0|0.7|0|5|0|0|0|0|1|1|2160|3|0|99|Slow||
+|303900104|1|1|2|0|0|20|8|1.3|0|0|0|0|1|1|2160|3|0|99|-||
+|303900201|1|46|1|1|0|7|0|0|0|0|0|0|1|3|3000|14|0|1|-||
+|303900202|1|46|1|1|0|8|0|0|0|0|0|0|1|3|3000|1|0|1|-||
+|303900203|1|46|1|1|0|15|0|0|0|0|0|0|1|3|3000|1|0|1|-||
+|303900204|1|16|2|0|0|1|5|0|0|0|0|0|1|3|3000|1|0|1|-||
+|303900301|1|1|1|0|0|1|13.5|0.15|0.01|0|0|0|1|1|3000|3|0|1|||
+|303900401|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|303900402|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|303901101|1|23|999|0|303901102|1|2|0|0|0|0|0|1|1|2160|3|0|99|-||
+|303901102|1|1|2|0|0|10|5|1|0|0|0|0|1|1|2160|3|0|99|-||
+|303901103|1|8|1|0|0|0.7|0|8|0|0|0|0|1|1|2160|3|0|99|Slow||
+|303901104|1|1|2|0|0|20|8|1.3|0|0|0|0|1|1|2160|3|0|99|-||
+|303901201|1|46|1|1|0|7|0|0|0|0|0|0|1|3|3000|14|0|1|-||
+|303901202|1|46|1|1|0|8|0|0|0|0|0|0|1|3|3000|1|0|1|-||
+|303901203|1|46|1|1|0|15|0|0|0|0|0|0|1|3|3000|1|0|1|-||
+|303901204|1|16|2|0|0|400|0|0|0|0|0|0|1|3|3000|1|0|1|-||
+|303902101|1|23|999|0|303902102|1|2|0|0|0|0|0|1|1|2160|3|0|99|Checks target's remaining HP.||
+|303902102|1|1|2|0|0|10|4|1|0|0|0|0|1|1|2160|3|0|99|Magic damage (for extra damage)||
+|303902103|1|8|1|0|0|0.7|0|8|0|0|0|0|1|1|2160|3|0|99|Slow||
+|303902104|1|1|2|0|0|20|8|1.3|0|0|0|0|1|1|2160|3|0|99|Magic damage to all||
+|303902105|1|49|1|0|0|100|0|1|0|0|0|0|1|3|2160|3|0|99|Cancels buffs.||
+|303902201|1|46|1|1|0|10|0|0|0|0|0|0|1|3|3000|14|0|1|Percentage-based damage||
+|303902202|1|46|1|1|0|15|0|0|0|0|0|0|1|3|3000|1|0|1|Percentage-based damage||
+|303902203|1|46|1|1|0|20|0|0|0|0|0|0|1|3|3000|1|0|1|Percentage-based damage||
+|303902204|1|16|2|0|0|1|3|0|0|0|0|0|1|3|3000|1|0|1|TP down||
+|303902301|1|1|1|0|0|1|13.5|0.15|0.02|0|0|0|1|1|3000|3|0|1|||
+|303902302|1|16|1|0|0|200|0|0|0|0|0|0|2|3|-1|7|0|1|TP up (Stage 4 only)||
+|303902401|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|303902402|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|304000101|1|1|2|0|0|850|3.5|3|0|0|0|0|1|1|3000|14|0|1|-||
+|304000102|1|16|2|0|0|1000|10|0|0|0|0|0|1|1|3000|14|0|1|-||
+|304000201|1|7|1|0|0|0|0|0|0|0|0|0|1|2|2160|14|0|1|-||
+|304000202|1|1|2|0|0|5|1.2|0.5|0|0|0|0|1|2|20|1|0|99|-||
+|304000203|1|9|3|0|0|15|1|8|0|0|0|0|1|2|20|1|0|99|-||
+|304000301|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|304000302|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|304001101|1|1|2|0|0|850|3.5|3|0|0|0|0|1|1|3000|14|0|1|||
+|304001102|1|16|2|0|0|1000|10|0|0|0|0|0|1|1|3000|14|0|1|||
+|304001103|1|10|30|1|0|1|1000|100|90|0|0|0|2|3|3000|7|0|1|||
+|304001201|1|7|1|0|0|0|0|0|0|0|0|0|1|2|2160|14|0|1|||
+|304001202|1|1|2|0|0|5|1.2|0.5|0.0075|0|0|0|1|2|20|1|0|99|||
+|304001203|1|9|3|0|0|15|2|12|0|0|0|0|1|2|20|1|0|99|||
+|304001204|1|16|2|0|0|0|2.5|0|0|0|0|0|1|2|20|1|0|99|||
+|304001301|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|304001302|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|304100101|1|1|1|0|0|35|2.3|0.65|0|0|0|0|1|1|2160|3|0|99|||
+|304100201|1|18|1|304100202|0|0.4|0|4|0|0|0|0|1|1|-1|7|0|1|||
+|304100202|1|36|3|0|0|0|0|0|0|1.5|0|2160|1|3|2160|3|0|1|||
+|304100203|1|1|1|0|0|3|0.6|0.2|0|0|0|0|1|3|2160|3|0|99|||
+|304200101|1|46|1|1|0|30|0|0|0|0|0|0|1|3|2160|3|0|99|||
+|304200201|1|47|1|200|300|15|15|1.2|0|1.5|2|400|1|2|2160|3|2|3|||
+|304200202|1|8|7|0|0|0|0|1.5|0|0|0|0|1|2|2160|3|2|3|||
+|304200301|1|47|1|300|400|20|20|1.6|0|1.5|2|600|1|1|2160|3|0|2|||
+|304200401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|304200402|1|8|2|0|0|1.62|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|304200403|1|22|1|30420102|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|304201101|1|46|1|1|0|45|0|0|0|0|0|0|1|3|2160|3|0|99|||
+|304201201|1|47|1|1200|1800|15|15|1.2|0|1.5|2|2200|1|2|2160|3|2|3|||
+|304201202|1|8|7|0|0|0|0|1.5|0|0|0|0|1|2|2160|3|2|3|||
+|304201301|1|47|1|1800|2200|20|20|1.6|0|1.5|2|2600|1|1|2160|3|0|2|||
+|304201401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|304201402|1|8|2|0|0|1.62|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|304201403|1|22|1|30420102|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|304300101|1|46|1|1|0|20|1|0|0|0|0|0|1|3|2160|3|0|99|||
+|304300201|1|47|2|1500|1800|400|80|1.2|0|1.5|2|3000|1|1|2160|3|2|3|||
+|304300202|1|8|3|0|0|0|0|3|0|0|0|0|1|3|2160|3|2|3|||
+|304300203|1|10|11|1|0|5|20|1|5|0|0|1|1|3|2160|3|2|3|||
+|304300204|1|10|31|1|0|5|20|1|5|0|0|1|1|3|2160|3|2|3|||
+|304300301|1|17|7|0|0|100|0|50|0|0|0|0|2|1|0|7|0|1|||
+|304300302|1|1|1|0|0|393900|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|304300401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|||
+|304300402|1|8|2|0|0|1.62|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|304300403|1|10|10|1|0|2|30|2|90|0|0|2|2|3|-1|7|0|1|||
+|304300404|1|22|1|30430202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|304300501|1|1|1|0|0|600|3.5|1|0|0|0|0|1|1|3000|3|0|2|||
+|304300601|1|17|7|0|0|100|0|40|0|0|0|0|2|1|0|7|0|1|||
+|304300602|1|1|1|0|0|393900|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|304300701|1|17|7|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|||
+|304300702|1|1|1|0|0|393900|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|304300801|1|17|7|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|304300802|1|1|1|0|0|393900|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|304300901|1|17|7|0|0|100|0|10|0|0|0|0|2|1|0|7|0|1|||
+|304300902|1|1|1|0|0|393900|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|304400101|1|46|1|1|0|20|1|0|0|0|0|0|1|3|2160|3|0|99|||
+|304400201|1|47|2|600|800|20|20|1.8|0|1.5|2|10000|1|1|2160|3|0|99|||
+|304400202|1|10|20|1|0|2|10|50|5|0|0|2|2|3|2160|7|0|1|||
+|304400203|1|10|40|1|0|2|10|50|5|0|0|2|2|3|2160|7|0|1|||
+|304400301|1|1|2|0|0|500|50|1.2|0|0|0|0|1|1|3000|3|0|3|||
+|304400302|1|3|1|0|0|6000|0|8000|10000|0|0|1|1|1|3000|1|0|1|||
+|304400401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|||
+|304400402|1|8|2|0|0|1.42|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|304400403|1|10|30|1|0|2|25|0|90|0|0|2|2|3|-1|7|0|1|||
+|304400404|1|22|1|30440202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|304500101|1|1|1|0|0|5|0.7|0.1|0.02|0|0|0|1|1|3000|3|0|2|||
+|304500102|1|8|3|0|0|0|0|2.4|0|0|0|0|1|1|3000|1|0|2|||
+|304500103|1|1|1|0|0|2|0.6|0.2|0.04|0|0|0|1|1|3000|3|0|99|||
+|304500104|1|10|21|1|0|2|25|0|3|0|0|1|2|2|0|7|0|1|||
+|304500105|1|10|41|1|0|2|25|0|3|0|0|1|2|2|0|7|0|1|||
+|304500201|1|21|1|0|0|5|0.01|0|0|0|0|0|2|1|0|7|0|1|Becomes immune to all damage for a set period of time.|Immunity time + 0.01 seconds|
+|304500202|1|18|1|304500203|0|0|0|2.4|0|0|0|0|0|0|0|7|0|1|||
+|304500203|1|21|1|0|0|0|0|0|0|0|0|0|2|1|0|7|0|1|||
+|304600101|1|1|2|0|0|2|2.5|1.2|0|0|0|0|1|1|3000|3|0|99|||
+|304600201|1|1|2|0|0|1|1|0.5|0|0|0|0|1|1|3000|4|0|2|||
+|304600301|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|304600302|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|304601101|1|1|2|0|0|2|2.5|1.2|0|0|0|0|1|1|3000|3|0|99|||
+|304601102|1|8|7|0|0|0|0|3|0|0|0|0|1|3|3000|1|0|99|||
+|304601201|1|1|2|0|0|1|1|0.3|0|0|0|0|1|1|3000|4|0|2|||
+|304601202|1|16|2|0|0|0|0.2|0|0|0|0|0|1|1|3000|4|0|2|||
+|304601301|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|304601302|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|304602101|1|1|2|0|0|2|2.5|1.2|0|0|0|0|1|1|3000|3|0|99|||
+|304602201|1|1|2|0|0|1|1|0.5|0|0|0|0|1|1|3000|4|0|2|||
+|304700101|1|46|1|1|0|20|0.2|0|0|0|0|0|1|3|2160|3|0|99|-||
+|304700102|1|10|11|1|0|2|30|0.5|5|0|0|2|1|3|2160|3|0|99|-|30+0.5n|
+|304700103|1|10|21|1|0|2|30|0.5|5|0|0|2|1|3|2160|3|0|99|-|30+0.5n|
+|304700201|1|16|2|0|0|50|5|0|0|0|0|0|1|3|3000|6|0|3|-|50+5n(MAX1000)|
+|304700202|1|10|10|1|0|2|30|0.5|5|0|0|2|2|3|2160|7|0|1|-|30+0.5n|
+|304700203|1|3|3|0|0|50|0|1500|0|0|0|2|1|3|3000|6|0|3|Knock(ed) back||
+|304700204|1|3|3|0|0|50|0|1500|0|0|0|2|1|3|3000|6|0|3|Knock(ed) back||
+|304700301|1|47|1|1500|2000|20|50|1.8|0|1.5|2|10000|1|1|2160|3|0|3|-|50+5n(MAX1000)|
+|304700401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|||
+|304700402|1|8|2|0|0|1.62|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|304700403|1|22|1|30470202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|304704101|1|1|1|0|0|25|25|2.4|0|0|0|0|1|3|2160|3|0|99|||
+|304704102|1|10|21|1|0|2|25|0|12|0|0|1|1|3|-1|1|0|0|||
+|304704201|1|1|1|0|0|2|2|0.18|0|0|0|0|1|2|400|3|0|99|||
+|304704202|1|10|11|1|0|2|70|0|12|0|0|1|1|2|400|14|0|2|||
+|304704203|1|16|2|0|0|400|0|0|0|0|0|0|1|2|400|14|0|2|||
+|304704204|1|10|21|1|0|1|125|0|10|0|0|1|2|3|0|7|0|1|||
+|304704301|1|1|1|0|0|20|20|1.6|0|0|0|0|1|3|2160|3|0|3|||
+|304704302|1|10|10|1|0|2|20|0|10|0|0|1|2|3|0|7|0|1|||
+|304704401|1|17|3|0|0|100|0|80|0|0|0|0|0|0|0|7|0|1|||
+|304704402|1|10|10|1|0|2|20|0|90|0|0|1|2|3|0|7|0|1|||
+|304704403|1|22|1|30470402|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|304705101|1|46|1|1|0|20|0.2|0|0|0|0|0|1|3|2160|3|0|99|Percentage-based damage||
+|304705102|1|10|11|1|0|2|30|0.5|5|0|0|2|1|3|2160|3|0|99|Physical attack debuff|30+0.5n|
+|304705103|1|10|21|1|0|2|30|0.5|5|0|0|2|1|3|2160|3|0|99|-|30+0.5n|
+|304705201|1|16|2|0|0|50|5|0|0|0|0|0|1|3|3000|6|0|3|-|50+5n(MAX1000)|
+|304705202|1|10|10|1|0|2|30|0.5|5|0|0|2|2|3|2160|7|0|1|-|30+0.5n|
+|304705203|1|3|3|0|0|50|0|1500|0|0|0|2|1|3|3000|6|0|3|Knockback||
+|304705204|1|3|3|0|0|50|0|1500|0|0|0|2|1|3|3000|6|0|3|Knockback||
+|304705301|1|1|1|0|0|20|50|1.2|0|0|0|0|1|1|2160|3|0|3|-|50+5n(MAX1000)|
+|304705401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|||
+|304705402|1|8|2|0|0|1.62|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|304705403|1|22|1|30470702|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|304800101|1|1|2|0|0|1.4|1.5|1.2|0|0|0|0|1|1|3000|3|0|99|||
+|304800102|1|10|11|1|0|2|35|0|5|0|0|0|1|1|3000|1|0|99|||
+|304800201|1|1|2|0|0|0.5|0.9|0.5|0|0|0|0|1|1|3000|21|0|99|||
+|304800202|1|1|2|0|0|0.5|1.2|0.7|0|0|0|0|1|1|3000|20|0|99|||
+|304800203|1|8|1|0|0|0.4|0|4|0.07|0|0|0|1|1|3000|20|0|99|||
+|304801101|1|1|2|0|0|1.4|1.5|2|0|0|0|0|1|1|3000|3|0|99|||
+|304801102|1|10|11|1|0|2|35|0|5|0|0|0|1|1|3000|1|0|99|||
+|304801201|1|1|2|0|0|1|1.2|1|0|0|0|0|1|1|3000|21|0|99|||
+|304801202|1|1|2|0|0|0.5|1.2|0.7|0|0|0|0|1|1|3000|20|0|99|||
+|304801203|1|8|1|0|0|0.4|0|4|0.07|0|0|0|1|1|3000|20|0|99|||
+|304900101|1|1|1|0|0|35|40|2.32|0|0|0|0|1|1|3000|3|0|3|-||
+|304900102|1|8|3|0|0|0|0|3|0|0|0|0|1|1|3000|3|0|2|-||
+|304900103|1|49|1|0|0|100|0|0|0|0|0|0|2|3|0|7|0|1|-||
+|304900104|1|10|21|1|0|2|24|0|10|0|0|0|2|1|0|7|0|1|-||
+|304900105|1|10|41|1|0|2|24|0|10|0|0|0|2|1|0|7|0|1|-||
+|304900201|1|1|2|0|0|8|8|0.9|0|0|0|0|1|3|3000|3|0|99|-||
+|304900202|1|10|10|1|0|2|35|0|90|0|0|1|2|1|0|7|0|1|-||
+|304900301|1|8|2|0|0|1.3|0|8|0|0|0|0|2|3|9999|3|0|99|-||
+|304900401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|-||
+|304900402|1|8|2|0|0|1.38|0|90|0|0|0|2|2|3|-1|7|0|1|-||
+|304900403|1|10|10|1|0|2|25|0|90|0|0|2|2|3|-1|7|0|1|-||
+|304900501|1|1|1|0|0|35|35|2.28|0|0|0|0|1|1|3000|3|0|2|-||
+|305000101|1|46|1|1|0|15|0.2|0|0|0|0|0|1|3|2160|3|0|99|-||
+|305000102|1|23|940|305000103|0|1|2|0|0|0|0|0|1|1|2160|3|0|99|-||
+|305000103|1|11|0|0|0|2|0.04|100|0|0|0|0|1|3|2160|3|0|99|Inflicts Attract on all enemies.||
+|305000201|1|47|2|1500|2000|20|50|1.8|0|1.5|2|10000|1|1|2160|3|0|99|-|50+5n(MAX1000)|
+|305000202|1|49|1|0|0|100|0|0|0|0|0|0|1|3|2160|3|0|99|-||
+|305000301|1|1|1|0|0|2000|120|1.5|0|0|0|0|1|1|3000|3|0|1|-||
+|305000302|1|7|1|0|0|0|0|0|0|0|0|0|1|2|3000|3|0|1|-||
+|305000303|1|1|1|0|0|500|50|1|0|0|0|0|1|1|3000|3|0|3|-||
+|305000304|1|8|7|0|0|0|0|1.5|0.02|0|0|0|1|1|-1|1|0|3|Stun||
+|305000401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|||
+|305000402|1|8|2|0|0|1.22|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|305000403|1|10|20|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|||
+|305000404|1|22|1|30500202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|305000501|1|46|1|1|0|16|0.1|0|0|0|0|0|1|3|2160|3|0|99|Percentage-based damage||
+|305000502|1|23|940|305000503|0|1|2|0|0|0|0|0|1|1|2160|3|0|99|Checks target status.||
+|305000503|1|11|0|0|0|2.4|0.03|100|0|0|0|0|1|3|2160|3|0|99|Inflicts Charm on all enemies.||
+|305000601|1|1|2|0|0|20|35|1.3|0|0|2|0|1|1|2160|3|0|99|-|50+5n(MAX1000)|
+|305000602|1|49|1|0|0|100|0|0|0|0|0|0|1|3|2160|3|0|99|Deactivates parameter buffs (character)|0|
+|305000603|1|49|2|0|0|100|0|0|0|0|0|0|2|3|0|7|0|1|Deactivates parameter debuffs (boss) Note: Unused|0|
+|305000701|1|1|1|0|0|900|70|2|0|0|0|0|1|1|3000|3|0|1|Physical damage to nearest enemy||
+|305000702|1|7|1|0|0|0|0|0|0|0|0|0|1|2|3000|3|0|1|Centers next action on nearest enemy||
+|305000703|1|1|1|0|0|200|15|1|0|0|0|0|1|1|3000|3|0|3|Physical damage to 3 nearest enemies||
+|305000704|1|8|7|0|0|0|0|1.5|0.01|0|0|0|1|1|-1|1|0|3|Stun||
+|305000801|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|||
+|305000802|1|8|2|0|0|1.22|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|305000803|1|10|20|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|||
+|305000804|1|22|1|30500602|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|305100101|1|1|1|0|0|150|8|1.5|0|0|0|0|1|1|2160|3|0|99|||
+|305100102|1|3|3|0|0|2160|0|3000|0|0|0|1|1|1|2160|3|0|99|||
+|305100103|1|10|21|1|0|1|400|0|2|0|0|1|2|2|0|7|0|1|-||
+|305100104|1|10|41|1|0|1|400|0|2|0|0|1|2|2|0|7|0|1|-||
+|305100201|1|1|1|0|0|150|8|1|0|0|0|0|1|2|2160|3|0|99|||
+|305100202|1|8|7|0|0|0|0|5|0|0|0|0|1|2|230|3|0|99|||
+|305100301|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|305100302|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|305102101|1|1|1|0|0|150|8|1|0|0|0|0|1|1|2160|3|0|99|||
+|305102102|1|3|3|0|0|2160|0|3000|0|0|0|1|1|1|2160|3|0|99|||
+|305102103|1|10|21|1|0|1|400|0|2|0|0|1|2|2|0|7|0|1|Own defense down||
+|305102104|1|10|41|1|0|1|400|0|2|0|0|1|2|2|0|7|0|1|Own defense down||
+|305102201|1|1|1|0|0|150|8|0.8|0|0|0|0|1|2|2160|3|0|99|||
+|305102202|1|8|7|0|0|0|0|5|0|0|0|0|1|2|230|3|0|99|||
+|305102203|1|16|1|0|0|100|1|0|0|0|0|0|2|3|3000|7|0|1|||
+|305102301|1|1|1|0|0|150|8|1|0.002|0|0|0|1|2|3000|3|0|1|||
+|305102302|1|3|3|0|0|500|0|1000|0|0|0|1|1|1|2160|3|0|1|||
+|305102401|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|305102402|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|305200101|1|46|1|1|0|30|1|0|0|0|0|0|1|3|2160|3|0|99|||
+|305200102|1|10|11|1|0|2|30|0|12|0|0|1|2|3|3000|7|0|1|||
+|305200201|1|47|1|900|1500|400|50|1.1|0|1.5|2|10000|1|1|220|1|0|0|||
+|305200202|1|10|11|1|0|2|40|0|5|0|0|2|1|1|220|1|0|0|||
+|305200301|1|47|1|900|1500|500|100|1.5|0|1.1|2|10000|1|1|450|1|0|0|||
+|305200302|1|8|3|0|0|0|0|3|0|0|0|0|1|1|450|1|0|0|||
+|305200303|1|23|970|305200304|0|0|0|0|0|0|0|1|1|1|450|1|0|0|||
+|305200304|1|8|3|0|0|0|0|6|0|0|0|0|1|1|450|1|0|0|||
+|305200401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|||
+|305200402|1|8|2|0|0|1.42|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|305200403|1|10|10|1|0|2|25|0|90|0|0|2|2|3|-1|7|0|1|||
+|305200404|1|22|1|30520202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|305204101|1|1|1|0|0|20|20|1.5|0|0|0|0|1|3|3000|3|0|99|||
+|305204102|1|10|21|0|0|2|80|0|10|0|0|1|2|3|-1|7|0|1|||
+|305204103|1|10|41|0|0|2|80|0|10|0|0|1|2|3|-1|7|0|1|||
+|305204201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|305204202|1|1|1|0|0|10|10|0.8|0|0|0|0|1|2|100|1|0|99|||
+|305204203|1|10|21|1|0|2|20|0|12|0|0|0|1|2|100|1|0|99|||
+|305204204|1|8|7|0|0|0|0|3|0|0|0|0|1|2|100|1|0|99|||
+|305204301|1|1|1|0|0|8|8|0.8|0|0|0|0|1|3|3000|3|0|99|||
+|305204302|1|23|940|305204303|305204304|0|0|0|0|0|0|1|1|3|3000|1|0|0|||
+|305204303|1|9|3|0|0|5|4.6|10|0|0|0|0|1|3|3000|1|0|0|||
+|305204304|1|9|3|0|0|5|2.3|10|0|0|0|0|1|3|3000|1|0|0|||
+|305204401|1|17|3|0|0|100|0|60|0|0|0|0|0|0|0|7|0|1|||
+|305204402|1|8|2|0|0|1.25|0|90|0|0|0|2|2|3|0|7|0|1|||
+|305204403|1|10|10|1|0|2|25|0|90|0|0|2|2|3|0|7|0|1|||
+|305204404|1|22|1|30520402|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|305205101|1|46|1|1|0|30|1|0|0|0|0|0|1|3|2160|3|0|99|||
+|305205102|1|10|11|1|0|2|30|0|12|0|0|1|2|3|3000|7|0|1|||
+|305205201|1|1|1|900|1500|400|10|1.1|0|0|0|10000|1|1|220|1|0|0|||
+|305205202|1|10|11|1|0|2|40|0|5|0|0|2|1|1|220|1|0|0|||
+|305205301|1|1|1|900|1500|500|100|1.1|0|0|0|10000|1|1|450|1|0|0|||
+|305205302|1|8|3|0|0|0|0|3|0|0|0|0|1|1|450|1|0|0|||
+|305205303|1|23|970|305205304|0|0|0|0|0|0|0|1|1|1|450|1|0|0|||
+|305205304|1|8|3|0|0|0|0|6|0|0|0|0|1|1|450|1|0|0|||
+|305205401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|||
+|305205402|1|8|2|0|0|1.42|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|305205403|1|10|10|1|0|2|25|0|90|0|0|2|2|3|-1|7|0|1|||
+|305205404|1|22|1|30520702|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|305300101|1|1|1|0|0|20.4|20.4|1.62|0|0|0|0|1|3|3000|3|0|99|-||
+|305300102|1|4|1|0|0|2|8.9|0|0|0|0|0|2|1|0|7|0|1|-||
+|305300201|1|1|1|0|0|4.5|4.5|0.36|0|0|0|0|1|1|2160|4|0|2|-||
+|305300202|1|8|7|0|0|0|0|2.5|0|0|0|0|1|1|2160|4|0|2|-||
+|305300203|1|10|21|1|0|2|24|0|8|0|0|0|1|3|2160|3|0|99|-||
+|305300301|1|1|1|0|0|4.5|4.5|0.36|0|0|0|0|1|1|2160|3|0|3|-||
+|305300302|1|9|1|0|0|6|6|4.5|0|0|0|0|1|1|2160|3|0|2|-||
+|305300401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|7|0|1|-||
+|305300402|1|8|2|0|0|1.62|0|90|0|0|0|0|2|3|0|7|0|1|-||
+|305300403|1|22|1|30530002|0|180|0|0|0|0|0|0|2|1|0|7|0|1|-||
+|305400101|1|1|2|0|0|8|8|1.5|0|0|0|0|1|3|3000|3|0|99|-||
+|305400102|1|10|41|1|0|2|40|0|15|0|0|1|1|1|3000|1|0|0|-||
+|305400103|1|10|80|1|0|1|10|0|15|0|0|1|2|3|3000|3|0|99|-||
+|305400201|1|1|2|0|0|8|8|0.6|0|0|0|0|1|1|300|3|0|99|-||
+|305400202|1|8|4|0|0|0|0|3|0|0|0|0|1|1|300|1|0|0|-||
+|305400203|1|1|2|0|0|8|8|0.6|0|0|0|0|1|1|3000|3|0|99|-||
+|305400204|1|3|1|0|0|140|0|1050|450|0|0|0|1|1|3000|3|0|3|-||
+|305400205|1|3|3|0|0|270|0|525|0|0|0|0|1|1|3000|3|0|3|-||
+|305500101|1|23|501|305500102|305500103|1|2|0|0|0|0|0|1|3|3000|3|0|99|-||
+|305500102|1|1|2|0|0|100|50|3|0|0|0|0|1|3|3000|3|0|99|-||
+|305500103|1|1|2|0|0|80|30|2|0|0|0|0|1|3|3000|3|0|99|-||
+|305500201|1|15|2|610009111|1|0|1|1|0|1|0|300|2|1|-1|7|0|1|-||
+|305500202|1|3|3|0|0|300|0|800|0|0|0|0|1|1|2160|3|0|99|Knock(ed) back||
+|305500301|1|15|2|610009131|1|0|2|1|0|1|0|300|2|1|-1|7|0|1|-||
+|305500302|1|3|3|0|0|300|0|800|0|0|0|0|1|1|2160|3|0|99|Knock(ed) back||
+|305500401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|-||
+|305500402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|305500403|1|10|30|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|-||
+|305500404|1|22|1|30550202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|-||
+|305500501|1|1|2|0|0|70|20|1.5|0|0|0|0|1|3|3000|3|0|99|-||
+|305500502|1|9|3|0|0|10|0.8|3|0|0|0|0|1|3|3000|1|0|99|-||
+|305500601|1|15|2|610009311|1|0|1|1|0|1|0|300|2|1|-1|7|0|1|-||
+|305500602|1|3|3|0|0|300|0|800|0|0|0|0|1|1|2160|3|0|99|Knock(ed) back||
+|305500701|1|15|2|610009321|1|0|2|1|0|1|0|300|2|1|-1|7|0|1|-||
+|305500702|1|3|3|0|0|300|0|800|0|0|0|0|1|1|2160|3|0|99|Knock(ed) back||
+|305500801|1|15|2|610009331|1|0|3|1|0|1|0|100|2|1|-1|7|0|1|-||
+|305500802|1|3|3|0|0|300|0|800|0|0|0|0|1|1|2160|3|0|99|Knock(ed) back||
+|305500901|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|-||
+|305500902|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|305500903|1|10|30|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|-||
+|305500904|1|22|1|30550302|0|180|0|0|0|0|0|0|2|1|0|1|0|1|-||
+|305504101|1|23|501|305504102|305504103|1|2|0|0|0|0|0|1|3|3000|3|0|99|Checks target status.||
+|305504102|1|1|2|0|0|100|50|3|0|0|0|0|1|3|3000|3|0|99|If result positive, extra damage.||
+|305504103|1|1|2|0|0|80|30|2|0|0|0|0|1|3|3000|3|0|99|Magic damage to all||
+|305504201|1|15|2|610030111|1|0|1|1|0|1|0|300|2|1|-1|7|0|1|Monster summon||
+|305504202|1|3|3|0|0|300|0|800|0|0|0|0|1|1|2160|3|0|99|Knockback||
+|305504301|1|15|2|610030131|1|0|2|1|0|1|0|300|2|1|-1|7|0|1|Monster summon||
+|305504302|1|3|3|0|0|300|0|800|0|0|0|0|1|1|2160|3|0|99|Knockback||
+|305504401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|Trigger effect||
+|305504402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|305504403|1|10|30|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|Magic attack buff||
+|305504404|1|22|1|30550602|0|180|0|0|0|0|0|0|2|1|0|1|0|1|Action pattern change||
+|305504501|1|1|2|0|0|70|20|1.5|0|0|0|0|1|3|3000|3|0|99|Large magic damage to all enemies||
+|305504502|1|9|3|0|0|10|0.8|3|0|0|0|0|1|3|3000|1|0|99|Curse to all||
+|305504601|1|15|2|610030311|1|0|1|1|0|1|0|300|2|1|-1|7|0|1|Monster summon||
+|305504602|1|3|3|0|0|300|0|800|0|0|0|0|1|1|2160|3|0|99|Knockback||
+|305504701|1|15|2|610030321|1|0|2|1|0|1|0|300|2|1|-1|7|0|1|Monster summon||
+|305504702|1|3|3|0|0|300|0|800|0|0|0|0|1|1|2160|3|0|99|Knockback||
+|305504801|1|15|2|610030331|1|0|3|1|0|1|0|100|2|1|-1|7|0|1|Monster summon||
+|305504802|1|3|3|0|0|300|0|800|0|0|0|0|1|1|2160|3|0|99|Knockback||
+|305504901|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|Trigger effect||
+|305504902|1|8|2|0|0|1.15|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|305504903|1|10|30|1|0|2|13|0|90|0|0|2|2|3|-1|7|0|1|Magic attack buff||
+|305504904|1|22|1|30550702|0|180|0|0|0|0|0|0|2|1|0|1|0|1|Action pattern change||
+|305600101|1|1|2|0|0|30|30|2.4|0|0|0|0|1|3|2160|3|0|99|||
+|305600102|1|10|41|1|0|2|40|0|12|0|0|0|1|3|2160|3|0|99|||
+|305600201|1|1|2|0|0|10|10|0.81|0|0|0|0|1|1|2160|2|0|1|||
+|305600202|1|1|2|0|0|10|10|0.81|0|0|0|0|1|1|2160|2|0|1|||
+|305600203|1|1|2|0|0|10|10|0.81|0|0|0|0|1|1|2160|2|0|1|||
+|305600204|1|1|2|0|0|10|10|0.81|0|0|0|0|1|1|2160|2|0|1|||
+|305600205|1|1|2|0|0|10|10|0.81|0|0|0|0|1|1|2160|2|0|1|||
+|305600206|1|1|2|0|0|10|10|0.81|0|0|0|0|1|1|2160|2|0|1|||
+|305600301|1|1|2|0|0|4.5|4.5|0.36|0|0|0|0|1|1|2160|3|0|99|||
+|305600302|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|2160|4|2|1|||
+|305600303|1|8|5|0|0|0|0|8|0|0|0|0|1|1|2160|4|2|1|||
+|305600401|1|17|3|0|0|100|0|80|0|0|0|0|0|0|0|7|0|1|||
+|305600402|1|22|1|30560002|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|305600403|1|10|30|1|0|2|30|0|90|0|0|0|2|1|0|7|0|1|||
+|305700101|1|1|1|0|0|28|28|1|0.029|0|0|0|1|1|2160|3|0|1|||
+|305700102|1|10|10|1|0|2|40|0|15|0|0|0|2|2|0|7|0|1|-||
+|305700103|1|10|20|1|0|2|5|0|15|0|0|0|2|2|0|7|0|1|-||
+|305700201|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|305700202|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|305701101|1|1|1|0|0|28|28|1|0.029|0|0|0|1|1|3000|3|0|1|||
+|305701102|1|10|10|1|0|2|40|0|15|0|0|0|2|2|0|7|0|1|Physical attack buff||
+|305701103|1|10|20|1|0|2|5|0|15|0|0|0|2|2|0|7|0|1|Physical defense buff||
+|305702101|1|1|1|0|0|28|28|1|0.029|0|0|0|1|1|3000|3|0|1|||
+|305702102|1|10|10|1|0|2|30|0|15|0|0|0|2|2|0|7|0|1|Physical attack buff||
+|305702103|1|10|20|1|0|2|5|0|15|0|0|0|2|2|0|7|0|1|Physical attack buff||
+|305702104|1|8|7|0|0|0|0|8|0|0|0|0|1|3|0|3|0|1|||
+|305702201|1|1|1|0|0|1|13.5|0.15|0.01|0|0|0|1|1|3000|3|0|1|||
+|305702301|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|305702302|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|305800101|1|1|2|0|0|25|160|1.4|0|0|0|0|1|1|1500|3|0|99|||
+|305800201|1|7|3|0|2|850|0|0|0|0|0|0|2|1|2160|11|0|1|||
+|305800202|1|38|41|1|0|10|0.4|10|0|270|0|0|1|1|2160|11|0|99|-||
+|305800203|1|36|4|2|0|8|4|0|0|10.5|0|270|1|3|2160|11|0|99|-||
+|305800204|1|38|11|1|0|1000|36|10|0|270|0|0|1|1|2160|11|0|99|-||
+|305800301|1|1|2|0|0|1|60|0|0.06|0|0|0|1|1|3000|3|1|1|-||
+|305800302|1|1|2|0|0|1|30|0|0.019|0|0|0|1|1|3000|3|2|1|Magic damage to 3rd enemy||
+|305801101|1|1|2|0|0|25|23|1.4|0|0|0|0|1|1|1500|3|0|99|||
+|305801201|1|7|3|0|2|850|0|0|0|0|0|0|2|1|2160|11|0|1|||
+|305801202|1|38|41|1|0|10|0.4|10|0|270|0|0|1|1|2160|11|0|99|Magic defense down to enemies within field||
+|305801203|1|36|4|2|0|80|4|0|0|10.5|0|270|1|3|2160|11|0|99|Continuous magic damage to enemies within field||
+|305801204|1|38|11|1|0|10|0.4|10|0|270|0|0|1|1|2160|11|0|99|Physical attack down to enemies within field||
+|305801301|1|1|2|0|0|25|23|1.4|0|0|0|0|1|1|3000|3|1|2|Magic damage to 2nd and 3rd enemies||
+|305801401|1|17|3|0|0|100|0|60|0|0|0|0|0|0|0|7|0|1|||
+|305801402|1|22|1|30580102|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|305801403|1|10|30|1|0|2|15|0|90|0|0|0|2|1|0|7|0|1|||
+|305801404|1|10|80|1|0|1|15|0|90|0|0|0|2|1|0|7|0|1|||
+|305801501|1|1|2|0|0|6|6|1.4|0|0|0|0|1|1|3000|3|0|1|Magic damage to 1st enemy||
+|305900101|1|23|300|0|305900102|0|0|0|0|0|0|1|1|1|2160|3|0|99|-||
+|305900102|1|1|1|0|0|100|15|2.5|0|0|0|0|1|1|2160|1|0|99|-||
+|305900201|1|1|2|0|0|20|4|0.9|0|0|0|0|1|1|2160|3|0|2|-||
+|305900202|1|11|0|0|0|8.5|0|100|0|0|0|0|1|1|2160|3|0|2|-||
+|305900203|1|10|10|1|0|1|50|80|7.5|0|0|0|1|1|2160|3|0|2|-||
+|305900204|1|10|30|1|0|1|50|60|7.5|0|0|0|1|1|2160|3|0|2|-||
+|305900301|1|1|1|0|0|1|13.5|0.15|0.0004|0|0|0|1|1|3000|3|0|1|Standard attack||
+|305900401|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|Trigger||
+|305900402|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|Damage limit||
+|305901101|1|23|300|0|305901102|0|0|0|0|0|0|1|1|1|2160|3|0|99|Targets non-Charmed enemies||
+|305901102|1|1|1|0|0|100|15|2.5|0|0|0|0|1|1|3000|3|0|99|Physical damage to all targets||
+|305901103|1|11|0|0|0|4|0|100|0|0|0|0|1|1|3000|3|0|99|Forced Charm to all enemies||
+|305901201|1|1|2|0|0|20|4|0.9|0|0|0|0|1|1|3000|3|0|2|Small magic damage to 2 enemies||
+|305901202|1|11|0|0|0|8.5|0|100|0|0|0|0|1|1|3000|3|0|2|Charms 2 enemies||
+|305901203|1|10|10|1|0|1|50|80|7.5|0|0|0|1|1|3000|3|0|2|Large physical attack boost to 2 enemies||
+|305901204|1|10|30|1|0|1|50|60|7.5|0|0|0|1|1|3000|3|0|2|Large magic attack boost to 2 enemies||
+|305901301|1|1|1|0|0|1|13.5|0.15|0.0004|0|0|0|1|1|3000|3|0|1|Standard attack||
+|305901401|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|Trigger||
+|305901402|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|Damage limit||
+|306000101|1|46|1|1|0|40|1|0|0|0|0|0|1|3|2160|3|0|99|-||
+|306000201|1|47|2|900|1500|800|150|1.1|0|1.5|2|10000|1|1|3000|3|0|3|-||
+|306000202|1|10|11|1|0|2|30|0|9|0|0|2|1|1|3000|3|0|3|-||
+|306000301|1|15|2|610010604|1|0|0|0|0|1|850|850|2|1|0|7|0|1|-||
+|306000401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|-||
+|306000402|1|8|2|0|0|1.42|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|306000403|1|10|10|1|0|2|25|0|90|0|0|2|2|3|-1|7|0|1|-||
+|306000404|1|22|1|30600202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|-||
+|306000501|1|17|2|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|-||
+|306000502|1|4|1|0|0|2|30|0|0|0|0|0|2|3|0|3|0|99|-||
+|306000503|1|4|1|0|0|2|100|0|0|0|0|0|2|1|0|7|0|1|-||
+|306000601|1|21|1|0|0|120|0|0|0|0|0|0|2|3|0|7|0|1|-||
+|306000701|1|17|3|0|0|100|0|100|0|0|0|0|0|0|0|0|0|0|-||
+|306000702|1|8|2|0|0|1.42|0|90|0|0|0|2|2|3|-1|7|0|1|-||
+|306000703|1|10|10|1|0|2|25|0|90|0|0|2|2|3|-1|7|0|1|-||
+|306000704|1|22|1|30600602|0|180|0|0|0|0|0|0|2|1|0|1|0|1|-||
+|306000801|1|7|1|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|306000901|1|47|2|900|1500|400|35|1.1|0|1.5|2|10000|1|1|1500|3|0|99|-||
+|306000902|1|3|3|0|0|700|0|3000|0|0|0|1|1|1|1500|3|0|99|-||
+|306007101|1|46|1|1|0|40|1|0|0|0|0|0|1|3|2160|3|0|99|Proportional UB to all||
+|306007201|1|47|2|900|1500|0|0|1.5|0|1|1|50000|1|1|3000|3|0|3|AOE damage||
+|306007202|1|10|11|1|0|2|30|0|9|0|0|2|1|1|3000|3|0|3|Debuff||
+|306007301|1|15|2|610032604|1|0|0|0|0|1|850|850|2|1|0|7|0|1|Time bomb summon||
+|306007401|1|17|3|0|0|100|0|60|0|0|0|0|0|0|0|0|0|0|Awake Trigger||
+|306007402|1|8|2|0|0|1.42|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|306007403|1|10|30|1|0|2|20|0|90|0|0|2|2|3|-1|7|0|1|Phys. atk. up||
+|306007404|1|22|1|30601002|0|180|0|0|0|0|0|0|2|1|0|1|0|1|Action pattern change||
+|306007501|1|15|2|610032605|1|0|0|0|0|1|850|850|2|1|0|7|0|1|Time bomb summon||
+|306100101|1|1|1|0|0|8|8|0.65|0|0|0|0|1|1|3000|3|0|3|-||
+|306100102|1|8|3|0|0|0|0|2|0|0|0|0|1|1|3000|1|0|0|-||
+|306100201|1|1|1|0|0|8|8|0.2|0|0|0|0|1|1|-1|3|0|99|-||
+|306100202|1|10|21|1|0|40|0|0|12|0|0|0|1|1|-1|1|0|0|-||
+|306100203|1|8|1|0|0|0.5|0|6|0|0|0|0|1|1|-1|1|0|0|-||
+|306100204|1|9|1|0|0|3|9|6|0|0|0|0|1|1|300|3|0|99|-||
+|306101101|1|1|1|0|0|8|8|0.45|0.001|0|0|0|1|1|3000|3|0|3|||
+|306101102|1|8|3|0|0|0|0|2|0|0|0|0|1|1|3000|1|0|0|||
+|306101201|1|1|1|0|0|8|8|0.2|0|0|0|0|1|1|-1|3|0|99|||
+|306101202|1|8|1|0|0|0.75|0|6|0|0|0|0|1|1|-1|1|0|0|||
+|306101203|1|9|1|0|0|3|7.5|6|0|0|0|0|1|1|500|3|0|99|||
+|306101301|1|1|1|0|0|1|13.5|0.15|0.0004|0|0|0|1|1|3000|3|0|1|||
+|306101401|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|306101402|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|306102101|1|1|1|0|0|8|8|0.45|0.001|0|0|0|1|1|3000|3|0|3|||
+|306102102|1|8|3|0|0|0|0|2|0|0|0|0|1|1|3000|1|0|0|||
+|306102201|1|92|0|0|0|0|0|0|0|0|0|0|1|1|-1|3|0|99|||
+|306102202|1|1|1|0|0|8|8|0.2|0|0|0|0|1|1|-1|3|0|99|||
+|306102203|1|8|1|0|0|0.75|0|6|0|0|0|0|1|1|-1|1|0|99|||
+|306102204|1|92|0|0|0|0|0|0|0|0|0|0|1|1|700|3|0|99|||
+|306102205|1|9|1|0|0|3|7.5|8|0|0|0|0|1|1|700|3|0|0|||
+|306102301|1|1|1|0|0|1|13.5|0.15|0.0004|0|0|0|1|1|3000|3|0|1|||
+|306102401|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|306102402|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|306200101|1|1|2|0|0|8|12|0.5|0|0|0|0|1|1|3000|3|0|99|-||
+|306200102|1|15|2|101201401|1|0|0|1|0|1|1|250|2|1|-1|7|0|1|-||
+|306200103|1|15|2|101201401|1|0|0|-1|0|1|1|400|2|1|-1|7|0|1|-||
+|306200201|1|1|2|0|0|8|8|0.24|0|0|0|0|1|1|1500|3|0|99|-||
+|306200202|1|3|3|0|0|50|0|1500|0|0|0|2|1|3|1500|1|0|0|Knock(ed) back||
+|306200203|1|23|940|306200204|0|0|0|0|0|0|0|1|1|3|1500|1|0|0|-||
+|306200204|1|8|3|0|0|0|0|3|0|0|0|0|1|1|1500|1|0|0|-||
+|306200205|1|30|0|0|0|0|0|0|0|0|0|0|2|3|1500|18|0|99|-||
+|306201101|1|1|2|0|0|1|1|0.5|0.014|0|0|0|1|1|3000|3|0|99|Physical attack to all.||
+|306201102|1|15|2|401032206|1|0|0|1|0|1|1|250|2|1|-1|7|0|1|Tanukid summon||
+|306201103|1|15|2|401032206|1|0|0|-1|0|1|1|400|2|1|-1|7|0|1|Tanukid summon||
+|306201201|1|1|2|0|0|1|1|0.3|0.008|0|0|0|1|1|1500|3|0|99|AOE magic attack||
+|306201202|1|3|3|0|0|50|0|1500|0|0|0|2|1|3|1500|1|0|0|Knockback||
+|306201203|1|23|950|306201204|0|0|0|0|0|0|0|1|1|3|1500|1|0|0|Conditional target set: if HP 50% or below||
+|306201204|1|8|3|0|0|0|0|1|0.02|0|0|0|1|1|1500|1|0|0|Target condition carryover: Paralyze||
+|306201205|1|30|0|0|0|0|0|0|0|0|0|0|2|3|1500|18|0|99|Tanukid disappear||
+|306201301|1|1|1|0|0|1|1|0.5|0.025|0|0|0|1|1|3000|3|0|1|Physical attack||
+|306202101|1|1|2|0|0|1|1|0.5|0.014|0|0|0|1|1|3000|3|0|99|Physical attack to all.||
+|306202102|1|15|2|401042206|1|0|0|1|0|1|1|250|2|1|-1|7|0|1|Tanukid summon||
+|306202103|1|15|2|401042206|1|0|0|-1|0|1|1|400|2|1|-1|7|0|1|Tanukid summon||
+|306202201|1|1|2|0|0|1|1|0.3|0.008|0|0|0|1|1|1500|3|0|99|AOE magic attack||
+|306202202|1|3|3|0|0|50|0|1500|0|0|0|2|1|3|1500|1|0|0|Knockback||
+|306202203|1|23|950|306202204|0|0|0|0|0|0|0|1|1|3|1500|1|0|0|Conditional target set: if HP 50% or below||
+|306202204|1|8|3|0|0|0|0|1|0.02|0|0|0|1|1|1500|1|0|0|Target condition carryover: Paralyze||
+|306202205|1|30|0|0|0|0|0|0|0|0|0|0|2|3|1500|18|0|99|Tanukid disappear||
+|306202301|1|1|1|0|0|1|1|0.5|0.055|0|0|0|1|1|3000|3|0|1|Physical attack||
+|306203101|1|1|2|0|0|1|1|0.5|0.014|0|0|0|1|1|3000|3|0|99|Physical attack to all.||
+|306203102|1|15|2|401046206|1|0|0|1|0|1|1|250|2|1|-1|7|0|1|Tanukid summon||
+|306203103|1|15|2|401046206|1|0|0|-1|0|1|1|400|2|1|-1|7|0|1|Tanukid summon||
+|306203201|1|1|2|0|0|1|1|0.3|0.008|0|0|0|1|1|1500|3|0|99|AOE magic attack||
+|306203202|1|3|3|0|0|50|0|1500|0|0|0|2|1|3|1500|1|0|0|Knockback||
+|306203203|1|23|950|306203204|0|0|0|0|0|0|0|1|1|3|1500|1|0|0|Conditional target set: if HP 50% or below||
+|306203204|1|8|3|0|0|0|0|1|0.02|0|0|0|1|1|1500|1|0|0|Target condition carryover: Paralyze||
+|306203205|1|30|0|0|0|0|0|0|0|0|0|0|2|3|1500|18|0|99|Tanukid disappear||
+|306203301|1|1|1|0|0|1|1|0.5|0.025|0|0|0|1|1|3000|3|0|1|Physical attack||
+|306204101|1|1|2|0|0|1|1|0.5|0.014|0|0|0|1|1|3000|3|0|99|Physical attack to all.||
+|306204102|1|15|2|401046206|1|0|0|1|0|1|1|250|2|1|-1|7|0|1|Tanukid summon||
+|306204103|1|15|2|401046206|1|0|0|-1|0|1|1|400|2|1|-1|7|0|1|Tanukid summon||
+|306204201|1|1|2|0|0|1|1|0.3|0.008|0|0|0|1|1|1500|3|0|99|AOE magic attack||
+|306204202|1|3|3|0|0|50|0|1500|0|0|0|2|1|3|1500|1|0|0|Knockback||
+|306204203|1|23|950|306204204|0|0|0|0|0|0|0|1|1|3|1500|1|0|0|Conditional target set: if HP 50% or below||
+|306204204|1|8|3|0|0|0|0|1|0.02|0|0|0|1|1|1500|1|0|0|Target condition carryover: Paralyze||
+|306204205|1|30|0|0|0|0|0|0|0|0|0|0|2|3|1500|18|0|99|Tanukid disappear||
+|306204301|1|1|1|0|0|1|1|0.5|0.025|0|0|0|1|1|3000|3|0|1|Physical attack||
+|306300101|1|3|1|0|0|6000|0|8000|8000|0|0|0|1|3|3000|3|0|99|||
+|306300102|1|23|500|306300103|306300104|0|0|0|0|0|0|0|1|3|3000|3|0|99|||
+|306300103|1|1|1|0|0|54|54|3.24|0|0|0|0|1|3|3000|3|0|99|||
+|306300104|1|1|1|0|0|30|30|1.8|0|0|0|0|1|3|3000|3|0|99|||
+|306300201|1|1|1|0|0|20|20|0.81|0|0|0|0|1|2|580|3|0|99|||
+|306300301|1|1|2|0|0|15|15|0.81|0|0|0|0|1|2|300|3|0|99|||
+|306300302|1|9|2|0|0|4|4|8|0|0|0|0|1|2|300|3|0|99|||
+|306300401|1|17|3|0|0|100|0|85|0|0|0|0|0|0|0|7|0|1|||
+|306300402|1|22|1|30630002|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|306300403|1|10|10|1|0|2|20|0|90|0|0|0|2|1|0|7|0|1|||
+|306300404|1|10|30|1|0|2|20|0|90|0|0|0|2|1|0|7|0|1|||
+|306301101|1|3|1|0|0|6000|0|8000|8000|0|0|0|1|3|3000|3|0|99|||
+|306301102|1|23|500|306301103|306301104|0|0|0|0|0|0|0|1|3|3000|3|0|99|||
+|306301103|1|1|1|0|0|54|54|3.96|0|0|0|0|1|3|3000|3|0|99|||
+|306301104|1|1|1|0|0|30|30|2.2|0|0|0|0|1|3|3000|3|0|99|||
+|306301105|1|10|11|1|0|2|35|0|8|0|0|0|1|3|3000|20|0|99|||
+|306301201|1|1|1|0|0|20|20|0.81|0|0|0|0|1|2|580|3|0|99|||
+|306301301|1|1|2|0|0|15|15|0.81|0|0|0|0|1|2|300|3|0|99|||
+|306301302|1|9|2|0|0|4|4|8|0|0|0|0|1|2|300|3|0|99|||
+|306301401|1|17|3|0|0|100|0|85|0|0|0|0|0|0|0|7|0|1|||
+|306301402|1|22|1|30630102|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|306301403|1|10|10|1|0|2|20|0|90|0|0|0|2|1|0|7|0|1|||
+|306301404|1|10|30|1|0|2|20|0|90|0|0|0|2|1|0|7|0|1|||
+|306400101|1|1|1|0|0|8|12|0.25|0|0|0|0|1|3|-1|3|0|99|Physical damage to all.||
+|306400102|1|10|81|1|0|2|80|0|8|0|0|0|1|3|3000|1|0|99|Lowers TP Boost of all.||
+|306400103|1|34|1|0|0|2|40|0|3|0|0|0|1|3|3000|1|0|99|Damage increases with each attack.||
+|306400201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|4|1|1|Targets second from rear.||
+|306400202|1|1|1|0|0|8|8|0.1|0|0|0|0|1|2|100|1|0|99|Damage to small range.||
+|306400203|1|8|3|0|0|0|0|5|0|0|0|0|1|2|100|1|0|99|Paralyze to small range.||
+|306500101|1|1|1|0|0|8|12|1.25|0|0|0|0|1|3|-1|3|0|99|Physical damage to all.||
+|306500102|1|10|21|1|1|2|20|0.2|10|0|0|0|1|3|-1|1|0|99|Physical defense down to target.||
+|306500103|1|10|41|1|1|2|20|0.2|10|0|0|0|1|3|-1|1|0|99|Magic defense down to target.||
+|306500104|1|10|10|1|1|2|0|0.075|90|0|0|0|2|3|-1|7|0|1|Own physical attack up.||
+|306500105|1|10|30|1|1|2|0|0.15|90|0|0|0|2|3|-1|7|0|1|Own magic attack up.||
+|306500201|1|1|2|0|0|8|12|0.25|0|0|0|0|1|1|-1|3|0|4|Magic damage to area in front.||
+|306500202|1|3|3|0|0|50|0|1500|0|0|0|2|1|1|-1|1|0|4|Knockback to target.||
+|306500203|1|23|970|306500204|0|0|0|0|0|0|0|0|1|1|-1|1|0|4|If target HP 70% or below||
+|306500204|1|11|1|0|0|9|0|1|0|0|0|0|1|1|-1|1|0|4|Confuse to target.||
+|306500301|1|1|1|0|0|0|0|0.8|0|0|0|0|1|1|-1|3|0|3|Standard attack to 2 enemies in front.||
+|306600101|1|1|2|0|0|8|12|0.5|0|0|0|0|1|3|-1|3|0|99|Magic damage to all||
+|306600102|1|9|1|0|0|115|6|6|0|0|0|0|1|1|3000|1|0|99|Poison to target||
+|306600103|1|9|4|0|0|115|6|6|0|0|0|0|1|1|3000|1|0|99|Venom to target||
+|306600104|1|10|21|0|1|2|40|0|8|0|0|0|1|1|110|1|0|99|Physical defense down to target.||
+|306600105|1|10|41|0|1|2|40|0|8|0|0|0|1|1|110|1|0|99|Physical defense down to target.||
+|306600201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|Targets 1 nearest character||
+|306600202|1|1|2|0|0|8|8|0.7|0|0|0|0|1|1|110|1|0|99|AOE magic damage around target||
+|306600203|1|9|4|0|0|115|6|6|0|0|0|0|1|1|110|1|0|99|Venom to target||
+|306600204|1|16|1|0|0|150|0|0|0|0|0|0|2|3|-1|7|0|1|Recovers TP based on count||
+|306700101|1|46|1|1|0|40|0|0|0|0|0|0|1|3|2160|3|0|99|-||
+|306700102|1|23|500|306700103|0|1|2|0|0|0|0|0|1|1|2160|3|0|99|-||
+|306700103|1|1|1|0|0|50|8|1.5|0|0|0|0|1|1|2160|3|0|99|-||
+|306700201|1|18|1|306700202|0|0.1|0|12|0|0|0|0|1|1|-1|7|0|1|-||
+|306700202|1|36|3|0|0|0|0|0|0|1.5|0|2160|1|3|2160|3|0|1|-||
+|306700203|1|1|1|0|0|2|0.7|0.3|0|0|0|0|1|3|2160|3|0|99|-||
+|306700204|1|10|20|1|0|2|15|0|12|0|0|0|2|1|0|7|0|1|-||
+|306700205|1|10|21|1|0|2|50|0|6|0|0|0|2|1|0|7|0|1|-||
+|306700301|1|46|1|1|0|20|0|0|0|0|0|0|1|1|3000|3|0|3|-||
+|306700302|1|8|7|0|0|0|0|2|0|0|0|0|1|1|3000|1|0|3|-||
+|306700303|1|23|950|306700304|0|0|0|0|0|0|0|1|1|1|3000|1|0|3|-||
+|306700304|1|9|2|0|0|120|15|10|0|0|0|0|1|1|3000|1|0|3|-||
+|306700401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|-||
+|306700402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|306700403|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|-||
+|306700404|1|22|1|30670302|0|180|0|0|0|0|0|0|2|1|0|1|0|1|-||
+|306700501|1|47|1|900|1500|300|30|1.1|0|1.5|2|10000|1|1|3000|4|0|3|-||
+|306700502|1|9|2|0|0|115|10|6|0|0|0|0|1|1|3000|1|0|3|-||
+|306700503|1|23|950|306700504|0|0|0|0|0|0|0|1|1|1|3000|1|0|3|-||
+|306700504|1|9|2|0|0|115|10|12|0|0|0|0|1|1|3000|1|0|3|-||
+|306700601|1|1|2|0|0|3|0.7|0.3|0|0|0|0|1|3|2160|3|0|99|-||
+|306700602|1|8|1|0|0|0.2|0|120|0|0|0|0|1|3|2160|3|0|99|-||
+|306700701|1|8|2|0|0|6|0|10|0|0|0|2|1|3|3000|3|0|99|Haste||
+|306700702|1|10|10|1|0|1|1000|0|10|0|0|2|1|3|3000|3|0|99|-||
+|306700703|1|10|30|1|0|1|1000|0|10|0|0|2|1|3|3000|3|0|99|-||
+|306700801|1|17|3|0|0|100|0|100|0|0|0|0|0|0|0|0|0|0|-||
+|306700802|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|306700803|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|-||
+|306700804|1|22|1|30670602|0|180|0|0|0|0|0|0|2|1|0|1|0|1|-||
+|306700901|1|47|1|900|1500|100|20|1.1|0|1.5|2|10000|1|3|2160|3|0|99|-||
+|306700902|1|9|2|0|0|30|1.8|180|0|0|0|0|1|3|2160|3|0|99|-||
+|306707101|1|46|1|1|0|35|0.1|0|0|0|0|0|1|3|2160|3|0|99|UB: Physical damage to all.||
+|306707102|1|23|500|306707103|0|1|2|0|0|0|0|0|1|1|2160|3|0|99|Checks target status.||
+|306707103|1|1|1|0|0|0|0|5|0|0|0|0|1|1|2160|3|0|99|If result positive, extra damage.||
+|306707201|1|18|1|306707202|0|0.1|0|12|0|0|0|0|1|1|-1|7|0|1|Damage charge||
+|306707202|1|36|3|0|0|0|0|0|0|1.5|0|2160|1|3|2160|3|0|1|Attack field||
+|306707203|1|1|1|0|0|2|0.7|0.3|0|0|0|0|1|3|2160|3|0|99|Damage to all||
+|306707204|1|10|20|1|0|2|15|0|12|0|0|0|2|1|0|7|0|1|Moderate phys. def. up to self||
+|306707205|1|10|21|1|0|2|50|0|6|0|0|0|2|1|0|7|0|1|Large phys. def. down to self||
+|306707301|1|46|1|1|0|24|0.05|0|0|0|0|0|1|1|3000|3|0|3|Physical attack to 3 from front||
+|306707302|1|8|7|0|0|0|0|2|0|0|0|0|1|1|3000|1|0|3|If hit, stun||
+|306707303|1|23|940|306707304|0|0|0|0|0|0|0|1|1|1|3000|1|0|3|If target HP 40% or below||
+|306707304|1|9|2|0|0|100|3|18|0|0|0|0|1|1|3000|1|0|3|Inflicts Burn||
+|306707401|1|17|3|0|0|100|0|45|0|0|0|0|0|0|0|0|0|0|Trigger effect||
+|306707402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|306707403|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|Physical attack buff||
+|306707404|1|22|1|30671002|0|180|0|0|0|0|0|0|2|1|0|1|0|1|Action pattern change||
+|306800101|1|46|1|2|0|30|0|0|0|0|0|0|1|3|3000|3|0|99|-||
+|306800102|1|10|41|1|0|2|10|0|6|0|0|0|1|3|3000|3|0|99|-||
+|306800201|1|47|2|1000|1500|600|60|0|0|1.5|2|10000|1|1|3000|3|1|2|-||
+|306800202|1|8|7|0|0|0|0|4|0|0|0|0|1|1|3000|3|1|2|-||
+|306800301|1|47|2|500|1200|150|3|0|0|1.5|2|10000|1|1|3000|3|0|2|-||
+|306800302|1|16|2|0|0|900|0|0|0|0|0|0|1|1|3000|3|0|2|-||
+|306800303|1|9|3|0|0|50|2|14|14|0|0|0|1|1|3000|3|0|2|-||
+|306800304|1|10|11|1|0|2|90|0|14|0|0|0|1|1|3000|3|0|2|-||
+|306800401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|-||
+|306800402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|306800403|1|10|30|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|-||
+|306800404|1|22|1|30680202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|-||
+|306800501|1|47|2|500|1200|150|20|0|0|1.5|2|10000|1|1|3000|3|0|3|-||
+|306800502|1|16|2|0|0|900|0|0|0|0|0|0|1|1|3000|3|0|3|-||
+|306800503|1|9|3|0|0|100|8|12|0|0|0|0|1|1|3000|3|0|3|-||
+|306800504|1|11|1|0|0|12|0|100|0|0|0|0|1|1|3000|3|0|3|-||
+|306800505|1|8|2|0|0|1.8|0|12|0|0|0|0|1|1|3000|3|0|3|-||
+|306800506|1|10|81|1|0|2|90|0|12|0|0|0|1|1|3000|3|0|3|-||
+|306800507|1|10|21|1|0|2|30|0|12|0|0|0|1|1|3000|3|0|2|-||
+|306800601|1|16|2|0|0|500|0|0|0|0|0|0|2|3|-1|7|0|1|-||
+|306800602|1|9|3|0|0|9999|0|10|0|0|0|0|2|3|-1|7|0|1|-||
+|306800603|1|10|21|1|0|2|50|0|10|0|0|0|2|3|-1|7|0|1|-||
+|306800701|1|17|3|0|0|100|0|100|0|0|0|0|0|0|0|0|0|0|-||
+|306800702|1|8|2|0|0|1.18|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|306800703|1|10|30|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|-||
+|306800704|1|22|1|30680602|0|180|0|0|0|0|0|0|2|1|0|1|0|1|-||
+|306800801|1|52|0|0|0|10|0|0|0|0|0|0|2|3|-1|7|0|1|-||
+|306807101|1|46|1|2|0|20|0.1|0|0|0|0|0|1|3|3000|3|0|99|Magic damage to all||
+|306807102|1|10|41|1|0|2|10|0|6|0|0|0|1|3|3000|3|0|99|Moderate mag. def. down to target||
+|306807201|1|46|1|2|0|4.5|0.15|0|0|0|0|0|1|1|3000|3|1|2|Moderate magic attack to enemies 2 and 3||
+|306807202|1|8|7|0|0|0|0|4|0|0|0|0|1|1|3000|3|1|2|Stun||
+|306807301|1|47|2|500|1200|150|3|0|0|1|1|10000|1|1|3000|3|0|2|Small magic attack to 2 frontmost enemies||
+|306807302|1|16|2|0|0|900|0|0|0|0|0|0|1|1|3000|3|0|2|TP reduction||
+|306807303|1|9|3|0|0|50|2|14|0|0|0|0|1|1|3000|3|0|2|Inflicts Curse||
+|306807304|1|10|11|1|0|2|90|0|14|0|0|0|1|1|3000|3|0|2|Phys. atk. down||
+|306807401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|Trigger effect||
+|306807402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|306807403|1|10|30|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|Magic attack buff||
+|306807404|1|22|1|30680202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|Action pattern change||
+|306900101|1|10|10|1|0|1|50|3|20|0|0|2|2|3|-1|7|0|1|Physical attack buff||
+|306900102|1|10|30|1|0|1|50|3|20|0|0|2|2|3|-1|7|0|1|Magic attack buff||
+|306900103|1|1|1|0|0|6|6|6|0.14|0|0|0|1|3|-1|1|0|99|Damage to all enemies (physical)||
+|306900104|1|1|2|0|0|6|6|6|0.14|0|0|0|1|3|-1|1|0|99|Damage to all enemies (magic)||
+|306900201|1|7|4|0|0|0|0|0|0|0|0|0|1|2|3000|3|0|1|Magic attack to area in front.||
+|306900202|1|1|2|0|0|5|5|3|0.1|0|0|0|1|2|70|3|0|3|Magic attack to area in front.||
+|306900301|1|1|1|0|0|7|7|5|0.057|0|0|0|1|3|-1|1|0|99|Damage to all enemies (physical)||
+|306901101|1|10|10|1|0|1|50|3|20|0|0|2|2|3|-1|7|0|1|Physical attack buff||
+|306901102|1|10|30|1|0|1|50|3|20|0|0|2|2|3|-1|7|0|1|Magic attack buff||
+|306901103|1|1|1|0|0|6|6|6|0.14|0|0|0|1|3|-1|1|0|99|Damage to all enemies (physical)||
+|306901104|1|1|2|0|0|6|6|6|0.14|0|0|0|1|3|-1|1|0|99|Damage to all enemies (magic)||
+|306901201|1|7|4|0|0|0|0|0|0|0|0|0|1|2|3000|3|0|1|Magic attack to area in front.||
+|306901202|1|1|2|0|0|5|5|3|0.1|0|0|0|1|2|70|3|0|3|Magic attack to area in front.||
+|306901301|1|1|1|0|0|7|7|5|0.057|0|0|0|1|3|-1|1|0|99|Damage to all enemies (physical)||
+|306901401|1|17|9|0|0|100|0|18|0|0|0|0|2|1|0|7|0|1|||
+|306901402|1|10|21|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|306901403|1|10|41|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|306901501|1|17|9|0|0|100|0|18|0|0|0|0|2|1|0|7|0|1|||
+|306901502|1|10|21|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|306901503|1|10|41|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|306901601|1|17|9|0|0|100|0|18|0|0|0|0|2|1|0|7|0|1|||
+|306901602|1|10|21|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|306901603|1|10|41|2|0|1|1|0.1|0|0|0|0|2|1|0|7|0|1|||
+|306901701|1|17|7|0|0|100|0|90|0|0|0|0|2|3|0|7|0|1|||
+|306901702|1|73|3|0|0|100000|0|90|0|850000|0|0|2|3|0|7|0|1|||
+|307000101|1|1|1|0|0|120|45|3|0.02|0|0|0|1|3|3000|3|0|99|||
+|307000201|1|1|1|0|0|55|25|2.5|0.02|0|0|0|1|3|3000|3|0|99|||
+|307000202|1|3|3|0|0|3000|0|3000|0|0|0|1|1|1|3000|3|0|99|||
+|307000301|1|18|1|307000302|0|0.015|0.002|4|0|0|0|0|1|1|-1|7|0|1|||
+|307000302|1|36|3|0|0|0|9|0.4|0|1.5|0|3000|1|3|3000|3|0|1|||
+|307000303|1|1|1|0|0|40|9|1.2|0|0|0|0|1|3|3000|3|0|99|||
+|307000304|1|8|3|0|0|0|0|11|0|0|0|0|1|1|3000|3|0|2|Haste||
+|307000305|1|10|10|1|0|2|40|0|11|0|0|1|2|3|-1|7|0|1|-||
+|307000401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|-||
+|307000402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|-||
+|307000403|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|Haste||
+|307000404|1|22|1|30700302|0|180|0|0|0|0|0|0|2|1|0|1|0|1|-||
+|307000501|1|17|3|0|0|100|0|100|0|0|0|0|0|0|0|0|0|0|-||
+|307000502|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|307000503|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|||
+|307000504|1|22|1|30700702|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|307000601|1|1|1|0|0|270|10|0.8|0.04|0|2|10000|1|1|3000|3|0|3|||
+|307004301|1|18|1|307004302|0|0.015|0.002|4|0|0|0|0|1|1|-1|7|0|1|Counter SP 2 Charge||
+|307004302|1|36|3|0|0|0|9|0.4|0|1.5|0|3000|1|3|3000|3|0|1|Counter SP 2 Field||
+|307004303|1|1|1|0|0|40|9|1.2|0|0|0|0|1|3|3000|3|0|99|Coutner SP 2 Attack||
+|307004304|1|8|3|0|0|0|0|4|0|0|0|0|1|1|3000|3|0|2|Counter SP 2 Paralyze||
+|307004305|1|10|10|1|0|2|40|0|11|0|0|1|2|3|-1|7|0|1|Counter SP 2 Attack Buff||
+|307005301|1|18|1|307005302|0|0.3|0|4|0|0|0|0|1|1|-1|7|0|1|Counter SP 3 Charge||
+|307005302|1|36|3|0|0|0|9|0.4|0|1.5|0|3000|1|3|3000|3|0|1|Counter SP 3 Field||
+|307005303|1|1|1|0|0|40|9|1.2|0|0|0|0|1|3|3000|3|0|99|Counter SP 3 Attack||
+|307005304|1|8|3|0|0|0|0|6|0|0|0|0|1|1|3000|3|0|2|Counter SP 3 Paralyze||
+|307005305|1|10|10|1|0|2|40|0|11|0|0|1|2|3|-1|7|0|1|Counter SP 3 Attack Buff||
+|307008101|1|46|1|1|0|30|0|0|0|0|0|0|1|3|3000|3|0|99|||
+|307008201|1|1|1|0|0|50|15|1.2|0.002|0|0|0|1|3|3000|3|0|99|||
+|307008202|1|3|3|0|0|3000|0|3000|0|0|0|1|1|1|3000|3|0|99|||
+|307008301|1|18|1|307008302|0|0.01|0.0025|5|0|0|0|0|1|1|-1|7|0|1|||
+|307008302|1|36|3|0|0|0|9|0.4|0|1.5|0|3000|1|3|3000|3|0|1|||
+|307008303|1|1|1|0|0|40|5|1.2|0|0|0|0|1|3|3000|3|0|99|||
+|307008304|1|8|3|0|0|0|0|11|0|0|0|0|1|1|3000|3|0|2|Haste||
+|307008305|1|10|10|1|0|2|40|0|11|0|0|1|2|3|-1|7|0|1|Physical attack buff||
+|307008306|1|8|1|0|0|0.5|0|5|0|0|0|0|1|3|3000|3|0|99|||
+|307008401|1|17|3|0|0|100|0|35|0|0|0|0|0|0|0|0|0|0|Action pattern change||
+|307008402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|307008403|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|Haste||
+|307008404|1|22|1|30701102|0|180|0|0|0|0|0|0|2|1|0|1|0|1|Physical attack buff||
+|307008501|1|17|3|0|0|100|0|100|0|0|0|0|0|0|0|0|0|0|Action pattern change||
+|307008502|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|307008503|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|||
+|307008504|1|22|1|30701502|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|307008601|1|1|1|0|0|270|10|0.5|0.02|0|2|10000|1|1|3000|3|0|3|||
+|307100101|1|46|1|1|0|40|0|0|0|0|0|0|1|3|2160|3|0|99|-||
+|307100201|1|7|3|0|2|850|0|0|0|0|0|0|2|1|2160|11|0|1|||
+|307100202|1|38|11|1|0|1000|36|6|0|270|0|0|1|1|2160|11|0|99|-||
+|307100203|1|36|3|3|0|1000|0|0|0|6.5|0|270|1|3|2160|11|0|99|-||
+|307100204|1|38|51|1|0|10|3.6|6|0|270|0|0|1|1|2160|11|0|99|-||
+|307100205|1|49|1|0|0|100|0|0|0|0|0|0|1|2|985|3|0|99|Resets buffs of enemies within field||
+|307100301|1|10|80|1|0|1|10|0|6|0|0|0|2|3|0|7|0|1|-||
+|307100302|1|46|1|1|0|25|0|0|0|0|0|0|1|1|450|4|0|99|-||
+|307100401|1|46|1|1|0|15|0|0|0|0|0|0|1|3|2160|3|0|1|-||
+|307101101|1|46|1|1|0|2|0|0|0|0|0|0|1|1|300|3|0|99|-||
+|307101102|1|3|3|0|0|200|0|1500|0|0|0|0|1|1|300|3|0|99|Knock(ed) back||
+|307101103|1|46|1|1|0|8|0|0|0|0|0|0|1|1|550|3|0|99|-||
+|307101104|1|3|3|0|0|200|0|1500|0|0|0|0|1|1|550|3|0|99|Knock(ed) back||
+|307101105|1|46|1|1|0|40|0|0|0|0|0|0|1|1|2160|3|0|99|-||
+|307101106|1|3|3|0|0|1000|0|1500|0|0|0|0|1|1|2160|3|0|99|Knock(ed) back||
+|307101201|1|7|3|0|2|850|0|0|0|0|0|0|2|1|2160|11|0|1|||
+|307101202|1|38|31|2|0|40|0|7|0|270|0|0|1|1|2160|11|0|99|-||
+|307101203|1|36|4|4|0|2000|0|0|0|7.5|0|270|1|3|2160|11|0|99|-||
+|307101204|1|38|11|2|0|40|0|7|0|270|0|0|1|1|2160|11|0|99|-||
+|307101205|1|13|0|0|0|10|0|100|0|0|0|0|1|2|9999|16|0|2|Silence to 2 enemies with greatest magic attack||
+|307101301|1|46|1|1|0|12|0|0|0|0|0|0|1|3|2160|3|0|1|-||
+|307101401|1|46|1|1|0|15|0|0|0|0|0|0|1|3|2160|2|0|1|-||
+|307102201|1|3|3|0|0|1000|0|1500|0|0|0|0|1|1|2160|3|0|99|Knock(ed) back||
+|307102202|1|15|2|800100111|1|0|0|-1|0|1|460|460|2|1|0|7|0|1|-||
+|307102203|1|15|2|800100112|1|0|0|1|0|1|480|480|2|1|0|7|0|1|-||
+|307102204|1|15|2|800100113|1|0|0|2|0|1|440|440|2|1|0|7|0|1|-||
+|307102301|1|46|2|1|0|80|0|0|0|0|0|0|1|1|2160|3|0|99|Remaining HP percentage damage to all||
+|307200101|1|23|100|307200103|307200102|0|0|0|0|0|0|0|1|3|3000|3|0|99|||
+|307200102|1|1|2|0|0|16|16|2|0|0|0|0|1|3|0|1|0|0|||
+|307200103|1|46|1|2|0|80|0|0|0|0|0|0|1|3|0|1|0|0|||
+|307200104|1|23|100|0|307200105|0|0|0|0|0|0|0|1|3|3000|3|0|99|||
+|307200105|1|8|8|0|0|0|0|0.35|0|0|0|0|1|3|0|1|0|0|||
+|307200201|1|1|2|0|0|10|5|0.5|0|0|0|0|1|3|3000|3|0|3|||
+|307200202|1|23|502|307200203|0|0|0|0|0|0|0|0|1|3|3000|3|0|3|||
+|307200203|1|8|8|0|0|0|0|12|0|0|0|0|1|1|0|1|0|0|||
+|307200301|1|1|2|0|0|6.8|6.8|0.54|0|0|0|0|1|1|500|3|0|99|||
+|307200302|1|9|1|0|0|0.8|0.8|12|0|0|0|0|1|1|0|1|0|0|||
+|307200401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|307200402|1|10|30|1|0|2|30|0|90|0|0|2|2|3|-1|7|0|1|||
+|307200403|1|22|1|30720002|0|90|0|0|0|0|0|0|2|3|-1|7|0|1|||
+|307200501|1|1|2|0|0|15|15|1.2|0|0|0|0|1|1|600|3|0|99|||
+|307200502|1|9|1|0|0|0.8|0.8|12|0|0|0|0|1|1|600|3|0|99|||
+|307200503|1|15|2|710000001|1|0|0|0|0|1|80|80|2|1|0|7|0|1|||
+|307200504|1|3|3|0|0|300|0|1500|0|0|0|0|1|1|2160|3|0|99|||
+|307300101|1|46|1|1|0|30|0|0|0|0|0|0|1|3|3000|3|0|99|Percentage-based damage to all.||
+|307300102|1|10|10|1|0|2|20|0|8|0|0|0|1|3|-1|7|0|99|Applies physical attack up to self.||
+|307300103|1|30|0|0|0|0|0|0|0|0|0|0|2|2|2160|18|0|99|Destroys all allied summon units.||
+|307300201|1|15|2|610015601|1|0|0|0|0|1|600|650|2|1|100|7|0|1|Lackey A summon||
+|307300301|1|15|2|610015602|1|0|0|0|0|1|400|450|2|1|100|7|0|1|Lackey B summon||
+|307300401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|Action pattern change||
+|307300402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Charm||
+|307300403|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|Physical attack buff||
+|307300404|1|22|1|30730302|0|180|0|0|0|0|0|0|2|1|0|1|0|1|Action pattern change||
+|307300501|1|1|1|0|0|120|10|0|0|0|0|0|1|3|2160|3|0|99|AOE attack||
+|307300502|1|11|0|0|0|8|0|100|0|0|0|0|1|3|2160|3|0|99|Charm||
+|307300601|1|17|3|0|0|100|0|100|0|0|0|0|0|0|0|0|0|0|Trigger effect||
+|307300602|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|307300603|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|Physical attack buff||
+|307300604|1|22|1|30730602|0|180|0|0|0|0|0|0|2|1|0|1|0|1|Action pattern change||
+|307300701|1|15|2|610015601|1|0|0|0|0|1|600|650|2|1|100|7|0|1|Lackey A summon||
+|307300801|1|15|2|610015602|1|0|0|0|0|1|400|350|2|1|100|7|0|1|Lackey B summon||
+|307307101|1|46|1|1|0|5|0.2|0|0|0|0|0|1|3|3000|3|0|99|Percentage-based damage to all.||
+|307307102|1|10|10|1|0|2|20|0|8|0|0|0|1|3|-1|7|0|99|Applies physical attack up to self.||
+|307307103|1|30|0|0|0|0|0|0|0|0|0|0|2|2|2160|18|0|99|Destroys all allied summon units.||
+|307307201|1|15|2|610041601|1|0|0|0|0|1|600|650|2|1|100|7|0|1|Lackey A summon||
+|307307301|1|15|2|610041602|1|0|0|0|0|1|400|450|2|1|100|7|0|1|Lackey B summon||
+|307307401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|Action pattern change||
+|307307402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Charm||
+|307307403|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|Physical attack buff||
+|307307404|1|22|1|30731002|0|180|0|0|0|0|0|0|2|1|0|1|0|1|Action pattern change||
+|307307501|1|1|1|0|0|120|10|0|0|0|0|0|1|3|2160|3|0|99|AOE attack||
+|307307502|1|11|0|0|0|3|0|100|0|0|0|0|1|3|2160|3|0|99|Charm||
+|307307601|1|17|3|0|0|100|0|100|0|0|0|0|0|0|0|0|0|0|Trigger effect||
+|307307602|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Haste||
+|307307603|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|Physical attack buff||
+|307307604|1|22|1|30730602|0|180|0|0|0|0|0|0|2|1|0|1|0|1|Action pattern change||
+|307307701|1|15|2|610041601|1|0|0|0|0|1|600|650|2|1|100|7|0|1|Lackey A summon||
+|307307801|1|15|2|610041602|1|0|0|0|0|1|400|350|2|1|100|7|0|1|Lackey B summon||
+|307308201|1|15|2|610041701|1|0|0|0|0|1|600|650|2|1|100|7|0|1|Lackey A summon||
+|307308301|1|15|2|610041702|1|0|0|0|0|1|400|450|2|1|100|7|0|1|Lackey B summon||
+|307308701|1|15|2|610041701|1|0|0|0|0|1|600|650|2|1|100|7|0|1|Lackey A summon||
+|307308801|1|15|2|610041702|1|0|0|0|0|1|400|350|2|1|100|7|0|1|Lackey B summon||
+|307309201|1|15|2|610041801|1|0|0|0|0|1|600|650|2|1|100|7|0|1|Lackey A summon||
+|307309301|1|15|2|610041802|1|0|0|0|0|1|400|450|2|1|100|7|0|1|Lackey B summon||
+|307309701|1|15|2|610041801|1|0|0|0|0|1|600|650|2|1|100|7|0|1|Lackey A summon||
+|307309801|1|15|2|610041802|1|0|0|0|0|1|400|350|2|1|100|7|0|1|Lackey B summon||
+|307400101|1|1|2|0|0|250|7|2.8|0|0|0|0|1|1|2160|3|0|99|||
+|307400201|1|1|2|0|0|80|3|0.5|0|0|0|0|1|1|160|3|0|99|Magic damage to all enemies||
+|307400202|1|16|2|0|0|100|2|0|0|0|0|0|1|1|160|1|0|99|Lowers target's TP Boost||
+|307400203|1|1|2|0|0|100|5|0.8|0|0|0|0|1|1|2160|3|0|99|Magic damage to all enemies||
+|307400301|1|1|1|0|0|90|6|1.3|0|0|0|0|1|3|2160|4|0|2|||
+|307400401|1|17|7|0|0|100|0|40|0|0|0|0|1|1|0|0|0|0|Action pattern change||
+|307400402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|307400403|1|10|30|1|0|2|80|0|100|0|0|2|2|3|-1|7|0|1|Physical attack buff||
+|307400501|1|1|2|0|0|150|10|1.5|0|0|0|0|1|1|2160|5|0|1|||
+|307400502|1|46|1|2|0|95|0|0|0|0|0|0|1|1|2160|5|0|1|||
+|307400503|1|57|307400502|0|0|20|0|0|0|0|0|0|1|1|2160|5|0|1|||
+|307400601|1|17|3|0|0|100|0|100|0|0|0|0|0|0|0|0|0|0|||
+|307400602|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|307400603|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|||
+|307400604|1|22|1|30740602|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|307400701|1|17|9|0|0|100|0|25|0|0|0|0|2|1|0|7|0|1|||
+|307400702|1|10|21|2|0|2|15|0|0|0|0|0|2|1|0|7|0|1|||
+|307400703|1|10|41|2|0|2|15|0|0|0|0|0|2|1|0|7|0|1|||
+|307400704|1|10|31|2|0|2|25|0|0|0|0|0|2|1|0|7|0|1|||
+|307400705|1|10|11|2|0|2|10|0|0|0|0|0|2|1|0|7|0|1|||
+|307400801|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|307400802|1|10|21|2|0|2|35|0|0|0|0|0|2|1|0|7|0|1|||
+|307400803|1|10|41|2|0|2|35|0|0|0|0|0|2|1|0|7|0|1|||
+|307400804|1|10|31|2|0|2|40|0|0|0|0|0|2|1|0|7|0|1|||
+|307400805|1|10|11|2|0|2|15|0|0|0|0|0|2|1|0|7|0|1|||
+|307400901|1|17|9|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|||
+|307400902|1|10|21|2|0|2|30|0|0|0|0|0|2|1|0|7|0|1|||
+|307400903|1|10|41|2|0|2|30|0|0|0|0|0|2|1|0|7|0|1|||
+|307400904|1|10|31|2|0|2|35|0|0|0|0|0|2|1|0|7|0|1|||
+|307400905|1|10|11|2|0|2|12|0|0|0|0|0|2|1|0|7|0|1|||
+|307500101|1|46|1|1|0|35|0|0|0|0|0|0|1|3|9999|3|0|99|||
+|307500201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|9999|2|0|1|||
+|307500202|1|1|1|0|0|50|4|1.5|0|0|0|0|1|3|100|1|0|2|||
+|307500203|1|8|7|0|0|0|0|3.5|0|0|0|0|1|1|100|1|0|0|||
+|307500204|1|9|1|0|0|2|2|8|0|0|0|0|1|1|100|1|0|0|||
+|307500301|1|7|1|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|307500302|1|46|1|1|0|25|0|0|0|0|0|0|1|1|100|1|0|4|||
+|307500303|1|10|21|1|0|2|80|0|4|0.05|0|0|1|1|100|1|0|0|||
+|307500401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|307500402|1|8|2|0|0|1.43|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|307500403|1|22|1|30750202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|307501101|1|46|1|1|0|8|0|0|0|0|0|0|1|3|9999|3|0|99|||
+|307501201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|9999|2|0|1|||
+|307501202|1|47|1|1000|1400|15|15|1.2|0|1.5|2|1600|1|1|100|1|0|2|||
+|307501203|1|8|7|0|0|0|0|3.5|0|0|0|0|1|1|100|1|0|0|||
+|307501204|1|9|1|0|0|2|2|8|0|0|0|0|1|1|100|1|0|0|||
+|307501301|1|7|1|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|307501302|1|46|1|1|0|35|0|0|0|0|0|0|1|1|100|1|0|4|||
+|307501303|1|10|21|1|0|2|80|0|4|0.05|0|0|1|1|100|1|0|0|||
+|307501401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|307501402|1|8|2|0|0|1.62|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|307501403|1|22|1|30750202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|307504101|1|1|1|0|0|13.5|13.5|1.08|0|0|0|0|1|3|3000|3|0|99|Large physical damage to all enemies||
+|307504102|1|1|1|0|0|9|9|0.72|0|0|0|0|1|3|3000|21|0|99|Deals small phyisical damage to all magic enemies||
+|307504201|1|7|4|0|0|0|0|0|0|0|0|0|1|3|3000|3|1|1|Targets the 2nd character in front||
+|307504202|1|1|1|0|0|6.8|6.8|0.54|0|0|0|0|1|2|50|1|0|99|Deals physical damage within 100 units||
+|307504203|1|8|7|0|0|0|0|1.5|0|0|0|0|1|2|50|1|0|99|Inflicts stun within the same area for a short time||
+|307504301|1|1|1|0|0|9|9|0.72|0|0|0|0|1|1|550|3|0|99|Large physical damage to 500 units in front||
+|307504302|1|3|1|0|0|140|0|1050|450|0|0|0|1|1|300|3|0|99|Knockback (vertical)||
+|307504303|1|3|3|0|0|270|0|525|0|0|0|0|1|1|300|1|0|0|Knockback (horizontal)||
+|307504401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|307504402|1|8|2|0|0|1.43|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|307504403|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|||
+|307504404|1|22|1|30750402|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|307505101|1|46|1|1|0|35|0|0|0|0|0|0|1|3|9999|3|0|99|Large physical damage to all enemies||
+|307505102|1|7|1|0|0|0|0|0|0|0|0|0|1|1|9999|2|0|1|Deals small physical damage to all magic enemies||
+|307505201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|9999|2|0|1|Targets the 2nd character in front||
+|307505202|1|1|1|0|0|50|4|1.5|0|0|0|0|1|3|100|1|0|2|Deals physical damage within 100 units||
+|307505203|1|8|7|0|0|0|0|3.5|0|0|0|0|1|1|100|1|0|0|Inflicts stun within the same area for a short time||
+|307505301|1|7|1|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|Large physical damage to 500 units in front||
+|307505302|1|46|1|1|0|25|0|0|0|0|0|0|1|1|100|1|0|4|Knockback (vertical)||
+|307505303|1|10|21|1|0|2|80|0|4|0.05|0|0|1|1|100|1|0|0|Knockback (horizontal)||
+|307505401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|307505402|1|8|2|0|0|1.43|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|307505403|1|22|1|30750502|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|307600101|1|1|2|0|0|15|15|1.2|0|0|0|0|1|3|2160|3|0|99|||
+|307600102|1|9|2|0|0|180|30|8|0|0|0|0|1|1|0|1|0|0|||
+|307600103|1|12|80|0|0|8|0|100|0|0|0|0|1|1|0|1|0|0|||
+|307600201|1|1|1|0|0|3|3|0.4|0|0|0|0|1|1|250|2|0|1|||
+|307600202|1|1|1|0|0|3|3|0.38|0|0|0|0|1|1|350|2|0|1|||
+|307600203|1|1|1|0|0|3|3|0.36|0|0|0|0|1|1|450|2|0|1|||
+|307600204|1|1|1|0|0|3|3|0.34|0|0|0|0|1|1|550|2|0|1|||
+|307600205|1|1|1|0|0|3|3|0.32|0|0|0|0|1|1|650|2|0|1|||
+|307600206|1|1|1|0|0|3|3|0.3|0|0|0|0|1|1|750|2|0|1|||
+|307600207|1|1|1|0|0|3|3|0.3|0|1|0|0|1|1|2160|3|0|99|||
+|307600301|1|15|2|710000002|1|0|0|0|0|1|850|850|2|1|0|7|0|1|||
+|307600401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|7|0|1|||
+|307600402|1|22|1|30760002|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|307600403|1|10|30|1|0|2|20|0|90|0|0|0|2|1|0|7|0|1|||
+|307600404|1|10|80|1|0|1|10|0|90|0|0|0|2|1|0|7|0|1|||
+|307700101|1|46|1|2|0|0|1|0|0|0|0|0|1|1|9999|3|0|99|||
+|307700201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|9999|3|0|1|||
+|307700202|1|1|1|0|0|50|3|1|0|0|0|0|1|1|100|1|0|3|||
+|307700301|1|7|1|0|0|0|0|0|0|0|0|0|1|1|9999|6|0|1|||
+|307700302|1|46|1|2|0|30|0|0|0|0|0|0|1|1|9999|6|0|1|||
+|307700303|1|8|3|0|0|0|0|3|0|0|0|0|1|1|9999|6|0|1|||
+|307700401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|307700402|1|8|2|0|0|1.62|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|307700403|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|-||
+|307700404|1|22|1|30770202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|307704101|1|1|1|0|0|18|18|1.44|0|0|0|0|1|3|3000|3|0|99|Large physical damage to all enemies||
+|307704201|1|1|1|0|0|13.5|13.5|1.08|0|0|0|0|1|1|350|3|0|1|Large physical damage to 1 random enemy in small range in front||
+|307704202|1|1|1|0|0|13.5|13.5|1.08|0|0|0|0|1|1|350|3|1|1|Large physical damage to 1 random enemy in small range in front||
+|307704203|1|1|1|0|0|13.5|13.5|1.08|0|0|0|0|1|1|350|2|0|1|Large physical damage to 1 random enemy in small range in front||
+|307704301|1|7|4|0|0|0|0|0|0|0|0|0|1|1|9999|16|0|1|Targets enemy with highest magic attack (tauntable)||
+|307704302|1|1|1|0|0|6.8|6.8|0.54|0|0|0|0|1|2|50|3|0|99|Moderate physical damage to small area||
+|307704303|1|8|3|0|0|0|0|4|0|0|0|0|1|2|9999|16|0|1|Paralyze to target only (unblockable)||
+|307704401|1|17|3|0|0|100|0|80|0|0|0|0|2|3|-1|7|0|1|Awakening trigger 80%||
+|307704402|1|8|2|0|0|1.62|0|90|0|0|0|0|2|3|-1|7|0|1|Haste||
+|307704403|1|10|10|1|0|2|15|0|90|0|0|0|2|3|-1|7|0|1|Physical attack buff||
+|307704404|1|22|1|30770402|0|180|0|0|0|0|0|0|2|3|-1|7|0|1|Action pattern change||
+|307800101|1|46|1|2|0|25|0|0|0|0|0|0|1|2|2160|3|0|99|Percentage-based damage 30%||
+|307800102|1|3|3|0|0|300|0|1200|0|0|0|0|1|2|2160|3|0|99|Moderate knockback||
+|307800103|1|7|4|0|0|0|0|0|0|0|0|0|1|2|2160|3|0|1|Selects target||
+|307800104|1|1|2|0|0|0|0|2|0|0|0|0|1|2|200|3|0|99|Magic damage to enemies within 250 around target||
+|307800201|1|1|2|0|0|0|0|1.5|0|0|0|0|1|1|2160|4|0|1|Magic damage to farthest enemy||
+|307800202|1|3|1|0|0|800|0|2000|1200|0|0|0|1|1|2160|4|0|1|Fire upward||
+|307800203|1|3|3|0|0|-200|0|1600|0|0|0|0|1|1|2160|4|0|1|Moderate knockback||
+|307800301|1|7|4|0|0|0|0|0|0|0|0|0|1|1|2160|3|0|1|Selects target||
+|307800302|1|1|2|0|0|0|0|1.2|0|0|0|0|1|2|150|3|0|99|Magic damage to enemies within 250 around target||
+|307800303|1|1|2|0|0|0|0|2|0|0|0|0|1|1|2160|3|0|1|Magic damage to nearest enemy||
+|307800304|1|3|3|0|0|100|0|800|0|0|0|0|1|2|250|3|0|99|Small knockback||
+|307800401|1|17|3|0|0|100|0|40|0|0|0|0|1|1|0|0|0|0|Action pattern change||
+|307800402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|307800403|1|10|40|1|0|2|20|0|90|0|0|2|2|3|-1|7|0|1|||
+|307800404|1|22|1|30780302|0|180|-1|1|0|0|0|0|2|1|0|1|0|1|||
+|307800501|1|15|2|610019501|1|0|0|0|0|1|-400|-400|2|1|0|7|0|1|||
+|307800502|1|52|0|0|0|525|0|0|0|0|0|0|2|3|-1|7|0|1|Applies range change to self||
+|307800601|2|21|1|0|0|180|0|0|0|0|0|0|2|1|0|7|0|1|Becomes immune to all damage for a set period of time.||
+|307900101|1|46|1|1|0|0|1|0|0|0|0|0|1|3|2160|3|0|99|||
+|307900201|1|28|701|0|307900202|2|1|0|0|0|0|0|1|3|3000|3|0|99|||
+|307900202|1|28|702|0|307900203|2|1|0|0|0|0|0|1|3|3000|3|0|99|||
+|307900203|1|1|1|0|0|25|3|0.7|0|1.5|2|0|1|2|2160|3|2|3|||
+|307900204|1|8|7|0|0|0|0|1.5|0|0|0|0|1|2|2160|3|2|3|||
+|307900301|1|1|1|0|0|45|4|1.3|0|1.5|2|0|1|1|2160|3|0|2|||
+|307900401|1|17|3|0|0|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|307900402|1|8|2|0|0|1.62|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|307900403|1|22|1|30790202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|308000101|1|1|2|0|0|250|7|2.8|0|0|0|0|1|1|2160|3|0|99|||
+|308000102|1|26|308000101|3|0|256|0.12|0|0|0|0|0|2|1|0|7|0|1|Passes mark number to attack action multiplier||
+|308000103|1|35|1|0|0|99|56|99|5|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|308000201|1|7|3|0|2|960|0|0|0|0|0|0|2|1|2160|11|0|1|||
+|308000202|1|16|2|0|0|10|0|0|0|0|0|0|1|1|2160|3|0|99|Lowers target's TP Boost||
+|308000203|1|26|308000202|1|0|256|3|0|0|0|0|0|2|1|0|7|0|1|Passes mark number to attack action multiplier||
+|308000204|1|38|81|2|0|1|0|12|0|350|0|0|1|1|2160|11|0|99|TP gain rate debuff field||
+|308000205|1|27|308000204|1|0|256|1|0|0|0|0|0|2|1|0|7|0|1|Passes mark number to attack action multiplier||
+|308000206|1|1|2|0|0|250|7|2.8|0|0|0|0|1|1|2160|3|0|99|||
+|308000301|1|15|2|610021102|1|0|1|1|0|1|300|350|2|1|-1|7|0|1|Summon||
+|308000302|1|15|2|610021103|1|0|2|2|0|1|450|500|2|1|-1|7|0|1|Summon||
+|308000303|1|15|2|610021104|1|0|3|3|0|1|600|650|2|1|-1|7|0|1|Summon||
+|308000304|1|3|3|0|0|200|0|1000|0|0|0|0|1|2|2160|3|0|99|Knockback||
+|308000401|1|17|3|0|0|100|0|40|0|0|0|0|1|1|0|0|0|0|Awakening||
+|308000402|1|35|1|0|0|99|56|99|20|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|308000403|1|10|30|1|0|2|80|0|100|0|0|2|2|3|-1|7|0|1|Physical attack buff||
+|308000501|1|17|3|0|0|100|0|100|0|0|0|0|1|1|0|0|0|0|Awakening||
+|308000502|1|10|30|1|0|2|60|0|100|0|0|2|2|3|-1|7|0|1|Physical attack buff||
+|308000503|1|38|61|2|0|95|0|90|0|3000|0|0|1|1|3000|7|0|0|Physical critical rate down field||
+|308000504|1|38|71|2|0|95|0|90|0|3000|0|0|1|1|3000|7|0|0|Magic critical rate down field||
+|308000601|1|1|1|0|0|700|1|1|0|0|0|0|1|1|3000|3|0|1|Single-target physical attack||
+|308000602|1|26|308000601|3|0|256|0.05|0|0|0|0|0|2|1|0|7|0|1|Passes mark number to attack action multiplier||
+|308000603|1|35|1|0|0|99|56|99|2|0|0|0|2|3|0|7|0|1|Applies mark to self||
+|308000701|1|17|5|0|0|100|0|0|1|0|0|0|0|0|0|7|0|1|When receiving a critical attack||
+|308000702|1|35|1|0|0|99|56|99|-2|0|0|0|2|3|0|7|0|1|Own mark number -2||
+|308000801|1|15|2|610021302|1|0|1|1|0|1|300|350|2|1|-1|7|0|1|Summon||
+|308000802|1|15|2|610021303|1|0|2|2|0|1|450|500|2|1|-1|7|0|1|Summon||
+|308000803|1|15|2|610021304|1|0|3|3|0|1|600|650|2|1|-1|7|0|1|Summon||
+|308000804|1|3|3|0|0|200|0|1000|0|0|0|0|1|2|2160|3|0|99|Knockback||
+|308000901|1|17|5|0|0|100|0|0|1|0|0|0|0|0|0|7|0|1|When receiving a critical attack||
+|308000902|1|35|1|0|0|99|56|99|-5|0|0|0|2|3|0|7|0|1|Own mark number -10||
+|308001001|1|17|7|0|0|100|0|30|0|0|0|0|1|1|0|0|0|0|Awakening||
+|308001002|1|35|1|0|0|99|56|99|20|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|308001003|1|10|30|1|0|2|35|0|100|0|0|2|2|3|-1|7|0|1|Physical attack buff||
+|308001101|1|15|2|610021501|1|0|1|1|0|1|500|550|2|1|-1|7|0|1|Summon||
+|308001102|1|15|2|610021502|1|0|2|2|0|1|650|700|2|1|-1|7|0|1|Summon||
+|308001103|1|15|2|610021503|1|0|3|3|0|1|800|850|2|1|-1|7|0|1|Summon||
+|308001104|1|3|3|0|0|500|0|1000|0|0|0|0|1|2|2160|3|0|99|Knockback||
+|308100101|1|46|1|1|0|30|0|0|0|0|0|0|1|3|2160|3|0|99|||
+|308100201|1|1|2|0|0|51.3|11.11|1|0|0|2|3000|1|1|2160|3|2|3|||
+|308100202|1|8|3|0|0|0|0|1.5|0|0|0|0|1|3|2160|3|2|3|||
+|308100203|1|10|11|1|0|2|20|0|3|0|0|1|1|3|2160|3|2|3|||
+|308100204|1|10|31|1|0|2|20|0|3|0|0|1|1|3|2160|3|2|3|||
+|308100301|1|17|7|0|0|100|0|40|0|0|0|0|2|1|0|7|0|1|||
+|308100302|1|1|1|0|0|393900|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|308100401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|||
+|308100402|1|8|2|0|0|1.62|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|308100403|1|10|10|1|0|2|35|0|90|0|0|2|2|3|-1|7|0|1|||
+|308100404|1|22|1|30810202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|308100501|1|1|1|0|0|21.45|11.14|1|0|0|0|0|1|1|3000|3|0|2|||
+|308100601|1|17|7|0|0|100|0|30|0|0|0|0|2|1|0|7|0|1|||
+|308100602|1|1|1|0|0|393900|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|308100701|1|17|7|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|308100702|1|1|1|0|0|393900|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|308100801|1|17|7|0|0|100|0|10|0|0|0|0|2|1|0|7|0|1|||
+|308100802|1|1|1|0|0|393900|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|308200101|1|23|502|308200103|308200102|0|0|0|0|0|0|0|1|3|2160|3|0|99|308200101: Checks whether target is Poisoned||
+|308200102|1|1|1|0|0|500|10|2|0|0|0|0|1|3|2160|3|0|99|308200102: Physical damage to area in front.||
+|308200103|1|1|1|0|0|5000|25|7|0|0|0|0|1|3|2160|3|0|99|308200103: Physical damage to area in front.||
+|308200104|1|26|308200105|2|0|6|2.5|0|0|0|0|0|1|3|2160|3|0|99|308200104: Passes dealt damage to child||
+|308200105|1|4|1|0|0|1|0|0|0|0|0|0|2|3|0|7|0|1|308200105: HP recovery||
+|308200201|1|1|1|0|0|120|6|0.05|0|0|0|0|1|3|2160|3|0|99|308200201: Physical damage to area in front.||
+|308200202|1|10|21|1|0|2|7|0|12|0|0|0|1|3|2160|1|0|99|308200202: Defense debuff to area in front.||
+|308200203|1|1|1|0|0|120|6|0.05|0|0|0|0|1|3|2160|3|0|99|308200203: Physical damage to area in front.||
+|308200204|1|10|21|1|0|2|7|0|12|0|0|0|1|3|2160|1|0|99|308200204: Defense debuff to area in front.||
+|308200205|1|1|1|0|0|120|6|0.05|0|0|0|0|1|3|2160|3|0|99|308200205: Physical damage to area in front.||
+|308200206|1|10|21|1|0|2|7|0|12|0|0|0|1|3|2160|1|0|99|308200206: Defense debuff to area in front.||
+|308200207|1|1|1|0|0|120|6|0.05|0|0|0|0|1|3|2160|3|0|99|308200207: Physical damage to area in front.||
+|308200301|1|16|1|0|0|50|0|0|0|0|0|0|2|3|0|7|0|1|308200301: TP recovery||
+|308200302|1|10|10|1|0|2|10|0|11|0|0|1|2|3|-1|7|0|1|308200302: Own physical attack up||
+|308200401|1|17|3|0|0|100|0|40|0|0|0|0|1|1|0|0|0|0|308200401: Awake trigger||
+|308200402|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|308200402: Phys. atk. up||
+|308200501|1|21|1|0|0|4.3|0|0|0|0|0|0|2|1|0|7|0|1|308200501: Becomes invincible for a set time||
+|308200502|1|9|1|0|0|3000|0|7.5|0|0|0|0|1|3|3000|3|0|99|308200502: Inflicts Venom on all enemies||
+|308200503|1|10|21|1|0|2|65|0|5.3|0|0|0|2|1|0|7|0|1|308200503: Inflicts physical defense debuff to self||
+|308200504|1|10|41|1|0|2|65|0|5.3|0|0|0|2|1|0|7|0|1|308200504: Inflicts magic defense debuff to self||
+|308200505|1|49|2|0|0|100|0|0|0|0|0|0|2|3|2160|7|0|99|308200505: Cancels debuffs.||
+|308200601|1|1|1|0|0|1|1.5|2.1|0|0|0|0|1|1|3000|3|0|2|308200601: Standard attack substitute ver.||
+|308200701|1|1|1|0|0|1|2|2.4|0|0|0|0|1|1|3000|3|0|2|308200701: Standard attack substitute ver. (MODE 2)||
+|308200702|1|9|1|0|0|1500|0|6|0|0|0|0|1|1|3000|3|0|99|308200702: Standard attack substitute ver. (MODE 2)||
+|308200801|1|17|7|0|0|100|0|40|0|0|0|0|1|1|0|0|0|0|308200801: Awake trigger||
+|308200802|1|10|10|1|0|2|20|0|90|0|0|2|2|3|-1|7|0|1|308200802: Phys. atk. up||
+|308300101|1|46|1|1|0|20|0.1|0|0|0|0|0|1|3|2160|3|0|99|||
+|308300201|1|1|2|0|0|20|4|1.1|0|0|0|0|1|1|2160|3|0|99|||
+|308300202|1|10|20|1|0|2|10|50|5|0|0|2|2|3|2160|7|0|1|||
+|308300203|1|10|40|1|0|2|10|50|5|0|0|2|2|3|2160|7|0|1|||
+|308300301|1|1|2|0|0|500|10|1|0|0|0|0|1|1|3000|3|0|3|||
+|308300302|1|3|1|0|0|6000|0|8000|10000|0|0|1|1|1|3000|1|0|1|||
+|308300303|1|3|3|0|0|50|0|300|0|0|0|0|1|1|3000|1|0|1|Moderate knockback||
+|308300401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|||
+|308300402|1|8|2|0|0|1.35|0|90|0|0|0|2|2|3|-1|7|0|1|||
+|308300403|1|10|30|1|0|2|18|0|90|0|0|2|2|3|-1|7|0|1|||
+|308300404|1|22|1|30830202|0|180|0|0|0|0|0|0|2|1|0|1|0|1|||
+|308400101|1|46|1|2|0|35|0|0|0|0|0|0|1|3|3000|3|0|99|Union Burst: Percentage damage 35%||
+|308400102|1|10|41|1|0|2|50|0|8|0|0|0|1|2|2160|3|0|99|Union Burst: Magic debuff||
+|308400201|1|1|1|0|0|50|2.2|1.5|0|0|0|0|1|1|2160|4|0|1|Skill 1: Physical damage to rearmost 2 characters||
+|308400202|1|3|6|0|0|-2160|0|8640|0|0|0|0|1|1|2160|4|0|1|Skill 1: Pull to front line (variant of knockback)||
+|308400203|1|8|7|0|0|0|0|2|0|0|0|0|1|1|0|1|0|1|Skill 1: Stun||
+|308400301|1|1|2|0|0|10|1.2|1.1|0|0|0|0|1|1|2160|3|0|3|Skill 2: Small magic damage to all||
+|308400302|1|1|2|0|0|20|2.3|3.7|0|0|0|0|1|1|2160|3|0|1|Skill 2: Large magic damage to area in front||
+|308400303|1|3|3|0|0|300|0|1200|0|0|0|0|1|1|2160|3|0|3|Skill 2: Resets position of enemy pulled forward with knockback||
+|308400401|1|17|3|0|0|100|0|40|0|0|0|0|1|1|0|0|0|0|Awake: Trigger setting||
+|308400402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Awake: Haste||
+|308400403|1|10|30|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|Awake: Magic attack buff||
+|308400404|1|22|1|30840302|0|180|-1|1|0|0|0|0|2|1|0|1|0|1|Awake: Action pattern change||
+|308400501|1|1|2|0|0|10|1.1|0.5|0|0|0|0|1|1|2160|3|0|3|Skill 3: Magic damage to area in front||
+|308400502|1|1|2|0|0|20|2.2|1.3|0|0|0|0|1|1|2160|21|0|3|||
+|308400503|1|16|2|0|0|70|0|0|0|0|0|0|1|1|2160|3|0|3|Skill 3: TP reduction||
+|308400504|1|49|1|0|0|100|0|0|0|0|0|0|1|1|2160|20|0|3|99||
+|308400505|1|16|1|0|0|40|0|0|0|0|0|0|2|3|-1|7|0|1|Skill 3: Physical attack debuff||
+|308400601|1|17|3|0|0|100|0|50|0|0|0|0|1|1|0|0|0|0|Awake: Trigger setting||
+|308400602|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|-1|7|0|1|Awake: Haste||
+|308400603|1|10|30|1|0|2|20|0|90|0|0|2|2|3|-1|7|0|1|Awake: Magic attack buff||
+|308400604|1|22|1|30840602|0|180|-1|1|0|0|0|0|2|1|0|1|0|1|Awake: Action pattern change||
+|308500101|1|1|2|0|0|18|18|1.44|0|0|0|0|1|3|2160|3|0|99|Magic damage to all enemies||
+|308500102|1|62|0|0|0|50|0|12|0|0|0|0|1|3|2160|1|0|0|Inflicts Terror||
+|308500201|1|1|2|0|0|20|20|1.6|0|0|0|0|1|1|650|3|0|99|AOE magic attack||
+|308500202|1|26|308500203|2|0|4|6|0|0|0|0|0|1|3|650|3|0|99|Counts hit characters||
+|308500203|1|10|20|0|0|2|0|0|12|0|0|0|2|3|0|7|0|1|Phys. def. up by 6% × hit number||
+|308500204|1|36|4|0|3|1200|0|0.12|0|8.5|0|1000|1|3|2160|11|0|99|Continuous damage field||
+|308500301|1|1|2|0|0|20.4|20.4|1.62|0|6|0|150|1|3|2160|3|0|1|Single-target magic attack||
+|308500302|1|1|2|0|0|13.5|13.5|1.08|0|0|0|0|1|3|2160|3|0|99|Magic attack to all||
+|308500303|1|46|1|1|0|5|0|0|0|0|0|0|2|3|0|7|0|1|5% damage to own HP||
+|308500304|1|10|10|1|1|2|10|0|8|0|0|1|2|3|0|7|0|1|Own phys. atk. 10% up||
+|308500305|1|10|30|1|1|2|10|0|8|0|0|1|2|3|0|7|0|1|Own mag. atk. 10% up||
+|308500401|1|17|3|0|0|100|0|40|0|0|0|0|1|3|0|7|0|1|Awake: Trigger setting||
+|308500402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|0|7|0|1|Awake: Haste||
+|308500403|1|10|30|1|0|2|20|0|90|0|0|2|2|3|0|7|0|1|Awake: Magic attack buff||
+|308500404|1|22|1|30850002|0|180|-1|1|0|0|0|0|2|1|0|7|0|1|Awake: Action pattern change||
+|308600101|1|1|1|0|0|250|7|0.8|0|0|0|0|1|1|2160|3|0|99|Pseudo-Dragon UB||
+|308600102|1|26|308600101|3|0|258|0.055|0|0|0|0|0|2|1|0|7|0|1|Pseudo-Dragon UB||
+|308600103|1|35|1|0|0|99|58|99|-60|0|0|0|2|3|2160|7|0|1|Removes mark from self||
+|308600201|1|63|308600202|0|308600203|6|0.5|200000|0|0|0|0|2|3|2160|7|0|1|Accumulated damage trigger||
+|308600202|1|35|1|0|0|99|58|99|5|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|308600203|1|35|1|0|0|99|58|99|-30|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|308600204|1|10|21|1|0|2|100|0|6|0|0|2|2|3|-1|7|0|1|Debuff to self||
+|308600205|1|10|41|1|0|2|100|0|6|0|0|2|2|3|-1|7|0|1|Debuff to self||
+|308600301|1|1|3|0|0|10|5|0.3|0.015|0|0|0|1|3|2160|3|0|3|Damage||
+|308600302|1|8|7|0|0|0|0|5|0|0|0|0|1|3|2160|3|0|3|Stun||
+|308600401|1|17|3|0|0|100|0|40|0|0|0|0|1|1|0|0|0|0|Awakening||
+|308600402|1|10|10|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|Awakening||
+|308600403|1|10|20|1|0|2|25|0|90|0|0|2|2|3|-1|7|0|1|Awakening||
+|308600404|1|10|40|1|0|2|25|0|90|0|0|2|2|3|-1|7|0|1|Awakening||
+|308600501|1|15|2|610027701|1|0|0|0|0|1|600|600|2|1|-1|7|0|1|Summon||
+|308600502|1|15|2|610027702|1|0|0|0|0|1|400|400|2|1|-1|7|0|1|Summon||
+|308600503|1|15|2|610027703|1|0|0|0|0|1|-450|-450|2|1|-1|7|0|1|Summon||
+|308600504|1|15|2|610027704|1|0|0|0|0|1|-350|-350|2|1|-1|7|0|1|Summon||
+|308600505|1|3|3|0|0|200|0|1000|0|0|0|0|1|2|2160|3|0|99|Knockback||
+|308600601|1|17|7|0|0|100|0|90|0|0|0|0|1|1|0|0|0|0|Immediate activation||
+|308600602|1|35|1|0|0|99|58|99|70|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|308600701|1|63|308600702|0|308600703|6|0.5|30000|0|0|0|0|2|3|2160|7|0|1|Accumulated damage trigger||
+|308600702|1|35|1|0|0|99|58|99|5|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|308600703|1|35|1|0|0|99|58|99|-30|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|308600704|1|10|21|1|0|2|100|0|6|0|0|2|2|3|-1|7|0|1|Debuff to self||
+|308600705|1|10|41|1|0|2|100|0|6|0|0|2|2|3|-1|7|0|1|Debuff to self||
+|308600801|1|63|308600802|0|308600803|6|0.5|150000|0|0|0|0|2|3|2160|7|0|1|Accumulated damage trigger||
+|308600802|1|35|1|0|0|99|58|99|5|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|308600803|1|35|1|0|0|99|58|99|-30|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|308600804|1|10|21|1|0|2|100|0|6|0|0|2|2|3|-1|7|0|1|Debuff to self||
+|308600805|1|10|41|1|0|2|70|0|6|0|0|2|2|3|-1|7|0|1|Debuff to self||
+|308606101|1|1|1|0|0|250|1.7|0.18|0|0|0|0|1|1|2160|3|0|99|Pseudo-Dragon UB||
+|308606102|1|26|308606101|3|0|258|0.04|0|0|0|0|0|2|1|0|7|0|1|Pseudo-Dragon UB||
+|308606103|1|35|1|0|0|99|58|99|-60|0|0|0|2|3|2160|7|0|1|Removes mark from self||
+|308606104|1|28|658|0|0|1|2|60|0|0|0|0|2|3|2160|7|0|1|Branch when marks reach 60 or above||
+|308606201|1|63|308606202|0|308606203|6|0.5|250000|0|0|0|0|2|3|2160|7|0|1|Accumulated damage trigger||
+|308606202|1|35|1|0|0|99|58|99|5|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|308606203|1|35|1|0|0|99|58|99|-30|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|308606204|1|10|21|1|0|2|100|0|6|0|0|2|2|3|-1|7|0|1|Debuff to self||
+|308606205|1|10|41|1|0|2|50|0|6|0|0|2|2|3|-1|7|0|1|Debuff to self||
+|308606401|1|17|3|0|0|100|0|100|0|0|0|0|1|1|0|0|0|0|Awakening||
+|308606402|1|10|10|1|0|2|10|0|90|0|0|2|2|3|-1|7|0|1|Awakening||
+|308606403|1|10|20|1|0|2|25|0|90|0|0|2|2|3|-1|7|0|1|Awakening||
+|308606404|1|10|40|1|0|2|25|0|90|0|0|2|2|3|-1|7|0|1|Awakening||
+|308606501|1|17|7|0|0|100|0|90|0|0|0|0|1|1|0|0|0|0|Immediate activation||
+|308606502|1|35|1|0|0|99|58|99|70|0|0|0|2|3|2160|7|0|1|Applies mark to self||
+|309000101|1|1|2|0|0|18|2.5|2|0|0|0|0|1|3|3000|3|0|99|||
+|309000102|1|10|31|1|0|2|30|0.25|15|0|0|0|1|3|3000|1|0|99|||
+|309000201|1|1|2|0|0|20|1.1|1|0|0|0|0|1|3|3000|3|0|99|||
+|309100101|1|1|1|0|0|18|1.5|1.5|0|0|0|0|1|3|3000|3|0|99|||
+|309100102|1|10|21|1|0|2|50|0|10|0|0|0|1|3|3000|1|0|0|||
+|309100103|1|8|1|0|0|0.3|0|10|0|0|0|0|1|3|3000|1|0|0|||
+|309100201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|3|2|1|||
+|309100202|1|1|1|0|0|0|1|1|0|0|0|0|1|2|100|1|0|99|||
+|309100203|1|8|5|0|0|0|0|3|0|0|0|0|1|2|100|1|0|0|||
+|309100301|1|1|1|0|0|18|1.2|1.2|0|0|0|0|1|1|3000|3|0|1|||
+|309100302|1|1|1|0|0|18|1.2|1.2|0|0|0|0|1|1|3000|3|1|1|||
+|309200101|1|1|1|0|0|3|3|1|0.035|0|0|0|1|1|400|3|0|4|||
+|309200102|1|16|2|0|0|100|4.7|0|0|0|0|0|1|1|0|1|0|0|||
+|309200103|1|8|1|0|0|0.9|0|1|0.06|0|0|0|1|1|0|1|0|0|||
+|309200201|1|1|1|0|0|3|1|1|0.013|0|0|0|1|1|3000|3|0|3|||
+|309200202|1|8|2|0|0|2|0|20|0|0|0|0|2|3|-1|7|0|3|||
+|309201101|1|1|1|0|0|3|3|1|0.035|0|0|0|1|1|400|3|0|4|||
+|309201102|1|16|2|0|0|100|4.7|0|0|0|0|0|1|1|0|1|0|0|||
+|309201103|1|8|1|0|0|0.9|0|1|0.06|0|0|0|1|1|0|1|0|0|||
+|309201201|1|1|1|0|0|3|1|1|0.013|0|0|0|1|1|3000|3|0|3|||
+|309201202|1|8|2|0|0|2|0|20|0|0|0|0|2|3|-1|7|0|3|||
+|309300101|1|30|1|0|0|0|0|0|0|0|0|0|1|3|3000|18|0|99|||
+|309300102|1|46|1|1|0|0|0.26|0|0|0|0|0|1|3|3000|3|0|99|||
+|309300103|1|69|208700|0|0|8|0|0|64|0|0|0|1|3|-1|1|0|0|||
+|309300104|1|10|61|0|0|2|100|0|8|0|0|0|1|1|-1|1|0|0|||
+|309300105|1|10|71|0|0|2|100|0|8|0|0|0|1|1|-1|1|0|0|||
+|309300106|1|23|950|309300103|0|0|0|0|0|0|0|0|1|3|3000|3|0|99|||
+|309300107|1|10|21|0|0|2|100|0|4|0|0|0|2|3|-1|7|0|1|||
+|309300201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|||
+|309300202|1|1|1|0|0|20|20|2|0|0|0|0|1|1|400|1|0|99|||
+|309300203|1|10|10|1|0|2|8|0|10|0|0|1|2|3|-1|7|0|1|||
+|309300301|1|7|3|0|0|675|0|0|0|0|0|0|2|1|3000|11|0|1|||
+|309300302|1|38|11|2|0|90|0|15|0|140|0|0|1|2|3000|11|0|99|||
+|309300303|1|7|3|0|0|675|0|0|0|0|0|0|2|1|3000|11|0|1|||
+|309300304|1|38|81|2|0|100|0|15|0|140|0|0|1|2|3000|11|0|99|||
+|309300305|1|7|3|0|0|675|0|0|0|0|0|0|2|1|3000|11|0|1|||
+|309300306|1|38|61|2|0|100|0|15|0|140|0|0|1|2|3000|11|0|99|||
+|309300401|1|17|3|0|1|100|0|50|0|0|0|0|0|0|0|0|0|0|||
+|309300402|1|10|10|1|0|2|10|0|90|0|0|2|2|3|-1|7|0|1|||
+|309300501|1|1|1|0|0|45|45|6|0|0|0|0|1|3|3000|3|0|1|||
+|309300502|1|3|3|0|0|800|0|5000|0|0|0|0|1|3|3000|3|0|1|||
+|309300503|1|8|7|0|0|0|0|3|0|0|0|0|1|3|3000|3|0|1|||
+|309400101|1|46|1|1|0|15|0|0|0|0|0|0|1|3|3000|3|0|99|[UB] Percentage physical dmg 40%||
+|309400201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|Targets frontmost enemy||
+|309400202|1|46|1|1|0|10|0|0|0|0|0|0|1|2|100|1|0|99|Moderate physical damage to range||
+|309400301|1|46|1|1|0|8|0|0|0|0|0|0|1|3|3000|3|0|1|Standard attack||
+|309400401|1|17|3|0|0|100|0|40|0|0|0|0|1|3|0|7|0|1|Awake: Set trigger||
+|309400402|1|8|2|0|0|1.32|0|90|0|0|0|0|2|3|0|7|0|1|Awake: Speed 32% up||
+|309500101|1|46|1|2|0|10|0|0|0|0|0|0|1|3|3000|3|0|99|[UB] Percentage magic dmg 40%||
+|309500102|1|10|11|1|0|2|20|0|10|0|0|0|1|3|3000|1|0|99|[UB] All enemies phys. atk. down||
+|309500103|1|10|31|1|0|2|20|0|10|0|0|0|1|3|3000|1|0|99|[UB] All enemies mag. atk. down||
+|309500201|1|1|2|0|0|0|0|2|0|0|0|0|1|3|3000|8|0|1|Magic damage to random target||
+|309500202|1|9|3|0|0|100|0|3|0|0|0|0|1|3|-1|1|0|1|Applies status effect||
+|309500203|1|8|3|0|0|0|0|3|0|0|0|0|1|3|-1|1|0|1|Applies status effect||
+|309500204|1|16|2|0|0|300|0|0|0|0|0|0|1|3|-1|1|0|1|Applies status effect||
+|309500301|1|1|2|0|0|0|0|1|0|0|0|0|1|3|3000|3|0|1|Standard attack||
+|309500401|1|17|3|0|0|100|0|40|0|0|0|0|1|3|0|7|0|1|Awake: Set trigger||
+|309500402|1|8|2|0|0|1.32|0|90|0|0|0|2|2|3|0|7|0|1|Awake: Haste||
+|309600101|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|[UB] Targets frontmost enemy||
+|309600102|1|46|1|1|0|15|0|0|0|0|0|0|1|1|550|1|0|99|[UB] AOE percentage physical dmg 40%||
+|309600103|1|1|1|0|0|1|0|3|0|0|0|0|1|1|3000|1|0|1|[UB] Single-target moderate phys. dmg||
+|309600201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|Targets frontmost enemy||
+|309600202|1|46|1|0|0|10|0|0|0|0|0|0|1|1|100|1|0|99|Percentage phys. dmg. 10% to range||
+|309600301|1|1|1|0|0|0|0|2.5|0|0|0|0|1|3|3000|3|0|1|Standard attack||
+|309600401|1|17|3|0|0|100|0|40|0|0|0|0|1|3|0|7|0|1|Awake: Set trigger||
+|309600402|1|10|20|1|0|2|15|0|90|0|0|2|2|3|0|7|0|1|Awake: Phys. def. up||
+|309600403|1|10|40|1|0|2|15|0|90|0|0|2|2|3|0|7|0|1|Awake: Mag. def. up||
+|309600501|1|17|9|0|0|100|0|15|0|0|0|0|2|1|0|7|0|1|[Break] Trigger||
+|309600502|1|10|21|2|0|2|15|0|15|0|0|2|2|3|-1|7|0|1|[Break] Phys. def. down (large) to self||
+|309600503|1|10|41|2|0|2|15|0|15|0|0|2|2|3|-1|7|0|1|[Break] Mag. def. down (large) to self||
+|309600601|1|17|9|0|0|100|0|15|0|0|0|0|2|1|0|7|0|1|[Break] Trigger||
+|309600602|1|10|11|2|0|2|30|0|15|0|0|2|2|3|-1|7|0|1|[Break] Phys. atk. down to self||
+|309600701|1|17|9|0|0|100|0|15|0|0|0|0|2|1|0|7|0|1|[Break] Trigger]||
+|309600702|1|10|21|2|0|2|15|0|15|0|0|2|2|3|-1|7|0|1|[Break] Phys. def. down to self||
+|309600703|1|10|41|2|0|2|15|0|15|0|0|2|2|3|-1|7|0|1|[Break] Mag. def. down to self||
+|309700101|1|10|20|1|0|2|150|0|8|0|0|2|2|3|-1|7|0|1|[UB] Phys. def. up (large) to self||
+|309700102|1|10|40|1|0|2|150|0|8|0|0|2|2|3|-1|7|0|1|[UB] Mag. def. up (large) to self||
+|309700201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|3000|3|0|1|Targets frontmost enemy||
+|309700202|1|1|2|0|0|0|0|1|0|0|0|0|1|2|300|1|0|99|Moderate physical damage to range||
+|309700203|1|10|20|1|0|2|10|0|10|0|0|2|2|3|-1|7|0|1|[UB] Phys. def. up (large) to self||
+|309700204|1|10|40|1|0|2|10|0|10|0|0|2|2|3|-1|7|0|1|[UB] Mag. def. up (large) to self||
+|309700301|1|1|2|0|0|0|0|1|0|0|0|0|1|3|3000|3|0|1|Standard attack||
+|309700401|1|17|3|0|0|100|0|40|0|0|0|0|1|3|0|7|0|1|Awake: Set trigger||
+|309700402|1|10|20|1|0|2|10|0|90|0|0|2|2|3|-1|7|0|1|[UB] Phys. def. up (large) to self||
+|309700403|1|10|40|1|0|2|10|0|90|0|0|2|2|3|-1|7|0|1|[UB] Mag. def. up (large) to self||
+|309800101|1|46|2|1|0|60|0|0|0|0|0|0|1|3|2160|3|0|99|||
+|309800201|1|1|3|1|0|80|80|8|0|0|0|1|1|1|2160|3|0|1|||
+|309800202|1|7|4|0|0|0|0|0|0|0|0|0|1|1|2160|3|0|1|||
+|309800203|1|1|2|0|0|20|20|1.8|0|0|0|0|1|1|200|3|0|99|||
+|309800204|1|8|10|1|0|0|0|180|0|0|0|0|1|1|3000|3|0|99|||
+|309800301|1|1|3|0|0|0|0|0.6|0|0|0|0|1|1|2160|3|0|99|||
+|309800302|1|1|2|0|0|0|0|0.6|0|0|0|0|1|1|2160|3|0|99|||
+|309800401|2|38|21|1|3|0.6|0.6|16|0|400|0|0|1|1|2160|4|0|1|||
+|309800402|2|38|41|1|0|0.6|0.6|16|0|400|0|0|1|1|2160|4|0|1|||
+|309800403|2|7|4|0|0|0|0|0|0|0|0|0|1|1|2160|4|0|1|||
+|309800404|2|1|2|0|0|9|9|0.6|0|0|0|0|1|2|344|3|0|99|||
+|309800405|2|9|5|0|0|200|0|7.5|0|50|0|0|1|2|344|3|0|99|||
+|309800501|2|17|3|0|0|100|0|50|0|0|0|0|2|3|0|7|0|1|||
+|309800502|2|8|2|0|0|1.2|0|90|0|0|0|2|2|3|0|7|0|1|||
+|309800503|2|10|40|1|0|2|25|0|90|0|0|2|2|3|0|7|0|1|||
+|309800504|2|22|1|30980302|0|180|-1|1|0|0|0|0|2|1|0|7|0|1|||
+|309800601|2|21|1|0|0|180|0|0|0|0|0|0|2|1|0|7|0|1|Becomes immune to all damage for a set period of time.||
+|309900101|1|1|2|0|0|13.5|13.5|1.08|0|0|0|0|1|3|3000|3|0|99|Large magic damage to all enemies.||
+|309900102|1|30|0|0|0|0|0|0|0|0|0|0|2|2|3000|18|0|99|Instant death to all allied summons||
+|309900103|1|30|1|0|0|0|0|0|0|0|0|0|1|2|3000|18|0|99|Instant death to all enemy summons||
+|309900201|1|46|2|1|0|50|0|0|0|0|0|0|1|1|650|3|0|99|Magic damage (50% of remaining HP) to range 650 ahead||
+|309900202|1|3|1|0|0|140|0|2100|450|0|0|0|1|1|3000|3|0|99|Knockback (vertical)||
+|309900203|1|3|3|0|0|1000|0|1050|0|0|0|0|1|1|3000|1|0|0|Knockback (horizontal)||
+|309900204|1|15|2|710000003|1|0|0|-2|0|1|460|460|2|1|0|7|0|1|Summon||
+|309900205|1|15|2|710000004|1|0|0|2|0|1|280|280|2|1|0|7|0|1|Summon||
+|309900301|1|7|4|0|0|0|0|0|0|0|0|0|1|3|3000|3|1|0|Targets frontmost character||
+|309900302|1|1|1|0|0|6.8|6.8|0.54|0|0|0|0|1|2|100|1|0|99|Moderate physical damage to targets in radius 100||
+|309900303|1|8|3|0|0|0|0|2|0|0|0|0|1|2|100|1|0|99|Stun to same range||
+|309900304|1|9|4|0|0|115|6|9|0|0|0|0|1|2|100|1|0|99|Venom to same range||
+|309900401|1|17|3|0|0|100|0|60|0|0|0|0|0|0|0|0|0|0|Awakening trigger 60%||
+|309900402|1|8|2|0|0|1.43|0|90|0|0|0|2|2|3|-1|7|0|1|Haste 43%||
+|309900403|1|10|30|1|0|2|15|0|90|0|0|2|2|3|-1|7|0|1|Mag. attack buff 15%||
+|309900404|1|22|1|30990002|0|180|0|0|0|0|0|0|2|1|0|7|0|1|Action pattern change||
+|310000101|1|1|1|0|0|1|0|1.2|0.003|0|0|0|1|1|-1|3|0|99|||
+|310000102|1|3|1|0|0|800|0|1200|1200|0|0|1|1|1|-1|3|0|1|||
+|310000103|1|8|7|0|0|0|0|6|0|0|0|1|1|1|-1|1|0|1|||
+|310000104|1|3|3|0|0|2160|0|1200|0|0|0|1|1|1|-1|3|0|1|||
+|310000105|1|1|1|0|0|60|90|4|0.001|0|0|0|1|1|-1|3|0|1|||
+|310000106|1|3|3|0|0|300|0|3000|0|0|0|1|1|1|-1|3|0|99|||
+|310000107|1|10|21|1|0|2|10|0|90|0|0|2|2|3|-1|7|0|1|||
+|310000201|1|1|2|0|0|50|2.2|0|0.02|0|0|0|1|1|2160|16|0|1|||
+|310000202|1|16|2|0|0|300|0|0|0|0|0|0|1|3|-1|1|0|1|||
+|310000301|1|16|1|0|0|250|0|0|0|0|0|0|2|2|-1|7|0|1|||
+|310000302|1|8|2|0|0|10|0|8|0|0|0|1|2|2|-1|7|0|1|||
+|310000401|1|17|3|0|0|100|0|55|0|0|0|0|1|1|0|0|0|0|Awake: Set trigger||
+|310000402|1|10|10|1|0|2|125|0|90|0|0|2|2|3|-1|7|0|1|Awake: Own phys. attack up||
+|310000403|1|10|21|1|0|2|30|0|90|0|0|2|2|3|-1|7|0|1|Awake: Own phys. defense down (massive)||
+|310000404|1|5|9|0|0|100|0|0|0|0|0|0|2|2|2160|7|0|1|||
+|310000501|1|7|3|0|0|1200|0|0|0|0|0|0|2|1|3000|11|0|1|||
+|310000502|1|38|21|2|0|20|0|7|0|270|0|0|1|1|2160|11|0|0|Lowers physical defense of enemies within the field by {0}.|Physical defense lowered + {0}|
+|310000503|1|1|1|0|0|10|1|1|0.006|0|0|0|1|1|-1|3|0|99|||
+|310000504|1|10|41|1|0|2|75|0|6|0|0|2|2|3|-1|7|0|1|Awake: Own phys. defense down (massive)||
+|310000601|1|1|2|0|0|50|2.2|1.5|0.01|0|0|0|1|1|2160|16|0|2|||
+|310000602|1|16|2|0|0|300|0|0|0|0|0|0|1|3|-1|1|0|2|||
+|310100101|1|46|1|1|0|75|0|0|0|0|0|0|1|3|2160|3|0|99|||
+|310100102|1|26|310100103|1|0|6|0.002|0|0|0|0|0|1|3|2160|1|0|99|||
+|310100103|1|16|2|0|0|0|0|0|0|0|0|0|1|3|2160|1|0|99|||
+|310100201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|2160|3|0|1|||
+|310100202|1|1|2|0|0|0|0|1.5|0|0|0|0|1|1|300|1|0|99|||
+|310100203|1|10|21|1|0|2|50|0|10|0|0|0|1|1|0|1|0|99|||
+|310100301|1|1|1|0|0|0|0|0.5|0|0|0|0|1|3|2160|3|0|99|||
+|310100302|1|3|3|0|0|300|0|900|0|0|0|0|1|3|2160|1|0|99|||
+|310100303|1|49|1|0|0|100|0|0|0|0|0|0|1|3|2160|3|0|99|||
+|310100401|1|17|11|0|0|100|0|0|0|0|0|0|2|1|0|7|0|1|||
+|310100403|1|16|2|0|0|1000|0|0|0|0|0|0|2|1|0|7|0|1|||
+|310100501|1|1|1|0|0|0|0|0.4|0|0|0|0|1|3|2160|3|0|99|||
+|310100502|1|9|2|0|0|1000|0|6|0|0|0|0|1|3|2160|1|0|99|||
+|310100601|1|17|7|0|0|100|0|90|0|0|0|0|2|1|0|7|0|1|||
+|310100602|1|16|2|0|0|1000|0|0|0|0|0|0|2|1|0|7|0|1|||
+|310100701|1|17|3|0|0|100|0|10|0|0|0|0|2|1|0|7|0|1|||
+|310100702|1|21|6|0|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|310100703|1|8|2|0|0|1.25|0|90|0|0|0|2|2|1|0|7|0|1|||
+|310100706|1|22|1|31010002|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|310100801|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|310100802|1|10|21|2|0|2|70|0|20|0|0|0|2|1|0|7|0|1|||
+|310100803|1|10|41|2|0|2|70|0|20|0|0|0|2|1|0|7|0|1|||
+|310100901|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|310100902|1|10|21|2|0|2|40|0|20|0|0|0|2|1|0|7|0|1|||
+|310100903|1|10|41|2|0|2|40|0|20|0|0|0|2|1|0|7|0|1|||
+|310101001|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|||
+|310101002|1|10|21|2|0|2|40|0|20|0|0|0|2|1|0|7|0|1|||
+|310101003|1|10|41|2|0|2|40|0|20|0|0|0|2|1|0|7|0|1|||
+|310200101|1|1|1|0|0|18|1.5|2|0|0|0|0|1|3|3000|3|0|99|||
+|310200102|1|10|21|1|0|1|120|0|10|0|0|0|1|3|3000|1|0|0|||
+|310200103|1|10|31|1|0|1|120|0|10|0|0|0|1|3|3000|1|0|0|||
+|310200201|1|1|2|0|0|18|0.5|1|0|0|0|0|1|1|545|3|0|99|||
+|310200202|1|10|81|0|0|1|15|0|18|0|0|0|1|2|100|1|0|0|||
+|310200203|1|16|2|0|0|410|0|0|0|0|0|0|1|2|100|1|0|0|||
+|310200301|1|1|1|0|0|18|1.2|1.2|0|0|0|0|1|1|3000|3|0|2|||
+|310300101|1|46|1|1|0|0|0.15|0|0|0|0|0|1|3|2160|3|0|99|Union Burst: Percentage damage||
+|310300102|1|28|60|310300103|310300104|0|1|0|0|0|0|0|2|1|0|7|0|1|Antibeast [Branch 1] Left 60% to Branch 2, Right 40% to Effect 1||
+|310300103|1|28|66|310300105|310300106|2|3|0|0|0|0|0|2|1|0|7|0|1|Antibeast [Branch 2] Left 66% to Effect 2, Right 34% to Effect 3||
+|310300104|1|10|11|1|0|1|10000|250|15|0|0|0|1|3|2160|3|0|99|Antibeast [Apply] Physical attack down to enemy||
+|310300105|1|10|31|1|0|1|10000|250|15|0|0|0|1|3|2160|3|0|99|Antibeast [Apply] Magic attack down to enemy||
+|310300106|1|9|3|0|0|30|11|7|0|0|0|0|1|3|2160|3|0|99|Antibeast [Apply] Curse to enemy||
+|310300201|1|10|50|1|0|1|250|0|90|0|0|2|2|1|0|7|0|1|Antibeast [Apply] Dodge rate up (massive) to self|Dodge boost + {0}|
+|310300301|1|7|1|0|0|0|0|0|0|0|0|0|2|1|0|7|0|1|Antibeast [Apply] Empty action||
+|310300401|1|7|4|0|0|0|0|0|0|0|0|0|1|1|2160|3|0|1|Antibeast [Physical] Select 1 target in front||
+|310300402|1|1|1|0|0|0|0|1.2|0|0|0|0|1|2|360|3|0|99|Antibeast [Physical] Large physical area damage from 1 target in front||
+|310300403|1|3|3|0|0|540|0|1080|1080|0|0|0|1|2|360|3|0|99|Antibeast [Dependent] Area knockback from 1 target in front||
+|310300501|1|1|1|0|0|0|0|2.4|0|0|0|0|1|1|540|3|0|99|Antibeast [Physical] Large physical damage to area in front||
+|310300601|1|17|3|0|0|100|0|50|0|0|0|0|2|1|0|7|0|1|50% trigger||
+|310300602|1|8|2|0|0|1.25|0|90|0|0|0|2|2|1|0|7|0|1|Antibeast [Apply] Action speed up to self||
+|310304101|1|46|1|1|0|0|0.15|0|0|0|0|0|1|3|2160|3|0|99|Union Burst: Percentage damage||
+|310304102|1|28|99|310304103|310304104|0|1|0|0|0|0|0|2|1|0|7|0|1|Antibeast [Branch 1] Left 60% to Branch 2, Right 40% to Effect 1||
+|310304103|1|28|1|310304105|310304106|2|3|0|0|0|0|0|2|1|0|7|0|1|Antibeast [Branch 2] Left 66% to Effect 2, Right 34% to Effect 3||
+|310304104|1|10|11|1|0|1|10000|250|15|0|0|0|1|3|2160|3|0|99|Antibeast [Apply] Physical attack down to enemy||
+|310304105|1|10|31|1|0|1|10000|250|15|0|0|0|1|3|2160|3|0|99|Antibeast [Apply] Magic attack down to enemy||
+|310304106|1|9|3|0|0|200|10|7|0|0|0|0|1|3|2160|3|0|99|Antibeast [Apply] Curse to enemy||
+|310306101|1|46|1|1|0|0|0.15|0|0|0|0|0|1|3|2160|3|0|99|Union Burst: Percentage damage||
+|310306102|1|28|60|310306103|310306104|0|1|0|0|0|0|0|2|1|0|7|0|1|Antibeast [Branch 1] Left 60% to Branch 2, Right 40% to Effect 1||
+|310306103|1|28|66|310306105|310306106|2|3|0|0|0|0|0|2|1|0|7|0|1|Antibeast [Branch 2] Left 66% to Effect 2, Right 34% to Effect 3||
+|310306104|1|10|11|1|0|1|10000|250|27|0|0|0|1|3|2160|3|0|99|Antibeast [Apply] Physical attack down to enemy||
+|310306105|1|10|31|1|0|1|10000|250|27|0|0|0|1|3|2160|3|0|99|Antibeast [Apply] Magic attack down to enemy||
+|310306106|1|9|3|0|0|30|11|7|0|0|0|0|1|3|2160|3|0|99|Antibeast [Apply] Curse to enemy||
+|310400101|1|1|1|0|0|18|1.5|2|0|0|0|0|1|3|3000|3|0|99|Physical damage to all enemies.||
+|310400102|1|10|21|1|0|1|250|0|8|0|0|0|1|3|3000|1|0|0|Phys. def. debuff (large) to all enemies||
+|310400201|1|14|1|31040002|1|12|0|0|0|0|0|0|2|1|0|7|0|1|Transformation 1 Attack pattern shift||
+|310400202|1|14|3|31040001|0|0|0|0|0|0|0|0|2|1|0|7|0|1|Transformation 2 Attack pattern shift cancel||
+|310400203|1|10|50|1|0|1|400|0|14|0|0|2|2|1|0|7|0|1|Self dodge up (massive)||
+|310400204|1|10|21|1|0|1|300|0|19|0|0|2|2|1|0|7|0|1|Self phys. def. down (massive)||
+|310400205|1|8|2|0|0|4|0|14|0|0|0|0|2|1|0|7|0|1|Haste to self||
+|310400301|1|1|1|0|0|0|0|0.85|0|0|0|0|1|1|3000|2|0|1|Standard attack: random target||
+|310400401|1|1|1|0|0|0|0|0.55|0|0|0|0|1|1|3000|3|0|3|Standard attack: targets 3 characters in front||
+|310500101|1|1|1|0|0|150|10|3.5|0|0|0|0|1|1|2160|3|0|99|||
+|310500102|1|3|3|0|0|500|0|3000|0|0|0|1|1|1|2160|3|0|99|||
+|310500103|1|10|21|1|0|1|500|0|2.5|0|0|1|2|2|0|7|0|1|||
+|310500104|1|10|41|1|0|1|500|0|2.5|0|0|1|2|2|0|7|0|1|||
+|310500201|1|7|4|0|0|0|0|0|0|0|0|0|1|1|2160|3|0|1|||
+|310500202|1|1|1|0|0|150|14|2|0|0|0|0|1|2|230|3|0|99|||
+|310500203|1|8|1|0|0|0.25|0|6|0|0|0|0|1|2|0|1|0|99|||
+|310500301|1|1|1|0|0|120|10|1.5|0|0|0|0|1|2|2160|3|0|3|||
+|310500302|1|10|21|1|0|2|50|0|8|0|0|0|1|2|2160|3|0|3|||
+|310500401|1|17|3|0|0|100|0|40|0|0|0|0|2|1|0|7|0|1|||
+|310500402|1|8|2|0|0|1.25|0|90|0|0|0|2|2|1|0|7|0|1|||
+|310500403|1|10|10|1|0|2|30|0|90|0|0|2|2|3|0|7|0|1|||
+|310600101|1|1|2|0|0|180|8|2|0|0|0|0|1|3|2160|3|0|99|Ueki-chan UB: Magic damage to all||
+|310600102|1|10|21|1|0|2|20|0|10|0|0|1|1|1|2160|1|0|1|Ueki-chan UB: Phys. def. debuff||
+|310600103|1|10|41|1|0|2|20|0|10|0|0|1|1|1|2160|1|0|1|Ueki-chan UB: Mag. def. debuff||
+|310600201|1|1|1|0|0|50|1.5|1.3|0|0|0|0|1|1|400|3|0|99|Ueki-chan Skill 1: Physical area attack||
+|310600202|1|3|3|0|0|300|0|2160|0|0|0|0|1|1|-1|1|0|1|Ueki-chan Skill 1: Knockback||
+|310600301|1|15|2|610036205|1|0|0|0|0|2|200|200|2|1|0|7|0|1|Ueki-chan Skill 2: Kyukon-chan Summon||
+|310600401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|Ueki-chan Awaken: HP trigger||
+|310600402|1|10|10|1|0|2|10|0|90|0|0|2|2|3|-1|7|0|1|Ueki-chan Awaken:||
+|310600403|1|10|30|1|0|2|10|0|90|0|0|2|2|3|-1|7|0|1|Ueki-chan Awaken:||
+|310600501|1|16|1|0|0|80|0|0|0|0|0|0|1|1|400|3|0|99|Ueki-chan Skill 3: TP Boost field||
+|310600502|1|36|4|0|0|4000|2.5|2|0|6|0|1500|1|1|0|7|0|1|Ueki-chan Skill 3: Magic damage field||
+|310600601|1|17|9|0|0|100|0|20|0|0|0|0|2|1|0|7|0|1|Ueki-chan: Left leaf broken||
+|310600602|1|10|21|2|0|2|10|0|0|0|0|0|2|1|0|7|0|1|||
+|310600603|1|10|41|2|0|2|10|0|0|0|0|0|2|1|0|7|0|1|||
+|310600701|1|17|9|0|0|100|0|25|0|0|0|0|2|1|0|7|0|1|Ueki-chan: Main body broken||
+|310600702|1|10|21|2|0|2|15|0|0|0|0|0|2|1|0|7|0|1|||
+|310600703|1|10|41|2|0|2|15|0|0|0|0|0|2|1|0|7|0|1|||
+|310600801|1|17|9|0|0|100|0|25|0|0|0|0|2|1|0|7|0|1|Ueki-chan Right leaf broken||
+|310600802|1|10|21|2|0|2|60|0|0|0|0|0|2|1|0|7|0|1|||
+|310600803|1|10|41|2|0|2|60|0|0|0|0|0|2|1|0|7|0|1|||
+|310600901|1|17|7|0|0|100|0|90|0|0|0|0|2|1|0|7|0|1|||
+|310600902|1|21|6|0|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|310601001|1|15|2|610036305|1|0|0|0|0|2|200|200|2|1|0|7|0|1|Ueki-chan Skill 2: Kyukon-chan Summon||
+|310601101|1|15|2|610036424|1|0|0|0|0|2|200|200|2|1|0|7|0|1|Ueki-chan Skill 2: Kyukon-chan Summon||
+|310601201|1|15|2|610036434|1|0|0|0|0|2|200|200|2|1|0|7|0|1|Ueki-chan Skill 2: Kyukon-chan Summon||
+|310700101|1|46|1|2|0|45|0|0|0|0|0|0|1|3|2160|3|0|99|Union Burst: Percentage damage||
+|310700201|1|10|10|1|0|2|15|0|12|0|0|2|2|3|-1|7|0|1|||
+|310700202|1|1|1|0|0|25|2|0.5|0|0|0|0|1|1|2160|3|0|99|||
+|310700301|1|7|1|0|0|0|0|0|0|0|0|0|1|2|3000|3|0|1|||
+|310700302|1|1|2|0|0|100|8|1.4|0|0|0|0|1|1|300|3|0|3|||
+|310700303|1|8|1|0|0|0.6|0|10|0|0|0|0|1|2|0|1|0|99|||
+|310700304|1|10|41|1|0|2|35|0|10|0|0|1|1|2|0|1|0|99|||
+|310700401|1|17|3|0|0|100|0|40|0|0|0|0|0|0|0|0|0|0|||
+|310700402|1|10|10|1|0|2|10|0|90|0|0|2|2|3|-1|7|0|1|||
+|310700403|1|10|30|1|0|2|10|0|90|0|0|2|2|3|-1|7|0|1|||
+|310700501|1|14|1|31070502|1|100|0|0|0|0|0|0|2|1|0|7|0|1|||
+|310700502|1|14|3|31070501|0|0|0|0|0|0|0|0|2|1|0|7|0|1|||
+|310700601|1|1|2|0|0|20|2.3|3.7|0|0|0|0|1|2|2160|2|0|1|||
+|310700602|1|11|0|0|0|10|0|33|0|0|0|0|1|2|0|1|0|99|||
+|310700603|1|13|0|0|0|10|0|100|0|0|0|0|1|2|0|1|0|99|||
+|310700701|1|17|10|0|0|100|0|0|1|0|0|0|0|0|0|0|0|0|||
+|310700702|1|8|1|0|0|0.5|0|8|0|0|0|0|2|3|0|7|0|1|||
+|310700703|1|10|21|1|0|2|50|0|8|0|0|2|2|3|-1|7|0|1|||
+|310700704|1|10|41|1|0|2|50|0|8|0|0|2|2|3|-1|7|0|1|||
+|310800101|1|46|1|1|0|30|0|0|0|0|0|0|1|3|-1|3|0|99|||
+|310800201|1|9|1|0|0|1|1.5|1|0.03|0|0|0|1|3|-1|3|0|99|||
+|310800301|1|1|1|1|0|1|1|1|0.005|0|0|0|1|3|-1|3|0|99|||
+|310800401|1|17|3|0|0|100|0|40|0|0|0|0|2|1|0|7|0|1|||
+|310800402|1|22|1|31080002|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|310800501|1|9|4|0|0|1|2|1|0.03|0|0|0|1|3|-1|3|0|99|||
+|310800601|1|1|1|1|0|1|1|1|0.005|0|0|0|1|3|-1|3|0|99|||
+|310800602|1|8|7|0|0|0|0|1|0|0|0|0|1|3|-1|3|0|99|||
+|310800701|1|17|7|0|0|100|0|90|0|0|0|0|2|1|0|7|0|1|||
+|310800702|1|15|2|610040996|1|0|0|0|0|1|-480|-480|2|1|-1|7|0|1|||
+|310800801|1|17|7|0|0|100|0|90|0|0|0|0|2|1|0|7|0|1|||
+|310800802|1|54|0|0|0|90|0|0|0|0|0|0|2|1|0|7|0|1|||
+|310801701|1|17|7|0|0|100|0|90|0|0|0|0|2|1|0|7|0|1|||
+|310801702|1|15|2|610040996|1|0|0|0|0|1|-480|-480|2|1|-1|7|0|1|||
+|310802701|1|17|7|0|0|100|0|90|0|0|0|0|2|1|0|7|0|1|||
+|310802702|1|15|2|610040997|1|0|0|0|0|1|-480|-480|2|1|-1|7|0|1|||
+|310803701|1|17|7|0|0|100|0|90|0|0|0|0|2|1|0|7|0|1|||
+|310803702|1|15|2|610040998|1|0|0|0|0|1|-480|-480|2|1|-1|7|0|1|||
+|310805101|1|46|1|1|0|30|0|0|0|0|0|0|1|3|-1|3|0|99|||
+|310805201|1|9|1|0|0|1|1.5|1|0.03|0|0|0|1|3|-1|3|0|99|||
+|310805301|1|1|1|1|0|1|1|1|0.0007|0|0|0|1|3|-1|3|0|99|||
+|310805401|1|17|3|0|0|100|0|40|0|0|0|0|2|1|0|7|0|1|||
+|310805402|1|22|1|31080002|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|310805501|1|9|4|0|0|1|2|1|0.03|0|0|0|1|3|-1|3|0|99|||
+|310805601|1|1|1|1|0|1|1|1|0.0007|0|0|0|1|3|-1|3|0|99|||
+|310805602|1|8|7|0|0|0|0|3|0|0|0|0|1|3|-1|3|0|99|||
+|310805701|1|17|7|0|0|100|0|90|0|0|0|0|2|1|0|7|0|1|||
+|310805702|1|15|2|610040999|1|0|0|0|0|1|-480|-480|2|1|-1|7|0|1|||
+|310806101|1|46|1|1|0|30|0|0|0|0|0|0|1|3|-1|3|0|99|||
+|310806201|1|9|1|0|0|1|1.5|1|0.03|0|0|0|1|3|-1|3|0|99|||
+|310806301|1|1|1|1|0|1|1|1|0.0007|0|0|0|1|3|-1|3|0|99|||
+|310806401|1|17|3|0|0|100|0|100|0|0|0|0|2|1|0|7|0|1|||
+|310806402|1|22|1|31080002|0|180|0|0|0|0|0|0|2|1|0|7|0|1|||
+|310806501|1|9|4|0|0|1|2|1|0.03|0|0|0|1|3|-1|3|0|99|||
+|310806601|1|1|1|1|0|1|1|1|0.0007|0|0|0|1|3|-1|3|0|99|||
+|310806602|1|8|7|0|0|0|0|3|0|0|0|0|1|3|-1|3|0|99|||
+|310806701|1|17|7|0|0|100|0|90|0|0|0|0|2|1|0|7|0|1|||
+|310806702|1|15|2|610040999|1|0|0|0|0|1|-480|-480|2|1|-1|7|0|1|||
+|310900101|1|1|1|0|0|18|18|1.44|0|0|0|0|1|3|3000|3|0|99|Large physical damage to all enemies||
+|310900201|1|1|1|0|0|1|1|0|0|0|0|0|1|1|3000|6|0|1|Large physical damage to enemy with greatest HP||
+|310900301|1|1|1|0|0|1|1|0|0|1|0|0|1|1|3000|2|0|1|Large physical damage to a random enemy (for timing adjustment)||
+|311000101|1|1|1|0|0|18|18|1.44|0|0|0|0|1|3|3000|3|0|99|Large physical damage to all enemies||
+|311000201|1|7|3|0|2|1250|0|0|0|0|0|0|2|1|2160|11|0|1|||
+|311000203|1|38|21|2|0|60|0|9.5|0|400|0|0|1|3|400|11|0|99|Physical defense down (large) to enemies within field||
+|311000204|1|36|4|0|0|3000|0|0|0|9.5|0|400|1|3|400|11|0|99|Continuous magic damage to enemies within field||
+|311000301|1|7|4|0|0|0|0|0|0|0|0|0|1|1|9999|4|1|1|Targets second character from rear (tauntable)||
+|311000302|1|1|1|0|0|6.8|6.8|0.54|0|0|0|0|1|2|150|3|0|99|Moderate physical damage to small area||
+|311000303|1|16|2|0|0|80|0|0|0|0|0|0|1|2|150|3|0|99|TP reduction to area||
+|311000304|1|16|1|0|0|300|0|0|0|0|0|0|2|2|9999|3|0|99|TP boost to area||
+|311000401|1|17|3|0|0|100|0|80|0|0|0|0|2|3|-1|7|0|1|Awakening trigger 80%||
+|311000402|1|8|2|0|0|1.62|0|90|0|0|0|0|2|3|-1|7|0|1|Haste||
+|311000403|1|10|10|1|0|2|15|0|90|0|0|0|2|3|-1|7|0|1|Physical attack buff||
+|311000404|1|22|1|31100002|0|180|0|0|0|0|0|0|2|3|-1|7|0|1|Action pattern change||
+|311100101|1|46|1|2|0|40|0|0|0|0|0|0|1|3|-1|3|0|99|||
+|311100102|1|9|1|0|0|100|3|6|0.04|0|0|0|1|1|-1|1|0|99|||
+|311100103|1|3|3|0|0|100|0|1500|0|0|0|2|1|3|-1|3|0|99|||
+|311100201|1|1|1|0|0|120|12|0.07|0|0|0|0|1|1|-1|3|0|2|||
+|311100202|1|10|21|1|0|2|80|0|10|0|0|0|1|1|-1|1|0|2|||
+|311100203|1|16|2|0|0|300|0|0|6|0|0|0|1|1|-1|1|0|99|||
+|311100301|1|1|2|0|0|100|12|0.1|0|0|0|0|1|1|400|3|0|99|||
+|311100302|1|10|41|1|0|2|70|0|10|0|0|2|1|1|400|1|0|99|||
+|311100303|1|23|950|311100304|0|0|0|0|0|0|0|0|1|1|400|1|0|99|||
+|311100304|1|8|1|0|0|0.5|0|10|0|0|0|0|1|1|400|1|0|99|||
+|311100401|1|17|3|0|0|100|0|40|0|0|0|0|2|1|-1|7|0|1|||
+|311100402|1|8|2|0|0|1.28|0|90|0|0|0|0|2|3|-1|7|0|1|||
+|311100403|1|10|30|1|0|2|15|0|90|0|0|0|2|3|-1|7|0|1|||
+|311100404|1|22|1|31110302|0|90|0|0|0|0|0|0|2|3|-1|7|0|1|||
+|311200101|1|1|1|0|0|10.5|10.5|0.875|0|0|0|0|1|2|2160|3|0|3|Large physical damage to small area in front||
+|311200102|1|1|1|0|0|12|12|1|0|0|0|0|1|2|2160|3|0|99|Large physical damage to small area in front||
+|311200201|1|1|1|0|0|4.5|4.5|0.38|0|0|0|0|1|1|2160|3|0|2|Deals physical damage to an enemy directly in front and lowers physical defense||
+|311200202|1|10|10|1|0|1|40|40|8|0|0|0|1|1|-1|7|0|1|Deals physical damage to an enemy directly in front and lowers physical defense||
+|311200301|1|1|1|0|0|9|9|0.75|0|0|0|0|1|2|2160|3|0|1|||
+|311200302|1|10|21|1|0|1|1.6|1.6|12|0|0|2|2|1|-1|1|0|1|||
+|311200401|1|1|1|0|0|9|9|0.75|0|0|0|0|1|2|2160|3|1|1|||
+|311200402|1|10|21|1|0|1|1.6|1.6|12|0|0|2|2|1|-1|1|0|1|||
+|390100201|1|1|2|0|0|0|0|3|0|0|0|0|1|1|1500|3|0|99|||
+|390100301|1|19|1|0|0|0|0|9.5|0|0|0|0|2|1|0|1|0|0|||
+|390100401|2|1|2|0|0|0|0|6|0|0|0|0|1|1|0|9|2|1|||
+|390100501|2|1|2|0|0|0|0|5.7|0|0|0|0|1|1|0|9|1|1|||
+|400801201|1|1|2|0|0|10|10|0.2|0|0|0|0|1|2|200|3|0|99|||
+|400810101|1|17|5|100802|0|100|0|0|0|0|0|0|2|1|0|7|0|1|||
+|400810102|1|1|2|0|0|10|10|1|0|0|0|0|1|2|300|3|0|99|||
+|400810103|1|30|0|0|0|0|0|0|0|0|0|0|2|3|0|7|0|1|||
+|401201201|1|17|3|0|0|100|0|70|0|0|0|0|1|2|300|3|0|99|||
+|401201202|1|1|2|0|0|15|15|1|0|0|0|0|1|2|300|3|0|99|||
+|402501201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|0|10|0|1|||
+|402501202|1|1|1|0|0|15|15|1|0|0|0|0|1|1|-1|1|0|1|||
+|404200102|1|8|3|0|0|0|0|3|0|0|0|0|2|1|0|1|0|99|||
+|404200201|1|1|2|0|0|30|20|1|0|0|0|0|1|1|-1|3|0|1|||
+|404200202|1|8|1|0|0|0.5|0|6|0|0|0|0|1|1|0|1|0|1|||
+|404203201|1|16|1|0|0|50|1|0|0|0|0|0|2|3|2160|10|0|1|||
+|404204201|1|4|2|0|0|1|12|12|1|0|0|0|2|3|2160|10|0|1|||
+|408402201|1|4|2|0|0|1|7.5|7.5|1|0|0|0|2|2|2160|5|0|1|Recovers an ally's HP by {0}.|HP recovery + {0}|
+|408403201|1|16|1|1|0|50|0|0|18|0|0|0|2|3|2160|3|0|99|Recovers all allies' TP by {0}.||
+|900000201|1|4|2|0|0|1|20|20|0.3|0|0|0|2|3|-1|3|0|99|||
+|900000401|2|18|3|0|0|0|0|40|0|0|0|0|2|1|0|1|0|0|||
+|900000501|2|18|3|0|0|0|0|90|0|0|0|0|2|1|0|1|0|0|||
+|900000601|2|18|3|0|0|0|0|90|0|0|0|0|2|1|0|1|0|0|||
+|900000701|1|2|4|0|0|-160|0|0|0|0|0|0|2|3|0|7|0|1|||
+|900000801|2|18|3|0|0|0|0|90|0|0|0|0|2|1|0|1|0|0|||
+|900100101|1|2|1|0|0|150|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|900100102|1|1|1|0|0|45|45|3.6|0|0|0|0|1|1|-1|3|0|1|||
+|900100201|1|1|1|0|0|0|0|1|0|0|0|0|1|1|-1|3|0|1|||
+|900100202|1|3|3|0|0|0|0|0|0|0|0|0|1|1|0|1|99|1|||
+|900100301|1|7|1|0|0|0|0|1|0|0|0|0|1|1|-1|9|2|1|||
+|900100401|2|18|3|0|0|0|0|40|0|0|0|0|2|1|0|7|0|1|||
+|900100501|2|18|3|0|0|0|0|90|0|0|0|0|2|1|0|1|0|0|||
+|900100601|2|18|3|0|0|0|0|90|0|0|0|0|2|1|0|1|0|0|||
+|900200101|1|4|2|0|0|1|75|75|1.2|0|0|0|2|3|-1|3|0|99|||
+|900200201|1|7|1|0|0|0|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|900200202|1|1|2|0|0|0|0|1|0|0|0|0|1|1|0|1|0|0|||
+|900200203|1|8|5|0|0|0|0|5|0|0|0|0|1|1|0|1|0|1|||
+|900200301|1|4|2|0|0|1|25|25|0.6|0|0|0|2|1|-1|9|0|1|||
+|900200401|2|18|3|0|0|0|0|7|0|0|0|0|2|1|0|1|0|0|||
+|900200501|2|18|3|0|0|0|0|8|0|0|0|0|2|1|0|1|0|0|||
+|900300101|1|1|1|0|0|45|45|3.6|0|0|0|0|1|1|-1|3|0|1|||
+|900300201|1|1|1|0|0|0.4|0|0|0|0|0|0|1|1|-1|3|0|1|||
+|900300202|1|3|3|0|0|0|0|0.5|0|0|0|0|1|1|0|1|0|0|||
+|900300301|1|1|2|0|0|0|0|1|0|0|0|0|1|1|-1|3|0|1|||
+|900300401|2|18|3|0|0|0|0|90|0|0|0|0|2|1|0|1|0|0|||
+|900400401|1|2|4|0|0|-160|0|0|0|0|0|0|2|3|0|7|0|1|||
+|900400501|1|2|6|0|0|250|1500|0|0|0|0|0|2|3|0|7|0|1|||
+|900400601|1|18|3|0|0|0|0|5|0|0|0|0|2|3|0|7|0|1|||
+|900400701|1|18|3|0|0|0|0|5|0|0|0|0|2|3|0|7|0|1|||
+|901000401|1|18|3|0|0|0|3|5.28|0|0|0|0|2|1|0|1|0|0|||
+|901200401|1|18|3|0|0|0|0|0.5|0|0|0|0|2|1|0|1|0|0|||
+|901200501|1|18|3|0|0|0|0|5|0|0|0|0|2|1|0|1|0|0|||
+|901700401|1|18|3|0|0|0|5|11|0|0|0|0|2|1|0|1|0|0|||
+|902800101|1|26|902800102|1|0|1|0.2|0|0|0|0|0|2|1|0|7|0|1|||
+|902800102|1|1|1|0|0|20.4|20.4|1.62|0|0|0|0|1|1|900|3|0|99|||
+|902800201|1|10|40|1|0|1|0.3|0.3|12|0|0|1|2|3|2160|3|0|99|Boosts all allies' magic defense by {0}.|Magic defense boost + {0}|
+|902800301|1|16|1|0|0|75|2.5|0|0|0|0|0|2|3|2160|3|1|1|||
+|903600401|1|2|4|0|0|-160|0|0|0|0|0|0|2|3|0|7|0|1|||
+|903600501|1|2|6|0|0|350|1500|0|0|0|0|0|2|3|0|7|0|1|||
+|903800401|1|18|3|0|0|0|0|99|0|0|0|0|2|1|0|1|0|0|||
+|904400401|1|18|3|0|0|0|0|2.8|0|0|0|0|2|1|0|1|0|0|||
+|907500401|1|18|3|0|0|0|5|11|0|0|0|0|2|1|0|1|0|0|||
+|907700401|1|18|3|0|0|0|0|2.8|0|0|0|0|2|1|0|1|0|0|||
+|907800201|1|18|3|0|0|0|5|11|0|0|0|0|2|1|0|1|0|0|||

@@ -1,0 +1,2 @@
+|id|reminder_id|condition_type|condition_id|
+| --- | --- | --- | --- |

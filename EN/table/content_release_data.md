@@ -1,0 +1,31 @@
+|system_id|team_level|story_id|quest_id|dialog|
+| --- | --- | --- | --- | --- |
+|101|1|0|0||
+|102|1|0|11002008|To unlock, clear Main Quest 2-8 (NORMAL)|
+|103|1|0|11002005|To unlock,\nclear Main Quest\n2-5 (NORMAL)|
+|104|1|0|11002012|To unlock,\nclear Main Quest\n2-12 (NORMAL)|
+|107|1|0|11003001|To unlock, clear Main Quest 3-1 (NORMAL)|
+|108|1|0|11009001|To unlock, clear Main Quest 9-1 (NORMAL)|
+|109|1|0|11009002|To unlock, clear Main Quest 9-2 (NORMAL)|
+|110|1|0|11001005|To unlock, clear Main Quest 1-5 (NORMAL)|
+|111|1|0|12018001|To unlock, clear Main Quest 18-1 (HARD)|
+|112|1|0|11018005|To unlock, clear Main Quest 18-5 (NORMAL)|
+|201|1|0|0||
+|202|1|0|11004006|To unlock, clear Main Quest 4-6 (NORMAL)|
+|203|1|0|11008015|To unlock, clear Main Quest 8-15 (NORMAL)|
+|204|1|0|11002012|To unlock, clear Main Quest 2-12 (NORMAL)|
+|205|1|0|11003001|To unlock, clear Main Quest 3-1 (NORMAL)|
+|206|1|0|11004013|To unlock, clear Main Quest 4-13 (NORMAL)|
+|207|1|0|0||
+|210|1|0|0||
+|401|1|0|11004006|To unlock,\nclear Main Quest\n4-6 (NORMAL)|
+|402|1|0|11008015|To unlock,\nclear Main Quest\n8-15 (NORMAL)|
+|503|1|0|11002002|To unlock, clear Main Quest 2-2 (NORMAL)|
+|506|1|0|11003005|To unlock, clear Main Quest 3-5 (NORMAL)|
+|601|1|0|11002001|To unlock, clear Main Quest 2-1 (NORMAL)|
+|602|1|0|11007001|To unlock, clear Main Quest 7-1 (NORMAL)|
+|603|1|0|11016014|To unlock, clear Main Quest 16-14 (NORMAL)|
+|701|1|0|11003001|To unlock, clear Main Quest 3-1 (NORMAL)|
+|904|1|0|11002009|To unlock, clear Main Quest 2-9 (NORMAL)|
+|906|1|0|0||
+|8001|1|0|11003002|To unlock, clear Main Quest 3-2 (NORMAL)|

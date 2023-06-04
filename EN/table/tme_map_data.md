@@ -1,0 +1,2 @@
+|tme_object_id|event_id|condition_story_id|area_difficulty_type|release_effect|tap_effect|
+| --- | --- | --- | --- | --- | --- |

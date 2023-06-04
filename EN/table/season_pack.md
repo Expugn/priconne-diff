@@ -1,0 +1,27 @@
+|id|mission_id|disp_order|category_icon|receive_text|after_text|gift_message_id|term|repurchase_day|group_id|system_id_1|add_num_1|item_record_id|condition_flg|reward_rate_1|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|9|17001001|1|403|Day {1}'s set of the daily Jewel pack.|Unredeemed Jewels from the daily Jewel pack.|0|30|3|0|104|0|1|0|2000|
+|15|0|0|0|||0|7|3|1|103|3|0|1|0|
+|18|0|0|0|||0|30|3|1|103|3|0|1|0|
+|19|17001002|2|405|Day {1} of the 7-Day Stamina Support Pack.||9402|7|0|0|103|1|20002|0|0|
+|20|0|2|0|||9403|0|0|0|0|0|3|0|0|
+|21|0|4|0|||9404|0|0|0|0|0|4|0|0|
+|22|0|6|0|||9405|0|0|0|0|0|5|0|0|
+|23|0|8|0|||9406|0|0|0|0|0|6|0|0|
+|26|0|10|0|||9413|0|0|0|0|0|7|0|0|
+|27|0|11|0|||9414|0|0|0|0|0|8|0|0|
+|28|0|1|0|||9319|0|0|0|908|0|9|0|0|
+|29|0|3|0|||9409|0|0|0|0|0|3|0|0|
+|30|0|5|0|||9410|0|0|0|0|0|4|0|0|
+|31|0|7|0|||9411|0|0|0|0|0|5|0|0|
+|32|0|9|0|||9412|0|0|0|0|0|6|0|0|
+|521|17001099|2|403|Item set from the Goddess' Blessing pack.|Item set from the Goddess' Blessing pack.|0|1|0|0|0|0|2|0|0|
+|522|17001003|2|405|Day {1} of the Advanced Weekly Support Pack.|Item set from the Advanced Weekly Support Pack|0|7|0|0|0|0|50001|0|0|
+|523|0|1|403|||9407|0|0|0|0|1|50002|0|0|
+|525|17001004|0|403|Item set from the Goddess' Blessing 2 pack.|Item set from the Goddess' Blessing 2 pack.|0|1|0|0|0|0|50004|0|0|
+|526|0|0|0|||0|0|0|0|0|0|0|0|0|
+|527|0|0|0|||9408|0|0|0|0|0|50005|0|0|
+|528|0|0|0|||9408|0|0|0|0|0|50005|0|0|
+|529|17001005|2|405|Day {1} of the New Player Weekly Support Pack.|Item set from the New Player Weekly Support Pack|0|7|0|0|0|0|50007|0|0|
+|530|0|0|0|||9415|0|0|0|0|0|50008|0|0|
+|531|0|0|0|||9416|0|0|0|0|0|50009|0|0|

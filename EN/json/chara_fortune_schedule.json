@@ -1,0 +1,8 @@
+{
+    "chara_fortune_schedule": [
+        {"fortune_id":10000,"name":"1st Anniversary Special Login Bonus","start_time":"2022/1/19 13:00","end_time":"2022/2/2 12:59"},
+        {"fortune_id":10001,"name":"Special Login Bonus","start_time":"2022/4/2 13:00","end_time":"2022/4/12 12:59"},
+        {"fortune_id":10002,"name":"1.5-Year Anniversary Special Login Bonus","start_time":"2022/7/19 13:00","end_time":"2022/8/5 12:59"},
+        {"fortune_id":10003,"name":"2nd Anniversary Special Login Bonus","start_time":"2023/1/19 13:00:00","end_time":"2023/2/2 12:59:59"}
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "campaign_mission_schedule": [
+        {"campaign_id":1,"start_time":"2022-11-25 13:00:00","end_time":"2022-12-11 12:59:59","close_time":"2022-12-17 19:59:59"}
+    ]
+}

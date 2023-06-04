@@ -1,0 +1,16 @@
+{
+    "login_bonus_data": [
+        {"login_bonus_id":20010,"name":"Jump Start Login Bonus","login_bonus_type":2,"count_num":10,"start_time":"2021/01/19 13:00:00","end_time":"2030/01/01 23:59:00","bg_id":530100,"stamp_id":0,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":30000,"name":"Login Bonus","login_bonus_type":3,"count_num":15,"start_time":"2016/04/01 15:00:00","end_time":"2030/01/01 23:59:00","bg_id":0,"stamp_id":0,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":40001,"name":"Half Anniversary Login Campaign","login_bonus_type":4,"count_num":10,"start_time":"2021/07/19 13:00:00","end_time":"2021/08/04 12:59:59","bg_id":500160,"stamp_id":1,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":40003,"name":"Login Bonus for TV Animation Season 2","login_bonus_type":4,"count_num":10,"start_time":"2022/01/10 13:00:00","end_time":"2022/04/06 12:59:59","bg_id":40003,"stamp_id":3,"odds_group_id":0,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":60000,"name":"New Year's Fortune Login Bonus","login_bonus_type":6,"count_num":7,"start_time":"2022/1/1 13:00:00","end_time":"2022/01/12 12:59:59","bg_id":500553,"stamp_id":0,"odds_group_id":1,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":60001,"name":"New Year's Login Bonus","login_bonus_type":6,"count_num":7,"start_time":"2023/01/01 13:00:00","end_time":"2023/01/12 12:59:59","bg_id":500553,"stamp_id":0,"odds_group_id":1,"adv_play_type":0,"count_type":0},
+        {"login_bonus_id":70000,"name":"Holiday Login Bonus","login_bonus_type":7,"count_num":2,"start_time":"2021/12/24 13:00:00","end_time":"2021/12/26 12:59:59","bg_id":500160,"stamp_id":0,"odds_group_id":0,"adv_play_type":1,"count_type":0},
+        {"login_bonus_id":70001,"name":"Three Days of Joy Login Bonus","login_bonus_type":7,"count_num":3,"start_time":"2021/12/31 13:00:00","end_time":"2022/01/07 12:59:59","bg_id":500160,"stamp_id":0,"odds_group_id":0,"adv_play_type":2,"count_type":0},
+        {"login_bonus_id":70002,"name":"Holiday Login Bonus","login_bonus_type":7,"count_num":2,"start_time":"2022/12/24 13:00:00","end_time":"2022/12/26 12:59:59","bg_id":500160,"stamp_id":0,"odds_group_id":0,"adv_play_type":1,"count_type":0},
+        {"login_bonus_id":70003,"name":"Three Days of Joy Login Bonus","login_bonus_type":7,"count_num":3,"start_time":"2023/01/01 13:00:00","end_time":"2023/01/04 12:59:59","bg_id":500160,"stamp_id":0,"odds_group_id":0,"adv_play_type":2,"count_type":0},
+        {"login_bonus_id":80001,"name":"1st Anniversary Countdown Login Bonus","login_bonus_type":8,"count_num":15,"start_time":"2022/1/4 13:00:00","end_time":"2022/01/19 12:59:59","bg_id":0,"stamp_id":0,"odds_group_id":0,"adv_play_type":0,"count_type":1},
+        {"login_bonus_id":80002,"name":"2nd Anniversary Countdown Log-in Bonus MAX 1500 Jewels","login_bonus_type":4,"count_num":15,"start_time":"2023/01/04 13:00:00","end_time":"2023/01/19 12:59:59","bg_id":80002,"stamp_id":4,"odds_group_id":0,"adv_play_type":0,"count_type":0}
+    ]
+}

@@ -1,0 +1,1812 @@
+|skill_id|name|skill_type|skill_area_width|skill_cast_time|action_1|action_2|action_3|action_4|action_5|action_6|action_7|depend_action_1|depend_action_2|depend_action_3|depend_action_4|depend_action_5|depend_action_6|depend_action_7|description|icon_type|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|1001001|Hiyori Rush|0|0|0|100100101|100100102|100100103|0|0|0|0|0|100100102|0|0|0|0|0|Deals large physical damage to an enemy directly in front and deals moderate physical damage to all enemies in a small radius around it.|1001|
+|1001002|Kitty Kapow|0|0|1.125|100100201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front.|2001|
+|1001003|Kitty Combo|0|0|1.295|100100301|100100302|0|0|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to an enemy directly in front. Boosts own physical attack by a moderate amount.|2001|
+|1001011|Hiyori Burning Rush|0|0|0|100101101|100101102|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front and large physical damage to all enemies in a radius around it.|1001|
+|1001012|Kitty Kapow+|0|0|1.125|100101201|100101202|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front and deals small physical damage to all enemies in a small radius around it.|2001|
+|1001501|Paw Power|0|0|0|100150101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1001511|Paw Power+|0|0|0|100151101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1002001|Group Heal|1|0|0|100200101|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers a moderate amount of HP for all allies.|1005|
+|1002002|Blooming Blast|1|0|1.6|100200201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front.|2002|
+|1002003|Flower Guard|1|0|1.46|100200301|0|0|0|0|0|0|0|0|0|0|0|0|0|Small boost to physical defense of all allies.|2003|
+|1002011|Flowering Heal|1|0|0|100201101|100201102|100201103|100201104|0|0|0|0|0|0|0|0|0|0|Moderately recovers all allies' HP, boosts their physical defense by a large amount, deploys a barrier that negates physical damage around them, and boosts their action speed by a large amount.|1005|
+|1002012|Blooming Blast+|1|0|1.6|100201201|100201202|0|0|0|0|0|0|100201201|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front and lowers its physical attack by a moderate amount.|2002|
+|1002501|Floral Aura|0|0|0|100250101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1002511|Floral Aura+|0|0|0|100251101|100251102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack and small boost to magical defense at start of battle.|3003|
+|1003001|Hurricane Slash|0|0|0|100300101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front.|1001|
+|1003002|Wind Thrust|0|0|0.955|100300201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front.|2001|
+|1003003|Counter Slash|0|0|1.3275|100300301|100300302|100300303|100300304|100300305|100300306|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front. Boost to damage dealt based on the damage taken while in pre-attack stance.|2001|
+|1003011|Tempest Slash|0|0|0|100301101|100301102|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front and equips Blades of Wind upon self. While Blades of Wind is active, all effect values of Rei's skills are doubled.|1001|
+|1003012|Wind Thrust+|0|0|0.955|100301201|100301202|100301203|100301204|100301205|0|0|0|0|0|100301202|100301203|0|0|Deals moderate physical damage to an enemy directly in front and lowers its physical defense by a small amount.|2001|
+|1003501|Rapid Riposte|0|0|0|100350101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1003511|Rapid Riposte+|0|0|0|100351101|100351102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and small boost to max HP at start of battle.|3001|
+|1004001|Trick Bomber|0|0|0|100400101|100400102|0|0|0|0|0|0|100400101|0|0|0|0|0|Deals moderate physical damage to enemies in a radius around the 2nd closest enemy.|1001|
+|1004002|Ink Spray|0|0|1.55|100400201|100400202|0|0|0|0|0|0|100400201|0|0|0|0|0|Deals small physical damage to the 2nd closest enemy and inflicts Blind.|2010|
+|1004003|Water Balloon|0|0|1.18|100400301|100400302|100400303|0|0|0|0|0|100400301|0|0|0|0|0|Deals small physical damage to an enemy with the highest physical attack and lowers its physical attack by a small amount. Small boost to own physical attack.|2004|
+|1004012|Ink Spray+|0|0|1.55|100401201|100401202|100401203|100401204|0|0|0|0|100401201|0|100401203|0|0|0|Deals small physical damage to the 2nd closest enemy and inflicts Blind. Lowers the physical attack of all enemies in range by a small amount.|2010|
+|1004501|Professional Prankster|0|0|0|100450101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense at start of battle.|3002|
+|1004511|Professional Prankster+|0|0|0|100451101|100451102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense and small boost to physical attack at start of battle.|3002|
+|1005001|Tiger Heroic Bomber|0|0|0|100500101|100500102|100500103|0|0|0|0|0|0|100500102|0|0|0|0|Leaps toward the third-closest enemy and deals large physical damage to all enemies in an area around oneself.|1001|
+|1005002|Tiger Shock|0|0|0.76|100500201|100500202|0|0|0|0|0|0|100500201|0|0|0|0|0|Deals small physical damage to all enemies in an area around oneself and inflicts Stun.|2018|
+|1005003|Tiger Spin|0|0|1.5|100500301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to all enemies in an area around oneself.|2001|
+|1005012|Tiger Shock+|0|0|0.76|100501201|100501202|100501203|100501204|0|0|0|0|100501201|0|0|0|0|0|Deals small physical damage to all enemies in an area around oneself and inflicts Stun. Massive boost to own physical and magical defense.|2018|
+|1005501|Hero's Code|0|0|0|100550101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1005511|Hero's Code+|0|0|0|100551101|100551102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and small boost to own physical defense at start of battle.|3001|
+|1006001|Little Devil's Cheer|1|0|0|100600101|100600102|0|0|0|0|0|0|0|0|0|0|0|0|Small boost to magical attack of all allies and recovers their HP based on the damage dealt by their next attack.|1003|
+|1006002|Shadow Bolt|0|0|1.18|100600201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front.|2002|
+|1006003|Impish Kiss|1|0|1.25|100600301|0|0|0|0|0|0|0|0|0|0|0|0|0|Lowers magical defense of an enemy directly in front by a large amount.|2004|
+|1006012|Shadow Bolt+|0|0|1.18|100601201|100601202|0|0|0|0|0|0|100601201|0|0|0|0|0|Deals large magical damage to an enemy directly in front and lowers its magical defense by a small amount.|2002|
+|1006501|Sweet Ignition|0|0|0|100650101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1006511|Sweet Ignition+|0|0|0|100651101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1007001|You're Pudding Now!|1|0|0|100700101|100700102|0|0|0|0|0|0|0|0|0|0|0|0|Inflicts large physical damage to one enemy directly in front while also healing own HP by a moderate amount.|1001|
+|1007002|BOO!|0|0|0|100700201|100700202|100700203|0|0|0|0|0|0|100700202|0|0|0|0|[Transform] Transforms into a ghost, becoming invincible for a short time.|2017|
+|1007003|Snack Time!|1|0|0.27|100700301|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers own HP by a moderate amount.|2005|
+|1007012|BOO!+|0|0|0|100701201|100701202|100701203|100701204|100701205|0|0|0|0|100701202|0|0|0|0|[Transform] Transforms into a ghost, becoming invincible for a short time. Additionally, moderate boost to own Dodge and large boost to own physical defense.|2017|
+|1007501|Floaty Wispy Ghosty!|0|0|0|100750101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense at start of battle.|3002|
+|1007511|Floaty Wispy Ghosty!+|0|0|0|100751101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical defense at start of battle.|3002|
+|1008001|Bow to My Beauty!|1|0|0|100800101|100800102|0|0|0|0|0|0|100800101|0|0|0|0|0|Deals small magical damage to all enemies in the front and lowers their physical defense by a small amount.|1002|
+|1008002|My Beauty Is Blinding ♪|1|0|1.93|100800201|100800202|0|0|0|0|0|0|100800201|0|0|0|0|0|Deals moderate magical damage to the 2nd closest enemy and inflicts Blind.|2010|
+|1008003|The Cutest Supporter ♪|1|0|1.6|100800301|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers the TP of the party member with the highest TP by a medium amount.|2006|
+|1008012|My Beauty Is Blinding ♪+|1|0|1.93|100801201|100801202|100801203|0|0|0|0|0|100801201|100801201|0|0|0|0|Deals moderate magical damage to the 2nd closest enemy and inflicts Blind and Charm.|2010|
+|1008501|The Cutest Hard Worker|0|0|0|100850101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1008511|The Cutest Hard Worker+|0|0|0|100851101|100851102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack and small boost to physical defense at start of battle.|3003|
+|1009001|Demonic Salvation: Apocalypse Dawn|1|0|0|100900101|100900102|100900103|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to all enemies. Lowers own physical and magical defense by a massive amount after use.|1002|
+|1009002|Demonic Salvation: Infinity|1|0|1.58|100900201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front.|2002|
+|1009003|Void Accession|1|2160|1.25|100900301|100900302|100900303|100900304|0|0|0|0|0|0|0|0|0|0|[Self Destruct] Activates when HP falls to 10% or below. Deals large magical damage to all enemies in range but knocks herself out.|2017|
+|1009012|Demonic Salvation: Infinity+|1|0|1.58|100901201|100901202|0|0|0|0|0|0|100901201|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front and lowers its magical defense by a small amount.|2002|
+|1009501|Hellfire of the Dark Conqueror|0|0|0|100950101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1009511|Hellfire of the Dark Conqueror+|0|0|0|100951101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1010001|Fairy-tale Garden|1|0|0|101000101|101000102|101000103|0|0|0|0|0|0|0|0|0|0|0|Small boost to magical attack and physical defense of all allies and recovers their TP by a small amount.|1003|
+|1010002|Maho-Maho Healing|1|0|1.53|101000201|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers the HP of the party member with the lowest HP by a moderate amount.|2005|
+|1010003|Maho-Maho Darkness|1|0|2.13|101000301|0|0|0|0|0|0|0|0|0|0|0|0|0|Inflicts Blind to an enemy in the 2nd position.|2010|
+|1010011|Fairy-tale Kingdom|1|0|0|101001101|101001102|101001103|101001104|0|0|0|0|0|0|0|0|0|0|Massive boost to magical attack and moderate boost to physical defense of all allies, recovers their TP by a moderate amount, and grants TP regen.|1003|
+|1010012|Maho-Maho Healing+|1|0|1.53|101001201|101001202|101001203|0|0|0|0|0|101001201|0|0|0|0|0|Recovers the HP of the party member with the lowest HP by a large amount, and grants them HP regen and moderate boost to physical defense.|2005|
+|1010501|Fanciful Furor|0|0|0|101050101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense at start of battle.|3002|
+|1010511|Fanciful Furor+|0|0|0|101051101|101051102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense and small boost to magical attack at start of battle.|3002|
+|1011001|Arrow Rain|0|0|0|101100101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range.|1001|
+|1011002|Concentration|0|0|1.07|101100202|101100201|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and physical critical rate.|2003|
+|1011003|Crushing Shot|0|0|1.5|101100301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front.|2001|
+|1011011|Solar Rain|0|0|0|101101101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to all enemies in range. When this skill is a critical hit, its damage is multiplied by 3.5 instead of 2.|1001|
+|1011012|Concentration+|0|0|1.07|101101202|101101201|101101203|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack and action speed, and moderate boost to own physical critical rate.|2003|
+|1011501|Penetration|0|0|0|101150101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1011511|Penetration+|0|0|0|101151101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1012001|Shooting☆Star|1|0|0|101200101|101200102|0|0|0|0|0|0|0|0|0|0|0|0|Deals small magical damage to all enemies that use physical attacks. Deals moderate magical damage to all enemies.|1002|
+|1012002|Psychic☆Blast|1|0|1.4|101200201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to the enemy with the highest physical attack.|2002|
+|1012003|Star☆Light|1|0|1.4|101200301|101200302|0|0|0|0|0|0|101200301|0|0|0|0|0|Deals small magical damage to the enemy with the highest physical attack and inflicts Stun.|2002|
+|1012011|Shooting☆Meteor|1|0|0|101201101|101201102|101201103|101201104|0|0|0|0|101201101|101201101|0|0|0|0|Deals large magical damage to all enemies that use physical attacks, lowers their magical defense by a small amount, and inflicts Stun. Deals moderate magical damage to all enemies.|1002|
+|1012012|Psychic☆Blast+|1|0|1.4|101201201|101201202|0|0|0|0|0|0|101201201|0|0|0|0|0|Deals moderate magical damage to the enemy with the highest physical attack and lowers its magical defense by a small amount.|2002|
+|1012501|Happy☆Energy|0|0|0|101250101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1012511|Happy☆Energy+|0|0|0|101251101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1013001|Nanaka Infinite Blast|1|0|0|101300101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive magical damage to the enemy with the highest remaining HP.|1002|
+|1013002|Stardust Magic|1|0|1.4|101300201|101300202|0|0|0|0|0|0|101300201|0|0|0|0|0|Lowers magical defense of all enemies in range by a small amount.|2004|
+|1013003|Energy Impact|1|0|1.4|101300301|101300302|0|0|0|0|0|0|101300301|0|0|0|0|0|Deals moderate magical damage to the enemy with the highest remaining HP and inflicts Stun.|2002|
+|1013012|Stardust Magic+|1|0|1.4|101301201|101301202|0|0|0|0|0|0|101301201|0|0|0|0|0|Lowers magical defense of all enemies in range by a moderate amount.|2004|
+|1013501|Awakening Mode|0|0|0|101350101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1013511|Awakening Mode+|0|0|0|101351101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1014001|Criminal Prison|1|0|0|101400101|101400102|101400103|101400104|101400105|0|0|0|101400101|101400101|0|101400104|0|0|Massively lowers magical defense of all enemies in a radius around the third enemy from the front, deploys a field that lowers TP Boost by a small amount, and reduces their action speed by a small amount.|1015|
+|1014002|Binding Route|1|0|1.4|101400201|101400202|0|0|0|0|0|0|101400201|0|0|0|0|0|Deals small magical damage to all enemies in range and inflicts Bind.|2007|
+|1014003|Misdirection Bullet|1|0|1.4|101400301|101400302|0|0|0|0|0|0|101400301|0|0|0|0|0|Deals small magical damage to an enemy directly in front and inflicts Confusion.|2024|
+|1014012|Binding Route+|1|0|1.4|101401201|101401202|101401203|0|0|0|0|0|0|101401201|0|0|0|0|Deals small magical damage to all enemies in range and inflicts Bind. Bind length increases based on the number of enemies in range.|2007|
+|1014501|Detective Mind|0|0|0|101450101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense at start of battle.|3004|
+|1014511|Detective Mind+|0|0|0|101451101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical defense at start of battle.|3004|
+|1015001|Sister's Blessing|1|0|0|101500101|101500102|0|0|0|0|0|0|0|0|0|0|0|0|Recovers HP of all allies by a moderate amount. Small boost to their magical defense.|1005|
+|1015002|Divine Force|1|0|1.17|101500201|0|0|0|0|0|0|0|0|0|0|0|0|0|Small boost to magical attack of all nearby allies.|2003|
+|1015003|Caring Cure|1|0|1.6|101500301|0|0|0|0|0|0|0|0|0|0|0|0|0|Grants HP regen to the foremost ally.|2005|
+|1015012|Divine Force+|1|0|1.17|101501201|101501202|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to magical attack and moderate boost to magical critical rate of all nearby allies.|2003|
+|1015501|Angelic Majesty|0|0|0|101550101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1015511|Angelic Majesty+|0|0|0|101551101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1016001|Heart Breaker|1|0|0|101600101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front. This always results in a critical hit.|1001|
+|1016002|Meany Missile|0|0|0.71|101600201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front. This always results in a critical hit.|2001|
+|1016003|Charming Aura ♪|1|0|1.4|101600301|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack.|2003|
+|1016012|Meany Missile+|0|0|0.71|101601201|101601202|101601203|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front, hitting three times, and tripling instead of doubling the damage if critical. This skill's first hit is always critical.|2001|
+|1016501|Super Cute Sensation|0|0|0|101650101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1016511|Super Cute Sensation+|0|0|0|101651101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1017001|Ryukyu-Ken Knuckle Cannon|0|0|0|101700101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front.|1001|
+|1017002|Midline Thrust|0|0|1|101700201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front.|2001|
+|1017003|Mental Focus|0|0|1|101700301|0|0|0|0|0|0|0|0|0|0|0|0|0|After activation, boosts damage dealt with each attack. Stacks up to 5 times.|2003|
+|1017012|Midline Thrust+|0|0|1|101701201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front.|2001|
+|1017501|Ryukyu-Ken Martial Breathing|0|0|0|101750101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1017511|Ryukyu-Ken Martial Breathing+|0|0|0|101751101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1018001|Lovely Heart Storm|1|0|0|101800101|101800102|0|0|0|0|0|0|101800101|0|0|0|0|0|Deals small magical damage and inflicts Charm to all enemies.|1009|
+|1018002|Tail Whip|1|0|1.66|101800201|101800202|0|0|0|0|0|0|101800201|0|0|0|0|0|Deals small magical damage to all enemies in range.|2002|
+|1018003|Soul Drain|1|0|1.33|101800301|101800302|0|0|0|0|0|0|0|0|0|0|0|0|Reduces the TP of one random enemy by a small amount while also recovering own TP by a small amount.|2006|
+|1018011|Lovely Heart Cyclone|1|0|0|101801101|101801102|101801103|101801104|0|0|0|0|101801101|101801101|101801101|0|0|0|Deals moderate magical damage to all enemies, reduces their TP by a small amount, lowers their TP Boost by a small amount, and inflicts Charm.|1009|
+|1018012|Tail Whip+|1|0|1.66|101801201|101801202|101801203|101801204|101801205|101801206|101801207|0|101801201|101801202|101801203|101801202|101801205|101801205|Deals moderate magical damage to all enemies in range. If they are suffering from Charm, reduces their TP by a large amount, and if they are not, lowers their physical and magical attack by a moderate amount.|2002|
+|1018501|Sweet, Loving Heart|0|0|0|101850101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1018511|Sweet, Loving Heart+|0|0|0|101851101|101851102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack and small boost to magical defense at start of battle.|3003|
+|1020001|Bunny Blade|1|0|0|102000101|102000102|102000103|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front and large physical damage to the 2nd closest enemy.|1001|
+|1020002|Hippety Hackety|1|0|0.85|102000201|102000202|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front.|2001|
+|1020003|Bunny Boost|0|0|0.42|102000301|0|0|0|0|0|0|0|0|0|0|0|0|0|Small boost to physical attack of all allies.|2003|
+|1020012|Hippety Hackety+|1|0|0.85|102001201|102001202|102001203|0|0|0|0|0|0|102001202|0|0|0|0|Deals large physical damage to all enemies in range.|2001|
+|1020501|Bunny Power|0|0|0|102050101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1020511|Bunny Power+|0|0|0|102051101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1021001|Fearful Bell Bash|0|0|0|102100101|102100102|0|0|0|0|0|0|102100101|0|0|0|0|0|Deals large physical damage to an enemy directly in front and inflicts Stun for a long period.|1018|
+|1021002|Bravery Bell|0|0|1.375|102100201|102100202|0|0|0|0|0|0|102100201|0|0|0|0|0|Small boost to physical and magical defense of all nearby allies.|2003|
+|1021003|Bell Ringer|1|0|1.375|102100301|102100302|0|0|0|0|0|0|102100301|0|0|0|0|0|Deals small physical damage to an enemy directly in front and inflicts Stun.|2018|
+|1021012|Bravery Bell+|0|0|1.375|102101201|102101202|102101203|0|0|0|0|0|102101201|102101201|0|0|0|0|Moderate boost to physical and magical defense of all allies, and recovers their TP by a small amount.|2003|
+|1021501|Brilliant Resolve|0|0|0|102150101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own max HP at start of battle.|3005|
+|1021511|Brilliant Resolve+|0|0|0|102151101|102151102|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own max HP and small boost to magical defense at start of battle.|3005|
+|1022001|Lightning Javelin|0|0|0|102200101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to all enemies in range.|1002|
+|1022002|Overcharge|0|0|1.25|102200201|102200202|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at the cost of HP.|2003|
+|1022003|Shadow Blast|1|0|0.98|102200301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals small magical damage to all enemies in range.|2002|
+|1022012|Overcharge+|0|0|1.25|102201201|102201202|102201203|0|0|0|0|0|0|0|0|0|0|0|Massive boost to own magical attack at the cost of HP. Recovers own TP by a moderate amount.|2003|
+|1022501|Lightning Surge|0|0|0|102250101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1022511|Lightning Surge+|0|0|0|102251101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1023001|Pukichi Fullswing|0|0|0|102300101|102300102|102300103|102300104|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front, inflicts Stun, and knocks it back a large distance.|1001|
+|1023002|Pukichi Pummel|0|0|1.125|102300201|102300202|0|0|0|0|0|0|102300201|0|0|0|0|0|Deals small physical damage and inflicts Stun to all enemies in range.|2018|
+|1023003|Pukichi Hurricane|0|0|0.855|102300301|102300302|0|0|0|0|0|0|102300301|0|0|0|0|0|Deals small physical damage to all enemies in range and lowers their physical defense by a small amount.|2001|
+|1023012|Pukichi Pummel+|0|0|1.125|102301201|102301202|102301203|102301204|0|0|0|0|102301201|0|102301203|0|0|0|Deals moderate physical damage and inflicts Stun to all enemies in range. Additionally deals large physical damage to an enemy directly in front and reduces their action speed by a small amount.|2018|
+|1023501|Pretty Pulverizer|0|0|0|102350101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1023511|Pretty Pulverizer+|0|0|0|102351101|102351102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and small boost to magical defense at start of battle.|3001|
+|1025001|Whirlwind|1|0|0|102500101|102500102|102500103|102500104|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to all enemies in range and lowers their physical defense by a small to moderate amount.|1002|
+|1025002|Wind Blast|1|0|1.6|102500201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals small magical damage to all enemies in range.|2002|
+|1025003|Maid's Comfort|1|0|1.46|102500301|102500302|0|0|0|0|0|0|102500301|0|0|0|0|0|Recovers HP and boosts physical attack of all nearby allies by a small amount.|2005|
+|1025012|Wind Blast+|1|0|1.6|102501201|102501202|102501203|0|0|0|0|0|102501201|102501201|0|0|0|0|Deals moderate magical damage to all enemies in range and lowers their physical and magical defense by a small amount.|2002|
+|1025501|Maid's Dedication|0|0|0|102550101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1025511|Maid's Dedication+|0|0|0|102551101|102551102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack and small boost to magical defense at start of battle.|3003|
+|1026001|Homemade Sweet Bun Boost|1|0|0|102600101|102600102|102600103|0|0|0|0|0|0|0|0|0|0|0|Recovers HP of all allies by a small amount. Moderate boost to their physical attack and magical defense.|1003|
+|1026002|Patience Is a Virtue|1|0|0.59|102600201|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to magical defense of all nearby allies.|2003|
+|1026003|Acorn Barrage|1|0|0.92|102600301|102600302|0|0|0|0|0|0|102600301|0|0|0|0|0|Deals small physical damage to an enemy directly in front and inflicts Stun.|2018|
+|1026012|Patience Is a Virtue+|1|0|0.59|102601201|102601202|102601203|0|0|0|0|0|0|0|0|0|0|0|Large boost to magical defense of all nearby allies, large boost to their physical attack, and moderate boost to their physical critical rate.|2003|
+|1026501|Amped on Acorns|0|0|0|102650101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense at start of battle.|3004|
+|1026511|Amped on Acorns+|0|0|0|102651101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical defense at start of battle.|3004|
+|1027001|Deadly Discipline|0|0|0|102700101|102700102|102700103|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front. Boost to own physical attack if the enemy is defeated by this skill.|1001|
+|1027002|Obsession|0|0|1.125|102700201|0|0|0|0|0|0|0|0|0|0|0|0|0|Small boost to own physical attack.|2003|
+|1027003|Poison Mist|0|0|1.125|102700301|102700302|0|0|0|0|0|0|102700301|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front and inflicts Poison.|2022|
+|1027012|Obsession+|0|0|1.125|102701201|102701202|102701203|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack. Additional massive boost to own physical attack and physical critical rate for a brief period.|2003|
+|1027501|Unrelenting Obsession|0|0|0|102750101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1027511|Unrelenting Obsession+|0|0|0|102751101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1028001|Phoenix Sword|1|0|0|102800101|102800102|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range. The lower Saren's HP, the greater the damage dealt.|1001|
+|1028002|Fiery Slash|1|0|1.45|102800201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to all enemies in range.|2001|
+|1028003|Elegant Ovation|0|0|1.25|102800301|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers the TP of the closest party member by a moderate amount.|2006|
+|1028012|Fiery Slash+|1|0|1.45|102801201|102801202|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range. The lower Saren's HP, the greater the damage dealt.|2001|
+|1028501|Aristocratic Spirit|0|0|0|102850101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1028511|Aristocratic Spirit+|0|0|0|102851101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1029001|Live on Stage|0|0|0|102900101|102900102|102900103|102900104|0|0|0|0|0|0|0|0|0|0|[Taunt] Taunts all enemies. Large boost to own physical and magical defense. Small boost to physical attack of all allies.|1003|
+|1029002|Glamorous Slice|1|0|1.25|102900201|102900202|0|0|0|0|0|0|102900201|0|0|0|0|0|Deals small physical damage and inflicts Stun to all enemies in range.|2018|
+|1029003|Idol's Encouragement|1|0|1.65|102900301|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers HP of all nearby allies by a moderate amount.|2005|
+|1029012|Glamorous Slice+|1|0|1.25|102901201|102901202|102901203|0|0|0|0|0|102901201|102901201|0|0|0|0|Deals small physical damage to all enemies in range, inflicts Stun, and lowers their physical attack by a small amount.|2018|
+|1029501|Radiant Smile|0|0|0|102950101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense at start of battle.|3002|
+|1029511|Radiant Smile+|0|0|0|102951101|102951102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense and small boost to magical defense at start of battle.|3002|
+|1030001|Ninpo: Scorching Hell|1|0|0|103000101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range.|1001|
+|1030002|Hurricane Assault|0|0|1.85|103000201|103000202|103000203|103000204|0|0|0|0|103000201|103000201|0|0|0|0|Deals small physical damage to all enemies in range. Recovers own TP by a moderate amount if an enemy is defeated by this skill.|2001|
+|1030003|Blazing Fan|0|0|0.85|103000301|103000302|0|0|0|0|0|0|103000301|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front and knocks them back slightly.|2001|
+|1030012|Hurricane Assault+|0|0|1.85|103001201|103001202|103001203|103001204|0|0|0|0|103001201|103001201|0|0|0|0|Deals moderate physical damage to all enemies in range. Recovers own TP by a massive amount if an enemy is defeated by this skill.|2001|
+|1030501|Honnoji Hustle|0|0|0|103050101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1030511|Honnoji Hustle+|0|0|0|103051101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1031001|Phantom Terror|1|0|0|103100101|103100102|0|0|0|0|0|0|103100101|0|0|0|0|0|Deals moderate physical damage to all enemies in range and lowers their physical defense by a small amount.|1001|
+|1031002|Otherworldly Beckoning|1|0|1.38|103100201|0|0|0|0|0|0|0|0|0|0|0|0|0|[Summon] Summons a skull in front of oneself, which attacks an enemy directly in front.|2017|
+|1031003|Hungry Wraith|1|0|2.01|103100301|0|0|0|0|0|0|0|0|0|0|0|0|0|Lowers physical defense of all enemies by a small amount.|2004|
+|1031012|Otherworldly Beckoning+|1|0|1.38|103101201|103101202|103101203|103101204|0|0|0|0|0|103101202|103101202|0|0|0|[Summon] Summons a skull in front of oneself, which attacks an enemy directly in front. Moderate boost to physical attack and physical critical rate of all allies in a radius around the frontmost ally.|2017|
+|1031501|Twilight Elegy|0|0|0|103150101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1031511|Twilight Elegy+|0|0|0|103151101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1032001|Benevolent Beatdown|1|0|0|103200101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front.|1001|
+|1032002|Haughty Hack|1|0|1.3575|103200201|103200202|103200203|103200204|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front. Small boost to own physical attack. If attacked while laughing, unleashes a counterattack on enemies in range.|2001|
+|1032003|Rejuvenating Jewels|0|0|1.5575|103200301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deploys a field that recovers HP of all nearby allies by a small amount.|2016|
+|1032012|Haughty Hack+|1|0|1.3575|103201201|103201202|103201203|103201204|103201205|103201206|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front. Moderate boost to own physical attack and small boost to own TP Boost. Taunts the enemy. If attacked while laughing, unleashes a counterattack on enemies in range.|2001|
+|1032501|Burning Soul|0|0|0|103250101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1032511|Burning Soul+|0|0|0|103251101|103251102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and small boost to physical defense at start of battle.|3001|
+|1033001|Elizabeth|0|0|0|103300101|103300102|0|0|0|0|0|0|103300101|0|0|0|0|0|Deals massive physical damage to an enemy directly in front and inflicts Stun.|1001|
+|1033002|Milk Can Slam|0|0|1.4|103300201|103300202|0|0|0|0|0|0|103300201|0|0|0|0|0|Deals small physical damage to an enemy directly in front and knocks it back slightly.|2001|
+|1033003|Pitchfork Pummel|0|0|1.4|103300301|103300302|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front. Small boost to own physical attack.|2001|
+|1033012|Milk Can Slam+|0|0|1.4|103301201|103301202|103301203|0|0|0|0|0|103301201|103301201|0|0|0|0|Deals large physical damage to an enemy directly in front, inflicts Confusion, and knocks it back a large distance.|2001|
+|1033501|Opening One-Liner|0|0|0|103350101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1033511|Opening One-Liner+|0|0|0|103351101|103351102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and small boost to physical defense at start of battle.|3001|
+|1034001|Seven Veils|1|0|0|103400101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deploys a barrier that negates magical damage around all allies.|1013|
+|1034002|Aqua Vitae|1|0|1.4|103400201|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers the HP of the party member with the lowest HP by a moderate amount.|2005|
+|1034003|Moonlight|1|0|1.13|103400301|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers the TP of the party member with the lowest TP by a medium amount.|2006|
+|1034011|Seventh Heaven|1|0|0|103401101|103401102|103401103|0|0|0|0|0|0|0|0|0|0|0|Deploys a barrier that negates magical damage around all allies, boosts their magical defense by a large amount, and recovers their HP by a small amount.|1013|
+|1034012|Aqua Vitae+|1|0|1.4|103401201|103401202|103401203|0|0|0|0|0|103401201|0|0|0|0|0|Recovers the HP of the party member with the lowest HP by a large amount, boosts their magical defense by a moderate amount, and grants HP regen.|2005|
+|1034501|Liquid Courage|0|0|0|103450101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense at start of battle.|3004|
+|1034511|Liquid Courage+|0|0|0|103451101|103451102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense and small boost to physical attack at start of battle.|3004|
+|1036001|Cosmo Blue Flash|1|0|0|103600101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive magical damage to an enemy directly in front.|1002|
+|1036002|Ice Lance|1|0|1.83|103600201|0|0|0|0|0|0|0|103600201|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front.|2002|
+|1036003|Magical Surge|1|0|1.4|103600301|0|0|0|0|0|0|0|103600301|0|0|0|0|0|Large boost to own magical attack for a brief period.|2003|
+|1036012|Ice Lance+|1|0|1.83|103601201|0|0|0|0|0|0|0|103601201|0|0|0|0|0|Deals large magical damage to an enemy directly in front. When this skill is a critical hit, its damage is quadrupled instead of doubled.|2002|
+|1036501|Pinch of Bravery|0|0|0|103650101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1036511|Pinch of Bravery+|0|0|0|103651101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1037001|Mikuma Hidden Art: Asura|0|0|0|103700101|103700102|103700103|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front. Massive boost to own physical attack and moderate boost to own action speed.|1001|
+|1037002|Mikuma Style: Gale Strike|0|0|0.76|103700201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to all enemies in range.|2001|
+|1037003|Mikuma Style: Returning Swallow|0|0|1.5|103700301|103700302|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front and recovers own TP by a small amount.|2001|
+|1037012|Mikuma Style: Gale Strike+|0|0|0.76|103701201|103701202|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range. Damage increases based on the number of targets.|2001|
+|1037501|Vital Resonance: Sheer Focus|0|0|0|103750101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1037511|Vital Resonance: Sheer Focus+|0|0|0|103751101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1038001|Enchanted Arrow|0|0|0|103800101|103800102|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front. Large boost to own physical attack.|1001|
+|1038002|Triple Shot|0|0|0.76|103800201|103800202|103800203|103800204|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to up to 3 enemies directly in front. Recovers own TP by a small amount.|2001|
+|1038003|Wind Arrow|0|0|1.5|103800301|103800302|0|0|0|0|0|0|0|0|0|0|0|0|Inflicts moderate physical damage to one enemy directly in front while also recovering own TP by a small amount.|2001|
+|1038012|Triple Shot+|0|0|0.76|103801201|103801202|103801203|103801204|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range. Damage increases based on the number of targets.|2001|
+|1038501|Enhanced Aim|0|0|0|103850101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1038511|Enhanced Aim+|0|0|0|103851101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1040001|Twisting Vines|1|0|0|104000101|104000102|0|0|0|0|0|0|104000101|0|0|0|0|0|Deals moderate physical damage to enemies in a radius around the closest enemy.|1001|
+|1040002|Poison Arrow|1|0|1.06|104000201|104000202|0|0|0|0|0|0|104000201|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front and inflicts Poison.|2022|
+|1040003|Paralyzing Shot|1|0|1.06|104000301|104000302|0|0|0|0|0|0|104000301|0|0|0|0|0|Deals small physical damage to an enemy directly in front and inflicts Paralyze.|2007|
+|1040012|Poison Arrow+|1|0|0.86|104001201|104001202|104001203|104001204|104001205|0|0|0|0|0|104001202|104001203|0|0|Deals moderate physical damage to an enemy directly in front and inflicts Poison. If the target is already poisoned, instead deals massive physical damage and inflicts Venom.|2022|
+|1040501|Woodland Marksman|0|0|0|104050101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1040511|Woodland Marksman+|0|0|0|104051101|104051102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and small boost to physical defense at start of battle.|3001|
+|1042001|Sylvan Blessing|1|0|0|104200101|104200102|0|0|0|0|0|0|0|0|0|0|0|0|Recovers HP of all allies in front of her by a moderate amount and summons a fairy beside the foremost ally.|1005|
+|1042002|Rousing Ballad|1|0|1.5|104200201|104200202|0|0|0|0|0|0|104200201|0|0|0|0|0|Moderate boost to physical attack of all allies in a radius around the foremost ally.|2003|
+|1042003|Fairy's Lullaby|1|0|2.03|104200301|0|0|0|0|0|0|0|0|0|0|0|0|0|Lowers physical attack of an enemy directly in front by a moderate amount.|2004|
+|1042012|Rousing Ballad+|1|0|1.5|104201201|104201202|104201203|104201204|0|0|0|0|104201201|104201201|0|0|0|0|Large boost to physical attack and moderate boost to physical critical rate of all allies in a radius around the foremost ally. Deploys a field around them that recovers HP of all allies in range by a small amount.|2003|
+|1042501|Gifted Voice|0|0|0|104250101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1042511|Gifted Voice+|0|0|0|104251101|104251102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack and small boost to magical defense at start of battle.|3003|
+|1043001|Wolven Rend|0|0|0|104300101|104300102|0|0|0|0|0|0|104300101|0|0|0|0|0|Deals physical damage to an enemy directly in front and lowers its physical defense by a moderate amount.|1001|
+|1043002|Hard Slash|0|0|1.125|104300201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front.|2001|
+|1043003|Heroic Howl|0|0|1.895|104300301|0|0|0|0|0|0|0|0|0|0|0|0|0|Lowers physical defense of an enemy directly in front by a moderate amount.|2004|
+|1043012|Hard Slash+|0|0|1.125|104301201|104301202|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front. Small boost to own physical attack.|2001|
+|1043501|Raging Wolf Fang|0|0|0|104350101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1043511|Raging Wolf Fang+|0|0|0|104351101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1044001|Vermilion Bite|1|0|0|104400101|104400102|104400103|104400104|0|0|0|0|104400101|0|0|0|0|0|Deals large magical damage to all enemies in range and recovers own HP by a moderate amount.|1002|
+|1044002|Bloodthirsty Blast|1|0|1.125|104400201|104400202|104400203|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack. Deals moderate magical damage to an enemy directly in front at the cost of own HP.|2002|
+|1044003|Bloody Spear|1|0|0.865|104400301|104400302|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to all enemies in range at the cost of own HP.|2002|
+|1044012|Bloodthirsty Blast+|1|0|1.125|104401201|104401202|104401203|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack. Deals large magical damage to an enemy directly in front at the cost of own HP.|2002|
+|1044501|Blood Pact|0|0|0|104450101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1044511|Blood Pact+|0|0|0|104451101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1045001|Throes of Ecstasy|1|0|0|104500101|104500102|0|0|0|0|0|0|0|0|0|0|0|0|Deploys a barrier around oneself that absorbs magic damage, and recovers own HP by a moderate amount.|1013|
+|1045002|Play with Me Instead!|1|0|0.375|104500201|104500202|0|0|0|0|0|0|0|0|0|0|0|0|[Taunt] Taunts all enemies. Large boost to own physical defense.|2012|
+|1045003|I Like It Rough!|1|0|1.375|104500301|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense.|2003|
+|1045012|Play with Me Instead!+|1|0|0.375|104501201|104501202|104501203|0|0|0|0|0|0|0|0|0|0|0|[Taunt] Taunts all enemies. Large boost to own physical defense, and recovers own HP by a moderate amount.|2012|
+|1045501|Sheltered by Fantasy|0|0|0|104550101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense at start of battle.|3004|
+|1045511|Sheltered by Fantasy+|0|0|0|104551101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical defense at start of battle.|3004|
+|1046001|Kitty Cat-aclysm|0|0|0|104600101|104600102|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy with the highest magical attack.|1001|
+|1046002|Feline Fling|0|0|1.325|104600201|104600202|0|0|0|0|0|0|104600201|0|0|0|0|0|Deals moderate physical damage to the enemy with the highest magical attack and lowers its magical attack by a small amount.|2001|
+|1046003|Finicky Feline|0|0|1.325|104600301|104600302|0|0|0|0|0|0|0|0|0|0|0|0|Reduces the TP of the enemy with the highest magical attack power by a small amount while also recovering own TP by a small amount.|2006|
+|1046011|Phantom Cat-astrophe|0|0|0|104601101|104601102|104601103|104601104|0|0|0|0|104601101|104601101|104601103|0|0|0|Deals massive physical damage to the enemy with the highest magical attack. If the target uses magical attacks, deals increased damage and lowers their physical defense by a massive amount.|1001|
+|1046012|Feline Fling+|0|0|1.325|104601201|104601202|104601203|0|0|0|0|0|104601201|104601201|0|0|0|0|Deals moderate physical damage to the enemy with the highest magical attack, lowers its magical attack by a moderate amount, and inflicts Stun.|2001|
+|1046501|One Myarvelous Cat|0|0|0|104650101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1046511|One Myarvelous Cat+|0|0|0|104651101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1047001|Inferno Shield|1|0|0|104700101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deploys a barrier around oneself that absorbs physical and magic damage.|1013|
+|1047002|Inspiring Courage|0|0|0.475|104700201|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers HP of the nearby ally with the lowest HP by a moderate amount.|2005|
+|1047003|Armor Breaker|0|0|0.875|104700301|104700302|0|0|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to an enemy directly in front and lowers their physical defense by a small amount.|2001|
+|1047012|Inspiring Courage+|0|0|0.475|104701201|104701202|104701203|0|0|0|0|0|104701201|104701201|0|0|0|0|Recovers HP of the nearby ally with the lowest HP by a moderate amount. Moderate boost to the ally's physical attack and small boost to their action speed.|2005|
+|1047501|Justice Barrier|0|0|0|104750101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense at start of battle.|3004|
+|1047511|Justice Barrier+|0|0|0|104751101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical defense at start of battle.|3004|
+|1048001|Tsunami Dive|0|0|0|104800101|104800102|104800103|0|0|0|0|0|0|104800102|0|0|0|0|Deals massive physical damage to an enemy directly in front and inflicts Stun.|1001|
+|1048002|First Aid|0|0|1.25|104800201|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers own HP by a moderate amount.|2005|
+|1048003|Hydro Slice|1|0|1.31|104800301|104800302|0|0|0|0|0|0|104800301|0|0|0|0|0|Deals small physical damage to an enemy directly in front and inflicts Stun.|2001|
+|1048012|First Aid+|0|0|1.25|104801201|104801202|104801203|104801204|0|0|0|0|0|0|0|0|0|0|Recovers own HP by  a large amount. Large boost to own physical and magical defense. Deploys a field around oneself that recovers HP of all allies in range by a small amount.|2005|
+|1048501|Mercenary's Pride|0|0|0|104850101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1048511|Mercenary's Pride+|0|0|0|104851101|104851102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and small boost to physical defense at start of battle.|3001|
+|1049001|Sacred Punishment|1|0|0|104900101|104900102|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front. Deploys a barrier around oneself that absorbs physical damage.|1001|
+|1049002|Saintly Succor|1|0|1.375|104900201|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers the HP of the party member with the lowest HP by a moderate amount.|2005|
+|1049003|Protection|1|0|1.375|104900301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deploys a barrier that negates physical damage around nearby allies.|2013|
+|1049012|Saintly Succor+|1|0|1.375|104901201|104901202|0|0|0|0|0|0|104901201|0|0|0|0|0|Recovers the HP of the party member with the lowest HP by a moderate amount and boosts their physical defense by a moderate amount.|2005|
+|1049501|Big Sis Power|0|0|0|104950101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense at start of battle.|3002|
+|1049511|Big Sis Power+|0|0|0|104951101|104951102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense and small boost to physical attack at start of battle.|3002|
+|1050001|All-Destroying Eye|1|0|0|105000101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to all enemies in the front.|1002|
+|1050002|Dark Photon|1|0|1.4|105000201|105000202|0|0|0|0|0|0|105000201|0|0|0|0|0|Deals small magical damage to an enemy directly in front and reduces their action speed by a small amount.|2002|
+|1050003|Eyeball Volley|1|0|0.9|105000301|105000302|105000303|105000304|105000305|105000306|0|0|105000301|0|105000303|0|105000305|0|Deals small magical damage to all enemies in a radius around the closest enemy 3 times.|2002|
+|1050012|Dark Photon+|1|0|1.4|105001201|105001202|105001203|0|0|0|0|0|105001201|105001202|0|0|0|0|Deals moderate magical damage to all enemies in range and reduces their action speed by a large amount.|2002|
+|1050501|True Lady's Etiquette|0|0|0|105050101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1050511|True Lady's Etiquette+|0|0|0|105051101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1051001|Bloody Rose|1|0|0|105100101|105100102|105100103|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range. Recovers own HP for each foe defeated by this skill.|1001|
+|1051002|Cursed Bloom|1|0|1.41|105100201|0|0|0|0|0|0|0|0|0|0|0|0|0|Inflicts Curse to all enemies in range.|2008|
+|1051003|Field of Thorns|1|0|0.28|105100301|105100302|0|0|0|0|0|0|105100301|0|0|0|0|0|Deploys a field that lowers physical defense of all enemies in range.|2015|
+|1051012|Cursed Bloom+|1|0|1.41|105101201|105101202|0|0|0|0|0|0|105101201|0|0|0|0|0|Inflicts Curse to all enemies in range and reduces their action speed by a small amount.|2008|
+|1051501|One-Eyed Devil|0|0|0|105150101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1051511|One-Eyed Devil+|0|0|0|105151101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1052001|Woolly Wallop|0|0|0|105200101|105200102|105200103|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range. Massive boost to own physical defense.|1001|
+|1052002|Fuzzy Fury|0|4000|0|105200201|105200202|105200203|105200204|105200205|0|0|0|0|105200202|0|0|0|0|Charges straight at the foremost enemy shortly after battle begins and deals moderate physical damage. Moderate boost to own physical defense.|2001|
+|1052003|Hairy Headbutt|0|0|1.375|105200301|105200302|0|0|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to an enemy directly in front and inflicts Stun.|2001|
+|1052011|Whopping Woolly Wallop|0|0|0|105201101|105201102|105201103|105201104|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to all enemies in range, and knocks them back slightly. In addition, boosts own phyiscal defense by a massive amount, and deploys a barrier that negates physical damage around nearby allies.|1001|
+|1052012|Fuzzy Fury+|0|4000|0|105201201|105201202|105201203|105201204|105201205|105201206|0|0|0|105201202|0|0|0|0|Charges straight at the foremost enemy shortly after battle begins and deals moderate physical damage. Moderate boost to own physical defense. Deploys a barrier that negates physical damage around all allies.|2001|
+|1052501|Downy Defense|0|0|0|105250101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense at start of battle.|3002|
+|1052511|Downy Defense+|0|0|0|105251101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical defense at start of battle.|3002|
+|1053001|Violetshock Flare|0|0|0|105300101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range.|1001|
+|1053002|Flügel Fanfare|1|0|1.06|105300201|105300202|105300203|0|0|0|0|0|105300201|105300201|0|0|0|0|Small boost to physical and magical attack and large boost to action speeds of all allies.|2003|
+|1053003|Musket Shot|0|0|0.86|105300301|105300302|0|0|0|0|0|0|105300301|0|0|0|0|0|Deals small physical damage to an enemy directly in front and inflicts Stun.|2001|
+|1053012|Flügel Fanfare+|1|0|1.06|105301201|105301202|105301203|0|0|0|0|0|105300201|105300201|0|0|0|0|Large boost to physical attack, magical attack and action speeds of all allies.|2003|
+|1053501|Blessing of the White Wings|0|0|0|105350101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1053511|Blessing of the White Wings+|0|0|0|105351101|105351102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and small boost to physical defense at start of battle.|3001|
+|1054001|Terminal Tie-Up|0|0|0|105400101|105400102|105400103|105400104|0|0|0|0|0|0|105400101|0|0|0|Deals moderate physical damage to all enemies in range and inflicts Bind. Draws the farthest enemy in range a large distance closer, and knocks the closest enemy back a large distance.|1007|
+|1054002|Threading Snare|0|0|1.23|105400201|105400202|0|0|0|0|0|0|105400201|0|0|0|0|0|Deals moderate physical damage to the enemy in the 2nd position and draws them slightly closer.|2001|
+|1054003|Yarn-ado|0|0|1.23|105400301|105400302|105400303|0|0|0|0|0|105400301|0|0|0|0|0|Deals small physical damage to all enemies in range and reduces their movement speed and action speed by a small amount.|2001|
+|1054012|Threading Snare+|0|0|1.23|105401201|105401202|105401203|105401204|105401205|0|0|0|105401201|105401201|0|0|0|0|Deals moderate physical damage to the enemy in the 2nd position, draws them slightly closer, and inflicts Stun. Moderate boost to own physical attack and small boost to own physical defense.|2001|
+|1054501|Tailor's Grit|0|0|0|105450101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense at start of battle.|3002|
+|1054511|Tailor's Grit+|0|0|0|105451101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical defense at start of battle.|3002|
+|1055001|I Can Do This If I Try!|0|0|0|105500101|105500102|105500103|0|0|0|0|0|105500101|105500101|0|0|0|0|Deals moderate physical damage to all enemies in range and inflicts Blind and Confuse.|1024|
+|1055002|I-I'll Spear You!|0|0|1.23|105500201|105500202|0|0|0|0|0|0|105500201|0|0|0|0|0|Deals small physical damage to all enemies in range and lowers their physical attack by a small amount.|2004|
+|1055003|What If I Keep my Eyes Closed?|0|0|1.23|105500301|105500302|0|0|0|0|0|0|105500301|0|0|0|0|0|Deals small physical damage to all enemies in range and inflicts Stun.|2018|
+|1055012|I-I'll Spear You!+|0|0|1.23|105501201|105501202|0|0|0|0|0|0|105501201|0|0|0|0|0|Deals moderate physical damage to all enemies in range and lowers their physical attack by a moderate amount.|2004|
+|1055501|Burst of Courage|0|0|0|105550101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense at start of battle.|3002|
+|1055511|Burst of Courage+|0|0|0|105551101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical defense at start of battle.|3002|
+|1056001|Origin Strike: Severing Moon|1|0|0|105600101|105600102|0|0|0|0|0|0|105600101|0|0|0|0|0|Deals large physical damage to an enemy directly in front and lowers their physical defense by a large amount.|1001|
+|1056002|First Strike: Reticence|1|0|1.125|105600201|105600202|105600203|105600204|0|0|0|0|0|0|105600203|0|0|0|Taunts all enemies and enters a stance. If attacked during this stance, deals moderate physical damage to all enemies in range and knocks them back slightly.|2012|
+|1056003|Peerless Stance|1|0|1.125|105600301|105600302|0|0|0|0|0|0|0|0|0|0|0|0|Recovers own HP by a moderate amount and boosts physical defense by a moderate amount.|2003|
+|1056012|First Strike: Reticence+|1|0|1.125|105601201|105601202|105601203|105601204|105601205|0|0|0|0|0|105601203|105601203|0|0|Taunts all enemies and enters a stance. If attacked during this stance, deals large physical damage to all enemies in range, lowers their physical defense by a small amount, and knocks them back slightly.|2012|
+|1056501|True Enlightenment|0|0|0|105650101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense at start of battle.|3004|
+|1056511|True Enlightenment+|0|0|0|105651101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical defense at start of battle.|3004|
+|1057001|Tempest Blade|1|0|0|105700101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front.|1001|
+|1057002|Wide Blade|1|0|1.125|105700201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front.|2001|
+|1057003|Weapon Burst|1|0|1.125|105700301|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers own TP by a moderate amount.|2006|
+|1057012|Wide Blade+|1|0|1.125|105701201|105701202|105701203|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front. Recovers own TP by a moderate amount, and all other allies' TP by a small amount.|2001|
+|1057501|Tornado Blade|0|0|0|105750101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1057511|Tornado Blade+|0|0|0|105751101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1058001|Princess Strike|0|0|0|105800101|105800102|105800103|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front. Large boost to own physical and magical defense.|1001|
+|1058002|Lunchtime|0|0|0.21|105800201|105800202|0|0|0|0|0|0|0|0|0|0|0|0|Increases own magic defense by a moderate amount and recovers own HP by a moderate amount.|2003|
+|1058003|Falling Slash|0|0|1.21|105800301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front.|2001|
+|1058011|Princess Valiant|0|0|0|105801101|105801102|105801103|105801104|105801105|0|0|0|0|0|0|105801104|0|0|Deals massive physical damage to an enemy directly in front. Massive boost to own physical and magical defense and moderate boost to own physical attack. Physical attack boost increases with remaining HP.|1001|
+|1058012|Lunchtime+|0|0|0.21|105801201|105801202|105801203|0|0|0|0|0|0|0|0|0|0|0|Increases own magic defense by a moderate amount and recovers own HP by a large amount. Deploys a barrier around oneself that absorbs physical and magic damage.|2003|
+|1058501|Princess Power|0|0|0|105850101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own max HP at start of battle.|3005|
+|1058511|Princess Power+|0|0|0|105851101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own max HP at start of battle.|3005|
+|1059001|Aurora|1|0|0|105900101|105900102|105900103|0|0|0|0|0|105900101|0|0|0|0|0|Increases physical and magical attack power of all allies by a small amount, and recovers own HP by a moderate amount.|1005|
+|1059002|Tri-Slash|0|0|0.66|105900201|105900202|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front.|2001|
+|1059003|Speed Boost|0|0|1.4|105900301|105900302|0|0|0|0|0|0|0|0|0|0|0|0|Small boost to action speed and physical attack of all allies.|2003|
+|1059011|Aurora Blooming|1|0|0|105901101|105901102|105901103|105901104|105901105|0|0|0|0|0|0|0|0|0|Recovers own HP by a large amount. Recovers all allies' HP by a moderate amount, boosts their physical and magical attack by a large amount, and boosts their TP Boost by a small amount.|1005|
+|1059012|Tri-Slash+|0|0|0.66|105901201|105901202|105901203|105901204|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front. Moderate boost to own physical attack and small boost to own TP Boost.|2001|
+|1059501|Spiritual Epiphany|0|0|0|105950101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1059511|Spiritual Epiphany+|0|0|0|105951101|105951102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and small boost to magical defense at start of battle.|3001|
+|1060001|Grim Burst|1|0|0|106000101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to all enemies.|1002|
+|1060002|Lightning Sphere|1|0|1.27|106000201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front.|2002|
+|1060003|Reduce Armor|1|0|0.83|106000301|106000302|0|0|0|0|0|0|106000301|0|0|0|0|0|Lowers physical and magical defense of an enemy directly in front by a small amount.|2004|
+|1060011|Abyss Burst|1|0|0|106001101|106001102|0|0|0|0|0|0|106001101|0|0|0|0|0|Deals large magical damage to all enemies and inflicts Panic.|1002|
+|1060012|Lightning Sphere+|1|0|1.27|106001201|106001202|106001203|106001204|0|0|0|0|0|106001202|106001203|0|0|0|Deals moderate magical damage to an enemy directly in front and small magical damage to enemies around it. Lowers magical defense of all targets by a small amount.|2002|
+|1060501|Dark Eclipse|0|0|0|106050101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1060511|Dark Eclipse+|0|0|0|106051101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1061001|Spiresbane Blade|0|0|0|106100101|106100102|106100103|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front. Equips the Spiresbane Blade until TP is fully depleted.|1001|
+|1061002|Feeling Scared Yet?!|0|0|0.34|106100201|106100202|106100203|106100204|0|0|0|0|0|106100201|106100202|0|0|0|Deals small physical damage to all enemies in range, inflicts Stun, and knocks them back slightly.|2018|
+|1061003|Right This Way!|1|0|0.34|106100301|0|0|0|0|0|0|0|0|0|0|0|0|0|Lowers the physical defense of all enemies in range by a small amount.|2004|
+|1061101|Spirespin Slice|1|0|0.25|106110101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front.|1002|
+|1061102|Spiresplitter Sweep|1|0|0.25|106110201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to all enemies in range.|1002|
+|1061501|Potential Force|0|0|0|106150101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1061511|Potential Force+|0|0|0|106151101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1063001|I'll Fill You With Arrows!|1|0|0|106300101|106300102|106300103|106300104|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front. Boost to damage dealt if this skill has already been used.|1001|
+|1063002|Clinging Vines|1|0|0.75|106300201|106300202|0|0|0|0|0|0|106300201|0|0|0|0|0|Deals small physical damage to the enemy with the highest magical attack and reduces their action speed by a small amount.|2001|
+|1063003|Shimmering Wings|1|0|1.35|106300301|106300302|106300303|0|0|0|0|0|0|0|0|0|0|0|Recovers own TP by a moderate amount. This amount increases if "I'll Fill You With Arrows!" has been used.|2006|
+|1063012|Clinging Vines+|1|0|1.27|106301201|106301202|106301203|0|0|0|0|0|106301201|106301201|0|0|0|0|Deals moderate physical damage to the enemy with the highest magical attack. Lowers their magical attack and reduces their action speed by a small amount.|2001|
+|1063501|Elven Archery|0|0|0|106350101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1063511|Elven Archery+|0|0|0|106351101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1065001|Dragon's End Fist|1|0|0|106500101|106500102|106500103|106500104|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front. Damage greatly boosted the first time this Union Burst is used in a battle.|1001|
+|1065002|Draconic Smash|1|0|0.57|106500201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front.|2001|
+|1065003|Dragolyzer Stance|1|0|0.34|106500301|106500302|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack and physical critical rate.|2003|
+|1065501|Blazing Dragon|0|0|0|106550101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1065511|Blazing Dragon+|0|0|0|106551101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1070001|Mirror Mirror|1|0|0|107000101|107000102|107000103|0|0|0|0|0|0|0|0|0|0|0|[Summon] Creates a duplicate of herself that cannot use Union Bursts. Deploys a field around self that grants a massive boost to magical attack and a small boost to TP Boost.|1017|
+|1070002|Saturation Ray|1|0|0.75|107000201|107000202|107000203|0|0|0|0|0|107000201|107000202|0|0|0|0|Deals moderate magical damage to all enemies in range, and inflicts a brief Stun.|2002|
+|1070003|Instance Gem|1|0|1.35|107000301|107000302|0|0|0|0|0|0|107000301|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front and lowers its magical defense by a small amount.|2002|
+|1070501|Phantasmagoria|0|0|0|107050101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1070511|Phantasmagoria+|0|0|0|107051101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1071001|Numbers Avalon|1|0|0|107100101|107100102|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front and dodges all physical attacks for a set period of time. This attack never misses and is always a critical hit.|1001|
+|1071002|Overlay|1|0|0.75|107100201|107100202|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and small boost to own TP Boost.|2003|
+|1071003|Injection|1|0|1.35|107100301|107100302|0|0|0|0|0|0|107100301|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front and lowers their physical defense by a small amount.|2001|
+|1071012|Overlay+|1|0|0.75|107101201|107101202|107101203|107101204|0|0|0|0|0|0|0|0|0|0|Massive boost to own physical attack, moderate boost to own TP Boost, and recovers own TP by a moderate amount. Additionally boosts own physical critical damage by a small amount.|2003|
+|1071501|Ignition EX|0|0|0|107150101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1071511|Ignition EX+|0|0|0|107151101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1075001|Princess Splash|1|0|0|107500101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to all enemies in range.|1001|
+|1075002|Dessert Time|1|0|0.0649999999999999|107500201|107500202|0|0|0|0|0|0|0|0|0|0|0|0|Massive boost to own physical attack. Also lowers own magical defense by a moderate amount.|2003|
+|1075003|Parasol Assault|1|0|1.125|107500301|107500302|0|0|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to all enemies in range and knocks back slightly an enemy directly in front.|2001|
+|1075012|Dessert Time+|1|0|0.0649999999999999|107501201|107501202|107501203|0|0|0|0|0|0|0|0|0|0|0|Massive boost to own physical attack and large boost to own physical critical rate. Also lowers own magical defense by a moderate amount.|2003|
+|1075501|Seafood Power|0|0|0|107550101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1075511|Seafood Power+|0|0|0|107551101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1076001|Ocean's Healing|1|0|0|107600101|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers the HP of the ally with the lowest HP by a massive amount.|1005|
+|1076002|Nereid Spear|1|0|0.69|107600201|107600202|107600203|0|0|0|0|0|0|107600202|0|0|0|0|Deals small physical damage to an enemy directly in front and lowers their physical defense by a small amount.|2001|
+|1076003|Naval Support|1|0|0.59|107600301|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to all allies' physical attack.|2003|
+|1076012|Nereid Spear+|1|0|0.69|107601201|107601202|107601203|0|0|0|0|0|0|107601202|0|0|0|0|Deals small physical damage to an enemy directly in front and lowers their physical defense by a large amount.|2001|
+|1076501|Summer Oracle|0|0|0|107650101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense at start of battle.|3004|
+|1076511|Summer Oracle+|0|0|0|107651101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical defense at start of battle.|3004|
+|1077001|Tropical Vacation|1|0|0|107700101|107700102|107700103|0|0|0|0|0|0|0|0|0|0|0|Small boost to all allies' physical and magical defense. Grants HP regen to all allies.|1003|
+|1077002|Summon Mini-Golem|1|0|0.85|107700201|0|0|0|0|0|0|0|0|0|0|0|0|0|[Summon] Summons a mini-golem in front of oneself, which attacks an enemy directly in front.|2017|
+|1077003|Soda Support|1|0|0.92|107700301|107700302|0|0|0|0|0|0|107700301|0|0|0|0|0|Moderate boost to magical defense of allies in a radius around the foremost ally.|2003|
+|1077012|Summon Mini-Golem+|1|0|0.85|107701201|107701202|107701203|0|0|0|0|0|0|107701202|0|0|0|0|[Summon] Summons a mini-golem in front of oneself, which attacks an enemy directly in front. Deploys a field around the frontmost ally that grants a large boost to physical and magical defense.|2017|
+|1077501|Tropical Maid|0|0|0|107750101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense at start of battle.|3004|
+|1077511|Tropical Maid+|0|0|0|107751101|107751102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense and small boost to own physical defense at start of battle.|3004|
+|1078001|Rubber Rampage|1|0|0|107800101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive magical damage to an enemy directly in front.|1002|
+|1078002|Aqua Bullet|1|0|0.74|107800201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front.|2002|
+|1078003|Spiral Wave|1|0|1.14|107800301|107800302|0|0|0|0|0|0|107800301|0|0|0|0|0|Deals small magical damage to an enemy directly in front and lowers their magical defense by a moderate amount.|2004|
+|1078012|Aqua Bullet+|1|0|0.74|107801201|107801202|0|0|0|0|0|0|107801201|0|0|0|0|0|Deals large magical damage to an enemy directly in front and lowers their magical defense by a small amount.|2002|
+|1078501|Hydro Link|0|0|0|107850101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1078511|Hydro Link+|0|0|0|107851101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1079001|Kitty-Cat Summer Rave|1|0|0|107900101|107900102|107900103|107900104|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to a random enemy in range 4 times.|1001|
+|1079002|Summer Sun Absorption|1|0|0.5|107900201|107900202|0|0|0|0|0|0|107600201|0|0|0|0|0|Lowers the TP of an enemy directly in front by a small amount and recovers own TP by a small amount.|2006|
+|1079003|Ice Breaker|1|0|1.1|107900301|107900302|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and large boost to own action speed.|2003|
+|1079012|Summer Sun Absorption+|1|0|0.5|107901201|107901202|107901203|107901204|0|0|0|0|107600201|0|0|0|0|0|Lowers the TP of an enemy directly in front by a small amount and recovers own TP by a small amount. Lowers the physical attack of an enemy directly in front by a large amount, and massively boosts own physical attack.|2006|
+|1079501|Kitty in Paradise|0|0|0|107950101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1079511|Kitty in Paradise+|0|0|0|107951101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1080001|Leviathan Lance|1|0|0|108000101|108000102|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front. Moderate boost to all allies' physical attack.|1001|
+|1080002|Hydro Swing|1|0|1.05|108000201|108000202|108000203|0|0|0|0|0|0|108000202|0|0|0|0|Deals moderate physical damage to an enemy directly in front, and additional small physical damage to enemies nearby the target.|2001|
+|1080003|Hunting Mode|1|0|1.19|108000301|108000302|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and large boost to own physical critical rate.|2003|
+|1080012|Hydro Swing+|1|0|1.05|108001201|108001202|108001203|0|0|0|0|0|0|108001202|0|0|0|0|Deals moderate physical damage to an enemy directly in front, and additional large physical damage to enemies nearby the target.|2001|
+|1080501|Summer Mercenary|0|0|0|108050101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1080511|Summer Mercenary+|0|0|0|108051101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1081001|Halloween Terror|1|0|0|108100101|108100102|108100103|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to the enemy with the lowest HP percentage. Deals additional moderate physical damage to all enemies if the enemy is defeated by this skill.|1001|
+|1081002|Wraith Weapon|1|0|0.75|108100201|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack.|2003|
+|1081003|Hollow Scythe|1|0|1.35|108100301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range.|2001|
+|1081012|Wraith Weapon+|1|0|0.75|108101201|108101202|0|0|0|0|0|0|0|0|0|0|0|0|Massive boost to own physical attack and large boost to own physical critical rate.|2003|
+|1081501|Netherworld Nocturne|0|0|0|108150101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1081511|Netherworld Nocturne+|0|0|0|108151101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1082001|Trick or Pudding!|1|0|0|108200101|108200102|108200103|0|0|0|0|0|0|108200102|0|0|0|0|Deals massive physical damage to the farthest enemy and inflicts Curse.|1001|
+|1082002|I'm a Were-Miyako!|1|0|0.75|108200201|108200202|108200203|0|0|0|0|0|0|0|0|0|0|0|Reduces the farthest enemy's TP by a small amount and inflicts Stun.|2018|
+|1082003|Ghosty-Go-Round!|1|0|0.55|108200301|108200302|0|0|0|0|0|0|0|0|0|0|0|0|Lowers the physical and magical attack of the farthest enemy by a moderate amount.|2004|
+|1082012|I'm a Were-Miyako!+|1|0|0.75|108201201|108201202|108201203|108201204|0|0|0|0|0|0|0|0|0|0|Reduces the farthest enemy's TP by a small amount and inflicts Stun and Panic.|2018|
+|1082501|Growly-Growl!|0|0|0|108250101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1082511|Growly-Growl!+|0|0|0|108251101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1083001|Deadly Pumpkin Party|1|0|0|108300101|108300102|108300103|108300104|0|0|0|0|108300101|108300101|108300101|0|0|0|Deals moderate magical damage to all enemies in the front and lowers magical defense by a small amount. Inflicts Curse and Bind.|1008|
+|1083002|Lady's Charm|1|0|1.05|108300201|108300202|0|0|0|0|0|0|108300201|0|0|0|0|0|Deals small magical damage to an enemy directly in front and inflicts Charm.|2009|
+|1083003|Halloween Hype|1|0|1.19|108300301|0|0|0|0|0|0|0|0|0|0|0|0|0|Boosts magical attack of all allies in range by a moderate amount.|2003|
+|1083012|Lady's Charm+|1|0|1.05|108301201|108301202|108301203|0|0|0|0|0|108301201|108301201|0|0|0|0|Deals moderate magical damage to an enemy directly in front, reduces its TP by a small amount, and inflicts Charm.|2009|
+|1083501|Lady of Halloween|0|0|0|108350101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1083511|Lady of Halloween+|0|0|0|108351101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1084001|Sylphide Carol|1|0|0|108400101|108400102|108400103|0|0|0|0|0|0|0|0|0|0|0|[Summon] Summons three spirits directly in front of oneself.|1017|
+|1084002|Ascension Waltz|1|0|1.05|108400201|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to the physical attack of the ally with the highest physical attack.|2003|
+|1084003|Guardian Melody|1|0|1.19|108400301|108400302|0|0|0|0|0|0|108400301|0|0|0|0|0|Moderate boost to the physical defense of all allies in range, and recovers their TP by a small amount.|2003|
+|1084012|Ascension Waltz+|1|0|1.05|108401201|108401202|108401203|0|0|0|0|0|0|0|0|0|0|0|Large boost to the physical attack and physical critical rate of the ally with the highest physical attack. Physical attack boost increases based on Chika (Holiday)'s own magical attack.|2003|
+|1084501|Gifted Anthem|0|0|0|108450101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1084511|Gifted Anthem+|0|0|0|108451101|108451102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack and small boost to magical defense at start of battle.|3003|
+|1085001|Winter Chimes|1|0|0|108500101|108500102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to all allies' magical defense. Deploys a barrier around oneself that absorbs magical damage.|1003|
+|1085002|Jingling Cheer|1|0|1.05|108500201|0|0|0|0|0|0|0|0|0|0|0|0|0|Rings a bell to massively boost the physical defense of all allies in range. This effect continues for a set time or until attacked.|2003|
+|1085003|Healing Bell|1|0|1.19|108500301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deploys a field that recovers HP of all nearby allies by a small amount.|2016|
+|1085012|Jingling Cheer+|1|0|1.05|108501201|108501202|108501203|0|0|0|0|0|0|0|0|0|0|0|Rings a bell to massively boost the physical defense of all allies in range. This effect continues for a set time or until attacked 5 times. Additionally boosts all allies' physical defense by a moderate amount and recovers own TP by a small amount.|2003|
+|1085501|Saint Etoile|0|0|0|108550101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense at start of battle.|3004|
+|1085511|Saint Etoile+|0|0|0|108551101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical defense at start of battle.|3004|
+|1086001|Pukichi Santa Storm|1|0|0|108600101|108600102|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front, at the cost of HP.|1001|
+|1086002|Pukichi Cheering|1|0|1.05|108600201|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack.|2003|
+|1086003|Pukichi Rush|1|0|1.19|108600301|108600302|0|0|0|0|0|0|108600301|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front and knocks them back slightly.|2001|
+|1086012|Pukichi Cheering+|1|0|1.05|108601201|108601202|0|0|0|0|0|0|0|0|0|0|0|0|Massive boost to own physical attack and large boost to own action speed.|2003|
+|1086501|Holy Night Slugger|0|0|0|108650101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1086511|Holy Night Slugger+|0|0|0|108651101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1087001|Hiyori Happy Stamp|1|0|0|108700101|108700102|108700103|0|0|0|0|0|108700101|108700101|0|0|0|0|Deals massive physical damage to an enemy directly in front and lowers their physical defense and TP Boost by a small amount.|1001|
+|1087002|Paw-Paw Charge|1|0|0.8|108700201|108700202|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack, and moderate boost to the physical attack of all allies that use physical attacks.|2003|
+|1087003|Good Luck Punch|1|0|0.94|108700301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front.|2001|
+|1087012|Paw-Paw Charge+|1|0|0.8|108701201|108701202|108701203|0|0|0|0|0|0|0|0|0|0|0|Massive boost to own physical attack. Massive boost to the physical attack and moderate boost to the physical critical rate of all allies that use physical attacks.|2003|
+|1087501|Strength of Happiness|0|0|0|108750101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1087511|Strength of Happiness+|0|0|0|108751101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1088001|Sunrise Protection|1|0|0|108800101|108800102|108800103|0|0|0|0|0|0|0|0|0|0|0|Grants HP regen and a barrier that negates physical and magical damage to all allies, but lowers own magical attack by a massive amount.|1013|
+|1088002|Weakening Petals|1|0|1.05|108800201|108800202|0|0|0|0|0|0|0|0|0|0|0|0|Moderately lowers the physical and magical attack of the 2nd closest enemy.|2004|
+|1088003|Cheerful Bloom|1|0|1.19|108800301|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to the magical attack of all allies that use magical attacks.|2003|
+|1088012|Weakening Petals+|1|0|1.05|108801201|108801202|108801203|108801204|0|0|0|0|0|0|0|0|0|0|Moderately lowers the physical and magical attack, magical defense, and TP Boost of the 2nd closest enemy.|2004|
+|1088501|Bright New Year|0|0|0|108850101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1088511|Bright New Year+|0|0|0|108851101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1089001|Icy Edge: Snowbloom|1|0|0|108900101|108900102|0|0|0|0|0|0|108900101|0|0|0|0|0|Deals moderate physical damage to all enemies and inflicts Stun.|1001|
+|1089002|Avalanche Reversal|1|0|1.7325|108900201|108900202|108900203|108900204|0|0|0|0|0|0|108900203|0|0|0|[Taunt] Taunts all enemies and enters a stance. If attacked during this stance, deals small physical damage to all enemies in range and lowers their physical defense by a small amount.|2003|
+|1089003|Silvery Wintertime|1|0|0|108900301|108900302|0|0|0|0|0|0|0|0|0|0|0|0|Deploys a barrier that negates magical damage around all nearby allies. Moderate boost to own magical defense.|2013|
+|1089012|Avalanche Reversal+|1|0|1.7325|108901201|108901202|108901203|108901204|108901205|108901206|0|0|0|0|108901203|0|108901203|0|[Taunt] Taunts all enemies, massively boosts own magical defense, and enters a stance. If attacked during this stance, deals moderate physical damage to all enemies in range, lowers their physical defense by a small amount, and inflicts Stun.|2003|
+|1089501|Glacier Stance|0|0|0|108950101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense at start of battle.|3004|
+|1089511|Glacier Stance+|0|0|0|108951101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical defense at start of battle.|3004|
+|1090001|Love Punishment|1|0|0|109000101|109000102|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front. Damage increases the lower Eriko's HP.|1001|
+|1090002|Heavy Mixing|1|0|0.925|109000201|109000202|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front. Damage increases the lower Eriko's HP.|2001|
+|1090003|Sweet Sacrifice|1|0|1.065|109000301|109000302|109000303|0|0|0|0|0|0|0|0|0|0|0|Boosts own physical attack by a moderate amount at the cost of HP. Effect increases the lower Eriko's HP.|2003|
+|1090012|Heavy Mixing+|1|0|0.925|109001201|109001202|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front. Damage increases the lower Eriko's HP. When this skill is a critical hit, its damage is quadrupled instead of doubled.|2001|
+|1090501|Deep Spirit|0|0|0|109050101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1090511|Deep Spirit+|0|0|0|109051101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1091001|Sweet Sanctuary|1|0|0|109100101|109100102|109100103|0|0|0|0|0|109100101|109100101|0|0|0|0|Deploys a field around oneself that provides a moderate boost to physical attack, a large boost to physical critical rate, and a small boost to TP Boost.|1017|
+|1091002|Curing Sign|0|0|1.7325|109100201|109100202|109100203|109100204|109100205|109100206|0|0|0|0|0|109100202|109100203|0|Recovers the HP of the nearby ally with the lowest HP by a moderate amount, and their TP by a small amount. [With Active Field] Recovers all allies' HP by a moderate amount, and their TP by a small amount.|2005|
+|1091003|Heartful Shot|1|0|0.72|109100301|109100302|109100303|109100304|109100305|109100306|0|0|0|0|0|109100302|109100303|0|Deals small physical damage to an enemy directly in front and lowers their physical defense by a small amount. [With Active Field] Damage dealt and defense lowered both increase.|2001|
+|1091012|Curing Sign+|0|0|1.7325|109101201|109101202|109101203|109101204|109101205|109101206|109101207|0|0|0|0|109101202|109101203|109101206|Recovers the HP of the nearby ally with the lowest HP by a moderate amount, and their TP by a small amount. [With Active Field] Recovers all allies' HP by a moderate amount and their TP by a small amount, and boosts their physical attack by a large amount.|2005|
+|1091501|Purehearted Big Sis|0|0|0|109150101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1091511|Purehearted Big Sis+|0|0|0|109151101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1092001|Deterrent Thrust|1|0|0|109200101|109200102|109200103|0|0|0|0|0|0|109200102|0|0|0|0|Deals massive magical damage to an enemy directly in front. Boosts the magical attack of all allies with Spirit's Blessing by a large amount.|1002|
+|1092002|Collision Spell|1|0|0.925|109200201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front.|2002|
+|1092003|Princess Calling|1|0|1.065|109200301|109200302|109200303|0|0|0|0|0|0|0|0|0|0|0|Grants Spirit's Blessing to all nearby allies. Boosts their magical attack by a moderate amount and their action speed by a small amount.|2003|
+|1092012|Collision Spell+|1|0|0.925|109201201|109201202|109201203|109201204|0|0|0|0|0|0|0|0|0|0|Deals large magical damage to an enemy directly in front. If Anne has Spirit's Blessing, recovers all allies' TP by a small amount. If Anne does not have Spirit's Blessing, boosts own action speed by a moderate amount.|2002|
+|1092501|Radiant Calling|0|0|0|109250101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1092511|Radiant Calling+|0|0|0|109251101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1093001|Mr. Gawker Attack!|1|0|0|109300101|109300102|109300103|0|0|0|0|0|0|109300102|0|0|0|0|If no Mr. Gawkers are active, deals small magical damage to all enemies in range. If at least one Mr. Gawker is active, deals moderate magical damage to all enemies in range, and damage increases for each active Mr. Gawker.|1002|
+|1093002|Come on Out, Mr. Gawker!|0|0|1.7325|109300201|0|0|0|0|0|0|0|0|0|0|0|0|0|Summons a Mr. Gawker. Each time Lou takes damage, one Mr. Gawker runs away, dealing damage to an enemy.|2017|
+|1093003|Beginner's Luck|1|0|1.19|109300301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals large magical damage to an enemy directly in front.|2002|
+|1093012|Come on Out, Mr. Gawker!+|0|0|1.7325|109301201|109301202|0|0|0|0|0|0|0|0|0|0|0|0|Summons 2 Mr. Gawkers and boosts own magical attack by a moderate amount. Each time Lou takes damage, one Mr. Gawker runs away, dealing damage to an enemy.|2017|
+|1093501|Never Give Up|0|0|0|109350101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1093511|Never Give Up+|0|0|0|109351101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1094001|Cleaving Madness|1|0|0|109400101|0|0|0|0|0|0|0|0|109300102|0|0|0|0|Deals large magical damage to all enemies in range.|1002|
+|1094002|Dragon Inferno|0|0|1.05|109400201|109400202|109400203|0|0|0|0|0|0|0|0|0|0|0|Gains invincibility and charges toward an enemy directly in front, dealing moderate magical damage.|2002|
+|1094003|Dragon Agni|1|0|0.92|109400301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deploys a field that deals magical damage around the enemy with the highest physical attack.|2002|
+|1094012|Dragon Inferno+|0|0|1.05|109401201|109401202|109401203|109401204|109401205|0|0|0|0|0|0|109401204|0|0|Gains invincibility and charges toward an enemy directly in front, dealing large magical damage to the target and moderate magical damage to enemies nearby the target.|2002|
+|1094501|Dragonheart|0|0|0|109450101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1094511|Dragonheart+|0|0|0|109451101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1095001|Dance of Purest Ecstasy|1|0|0|109500101|109500102|109500103|0|0|0|0|0|0|0|0|0|0|0|Massively recovers own HP. Large boost to physical and magical defense of all nearby allies.|1005|
+|1095002|Let's Get Passionate!|1|0|0.675|109500201|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to magical attack of all allies.|2003|
+|1095003|My Breath Is Bewitching!|1|0|0.715|109500301|109500302|0|0|0|0|0|0|0|109500302|0|0|0|0|Deals small magical damage to an enemy directly in front and lowers its magical defense by a small amount.|2002|
+|1095012|Let's Get Passionate!+|1|0|0.675|109501201|109501202|109501203|0|0|0|0|0|0|0|0|0|0|0|Large boost to magical attack and moderate boost to magical critical rate and action speed of all allies.|2003|
+|1095501|Opulent Trip Zone|0|0|0|109550101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense at start of battle.|3004|
+|1095511|Opulent Trip Zone+|0|0|0|109551101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical defense at start of battle.|3004|
+|1096001|Ninpo: Fujiyama Shuriken|1|0|0|109600101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front. When this skill is a critical hit, its damage is tripled instead of doubled.|1001|
+|1096002|Ninpo: Swoopy Swallow|0|0|0.34|109600201|109600202|0|0|0|0|0|0|109600201|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front and lowers its physical defense by a small amount.|2001|
+|1096003|Ninpo: Shadow Clone no Jutsu|1|0|0.34|109600301|109600302|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and large boost to own action speed.|2003|
+|1096012|Ninpo: Swoopy Swallow+|0|0|0.34|109601201|109601202|0|0|0|0|0|0|109601201|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front and lowers its physical defense by a small amount. When this skill is a critical hit, its damage is tripled instead of doubled.|2001|
+|1096501|Ninpo: Ultra Superstrength|0|0|0|109650101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1096511|Ninpo: Ultra Superstrength+|0|0|0|109651101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1097001|Al Huma|1|0|0|109700101|109700102|109700103|0|0|0|0|0|109700101|109700101|0|0|0|0|Deals large physical damage to all enemies in range. Damage increases for enemies that are unable to move.|1001|
+|1097002|El Huma|0|0|0.99|109700201|109700202|0|0|0|0|0|0|109700201|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front and inflicts Freeze.|2001|
+|1097003|Aqua Healing|1|0|0.59|109700301|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers the HP of the ally with the lowest HP by a moderate amount.|2005|
+|1097501|Fanatical as a Demon|0|0|0|109750101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1097511|Fanatical as a Demon+|0|0|0|109751101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1098001|Out of My Way|1|0|0|109800101|109800102|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to all enemies and inflicts Bind.|1002|
+|1098002|Fura|0|0|0.465|109800201|109800202|109800203|109800204|109800205|0|0|0|109800201|109800201|109800202|109800203|0|0|If the enemy directly in front is unable to move, deals large magical damage and knocks them back a large distance. If not, deals moderate magical damage and knocks them back a small distance.|2002|
+|1098003|Clairvoyance|1|0|0.465|109800301|0|0|0|0|0|0|0|0|0|0|0|0|0|Inflicts a special status on the enemy with the highest physical attack, causing their next physical attack to miss.|2017|
+|1098501|Pure Arrogance|0|0|0|109850101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1098511|Pure Arrogance+|0|0|0|109851101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1099001|Promised Field|1|0|0|109900101|109900102|109900103|0|0|0|0|0|0|0|0|0|0|0|Recovers the HP of the ally with the lowest HP by a massive amount. Moderate boost to the physical and magical defense of all allies.|1005|
+|1099002|Help Me Out, Puck!|0|0|1.77|109900201|109900202|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front. Moderate boost to own magical attack.|2002|
+|1099003|Ice Needles|1|0|0.75|109900301|109900302|109900303|109900304|0|0|0|0|0|0|0|0|0|0|Deals small magic damage to a random enemy in range 4 times.|2002|
+|1099501|Great Spirit Contract|0|0|0|109950101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1099511|Great Spirit Contract+|0|0|0|109951101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1100001|Tropical Splash|1|0|0|110000101|110000102|110000103|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front. If Summer Catwalk has already been used, this skill always results in a critical hit.|1001|
+|1100002|Tropical Darts|0|0|0.9|110000201|110000202|110000203|0|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to an enemy directly in front 3 times.|2001|
+|1100003|Summer Catwalk|1|0|0.1|110000301|110000302|110000303|0|0|0|0|0|0|0|0|0|0|0|Massive boost to own physical attack. Recovers own TP by a massive amount.|2003|
+|1100501|Midsummer Vibes|0|0|0|110050101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1100511|Midsummer Vibes+|0|0|0|110051101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1101001|Love Dream Typhoon|1|0|0|110100101|110100102|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to all enemies and recovers all allies' HP by a moderate amount.|1005|
+|1101002|Love Bandit|0|0|0.74|110100201|110100202|110100203|0|0|0|0|0|0|0|0|0|0|0|Deals small magical damage to all enemies in range, and recovers the HP of the ally with the lowest HP by a small amount. HP recovery increases based on the number of enemies in range.|2002|
+|1101003|Love Splash|1|0|0.74|110100301|110100302|0|0|0|0|0|0|110100301|0|0|0|0|0|Deals small magical damage to all enemies in range and lowers their magical defense by a small amount.|2002|
+|1101501|Lovely Summer Lesson|0|0|0|110150101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1101511|Lovely Summer Lesson+|0|0|0|110151101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1103001|Summer Bright Force|1|0|0|110300101|110300102|110300103|0|0|0|0|0|0|0|0|0|0|0|Large boost to physical attack, magical attack and action speeds of all allies.|1003|
+|1103002|Twirling Splash|0|0|0.74|110300201|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers all allies' TP by a large amount.|2006|
+|1103003|Sunlight Cheer|1|0|0.74|110300301|110300302|110300303|110300304|0|0|0|0|0|0|0|0|0|0|Small boost to physical attack, magical attack, physical critical rate and magical critical rate of all allies.|2003|
+|1103501|Noble Vacation|0|0|0|110350101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1103511|Noble Vacation+|0|0|0|110351101|110351102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack and small boost to own magical defense at start of battle.|3001|
+|1104001|Summer Wolven Blitz|1|0|0|110400101|110400102|110400103|110400104|0|0|0|0|110400101|110400101|110400102|0|0|0|Deals large physical damage to an enemy directly in front. If only one enemy target remains in battle, instead deals massive physical damage and lowers their physical defense by a large amount.|1001|
+|1104002|Aqua Crossing|0|0|0.465|110400201|110400202|110400203|110400204|0|0|0|0|0|110400202|110400203|0|0|0|Deals moderate physical damage to an enemy directly in front. If only one enemy target remains in battle, additionally deals small physical damage and lowers their physical defense by a small amount.|2001|
+|1104003|Blue Howling|1|0|0.765|110400301|110400302|110400303|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack. If only one enemy target remains in battle, this boost remains effective indefinitely.|2003|
+|1104501|Sea Wolf's Vigor|0|0|0|110450101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1104511|Sea Wolf's Vigor+|0|0|0|110451101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1105001|Ryukyu-Ken Spiral Shot|1|0|0|110500101|110500102|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range. Damage increases based on the number of targets.|1001|
+|1105002|Cyclone Smash|0|0|0.89|110500201|110500202|0|0|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to all enemies in range and knocks back slightly an enemy directly in front.|2001|
+|1105003|Ryukyu Calypso|1|0|0.84|110500301|110500302|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack and moderate boost to the action speed of all allies in range.|2003|
+|1105501|Ryukyu Kickboxing|0|0|0|110550101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1105511|Ryukyu Kickboxing+|0|0|0|110551101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1106001|Fairy-tale Summer Parade|1|0|0|110600101|110600102|110600103|110600104|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to a random enemy 4 times.|1002|
+|1106002|Maho-Maho Summer Friends|1|0|0.74|110600201|110600202|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack. Recovers own TP by a moderate amount.|2003|
+|1106003|Maho-Maho Summer Blossom|1|0|1.34|110600301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals large magical damage to a random enemy.|2002|
+|1106501|Fairy-tale Power|0|0|0|110650101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1106511|Fairy-tale Power+|0|0|0|110651101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1107001|Venom Blast|1|0|0|110700101|110700102|110700103|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front, inflicts Poison, and lowers their physical defense by a large amount.|1022|
+|1107002|Spiky Circle|0|0|0.9|110700201|110700202|110700203|0|0|0|0|0|110700201|110700201|0|0|0|0|Deploys a field that deals physical damage around an enemy directly in front. Field damage increases if the target is suffering from Poison or Venom.|2001|
+|1107003|Acid Vines|1|0|1.14|110700301|110700302|110700303|110700304|0|0|0|0|110700301|110700301|110700302|0|0|0|Lowers the physical defense of an enemy directly in front by a moderate amount. If the target is suffering from Poison or Venom, additionally deals moderate physical damage.|2004|
+|1107501|Loner's Dignity|0|0|0|110750101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1107511|Loner's Dignity+|0|0|0|110751101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1108001|Dark Daybreak|1|0|0|110800101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive physical damage to an enemy directly in front.|1001|
+|1108002|Violet Dusk|0|0|0.73|110800201|110800202|0|0|0|0|0|0|0|0|0|0|0|0|Causes all enemies to receive a "Cower" effect each time they are hit by one of Chloe's attacks. Up to 66 Cower effects can be added at once. Moderate boost to own physical attack.|2003|
+|1108003|Silvery Moonlight|1|0|0.57|110800301|110800302|110800303|110800304|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front and lowers their physical defense by a small amount. Damage and debuff both increase based on the number of Cower effects on the target.|2004|
+|1108501|Deepening Night|0|0|0|110850101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1108511|Deepening Night+|0|0|0|110851101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1109001|Cheru-Cheru☆Carnage|0|0|0|110900101|110900102|110900103|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front. Large boost to own physical attack and physical critical rate.|1001|
+|1109002|Chell☆We☆Dance?|0|0|1|110900201|110900202|110900203|110900204|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack, physical critical rate and action speed. Applies 1 "Cheru" effect to self for every critical hit landed on an enemy. Up to 30 Cheru effects can be applied at once.|2003|
+|1109003|Mega☆Cheru~n|0|0|1|110900301|110900302|110900303|110900304|110900305|110900306|0|0|110900301|0|0|0|0|0|Deals small physical damage to an enemy directly in front and reduces their physical attack by a large amount. Small boost to own physical attack and physical critical rate. Stat boosts increase based on the number of Cheru effects on self.|2004|
+|1109501|The Chelliest Girl in the World|0|0|0|110950101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1109511|The Chelliest Girl in the World+|0|0|0|110951101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1110001|Philosophy of Perception and Potential|1|0|0|111000101|111000102|0|0|0|0|0|0|0|0|0|0|0|0|Massive boost to physical attack and large boost to physical critical rate of all allies.|1003|
+|1110002|Hero Generation Theorem|1|0|0.73|111000201|111000202|111000203|111000204|111000205|0|0|0|111000201|111000201|0|0|0|0|Large boost to the physical attack and physical critical rate of the ally with the highest physical attack, and recovers their TP by a small amount, but lowers own physical and magical defense by a small amount.|2003|
+|1110003|A Study in Insulating Factors|1|0|0.57|111000301|111000302|111000303|0|0|0|0|0|0|0|0|0|0|0|Grants TP regen to all allies and deploys a barrier that negates magical damage around them, but lowers own magical attack by a large amount.|2013|
+|1110501|Scholastic Principle|0|0|0|111050101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense at start of battle.|3004|
+|1110511|Scholastic Principle+|0|0|0|111051101|111051102|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical defense and small boost to own physical defense at start of battle.|3004|
+|1111001|Halloween Bloom Dance|1|0|0|111100101|111100102|0|0|0|0|0|0|0|0|0|0|0|0|Lowers the magical defense of an enemy directly in front by a moderate amount. Massive boost to all allies' magical attack.|1003|
+|1111002|Magical Trick|0|0|1.27|111100201|111100202|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to the magical attack of the ally with the highest magical attack. This boost increases based on Kyoka (Halloween)'s own magical attack.|2003|
+|1111003|Magical Treat|1|0|0.97|111100301|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to all allies' magical attack.|2003|
+|1111501|Halloween Bravery|0|0|0|111150101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1111511|Halloween Bravery+|0|0|0|111151101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1112001|Trick or Trick!|1|0|0|111200101|111200102|0|0|0|0|0|0|0|0|0|0|0|0|[Countdown] Places bombs upon all enemies in front. Each bomb explodes after a count of 5, dealing moderate physical damage to all enemies.|1001|
+|1112002|Painting Kick|0|0|0.465|111200201|111200202|111200203|0|0|0|0|0|0|111200202|0|0|0|0|Deals moderate physical damage to all enemies in range.|2001|
+|1112003|Pumpkin Surprise|1|0|0.465|111200301|111200302|0|0|0|0|0|0|111200301|0|0|0|0|0|Deals moderate physical damage to all enemies in a radius around the third enemy from the front.|2001|
+|1112501|Trick Expertise|0|0|0|111250101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1112511|Trick Expertise+|0|0|0|111251101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1113001|Bunny Mummy Stomp|1|0|0|111300101|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to all enemies in range.|1001|
+|1113002|Bandagey Bash|0|0|1.67|111300201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to all enemies in range.|2001|
+|1113003|Bunny Mummy Happy Dance|1|0|2|111300301|111300302|111300303|0|0|0|0|0|0|0|0|0|0|0|Massive boost to all allies' physical attack, in exchange for lowering their physical and magical defense by a small amount.|2003|
+|1113501|Mummy Bunny Power|0|0|0|111350101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1113511|Mummy Bunny Power+|0|0|0|111351101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1114001|Phantom Howl|1|0|0|111400101|111400102|111400103|111400104|111400105|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front. If Luna has any Friends, consumes up to 5 Friends to boost this attack's damage.|1002|
+|1114002|Soul Conversion|0|0|0.74|111400201|111400202|111400203|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to the ally with the highest remaining HP and recovers their TP by a moderate amount. Luna gains 1 extra Friend.|2006|
+|1114003|Undying Resentment|1|0|0.74|111400301|111400302|111400303|111400304|111400305|0|0|0|0|0|0|111400304|0|0|Deals moderate magical damage to an enemy directly in front. If Luna has 2 or more Friends, consumes 2 Friends and deals large magical damage instead.|2002|
+|1114101|Come On My Adventure|1|0|0|111410101|0|0|0|0|0|0|0|0|0|0|0|0|0|Causes Luna to gain 1 Friend whenever she deals damage to a target.|1001|
+|1114501|Will You Join My Adventure?|0|0|0|111450101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1114511|Will You Join My Adventure?+|0|0|0|111451101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1115001|Duality Avalon|1|0|0|111500101|111500102|111500103|111500104|111500105|111500106|111500107|0|0|0|0|111500104|111500105|111500104|If Christina does not have a Coin, deals massive physical damage to an enemy directly in front, boosts own physical attack by a massive amount, and gains a Coin. If Christina does have a Coin, consumes the Coin to deal massive physical damage that is guaranteed to hit.|1001|
+|1115002|Enhancing Present|0|0|0.34|111500201|111500202|111500203|111500204|111500205|0|0|0|0|0|0|0|0|0|If Christina does not have a Coin, boosts the physical attack of all allies that use physical attacks by a large amount. If Christina does have a Coin, boosts the physical attack of all allies that use physical attacks by a moderate amount and her own physical attack by a massive amount.|2003|
+|1115003|Destruction|1|0|0.58|111500301|111500302|111500303|111500304|111500305|111500306|0|0|0|0|0|0|0|0|If Christina does not have a Coin, deals moderate physical damage to an enemy directly in front. If Christina does have a Coin, deals moderate physical damage to an enemy directly in front and boosts the TP Boost of all allies by a small amount.|2001|
+|1115501|Burning Script|0|0|0|111550101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1115511|Burning Script+|0|0|0|111551101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1116001|Ride On, Santa!|1|0|0|111600101|111600102|0|0|0|0|0|0|0|0|0|0|0|0|Small boost to physical defense of all allies. Physical defense boost increases based on the number of allies positioned behind self.|1003|
+|1116002|Festive Cheer|0|0|1.07|111600201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deploys a barrier that negates physical damage around all allies.|2013|
+|1116003|Frost Slash|1|0|0.77|111600301|111600302|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front and inflicts Freeze.|2001|
+|1116501|Illuminating Smile|0|0|0|111650101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense at start of battle.|3002|
+|1116511|Illuminating Smile+|0|0|0|111651101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical defense at start of battle.|3002|
+|1117001|Vermilion Nowell|1|0|0|111700101|111700102|111700103|0|0|0|0|0|0|0|0|0|0|0|Deals massive magical damage to an enemy directly in front and moderately boosts own magical attack. Deals more damage the lower Illya's HP.|1002|
+|1117002|Bat Carnival|0|0|1.27|111700201|111700202|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front. Deals more damage the lower Illya's HP.|2002|
+|1117003|Bloody Thorn|1|0|0.97|111700301|111700302|111700303|111700304|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to all enemies in range and moderately boosts own magical attack, at the cost of 20% of own HP. Deals more damage the lower Illya's HP.|2002|
+|1117501|Silent Night Pact|0|0|0|111750101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1117511|Silent Night Pact+|0|0|0|111751101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1119001|New Year's Light|1|0|0|111900101|111900102|111900103|0|0|0|0|0|0|0|0|0|0|0|Moderately recovers own HP. Grants HP regen to all allies and boosts their physical attack by a large amount.|1005|
+|1119002|Spirit Wall|0|0|0.375|111900201|111900202|0|0|0|0|0|0|0|0|0|0|0|0|[Taunt] Deploys a barrier around self that absorbs physical and magical damage, and taunts all enemies.|2013|
+|1119003|Spiritual Blessing|1|0|0.715|111900301|111900302|111900303|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to physical attack, large boost to physical critical rate, and moderate boost to physical critical damage for the ally with the highest physical attack.|2003|
+|1119501|Auspicious Wind|0|0|0|111950101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense at start of battle.|3002|
+|1119511|Ausipicious Wind+|0|0|0|111951101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical defense at start of battle.|3002|
+|1120001|New Year Burst|1|0|0|112000101|112000102|112000103|0|0|0|0|0|0|0|0|0|0|0|Deals massive magical damage to an enemy directly in front and moderately boosts own magical attack. Magical attack boost increases based on the damage dealt by this skill.|1002|
+|1120002|Shadow Bullet|0|0|0.74|112000201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to an enemy directly in front.|2002|
+|1120003|Wishing Field|1|0|0.74|112000301|112000302|112000303|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to all allies' magical attack, and deploys a barrier that negates physical damage around them. Damage negated by barrier increases based on own magical attack.|2013|
+|1120501|Veil of Desire|0|0|0|112050101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1120511|Veil of Desire+|0|0|0|112051101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1121001|Ceremony of Blessings|1|0|0|112100101|112100102|0|0|0|0|0|0|0|0|0|0|0|0|Recovers all allies' HP by a moderate amount and boosts their action speed by a large amount.|1005|
+|1121002|Fresh New Breeze|0|0|1.27|112100201|112100202|0|0|0|0|0|0|0|0|0|0|0|0|Deals small magical damage to the farthest enemy and knocks them back a large distance.|2002|
+|1121003|Warding Arrow|1|0|0.97|112100301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deploys a barrier that negates magical damage around all allies.|2013|
+|1121501|New Year's Blessings|0|0|0|112150101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1121511|New Year's Blessings+|0|0|0|112151101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1122001|Mystic Prism|1|0|0|112200101|112200102|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate magical damage to all enemies and reduces their TP by a small amount.|1002|
+|1122002|Magical Halation|0|0|1.27|112200201|0|0|0|0|0|0|0|0|0|0|0|0|0|Reduces the TP of the enemy with the highest TP by a moderate amount. (Enemies at maximum TP are excluded.)|2017|
+|1122003|Misty Wrapping|1|0|0.97|112200301|112200302|112200303|0|0|0|0|0|112200301|112200302|0|0|0|0|Deals small magical damage to all enemies in a radius around the farthest enemy and inflicts Bind.|2007|
+|1122501|Magical Sleuth|0|0|0|112250101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense at start of battle.|3002|
+|1122511|Magical Sleuth+|0|0|0|112251101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical defense at start of battle.|3002|
+|1123001|Purely Shower|1|0|0|112300101|0|0|0|0|0|0|0|0|0|0|0|0|0|Massive boost to the physical attack of all allies.|1003|
+|1123002|Purely Aiming|0|0|1.27|112300201|112300202|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to the physical attack and physical critical rate of all nearby allies.|2003|
+|1123003|Purely Snipe|1|0|0.77|112300301|112300302|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to the physical attack of all nearby allies. Deals massive physical damage to an enemy directly in front.|2001|
+|1123501|Purely Courage|0|0|0|112350101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1123511|Purely Courage+|0|0|0|112351101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1124001|Smiling Bravery|1|0|0|112400101|112400102|112400103|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to all enemies in range. Moderate boost to all allies' physical and magical attack.|1001|
+|1124002|Revolutionary Smile|0|0|1.27|112400201|112400202|0|0|0|0|0|0|0|0|0|0|0|0|Recovers all allies' TP by a small amount and boosts their TP Boost by a small amount.|2006|
+|1124003|Pink Lively|1|0|0.97|112400301|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range.|2001|
+|1124501|Magical Smile|0|0|0|112450101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1124511|Magical Smile+|0|0|0|112451101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1125001|Iolite Blue|1|0|0|112500101|112500102|0|0|0|0|0|0|0|0|0|0|0|0|Deals large physical damage to an enemy directly in front and deploys a barrier that negates physical and magical damage around herself.|1013|
+|1125002|Lazuli Leo|0|0|0.59|112500201|112500202|112500203|112500204|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to all enemies in range, lowers their physical and magical defense by a small amount, and taunts all enemies.|2001|
+|1125003|Hauyne Judgement|1|0|0.59|112500301|0|0|0|0|0|0|0|0|0|0|0|0|0|Inflicts Bind on all enemies in range.|2007|
+|1125501|Azure Pulse|0|0|0|112550101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical defense at start of battle.|3002|
+|1125511|Azure Pulse+|0|0|0|112551101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical defense at start of battle.|3002|
+|1126001|Sparkle Magic|1|0|0|112600101|112600102|0|0|0|0|0|0|0|0|0|0|0|0|Deals massive magical damage to an enemy directly in front. Large boost to own magical attack.|1002|
+|1126002|Triple Star|0|0|1.27|112600201|112600202|112600203|0|0|0|0|0|0|0|0|0|0|0|Deals small magical damage to up to three enemies directly in front. This damage increases the more distant the enemy.|2002|
+|1126003|Keep On Fighting! ☆|1|0|0.97|112600301|112600302|0|0|0|0|0|0|112600301|0|0|0|0|0|Recovers the HP of all allies near the ally with the lowest HP by a small amount.|2005|
+|1126501|Natural Charm|0|0|0|112650101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own magical attack at start of battle.|3003|
+|1126511|Natural Charm+|0|0|0|112651101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own magical attack at start of battle.|3003|
+|1127001|Nutty Execution|0|0|0|112700101|112700102|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to enemies in range and lowers their physical defense by a small amount.|1001|
+|1127002|Nut Cracker|0|0|0|112700201|112700202|112700203|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to enemies in range and lowers their physical defense by a moderate amount, but lowers own action speed by a massive amount.|2001|
+|1127003|Nut Slash|0|0|0.62|112700301|112700302|0|0|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to enemies in range and lowers their physical defense by a small amount.|2001|
+|1127501|Nut-ritional Benefits|0|0|0|112750101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1127511|Nut-ritional Benefits+|0|0|0|112751101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1128001|Elizabeth Carnival|0|0|0|112800101|112800102|0|0|0|0|0|0|112800101|0|0|0|0|0|Deals moderate physical damage to all enemies in range and inflicts Confusion.|1024|
+|1128002|No Milk, No Life|0|0|0.59|112800201|112800202|0|0|0|0|0|0|0|0|0|0|0|0|Boosts own physical attack by a moderate amount and grants TP regen.|2003|
+|1128003|Farmer's Rush|0|0|0.59|112800301|112800302|112800303|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to all enemies in range. This damage increases based on the number of enemies in range. Additionally knocks the closest enemy back a large distance.|2001|
+|1128501|All for Elizabeth|0|0|0|112850101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own physical attack at start of battle.|3001|
+|1128511|All for Elizabeth+|0|0|0|112851101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own physical attack at start of battle.|3001|
+|1804001|Ultimate Princess Strike|1|0|0|180400101|180400102|180400103|180400104|0|0|0|0|0|0|180400103|0|0|0|Deals massive physical damage to an enemy directly in front. Deals more damage the higher Pecorine's HP. If HP is below 50%, grants Knight's Blessing to self. If HP falls to 0 while Knight's Blessing is active, Pecorine will consume Knight's Blessing and recover HP instead of being defeated.|1001|
+|1804002|Rice Ball Time|0|0|0.92|180400201|180400202|180400203|180400204|0|0|0|0|0|0|180400203|0|0|0|Large boost to own physical attack. Boost increases based on Pecorine's own remaining HP. If HP is below 50%, deploys a barrier around self that absorbs physical and magical damage.|2003|
+|1804003|Royal Slash|1|0|0.62|180400301|180400302|180400303|180400304|180400305|180400306|180400307|0|0|0|0|180400303|0|180400303|Deals moderate physical damage to all enemies in range. Damage increases based on Pecorine's own remaining HP. If HP is 50% or above, boosts own physical attack based on total damage. If HP is below 50%, recovers own HP based on total damage.|2001|
+|1804501|Royal Spirit|0|0|0|180450101|0|0|0|0|0|0|0|0|0|0|0|0|0|Moderate boost to own max HP at start of battle.|3005|
+|1804511|Royal Spirit+|0|0|0|180451101|0|0|0|0|0|0|0|0|0|0|0|0|0|Large boost to own max HP at start of battle.|3005|
+|2001001||0|0|3|200100101|0|0|0|0|0|0|0|0|0|0|0|0|0|Lobs a boulder to deal damage to a distant enemy.|1001|
+|2002001||1|0|5|200200101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2003001||1|0|3|200300101|200300102|0|0|0|0|0|0|200300101|0|0|0|0|0|sample|1001|
+|2004001||0|0|3|200400101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2007001||1|0|3|200700101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2007011||1|0|3|200701101|200701102|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2008001||0|0|3|200800101|200800102|0|0|0|0|0|0|200800101|0|0|0|0|0|Lobs a boulder to deal damage to a distant enemy.|1001|
+|2008011||0|0|3|200801101|200801102|0|0|0|0|0|0|200801101|0|0|0|0|0|Lobs a boulder to deal damage to a distant enemy.|1001|
+|2009021||0|0|3|200902101|0|0|0|0|0|0|0|0|0|0|0|0|0|Treant|1001|
+|2010001||1|0|3|201000101|201000102|0|0|0|0|0|0|201000101|0|0|0|0|0|Lobs a boulder to deal damage to a distant enemy.|1001|
+|2011001||0|0|3|201100101|0|0|0|0|0|0|0|0|0|0|0|0|0|Lobs a boulder to deal damage to a distant enemy.|1001|
+|2011011||1|0|4|201101101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2013001||0|0|3|201300101|201300102|0|0|0|0|0|0|201300101|0|0|0|0|0|Lobs a boulder to deal damage to a distant enemy.|1001|
+|2013011||0|0|3|201301101|201301102|0|0|0|0|0|0|201301101|0|0|0|0|0|Lobs a boulder to deal damage to a distant enemy.|1001|
+|2013021||0|0|3|201302101|201302102|0|0|0|0|0|0|201302101|0|0|0|0|0|Lobs a boulder to deal damage to a distant enemy.|1001|
+|2014001||1|0|2.5|201400101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2014002||1|0|3|201400201|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2015001||1|0|5|201500101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2015002||1|0|3|201500201|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2016001||1|0|3|201600101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2016021||1|0|3|201602101|201602102|0|0|0|0|0|0|201602101|0|0|0|0|0|sample|1001|
+|2019001||0|0|3|201900101|201900102|0|0|0|0|0|0|201900101|0|0|0|0|0|sample|1001|
+|2019011||0|0|3|201901101|201901102|0|0|0|0|0|0|201901101|0|0|0|0|0|Magma Salamander|1001|
+|2020001||0|0|3|202000101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2023001||1|0|3|202300101|202300102|0|0|0|0|0|0|202300101|0|0|0|0|0|Lobs a boulder to deal damage to a distant enemy.|1001|
+|2026001||0|0|5|202600101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2028001||0|0|3|202800101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2028021||1|0|3|202800101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2029031||0|0|90|202903101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2029032||0|0|90|202903201|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2029033||0|0|90|202903301|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2029034||0|0|90|202903401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2029041||0|0|4|202904101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2033011||1|0|3|200300101|200300102|0|0|0|0|0|0|200300101|0|0|0|0|0|sample|1001|
+|2033012||1|0|3|200300101|200300102|0|0|0|0|0|0|200300101|0|0|0|0|0|sample|1001|
+|2033013||1|0|3|200300101|200300102|0|0|0|0|0|0|200300101|0|0|0|0|0|sample|1001|
+|2034001||1|0|4|203400101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2035001||0|0|3|203500101|203500102|0|0|0|0|0|0|203500101|0|0|0|0|0|sample|1001|
+|2035011||0|0|3|203501101|203501102|0|0|0|0|0|0|203501101|0|0|0|0|0|sample|1001|
+|2037001||0|0|3|203700101|203700102|0|0|0|0|0|0|203700101|0|0|0|0|0|sample|1001|
+|2037021||0|0|3|203702101|203702102|203702103|0|0|0|0|0|203702101|203702102|0|0|0|0|sample|1001|
+|2042001||1|0|5|204200101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2043001||1|0|3|204300101|204300102|0|0|0|0|0|0|204300101|0|0|0|0|0|sample|1001|
+|2044001||1|0|3|204400101|204400102|0|0|0|0|0|0|204400101|0|0|0|0|0|Lobs a boulder to deal damage to a distant enemy.|1001|
+|2045021||0|0|0|204502101|204502102|204502103|0|0|0|0|0|204502101|204502102|0|0|0|0|Spike Crab|1001|
+|2046001||1|0|3.5|204600101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2047001||1|0|3|200300101|200300102|0|0|0|0|0|0|200300101|0|0|0|0|0|sample|1001|
+|2047002||1|0|3|200300101|200300102|0|0|0|0|0|0|200300101|0|0|0|0|0|sample|1001|
+|2047003||1|0|3|200300101|200300102|0|0|0|0|0|0|200300101|0|0|0|0|0|sample|1001|
+|2047021||1|0|3|204702101|204702102|0|0|0|0|0|0|204702101|0|0|0|0|0|Wild Boar skill|1001|
+|2050001||0|0|3|205000101|205000102|0|0|0|0|0|0|205000101|205100102|0|0|0|0|sample|1001|
+|2050002||0|0|3|205000201|205000202|0|0|0|0|0|0|205000201|0|0|0|0|0|sample|1001|
+|2051001||0|0|3|205100101|205100102|205100103|0|0|0|0|0|0|205100102|0|0|0|0|sample|1001|
+|2052001||1|0|3|205200101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2053001||1|0|3|205300101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2054001||1|0|3|200300101|200300102|0|0|0|0|0|0|200300101|0|0|0|0|0|sample|1001|
+|2054011||1|0|3|200300101|200300102|0|0|0|0|0|0|200300101|0|0|0|0|0|Magma Fish|1001|
+|2055001||0|0|3|205500101|205500102|205500103|0|0|0|0|0|205500101|205500102|0|0|0|0|sample|1001|
+|2058001||1|0|3|205800101|0|0|0|0|0|0|0|0|0|0|0|0|0|Mini-Foggy|1001|
+|2058011||1|0|3|205801101|205801102|205801103|0|0|0|0|0|205801101|205801102|0|0|0|0|Mini-Foggy|1001|
+|2058012||1|0|3|205801201|205801202|0|0|0|0|0|0|0|0|0|0|0|0|Mini-Foggy|1001|
+|2058021||1|0|3|205802101|0|0|0|0|0|0|0|0|0|0|0|0|0|Mini-Foggy|1001|
+|2058061||1|0|3|205806101|0|0|0|0|0|0|0|0|0|0|0|0|0|Mini-Foggy|1001|
+|2058071||1|0|3|205807101|205807102|205807103|0|0|0|0|0|205807101|205807102|0|0|0|0|Mini-Foggy|1001|
+|2058072||1|0|3|205807201|205807202|0|0|0|0|0|0|0|0|0|0|0|0|Mini-Foggy|1001|
+|2058081||1|0|3|205808101|0|0|0|0|0|0|0|0|0|0|0|0|0|Mini-Foggy|1001|
+|2059001||1|0|8|205900101|205900102|0|0|0|0|0|0|205900101|0|0|0|0|0|Kranchor|1001|
+|2060001||1|0|4|206000101|206000102|206000103|206000104|0|0|0|0|206000101|206000101|206000101|0|0|0|Sealidon skill|1001|
+|2061001||1|0|3|206100101|206100102|206100103|0|0|0|0|0|206100101|206100101|0|0|0|0|Wisewand|1001|
+|2062001||0|0|3|206200101|206200102|0|0|0|0|0|0|206200101|0|0|0|0|0|Mafiotter|1001|
+|2062011||0|0|4|206201101|206201102|0|0|0|0|0|0|206201101|0|0|0|0|0|Mafiotter|1001|
+|2063001||1|0|5|206300101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2067001||0|0|0|206700101|206700102|206700103|0|0|0|0|0|206700102|0|0|0|0|0|Deals large physical damage to an enemy directly in front and deals moderate physical damage to all enemies in a small radius around it.|1001|
+|2067002||0|0|1.125|206700201|0|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front.|1001|
+|2067003||0|0|1.295|206700301|206700302|0|0|0|0|0|0|0|0|0|0|0|0|Deals small physical damage to an enemy directly in front. Moderate boost to own physical attack.|1001|
+|2067011||0|0|0|206701101|206701102|0|0|0|0|0|0|206701101|0|0|0|0|0|Deals physical damage to all enemies and inflicts Stun.|1001|
+|2067012||0|0|1.7325|206701201|206701202|206701203|206701204|0|0|0|0|0|0|206701203|0|0|0|Grants Taunt condition to self. If attacked while in stance, deals moderate physical damage to all enemies in range and lowers their physical defense by a small amount.|1001|
+|2067013||0|0|0|206701301|206701302|0|0|0|0|0|0|0|0|0|0|0|0|Grants a barrier that negates magical damage to nearby allies. Moderate boost to own magical defense.|1001|
+|2067021||1|0|0|206702101|206702102|206702103|0|0|0|0|0|0|0|0|0|0|0|Boost to all allies' magical defense, and magic-absorbing barrier to self|1001|
+|2067022||1|0|1.05|206702201|206702202|0|0|0|0|0|0|0|0|0|0|0|0|Until attacked, boosts physical and magical defense of allies in range|1001|
+|2067023||1|0|1.19|206702301|0|0|0|0|0|0|0|0|0|0|0|0|0|Summon Recovery Field|1001|
+|2068001||1|0|999|206800101|206800102|206800103|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2068002||1|0|999|0|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2068003||1|0|1|206800301|206800302|206800303|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|2068004||1|0|1|206800401|206800402|206800403|206800404|206800405|0|0|0|0|0|0|0|0|0|sample|1001|
+|2068011||0|0|3|206802101|0|0|0|0|0|0|0|0|0|0|0|0|0|Impure Desire Barrier 2|1001|
+|2068021||0|0|3|206802101|0|0|0|0|0|0|0|0|0|0|0|0|0|Impure Desire Barrier 3|1001|
+|2068041||1|0|1|206804101|206804102|206804103|0|0|0|0|0|0|0|0|0|0|0|Kagami Mochi skill1|1001|
+|2068042||1|0|1|206804201|206804202|206804203|206804204|206804205|0|0|0|0|0|0|0|0|0|Kagami Mochi skill2|1001|
+|2069001||1|0|2.5|206900101|206900102|0|0|0|0|0|0|206900101|0|0|0|0|0||1001|
+|2070001||1|0|2.5|207000101|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|2070002||1|0|0.5|207000201|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|2071001||0|0|3|207100101|207100102|0|0|0|0|0|0|207100101|0|0|0|0|0||1001|
+|2072001||0|0|3|207200101|207200102|0|0|0|0|0|0|207200101|0|0|0|0|0||1001|
+|2073001||0|0|8|207300101|207300102|207300103|207300104|0|0|0|0|207300101|207300101|207300101|0|0|0||1001|
+|2075001||0|0|1.5|207500101|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|2075002||0|0|1.5|207500201|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|2076001||0|0|4|207600101|207600102|0|0|0|0|0|0|207600101|0|0|0|0|0||1001|
+|2076002||0|0|0|207600201|207600202|207600203|0|0|0|0|0|0|0|0|0|0|0||1001|
+|2077001||0|0|1|207700101|207700102|0|0|0|0|0|0|0|0|0|0|0|0|Applies Stealth to self when HP falls below 1%|1001|
+|2077002||0|0|1|207700201|207700202|0|0|0|0|0|0|0|0|0|0|0|0|When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy|1001|
+|2077021||0|0|1|207702101|207702102|0|0|0|0|0|0|0|0|0|0|0|0|Applies Stealth to self when HP falls below 1%|1001|
+|2077022||0|0|1|207702201|207702202|0|0|0|0|0|0|0|0|0|0|0|0|When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy|1001|
+|2077032||0|0|1|207703201|207703202|0|0|0|0|0|0|0|0|0|0|0|0|When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy|1001|
+|2077042||0|0|1|207704201|207704202|0|0|0|0|0|0|0|0|0|0|0|0|When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy|1001|
+|2077052||0|0|1|207705201|207705202|0|0|0|0|0|0|0|0|0|0|0|0|When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy|1001|
+|2077062||0|0|1|207706201|207706202|0|0|0|0|0|0|0|0|0|0|0|0|When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy|1001|
+|2077072||0|0|1|207707201|207707202|0|0|0|0|0|0|0|0|0|0|0|0|When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy|1001|
+|2077082||0|0|1|207708201|207708202|0|0|0|0|0|0|0|0|0|0|0|0|When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy|1001|
+|2078001||0|0|1|207800101|207800102|0|0|0|0|0|0|0|0|0|0|0|0|Stealth after 8 seconds + attacks enemy|1001|
+|2078002||0|0|1|207800201|207800202|207800203|0|0|0|0|0|0|0|0|0|0|0|Applies Sturdy, when HP falls below 1% attacks boss in Stealth|1001|
+|2079001||0|0|180|207900101|207900102|207900103|0|0|0|0|0|0|0|0|0|0|0|Deploys field|1001|
+|2079002||0|0|0|207900201|207900202|0|0|0|0|0|0|0|0|0|0|0|0|Deactivates field after a set amount of damage is dealt|1001|
+|2079003||0|0|0|207900301|207900302|207900303|207900304|207900305|0|0|0|0|0|0|0|0|0|Deactivates field after a set amount of damage is dealt|1001|
+|2080001||0|0|1.95|208000101|208000102|0|0|0|0|0|0|0|0|0|0|0|0|When damage dealt, Soul Absorb stack +1 to owner|1001|
+|2080002||0|0|0|208000201|208000202|0|0|0|0|0|0|0|0|0|0|0|0|When critical received, Soul Absorb stack -1 to owner|1001|
+|2080003||0|0|2.1|208000101|208000102|0|0|0|0|0|0|0|0|0|0|0|0|When damage dealt, Soul Absorb stack +1 to owner|1001|
+|2080004||0|0|2.45|208000101|208000102|0|0|0|0|0|0|0|0|0|0|0|0|When damage dealt, Soul Absorb stack +1 to owner|1001|
+|2080005||0|0|0|208000501|208000502|208000503|208000504|0|0|0|0|0|0|0|0|0|0|On death, revives self (for SP Battle)|1001|
+|2083001||1|0|5|208300101|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers Shadow HP|1001|
+|2083002||1|0|5|208300201|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers Shadow TP|1001|
+|2083003||1|0|5|208300301|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers Shadow TP|1001|
+|2083004||1|0|5|208300401|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers Shadow TP|1001|
+|2084001||0|0|3|208400101|208400102|0|0|0|0|0|0|208400101|0|0|0|0|0|Peckpecker Skill|1001|
+|2085001||0|0|3|208500101|208500102|0|0|0|0|0|0|208500101|0|0|0|0|0|Strawberry Serpent Skill|1001|
+|2085011||0|0|3|208500101|208500102|0|0|0|0|0|0|208500101|0|0|0|0|0|Strawberry Serpent Skill|1001|
+|2086001||0|0|5|208600101|208600102|0|0|0|0|0|0|0|0|0|0|0|0|Enters Stealth when HP falls below 1%, disappears if a C exists|1001|
+|2086002||0|0|99|208600201|208600202|208600203|208600204|0|0|0|0|0|0|208600203|0|0|0|In Stealth idle, if no C exists, attacks boss|1001|
+|2086003||0|0|99|0|0|0|0|0|0|0|0|0|0|0|0|0|0|Do nothing skill|1001|
+|2086011||0|0|5|208601101|208601102|0|0|0|0|0|0|0|0|0|0|0|0|Enters Stealth when HP falls below 1%, disappears if a C exists|1001|
+|2086012||0|0|99|208601201|208601202|208601203|208601204|0|0|0|0|0|0|208601203|0|0|0|In Stealth idle, if no C exists, attacks boss|1001|
+|2086013||0|0|99|0|0|0|0|0|0|0|0|0|0|0|0|0|0|Do nothing skill|1001|
+|2086021||0|0|0|208602101|208602102|0|0|0|0|0|0|0|0|0|0|0|0|If in Stealth, uses big attack|1001|
+|2086023||0|0|0|208602301|208602302|208602303|0|0|0|0|0|0|0|0|0|0|0|Destroys A and B. Applies Stealth to self|1001|
+|2086031||0|0|5|208603101|208603102|0|0|0|0|0|0|0|0|0|0|0|0|Enters Stealth when HP falls below 1%, disappears if a C exists|1001|
+|2086032||0|0|99|208603201|208603202|208603203|208603204|0|0|0|0|0|0|208603203|0|0|0|In Stealth idle, if no C exists, attacks boss|1001|
+|2086033||0|0|99|0|0|0|0|0|0|0|0|0|0|0|0|0|0|Do nothing skill|1001|
+|2086041||0|0|5|208604101|208604102|0|0|0|0|0|0|0|0|0|0|0|0|Enters Stealth when HP falls below 1%, disappears if a C exists|1001|
+|2086042||0|0|99|208604201|208604202|208604203|208604204|0|0|0|0|0|0|208604203|0|0|0|In Stealth idle, if no C exists, attacks boss|1001|
+|2086043||0|0|99|0|0|0|0|0|0|0|0|0|0|0|0|0|0|Do nothing skill|1001|
+|2086051||0|0|0|208605101|208605102|0|0|0|0|0|0|0|0|0|0|0|0|If in Stealth, uses big attack|1001|
+|2086053||0|0|0|208605301|208605302|208605303|0|0|0|0|0|0|0|0|0|0|0|Destroys A and B. Applies Stealth to self|1001|
+|2088001||0|0|1.8|208800101|208800102|0|0|0|0|0|0|0|0|0|0|0|0|Angel Dart|1001|
+|2089001||0|0|3|208900101|208900102|0|0|0|0|0|0|208900101|0|0|0|0|0|Clay Doll|1001|
+|2089011||0|0|3.8|208901101|208901102|0|0|0|0|0|0|208901101|0|0|0|0|0|Clay Doll|1001|
+|2090001||1|0|0|209000101|0|0|0|0|0|0|0|0|0|0|0|0|0|Stealth|1001|
+|2090002||1|0|22|209000201|209000202|209000203|209000204|209000205|209000206|209000207|0|0|209000202|0|209000204|209000205|209000204|Torrent|1001|
+|2090011||1|0|0|209001101|0|0|0|0|0|0|0|0|0|0|0|0|0|Stealth|1001|
+|2090012||1|0|22|209001201|209001202|209001203|209001204|209001205|209001206|209001207|0|0|209001202|0|209001204|209001205|209001204|Torrent|1001|
+|2091001||1|0|4.8|209100101|209100102|209100103|0|0|0|0|0|209100101|209100101|0|0|0|0|Pinetoad|1001|
+|2092001||0|0|3|209200101|209200102|0|0|0|0|0|0|209200101|0|0|0|0|0|Torpedon Underling Skill 1|1001|
+|2092002||0|0|5|209200201|0|0|0|0|0|0|0|0|0|0|0|0|0|Torpedon Underling Skill 2|1001|
+|2092003||0|0|0|209200301|209200302|209200303|209200304|0|0|0|0|0|0|0|0|0|0|Torpedon Underling Skill 3|1001|
+|2092011||0|0|3|209201101|209201102|0|0|0|0|0|0|209201101|0|0|0|0|0|Torpedon Underling Skill 1|1001|
+|2092012||0|0|5|209201201|0|0|0|0|0|0|0|0|0|0|0|0|0|Torpedon Underling Skill 2|1001|
+|2092013||0|0|0|209201301|209201302|209201303|209201304|0|0|0|0|0|0|0|0|0|0|Torpedon Underling Skill 3|1001|
+|2092021||0|0|3|209202101|209202102|0|0|0|0|0|0|209202101|0|0|0|0|0|Torpedon Underling Skill 1|1001|
+|2092022||0|0|5|209202201|0|0|0|0|0|0|0|0|0|0|0|0|0|Torpedon Underling Skill 2|1001|
+|2092023||0|0|0|209202301|209202302|209202303|209202304|0|0|0|0|0|0|0|0|0|0|Torpedon Underling Skill 3|1001|
+|2093001||1|0|3|209300101|209300102|0|0|0|0|0|0|0|0|0|0|0|0|Kyukon-chan: HARD|1001|
+|2093002||1|0|3|209300201|209300202|209300203|0|0|0|0|0|0|209300202|0|0|0|0||1001|
+|2093011||1|0|3|209301101|209301102|0|0|0|0|0|0|0|0|0|0|0|0|Kyukon-chan: VH|1001|
+|2093021||1|0|3|209302101|209302102|0|0|0|0|0|0|0|0|0|0|0|0|Kyukon-chan: SP1|1001|
+|2093031||1|0|3|209303101|209303102|0|0|0|0|0|0|0|0|0|0|0|0|Kyukon-chan: SP2|1001|
+|2093041||1|0|3|209304101|209304102|0|0|0|0|0|0|0|0|0|0|0|0|Kyukon-chan: SP3|1001|
+|2096011||1|0|0|209601101|0|0|0|0|0|0|0|0|0|0|0|0|0|Rin (IM@S CG) Shadow: Moderate-strength standard attack|1001|
+|2096012||0|0|0|209601201|0|0|0|0|0|0|0|0|0|0|0|0|0|Rin (IM@S CG) Shadow: Large-strength standard attack|1001|
+|2097001||0|0|2|209700101|209700102|209700103|209700104|209700105|209700106|209700107|0|0|0|0|0|0|0||1001|
+|2097002||0|0|99|0|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|2097031||0|0|2|209703101|209703102|209703103|209703104|209703105|209703106|209703107|0|0|0|0|0|0|0||1001|
+|2098001||0|0|0|209800101|209800102|0|0|0|0|0|0|209800101|0|0|0|0|0|Deals massive physical damage to an enemy directly in front and inflicts Stun.|1001|
+|2098002||0|0|1.4|209800201|209800202|0|0|0|0|0|0|209800201|0|0|0|0|0|Deals small physical damage to an enemy directly in front and knocks it back slightly.|2001|
+|2098003||0|0|1.4|209800301|209800302|0|0|0|0|0|0|0|0|0|0|0|0|Deals moderate physical damage to an enemy directly in front. Small boost to own physical attack.|2001|
+|3001001||0|0|3|300100101|300100102|0|0|0|0|0|0|300100101|0|0|0|0|0|sample|1001|
+|3001002||0|0|3|300100201|300100202|300100203|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3001003||1|0|3|300100301|300100302|0|0|0|0|0|0|300100301|0|0|0|0|0|sample|1001|
+|3001004||0|0|1|300100401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3001005||0|0|0|300100501|300100502|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3001006||0|0|3|300100601|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3001011||0|0|3|300101101|300101102|0|0|0|0|0|0|300101101|0|0|0|0|0|sample|1001|
+|3001012||0|0|3|300101201|300101202|300101203|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3001013||1|0|3|300101301|300101302|0|0|0|0|0|0|300101301|0|0|0|0|0|sample|1001|
+|3001014||0|0|3|300101401|300101402|300101403|300101404|300101405|300101406|0|0|0|0|0|0|0|0|sample|1001|
+|3001015||0|0|1|300101501|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3001016||0|0|0|300101601|300101602|0|0|0|0|0|0|0|0|0|0|0|0|Minotaurus damage limit|1001|
+|3001021||0|0|2|300102101|300102102|0|0|0|0|0|0|300102101|0|0|0|0|0|Minotaurus (Stage 4) UB|1001|
+|3001022||0|0|1|300102201|300102202|300102203|0|0|0|0|0|0|0|0|0|0|0|Minotaurus (Stage 4) Skill 1|1001|
+|3001023||1|0|2|300102301|300102302|0|0|0|0|0|0|300102301|0|0|0|0|0|Minotaurus (Stage 4) Skill 2|1001|
+|3001024||0|0|2|300102401|300102402|300102403|300102404|300102405|300102406|0|0|0|0|0|0|0|0|Minotaurus (Stage 4) Skill 3|1001|
+|3001025||0|0|1|300102501|0|0|0|0|0|0|0|0|0|0|0|0|0|Minotaurus (Stage 4) Skill 4 (standard attack)|1001|
+|3001026||0|0|2|300102601|300102602|300102603|300102604|300102605|300102606|300102607|0|0|0|0|0|0|0|Minotaurus (Stage 4) Skill 5 (field skill)|1001|
+|3001027||0|0|0|300102701|300102702|0|0|0|0|0|0|0|0|0|0|0|0|Minotaurus damage limit|1001|
+|3002001||1|0|1.5|300200101|300200102|0|0|0|0|0|0|300200101|0|0|0|0|0|-|1001|
+|3002002||1|0|1.5|300200201|300200202|300200203|0|0|0|0|0|300200201|300200202|0|0|0|0|-|1001|
+|3002003||1|0|1.5|300200301|300200302|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3002004||1|0|1.5|300200401|0|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3002005||1|0|1.5|300200501|300200502|300200503|0|0|0|0|0|300200501|300200501|0|0|0|0|-|1001|
+|3002006||1|0|3|300200601|0|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3002011||1|0|1.5|300201101|300201102|0|0|0|0|0|0|300201101|0|0|0|0|0|Lesathapult UB|1001|
+|3002012||1|0|1.5|300201201|300201202|300201203|0|0|0|0|0|300201201|300201202|0|0|0|0|Lesathapult Skill 1|1001|
+|3002013||1|0|1.5|300201301|300201302|0|0|0|0|0|0|0|0|0|0|0|0|Lesathapult Skill 2|1001|
+|3002014||1|0|1.5|300201401|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard attack-ish skill|1001|
+|3002021||1|0|1.5|300202101|300202102|0|0|0|0|0|0|300202101|0|0|0|0|0|Lesathapult UB|1001|
+|3002022||1|0|1.5|300202201|300202202|300202203|0|0|0|0|0|300202201|300202202|0|0|0|0|Lesathapult Skill 1|1001|
+|3002023||1|0|1.5|300202301|300202302|0|0|0|0|0|0|0|0|0|0|0|0|Lesathapult Skill 2|1001|
+|3002024||1|0|1.5|300202401|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard attack-ish skill|1001|
+|3002025||1|0|1|300202501|300202502|300202503|300202504|300202505|300202506|300202507|0|0|0|0|0|0|0|Bit summon|1001|
+|3002026||1|0|1.5|300202601|0|0|0|0|0|0|0|0|0|0|0|0|0|Render Bit invincible|1001|
+|3002031||1|0|1.5|300203101|300203102|0|0|0|0|0|0|300203101|0|0|0|0|0|Lesathapult UB|1001|
+|3002032||1|0|1.5|300203201|300203202|300203203|0|0|0|0|0|300203201|300203202|0|0|0|0|Lesathapult Skill 1|1001|
+|3002033||1|0|1.5|300203301|300203302|0|0|0|0|0|0|0|0|0|0|0|0|Lesathapult Skill 2|1001|
+|3002034||1|0|1.5|300203401|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard attack-ish skill|1001|
+|3002041||1|0|1.5|300204101|300204102|0|0|0|0|0|0|300204101|0|0|0|0|0|Lesathapult UB|1001|
+|3002042||1|0|1.5|300204201|300204202|300204203|0|0|0|0|0|300204201|300204202|0|0|0|0|Lesathapult Skill 1|1001|
+|3002043||1|0|1.5|300204301|300204302|0|0|0|0|0|0|0|0|0|0|0|0|Lesathapult Skill 2|1001|
+|3002044||1|0|1.5|300204401|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard attack-ish skill|1001|
+|3002045||1|0|1|300204501|300204502|300204503|300204504|300204505|300204506|300204507|0|0|0|0|0|0|0|Bit summon|1001|
+|3002046||1|0|1.5|300204601|0|0|0|0|0|0|0|0|0|0|0|0|0|Render Bit invincible|1001|
+|3003001||1|0|3|300300101|300300102|300300103|0|0|0|0|0|300300101|300300102|0|0|0|0|Nightmare|1001|
+|3003002||1|0|3|300300201|0|0|0|0|0|0|0|0|0|0|0|0|0|Purple Boom|1001|
+|3003003||1|0|2.5|300300301|0|0|0|0|0|0|0|0|0|0|0|0|0|Dream Shackles|1001|
+|3003004||1|0|1|300300401|0|0|0|0|0|0|0|0|0|0|0|0|0|Mesarthim standard attack|1001|
+|3003005||0|0|1|300300501|300300502|0|0|0|0|0|0|0|0|0|0|0|0|Mesarthim damage limit|1001|
+|3003006||0|0|3|300300601|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3003011||1|0|3|300301101|300301102|300301103|0|0|0|0|0|300301101|300301102|0|0|0|0|Nightmare|1001|
+|3003012||1|0|1.5|300301201|0|0|0|0|0|0|0|0|0|0|0|0|0|Purple Boom|1001|
+|3003013||1|0|1|300301301|0|0|0|0|0|0|0|0|0|0|0|0|0|Dream Shackles|1001|
+|3003014||1|0|1.5|300301401|300301402|300301403|0|0|0|0|0|0|300301402|0|0|0|0|Bope Skill 3|1001|
+|3003015||1|0|1|300301501|0|0|0|0|0|0|0|0|0|0|0|0|0|Mesarthim standard attack|1001|
+|3003016||0|0|1|300301601|300301602|0|0|0|0|0|0|0|0|0|0|0|0|Mesarthim damage limit|1001|
+|3003021||1|0|3|300302101|300302102|300302103|300302104|0|0|0|0|300302101|300302102|300302103|0|0|0|Mesarthim UB|1001|
+|3003022||1|0|1.5|300302201|0|0|0|0|0|0|0|0|0|0|0|0|0|Mesarthim Skill 1|1001|
+|3003023||1|0|1|300302301|0|0|0|0|0|0|0|0|0|0|0|0|0|Mesarthim Skill 2|1001|
+|3003024||1|0|1.5|300302401|300302402|300302403|0|0|0|0|0|0|300302402|0|0|0|0|Mesarthim Skill 3|1001|
+|3003025||1|0|2.5|300302501|300302502|300302503|0|0|0|0|0|0|0|0|0|0|0|Mesarthim Skill 4|1001|
+|3003026||1|0|1|300302601|0|0|0|0|0|0|0|0|0|0|0|0|0|Mesarthim standard attack|1001|
+|3003027||0|0|1|300302701|300302702|0|0|0|0|0|0|0|0|0|0|0|0|Mesarthim damage limit|1001|
+|3004001||1|0|3|300400101|300400102|300400103|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3004002||1|0|1.6|300400201|300400202|300400203|0|0|0|0|0|300400201|0|0|0|0|0|-|1001|
+|3004003||1|0|1.6|300400301|300400302|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3004004||0|0|1.6|300400401|300400402|0|0|0|0|0|0|300400401|0|0|0|0|0||1001|
+|3004005||0|0|1.6|300400501|300400502|300400503|0|0|0|0|0|300400501|300400501|0|0|0|0|Awakening|1001|
+|3004006||0|0|3|300400601|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3004011||1|0|3|300401101|300401102|300401103|0|0|0|0|0|0|0|0|0|0|0|Algedi UB|1001|
+|3004012||1|0|1.6|300401201|300401202|300401203|0|0|0|0|0|300401201|0|0|0|0|0|Algedi Skill 1|1001|
+|3004013||1|0|1.6|300401301|300401302|0|0|0|0|0|0|0|0|0|0|0|0|Algedi Skill 2|1001|
+|3004014||1|0|1.6|300401401|0|0|0|0|0|0|0|0|0|0|0|0|0|Algedi Standard Attack|1001|
+|3004021||1|0|3|300402101|300402102|300402103|0|0|0|0|0|0|0|0|0|0|0|Algedi UB|1001|
+|3004022||1|0|1.6|300402201|300402202|300402203|0|0|0|0|0|300402201|0|0|0|0|0|Algedi Skill 1|1001|
+|3004023||1|0|1.6|300402301|300402302|0|0|0|0|0|0|0|0|0|0|0|0|Algedi Skill 2|1001|
+|3004024||1|0|1.6|300402401|0|0|0|0|0|0|0|0|0|0|0|0|0|Algedi Standard Attack|1001|
+|3004025||1|0|1.6|300402501|300402502|300402503|300402504|300402505|0|0|0|0|300402502|0|300402504|0|0|Algedi Skill 3|1001|
+|3004031||1|0|3|300403101|300403102|300403103|0|0|0|0|0|0|0|0|0|0|0|Algedi UB|1001|
+|3004032||1|0|1.6|300403201|300403202|300403203|0|0|0|0|0|300403201|0|0|0|0|0|Algedi Skill 1|1001|
+|3004033||1|0|1.6|300403301|300403302|0|0|0|0|0|0|0|0|0|0|0|0|Algedi Skill 2|1001|
+|3004034||1|0|1.6|300403401|0|0|0|0|0|0|0|0|0|0|0|0|0|Algedi Standard Attack|1001|
+|3004035||1|0|1.6|300403501|300403502|300403503|300403504|300403505|0|0|0|0|300403502|0|300403504|0|0|Algedi Skill 3|1001|
+|3005001||0|0|2|300500101|0|0|0|0|0|0|0|0|0|0|0|0|0|Lizardman Skill 1|1001|
+|3005002||0|0|2|300500201|300500202|300500203|0|0|0|0|0|300500201|300500202|0|0|0|0|Lizardman Skill 2|1001|
+|3006001||0|0|2|300600101|0|0|0|0|0|0|0|0|0|0|0|0|0|Creeper Skill 1|1001|
+|3006002||0|0|2|300600201|300600202|0|0|0|0|0|0|300600201|0|0|0|0|0|Creeper Skill 2|1001|
+|3006011||0|0|2|300601101|300601102|0|0|0|0|0|0|300601101|0|0|0|0|0|Creeper Skill 1|1001|
+|3006012||0|0|2|300601201|300601202|0|0|0|0|0|0|300601201|0|0|0|0|0|Creeper Skill 2|1001|
+|3006021||0|0|2|300602101|300602102|0|0|0|0|0|0|300602101|0|0|0|0|0|Needle Creeper (Lap 2) Skill 1|1001|
+|3006022||0|0|2|300602201|300602202|0|0|0|0|0|0|300602201|0|0|0|0|0|Needle Creeper (Lap 2) Skill 2|1001|
+|3006031||0|0|2|300603101|300603102|0|0|0|0|0|0|300603101|0|0|0|0|0|Needle Creeper Skill 1 (for Solo Mode)|1001|
+|3006032||0|0|2|300603201|300603202|0|0|0|0|0|0|300603201|0|0|0|0|0|Needle Creeper Skill 2 (for Solo Mode)|1001|
+|3007001||0|0|2|300700101|300700102|0|0|0|0|0|0|300700101|0|0|0|0|0|Orc Leader Skill 1|1001|
+|3007002||0|0|2|300700201|0|0|0|0|0|0|0|0|0|0|0|0|0|Orc Leader Skill 2|1001|
+|3007011||0|0|2|300701101|300701102|0|0|0|0|0|0|300701101|0|0|0|0|0|Orc Chief Skill 1|1001|
+|3007012||0|0|2|300701201|0|0|0|0|0|0|0|0|0|0|0|0|0|Orc Chief Skill 2|1001|
+|3008001||0|0|2|300800101|300800102|0|0|0|0|0|0|300800101|0|0|0|0|0|Elder Staghorn Skill 1|1001|
+|3008002||0|0|2|300800201|300800202|300800203|0|0|0|0|0|300800201|300800202|0|0|0|0|Elder Staghorn Skill 2|1001|
+|3008011||0|0|2|300801101|300801102|300801103|0|0|0|0|0|300801101|300801102|0|0|0|0|Elder Staghorn Skill 1|1001|
+|3008012||0|0|2|300801201|300801202|300801203|0|0|0|0|0|300801201|300801202|0|0|0|0|Elder Staghorn Skill 2|1001|
+|3009001||0|0|2|300900101|300900102|0|0|0|0|0|0|300900101|0|0|0|0|0|Elder Tyrant Skill 1|1001|
+|3009002||0|0|2|300900201|0|0|0|0|0|0|0|0|0|0|0|0|0|Elder Tyrant Skill 2|1001|
+|3010001||0|0|2|301000101|0|0|0|0|0|0|0|0|0|0|0|0|0|Sea Drake Skill 1|1001|
+|3010002||0|0|2|301000201|301000202|0|0|0|0|0|0|301000201|0|0|0|0|0|Sea Drake Skill 2|1001|
+|3010011||0|0|2|301001101|0|0|0|0|0|0|0|0|0|0|0|0|0|Sea Drake Skill 1|1001|
+|3010012||0|0|2|301001201|301001202|0|0|0|0|0|0|301001201|0|0|0|0|0|Sea Drake Skill 2|1001|
+|3010013||0|0|0|301001301|301001302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3010021||0|0|2|301002101|0|0|0|0|0|0|0|0|0|0|0|0|0|Sea Drake Skill 1|1001|
+|3010022||0|0|2|301002201|301002202|0|0|0|0|0|0|301002201|0|0|0|0|0|Sea Drake Skill 2|1001|
+|3010023||0|0|0|301002301|301002302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3011001||0|0|2|301100101|0|0|0|0|0|0|0|0|0|0|0|0|0|Orc Leader Skill 1|1001|
+|3011002||0|0|2|301100201|301100202|301100203|0|0|0|0|0|301100201|301100202|0|0|0|0|Orc Leader Skill 2|1001|
+|3011011||0|0|2|301101101|301101102|0|0|0|0|0|0|301101101|0|0|0|0|0|Orc Leader Skill 1|1001|
+|3011012||0|0|2|301101201|301101202|301101203|301101204|0|0|0|0|301101201|301101202|301101202|0|0|0|Orc Leader Skill 2|1001|
+|3011013||0|0|2|301101301|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard Attack|1001|
+|3011014||0|0|0|301101401|301101402|0|0|0|0|0|0|0|0|0|0|0|0|Damage limit|1001|
+|3011021||0|0|2|301102101|301102102|0|0|0|0|0|0|301102101|0|0|0|0|0|Mad Bear UB|1001|
+|3011022||0|0|2|301102201|301102202|301102203|301102204|0|0|0|0|301102201|301102202|301102202|0|0|0|Mad Bear Skill1|1001|
+|3011023||0|0|2|301102301|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard Attack|1001|
+|3011024||0|0|0|301102401|301102402|0|0|0|0|0|0|0|0|0|0|0|0|Damage limit|1001|
+|3012001||0|0|2|301200101|301200102|0|0|0|0|0|0|301200101|0|0|0|0|0|Greater Golem Skill 1|1001|
+|3012002||0|0|2|301200201|0|0|0|0|0|0|0|0|0|0|0|0|0|Greater Golem Skill 2|1001|
+|3012011||0|0|2|301201101|301201102|301201103|301201104|301201105|0|0|0|0|0|0|0|0|0|Crystal Golem Skill 0|1001|
+|3012012||0|0|2|301201201|301201202|0|0|0|0|0|0|301201201|0|0|0|0|0|Crystal Golem Skill 1|1001|
+|3012013||0|0|2|301201301|301201302|301201303|301201304|0|0|0|0|0|0|0|0|0|0|Crystal Golem Skill 2|1001|
+|3012014||0|0|2|301201401|301201402|301201403|301201404|0|0|0|0|0|0|0|0|0|0|Crystal Golem Skill 3|1001|
+|3012015||0|0|2|301201501|301201502|0|0|0|0|0|0|0|0|0|0|0|0|Crystal Golem Skill 4|1001|
+|3013001||0|0|4|301300101|301300102|301300103|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3013002||0|0|4|301300201|0|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3013003||0|0|4|301300301|301300302|301300303|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3013004||0|0|4|301300401|301300402|0|0|0|0|0|0|301300401|0|0|0|0|0|-|1001|
+|3013005||0|0|4|301300501|301300502|301300503|0|0|0|0|0|301300501|301300501|0|0|0|0|-|1001|
+|3013006||0|0|4|300100601|0|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3013011||0|0|4|301301101|301301102|301301103|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 0 (Union Burst)|1001|
+|3013012||0|0|4|301301201|0|0|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 1|1001|
+|3013013||0|0|4|301301301|301301302|301301303|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 2|1001|
+|3013014||0|0|3|301301401|301301402|301301403|0|0|0|0|0|0|0|0|0|0|0|Glutton Break 1|1001|
+|3013015||0|0|3|301301501|301301502|0|0|0|0|0|0|0|0|0|0|0|0|Glutton Break 2|1001|
+|3013016||0|0|3|301301601|301301602|301301603|0|0|0|0|0|0|0|0|0|0|0|Glutton Break 3|1001|
+|3013017||0|0|1|301301701|0|0|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 4|1001|
+|3013021||0|0|4|301302101|301302102|301302103|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 0 (Union Burst)|1001|
+|3013022||0|0|4|301302201|0|0|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 1|1001|
+|3013023||0|0|4|301302301|301302302|301302303|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 2|1001|
+|3013024||0|0|3|301302401|301302402|301302403|301302404|0|0|0|0|0|0|301302403|0|0|0|Glutton Skill 3|1001|
+|3013025||0|0|3|301302501|301302502|301302503|0|0|0|0|0|0|0|0|0|0|0|Glutton Break 1|1001|
+|3013026||0|0|3|301302601|301302602|0|0|0|0|0|0|0|0|0|0|0|0|Glutton Break 2|1001|
+|3013027||0|0|3|301302701|301302702|301302703|0|0|0|0|0|0|0|0|0|0|0|Glutton Break 3|1001|
+|3013028||0|0|1|301302801|0|0|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 4|1001|
+|3013031||0|0|4|301303101|301303102|301303103|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 0 (Union Burst)|1001|
+|3013032||0|0|4|301303201|0|0|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 1|1001|
+|3013033||0|0|4|301303301|301303302|301303303|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 2|1001|
+|3013034||0|0|3|301303401|301303402|301303403|0|0|0|0|0|0|0|0|0|0|0|Glutton Break 1|1001|
+|3013035||0|0|3|301303501|301303502|0|0|0|0|0|0|0|0|0|0|0|0|Glutton Break 2|1001|
+|3013036||0|0|3|301303601|301303602|301303603|0|0|0|0|0|0|0|0|0|0|0|Glutton Break 3|1001|
+|3013037||0|0|1|301303701|0|0|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 4|1001|
+|3013041||0|0|4|301304101|301304102|301304103|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 0 (Union Burst)|1001|
+|3013042||0|0|4|301304201|0|0|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 1|1001|
+|3013043||0|0|4|301304301|301304302|301304303|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 2|1001|
+|3013044||0|0|3|301304401|301304402|301304403|301304404|0|0|0|0|0|0|301304403|0|0|0|Glutton Skill 3|1001|
+|3013045||0|0|3|301304501|301304502|301304503|0|0|0|0|0|0|0|0|0|0|0|Glutton Break 1|1001|
+|3013046||0|0|3|301304601|301304602|0|0|0|0|0|0|0|0|0|0|0|0|Glutton Break 2|1001|
+|3013047||0|0|3|301304701|301304702|301304703|0|0|0|0|0|0|0|0|0|0|0|Glutton Break 3|1001|
+|3013048||0|0|1|301304801|0|0|0|0|0|0|0|0|0|0|0|0|0|Glutton Skill 4|1001|
+|3014001||0|0|2|301400101|301400102|0|0|0|0|0|0|0|0|0|0|0|0|Medusa Skill 0|1001|
+|3014002||0|0|2|301400201|301400202|301400203|0|0|0|0|0|0|301400202|0|0|0|0|Medusa Skill 1|1001|
+|3014003||0|0|2|301400301|301400302|0|0|0|0|0|0|301400301|0|0|0|0|0|Medusa Skill 2|1001|
+|3014004||0|0|3|301400401|301400402|301400403|0|0|0|0|0|301400401|301400402|0|0|0|0|Medusa Skill 3|1001|
+|3014005||0|0|3|301400501|0|0|0|0|0|0|0|0|0|0|0|0|0|Medusa Skill 4|1001|
+|3014006||0|0|3|300100601|0|0|0|0|0|0|0|0|0|0|0|0|0|Medusa Skill 5|1001|
+|3014011||0|0|2|301401101|301401102|0|0|0|0|0|0|0|0|0|0|0|0|Medusa Skill 0|1001|
+|3014012||0|0|2|301401201|301401202|301401203|0|0|0|0|0|0|301401202|0|0|0|0|Medusa Skill 1|1001|
+|3014013||0|0|2|301401301|301401302|301401303|0|0|0|0|0|301401301|301401302|0|0|0|0|Medusa Skill 2|1001|
+|3014021||0|0|2|301402101|301402102|0|0|0|0|0|0|0|0|0|0|0|0|Medusa Skill 0|1001|
+|3014022||0|0|2|301402201|301402202|301402203|0|0|0|0|0|0|301402202|0|0|0|0|Medusa Skill 1|1001|
+|3014023||0|0|2|301402301|301402302|301402303|0|0|0|0|0|301402301|301402302|0|0|0|0|Medusa Skill 2|1001|
+|3014024||0|0|2|301402401|301402402|301402403|301402404|0|0|0|0|301402401|301402402|301402403|0|0|0|Medusa Skill 3|1001|
+|3015001||0|0|2|301500101|0|0|0|0|0|0|0|0|0|0|0|0|0|Ulfhedinn Skill 1|1001|
+|3015002||0|0|2|301500201|301500202|0|0|0|0|0|0|301500201|0|0|0|0|0|Ulfhedinn Skill 2|1001|
+|3015003||0|0|2|301500301|0|0|0|0|0|0|0|0|0|0|0|0|0|Ulfhedinn Skill 3|1001|
+|3015011||0|0|2|301501101|0|0|0|0|0|0|0|0|0|0|0|0|0|Ulfhedinn Skill 1|1001|
+|3015012||0|0|2|301501201|301501202|301501203|0|0|0|0|0|301501201|301501201|0|0|0|0|Ulfhedinn Skill 2|1001|
+|3015013||0|0|2|301501301|0|0|0|0|0|0|0|0|0|0|0|0|0|Ulfhedinn Skill 3|1001|
+|3016001||0|0|1.5|301600101|0|0|0|0|0|0|0|0|0|0|0|0|0|Ziz Skill 0|1001|
+|3016002||0|0|1.5|301600201|301600202|301600203|0|0|0|0|0|301600201|301600202|0|0|0|0|Ziz Skill 1|1001|
+|3016003||0|0|1.5|301600301|301600302|0|0|0|0|0|0|301600301|0|0|0|0|0|Ziz Skill 2|1001|
+|3016004||0|0|1.5|301600401|301600402|0|0|0|0|0|0|301600401|0|0|0|0|0|Ziz Skill 3|1001|
+|3016011||0|0|1.5|301601101|0|0|0|0|0|0|0|0|0|0|0|0|0|Ziz Skill 0|1001|
+|3016012||0|0|1.5|301601201|301601202|301601203|0|0|0|0|0|301601201|301601202|0|0|0|0|Ziz Skill 1|1001|
+|3016013||0|0|1.5|301601301|301601302|0|0|0|0|0|0|301601301|0|0|0|0|0|Ziz Skill 2|1001|
+|3016014||0|0|1.5|301601401|301601402|301601403|0|0|0|0|0|301601401|301601401|0|0|0|0|Ziz Skill 3|1001|
+|3017001||0|0|0|301700101|301700102|301700103|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3017002||0|0|3|301700201|301700202|301700203|0|0|0|0|0|301700201|301700201|0|0|0|0|-|1001|
+|3017003||0|0|1.5|301700301|301700302|301700303|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3017004||0|0|0|301700401|301700402|301700403|301700404|301700405|0|0|0|0|0|0|0|0|0|-|1001|
+|3017005||0|0|0|301700501|301700502|301700503|301700504|301700505|301700506|301700507|0|0|0|0|0|0|0|-|1001|
+|3017006||0|0|3|300100601|0|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3018001||0|0|2|301800101|301800102|301800103|0|0|0|0|0|0|301800102|0|0|0|0|-|1001|
+|3018002||0|0|2|301800201|301800202|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3018003||0|0|2|301800301|301800302|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3018004||0|0|3|301800401|301800402|301800403|0|0|0|0|0|301800401|301800401|0|0|0|0|-|1001|
+|3018005||0|0|3|301800501|0|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3018006||0|0|3|300100601|0|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3018011||0|0|2|301801101|301801102|301801103|301801104|301801105|0|0|0|0|0|301801103|301801104|0|0|Sagittarius UB|1001|
+|3018012||0|0|2|301801201|301801202|0|0|0|0|0|0|0|0|0|0|0|0|Sagittarius Skill 1|1001|
+|3018013||0|0|2|301801301|0|0|0|0|0|0|0|0|0|0|0|0|0|Sagittarius Skill 2|1001|
+|3018014||0|0|3|301801401|0|0|0|0|0|0|0|301801401|301801401|0|0|0|0|Sagittarius (Standard attack replacement)|1001|
+|3018015||0|0|3|301801501|301801502|301801503|0|0|0|0|0|0|0|0|0|0|0|Sagittarius Break 1|1001|
+|3018016||0|0|3|301801601|301801602|301801603|0|0|0|0|0|0|0|0|0|0|0|Sagittarius Break 2|1001|
+|3018021||0|0|2|301802101|301802102|301802103|301802104|301802105|0|0|0|0|0|301802103|301802104|0|0|Sagittarius UB|1001|
+|3018022||0|0|2|301802201|301802202|0|0|0|0|0|0|0|0|0|0|0|0|Sagittarius Skill 1|1001|
+|3018023||0|0|2|301802301|0|0|0|0|0|0|0|0|0|0|0|0|0|Sagittarius Skill 2|1001|
+|3018024||0|0|3|301802401|0|0|0|0|0|0|0|301802401|301802401|0|0|0|0|Sagittarius (Standard attack replacement)|1001|
+|3018025||0|0|3|301802501|301802502|301802503|301802504|301802505|301802506|301802507|0|301802501|0|0|0|0|0|Sagittarius Skill 3|1001|
+|3018026||0|0|3|301802601|301802602|301802603|0|0|0|0|0|0|0|0|0|0|0|Sagittarius Break 1|1001|
+|3018027||0|0|3|301802701|301802702|301802703|0|0|0|0|0|0|0|0|0|0|0|Sagittarius Break 2|1001|
+|3019001||0|0|2|301900101|301900102|0|0|0|0|0|0|301900101|0|0|0|0|0|sample|1001|
+|3019002||1|0|2|301900201|301900202|0|0|0|0|0|0|301900201|0|0|0|0|0|sample|1001|
+|3019011||0|0|2|301901101|301901102|301901103|0|0|0|0|0|301901101|0|0|0|0|0|Werewhale Skill 0|1001|
+|3019012||1|0|2|301901201|301901202|0|0|0|0|0|0|301901201|0|0|0|0|0|Werewhale Skill 1|1001|
+|3019013||0|0|2|301901301|301901302|301901303|0|0|0|0|0|301901301|301901302|0|0|0|0|Werewhale Skill 2|1001|
+|3019014||0|0|2|301901401|301901402|301901403|301901404|0|0|0|0|0|0|0|0|0|0|Werewhale Skill 3|1001|
+|3020001||1|0|2|302000101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3020002||0|0|2|302000201|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3020003||0|0|2|302000301|302000302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3020011||1|0|2|302001101|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3020012||0|0|2|302001201|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3020013||0|0|2|302001301|302001302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3020021||1|0|2|302002101|302002102|302002103|302002104|0|0|0|0|0|302002102|0|0|0|0||1001|
+|3020022||0|0|2|302002201|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3020023||0|0|2|302002301|302002302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3021001||1|0|2|302100101|302100102|0|0|0|0|0|0|302100101|0|0|0|0|0|Wyvern UB|1001|
+|3021002||0|0|0|302100201|302100202|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3021003||0|0|0|302100301|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard attack|1001|
+|3021011||1|0|2|302101101|302101102|302101103|0|0|0|0|0|302101101|0|0|0|0|0|Wyvern UB|1001|
+|3021012||0|0|0|302101201|302101202|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3021013||0|0|0|302101301|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard attack|1001|
+|3021021||1|0|2|302102101|302102102|0|0|0|0|0|0|302102101|0|0|0|0|0|Wyvern UB|1001|
+|3022001||1|0|2|302200101|302200102|0|0|0|0|0|0|302200101|0|0|0|0|0|sample|1001|
+|3022002||0|0|2|302200201|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3022003||1|0|2|302200301|302200302|0|0|0|0|0|0|302200301|0|0|0|0|0|sample|1001|
+|3022004||0|0|2|302200401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3023001||1|0|2|302300101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3023002||0|0|2|302300201|302300202|0|0|0|0|0|0|302300201|0|0|0|0|0|sample|1001|
+|3024001||1|0|2|302400101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3024002||0|0|2|302400201|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3024003||1|0|2|302400301|302400302|0|0|0|0|0|0|302400301|0|0|0|0|0|sample|1001|
+|3025001||0|0|2|302500101|302500102|302500103|302500104|302500105|0|0|0|0|302500102|0|302500104|0|0|sample|1001|
+|3025002||1|0|2|302500201|302500202|0|0|0|0|0|0|302500201|0|0|0|0|0|sample|1001|
+|3025003||0|0|2|302500301|302500302|302500303|302500304|0|0|0|0|302500301|302500301|302500301|0|0|0|sample|1001|
+|3025004||0|0|3|302500401|302500402|302500403|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3025005||0|0|3|302500501|302500502|302500503|0|0|0|0|0|302500501|302500501|0|0|0|0|sample|1001|
+|3025006||0|0|3|302500601|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3026001||0|0|2|302600101|302600102|0|0|0|0|0|0|302600101|0|0|0|0|0|Twin Pigs UB|1001|
+|3026002||0|0|2|302600201|302600202|0|0|0|0|0|0|302600201|0|0|0|0|0|Twin Pigs Skill 1|1001|
+|3026003||0|0|2|302600301|302600302|0|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Skill 2|1001|
+|3026004||0|0|3|302600401|0|0|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Standard Attack|1001|
+|3026005||0|0|3|302600401|0|0|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Break 1|1001|
+|3026006||0|0|3|302600401|0|0|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Break 2|1001|
+|3026007||0|0|3|302600401|0|0|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs damage limit|1001|
+|3026011||0|0|2|302601101|302601102|0|0|0|0|0|0|302601101|0|0|0|0|0|Twin Pigs UB|1001|
+|3026012||0|0|2|302601201|302601202|0|0|0|0|0|0|302601201|0|0|0|0|0|Twin Pigs Skill 1|1001|
+|3026013||0|0|2|302601301|302601302|0|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Skill 2|1001|
+|3026014||0|0|3|302601401|302601402|302601403|302601404|302601405|0|0|0|0|0|0|0|0|0|Twin Pigs Skill 3|1001|
+|3026015||0|0|3|302601501|0|0|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Standard Attack|1001|
+|3026016||0|0|3|302601601|302601602|302601603|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Break 1|1001|
+|3026017||0|0|3|302601701|302601702|302601703|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Break 2|1001|
+|3026018||0|0|3|302601801|302601802|0|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs damage limit|1001|
+|3026021||0|0|2|302602101|302602102|0|0|0|0|0|0|302602101|0|0|0|0|0|Twin Pigs UB|1001|
+|3026022||0|0|2|302602201|302602202|0|0|0|0|0|0|302602201|0|0|0|0|0|Twin Pigs Skill 1|1001|
+|3026023||0|0|2|302602301|302602302|0|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Skill 2|1001|
+|3026024||0|0|3|302602401|302602402|302602403|302602404|302602405|0|0|0|0|0|0|0|0|0|Twin Pigs Skill 3|1001|
+|3026025||0|0|3|302602501|0|0|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Standard Attack|1001|
+|3026026||0|0|3|302602601|302602602|302602603|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Skill 4|1001|
+|3026027||0|0|3|302602701|302602702|302602703|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Break 1|1001|
+|3026028||0|0|3|302602801|302602802|302602803|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs Break 2|1001|
+|3026029||0|0|3|302602901|302602902|0|0|0|0|0|0|0|0|0|0|0|0|Twin Pigs damage limit|1001|
+|3027001||0|0|2|302700101|302700102|0|0|0|0|0|0|302700101|0|0|0|0|0|-|1001|
+|3027002||0|0|2|302700201|302700202|0|0|0|0|0|0|302700201|0|0|0|0|0|-|1001|
+|3027003||0|0|2|302700301|0|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3027004||0|0|3|302700401|0|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3027005||0|0|3|302700501|302700502|302700503|0|0|0|0|0|302700501|302700501|0|0|0|0|-|1001|
+|3027006||0|0|3|302700601|0|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3027011||0|0|2|302701101|302701102|0|0|0|0|0|0|302701101|0|0|0|0|0|Karkinos Skill 0|1001|
+|3027012||0|0|2|302701201|302701202|302701203|0|0|0|0|0|302701201|302701202|0|0|0|0|Karkinos Skill 1|1001|
+|3027013||0|0|2|302701301|0|0|0|0|0|0|0|0|0|0|0|0|0|Karkinos Skill 2|1001|
+|3027021||0|0|2|302702101|302702102|0|0|0|0|0|0|302702101|0|0|0|0|0|Karkinos Skill 0|1001|
+|3027022||0|0|2|302702201|302702202|302702203|0|0|0|0|0|302702201|302702202|0|0|0|0|Karkinos Skill 1|1001|
+|3027023||0|0|2|302702301|0|0|0|0|0|0|0|0|0|0|0|0|0|Karkinos Skill 2|1001|
+|3027024||0|0|2|302702401|302702402|302702403|302702404|302702405|302702406|0|0|0|0|0|0|0|0|Karkinos Skill 3 (Super Karkinos Mode)|1001|
+|3027025||0|0|0.1|302702501|302702502|302702503|0|0|0|0|0|302702501|302702502|0|0|0|0|Karkinos Skill 4 (Used only when Super Karkinos)|1001|
+|3027026||0|0|0.1|302702601|302702602|302702603|302702604|0|0|0|0|0|302702602|0|0|0|0|Karkinos Skill 5 (Used only when Super Karkinos)|1001|
+|3027027||0|0|0.1|302702701|0|0|0|0|0|0|0|0|0|0|0|0|0|Karkinos Skill 6 (Used only when Super Karkinos)|1001|
+|3028001||0|0|2|302800101|302800102|302800103|0|0|0|0|0|0|302800102|0|0|0|0|sample|1001|
+|3028002||0|0|2|302800201|302800202|302800203|0|0|0|0|0|0|302800202|0|0|0|0|sample|1001|
+|3028003||0|0|2|302800301|302800302|302800303|0|0|0|0|0|0|302800302|0|0|0|0|sample|1001|
+|3028004||0|0|3|302800401|302800402|302800403|0|0|0|0|0|302800401|302800401|0|0|0|0|sample|1001|
+|3028005||0|0|3|302800501|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3028006||0|0|3|302800601|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3028011||0|0|2|302801101|302801102|302801103|0|0|0|0|0|0|302801102|0|0|0|0|sample|1001|
+|3028012||0|0|2|302801201|302801202|302801203|0|0|0|0|0|0|302801202|0|0|0|0|sample|1001|
+|3028013||0|0|2|302801301|302801302|302801303|0|0|0|0|0|0|302801302|0|0|0|0|sample|1001|
+|3028021||0|0|2|302802101|302802102|302802103|0|0|0|0|0|0|302802102|0|0|0|0|sample|1001|
+|3028022||0|0|2|302802201|302802202|302802203|0|0|0|0|0|0|302802202|0|0|0|0|sample|1001|
+|3028023||0|0|4|302802301|302802302|302802303|0|0|0|0|0|0|302802302|0|0|0|0|sample|1001|
+|3028024||0|0|2|302802401|302802402|302802403|302802404|0|0|0|0|0|302802402|302802402|0|0|0|sample|1001|
+|3029001||0|0|0|302900101|302900102|302900103|302900104|302900105|302900106|0|0|0|302900102|0|302900104|302900105|0|sample|1001|
+|3029002||0|0|0.2|302900201|302900202|302900203|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3029003||0|0|0.86|302900301|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3029004||0|0|3|302900401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3029005||0|0|3|302900501|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3029006||0|0|3|302900601|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3029011||0|0|0|302901101|302901102|302901103|302901104|302901105|302901106|0|0|0|302901102|0|302901104|302901105|0|Aquarius UB|1001|
+|3029012||0|0|0.2|302901201|302901202|302901203|302901204|0|0|0|0|0|0|0|0|0|0|Aquarius Skill 1|1001|
+|3029013||0|0|0.86|302901301|302901302|0|0|0|0|0|0|0|0|0|0|0|0|Aquarius Skill 2|1001|
+|3029014||0|0|3|302901401|0|0|0|0|0|0|0|0|0|0|0|0|0|Aquarius Standard Attack|1001|
+|3029015||0|0|3|302901501|302901502|302901503|0|0|0|0|0|0|0|0|0|0|0|Aquarius Break 1|1001|
+|3029016||0|0|3|302901601|302901602|302901603|0|0|0|0|0|0|0|0|0|0|0|Aquarius Break 2|1001|
+|3029021||0|0|0|302902101|302902102|302902103|302902104|302902105|302902106|0|0|0|302902102|0|302902104|302902105|0|Aquarius UB|1001|
+|3029022||0|0|0.2|302902201|302902202|302902203|302902204|0|0|0|0|0|0|0|0|0|0|Aquarius Skill 1|1001|
+|3029023||0|0|0.86|302902301|302902302|0|0|0|0|0|0|0|0|0|0|0|0|Aquarius Skill 2|1001|
+|3029024||0|0|3|302902401|0|0|0|0|0|0|0|0|0|0|0|0|0|Aquarius Standard Attack|1001|
+|3029025||0|0|0|302902501|302902502|0|0|0|0|0|0|0|0|0|0|0|0|Aquarius Skill 3|1001|
+|3029026||0|0|3|302902601|302902602|302902603|0|0|0|0|0|0|0|0|0|0|0|Aquarius Break 1|1001|
+|3029027||0|0|3|302902701|302902702|302902703|0|0|0|0|0|0|0|0|0|0|0|Aquarius Break 2|1001|
+|3029031||0|0|0|302903101|302903102|302903103|302903104|302903105|302903106|0|0|0|302903102|0|302903104|302903105|0|Aquarius UB|1001|
+|3029032||0|0|0.2|302903201|302903202|302903203|302903204|0|0|0|0|0|0|0|0|0|0|Aquarius Skill 1|1001|
+|3029033||0|0|0.86|302903301|302903302|0|0|0|0|0|0|0|0|0|0|0|0|Aquarius Skill 2|1001|
+|3029034||0|0|3|302903401|0|0|0|0|0|0|0|0|0|0|0|0|0|Aquarius Standard Attack|1001|
+|3029035||0|0|0|302903501|302903502|0|0|0|0|0|0|0|0|0|0|0|0|Aquarius Skill 3|1001|
+|3029036||0|0|3|302903601|302903602|302903603|0|0|0|0|0|0|0|0|0|0|0|Aquarius Break 1|1001|
+|3029037||0|0|3|302903701|302903702|302903703|0|0|0|0|0|0|0|0|0|0|0|Aquarius Break 2|1001|
+|3030001||0|0|2|303000101|303000102|303000103|0|0|0|0|0|0|0|0|0|0|0|UB|1001|
+|3030002||0|0|2|303000201|0|0|0|0|0|0|0|0|0|0|0|0|0|Skill1|1001|
+|3030003||0|0|2|303000301|303000302|0|0|0|0|0|0|303000301|0|0|0|0|0|Skill2|1001|
+|3030004||0|0|3|303000401|0|0|0|0|0|0|0|0|0|0|0|0|0|Awakening|1001|
+|3030005||0|0|3|303000501|0|0|0|0|0|0|0|0|0|0|0|0|0|-|1001|
+|3030006||0|0|3|303000601|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3030011||0|0|2|303001101|303001102|303001103|0|0|0|0|0|0|0|0|0|0|0|UB|1001|
+|3030012||0|0|2|303001201|0|0|0|0|0|0|0|0|0|0|0|0|0|Skill1|1001|
+|3030013||0|0|2|303001301|303001302|0|0|0|0|0|0|303001301|0|0|0|0|0|Skill2|1001|
+|3030014||0|0|3|303001401|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard Attack|1001|
+|3030015||0|0|0|303001501|303001502|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3030021||0|0|2|303002101|303002102|303002103|0|0|0|0|0|0|0|0|0|0|0|UB|1001|
+|3030022||0|0|2|303002201|0|0|0|0|0|0|0|0|0|0|0|0|0|Skill1|1001|
+|3030023||0|0|2|303002301|303002302|0|0|0|0|0|0|303002301|0|0|0|0|0|Skill2|1001|
+|3030024||0|0|3|303002401|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard Attack|1001|
+|3030025||0|0|3|303002501|303002502|303002503|303002504|303002505|303002506|303002507|0|0|0|0|0|0|0|Skill3|1001|
+|3030026||0|0|0|303002601|303002602|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3030031||0|0|2|303003101|303003102|303003103|0|0|0|0|0|0|0|0|0|0|0|UB|1001|
+|3030032||0|0|2|303003201|0|0|0|0|0|0|0|0|0|0|0|0|0|Skill1|1001|
+|3030033||0|0|2|303003301|303003302|0|0|0|0|0|0|303003301|0|0|0|0|0|Skill2|1001|
+|3030034||0|0|3|303003401|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard Attack|1001|
+|3030035||0|0|3|303003501|303003502|303003503|303003504|303003505|303003506|303003507|0|0|0|0|0|0|0|Skill3|1001|
+|3030036||0|0|0|303003601|303003602|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3030041||0|0|2|303004101|303004102|303004103|0|0|0|0|0|0|0|0|0|0|0|UB|1001|
+|3030042||0|0|2|303004201|0|0|0|0|0|0|0|0|0|0|0|0|0|Skill1|1001|
+|3030043||0|0|2|303004301|303004302|0|0|0|0|0|0|303004301|0|0|0|0|0|Skill2|1001|
+|3030044||0|0|3|303004401|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard Attack|1001|
+|3030045||0|0|3|303004501|303004502|303004503|303004504|303004505|303004506|303004507|0|0|0|0|0|0|0|Skill3|1001|
+|3030046||0|0|0|303004601|303004602|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3031001||0|0|0|303100101|303100102|0|0|0|0|0|0|0|0|0|0|0|0|Slumbear: Union Burst|1001|
+|3031002||0|0|1.5|303100201|303100202|303100203|303100204|0|0|0|0|0|303100202|303100202|0|0|0|Slumbear: Skill|1001|
+|3032001||0|0|2|303200101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3032002||0|0|2|303200201|303200202|0|0|0|0|0|0|303200201|0|0|0|0|0|sample|1001|
+|3033001||1|0|2|303300101|303300102|303300103|0|0|0|0|0|303300101|303300102|0|0|0|0|sample|1001|
+|3033002||1|0|2|303300201|303300202|0|0|0|0|0|0|300100201|0|0|0|0|0|sample|1001|
+|3033011||1|0|2|303301101|303301102|303301103|0|0|0|0|0|303301101|303301102|0|0|0|0|sample|1001|
+|3033012||1|0|2|303301201|303301202|303301203|0|0|0|0|0|303301201|0|0|0|0|0|sample|1001|
+|3033013||1|0|2|303301301|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3033021||1|0|2|303302101|303302102|303302103|0|0|0|0|0|303302101|303302102|0|0|0|0|sample|1001|
+|3033022||1|0|2|303302201|303302202|303302203|0|0|0|0|0|303302201|0|0|0|0|0|sample|1001|
+|3033023||1|0|2|303302301|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3034001||0|0|2|303400101|303400102|303400103|0|0|0|0|0|303400101|0|0|0|0|0|sample|1001|
+|3034002||0|0|2|303400201|303400202|303400203|303400204|0|0|0|0|303400201|303400202|303400203|0|0|0|sample|1001|
+|3034011||0|0|2|303401101|303401102|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3034012||0|0|2|303401201|303401202|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3034013||0|0|2|303401301|303401302|303401303|303401304|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3034014||0|0|2|303401401|303401402|303401403|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3034021||0|0|2|303402101|303402102|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3034022||0|0|2|303402201|303402202|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3034023||0|0|2|303402301|303402302|303402303|303402304|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3034024||0|0|2|303402401|303402402|303402403|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3035001||1|0|2|303500101|303500102|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3035002||1|0|2|303500201|303500202|303500203|0|0|0|0|0|303500201|303500202|0|0|0|0|sample|1001|
+|3035011||1|0|2|303501101|303501102|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3035012||1|0|2|303501201|303501202|303501203|0|0|0|0|0|303500201|303500202|0|0|0|0|sample|1001|
+|3036001||0|0|2|303600101|303600102|0|0|0|0|0|0|0|0|0|0|0|0|Smoldersaurus: Union Burst|1001|
+|3036002||0|0|2|303600201|303600202|0|0|0|0|0|0|303600201|0|0|0|0|0|Smoldersaurus: Skill|1001|
+|3037001||0|0|0|303700101|303700102|303700103|0|0|0|0|0|303700101|0|0|0|0|0|Hellhound: Union Burst|1001|
+|3037002||0|0|3.5|303700201|0|0|0|0|0|0|0|0|0|0|0|0|0|Hellhound: Skill|1001|
+|3038001||1|0|3|303800101|0|0|0|0|0|0|0|0|0|0|0|0|0|Alma: Union Burst|1001|
+|3038002||0|0|1.5|303800201|303800202|0|0|0|0|0|0|303800201|0|0|0|0|0|Alma: Attacks enemy with hammer|1001|
+|3038003||1|0|1.5|303800301|303800302|303800303|0|0|0|0|0|303800301|303800301|0|0|0|0|Alma: Fires a sub-unit to attack enemy|1001|
+|3038004||0|0|1.5|303800401|303800402|303800403|0|0|0|0|0|303800401|303800401|0|0|0|0|Alma: Awakening|1001|
+|3038011||1|0|3|303801101|0|0|0|0|0|0|0|0|0|0|0|0|0|Alma: Union Burst|1001|
+|3038012||0|0|1.5|303801201|303801202|0|0|0|0|0|0|303801201|0|0|0|0|0|Alma: Attacks enemy with hammer|1001|
+|3038013||1|0|1.5|303800301|303800302|303800303|0|0|0|0|0|303800301|303800301|0|0|0|0|Alma: Fires a sub-unit to attack enemy|1001|
+|3038014||0|0|1.5|303800401|303800402|303800403|0|0|0|0|0|303800401|303800401|0|0|0|0|Alma: Awakening|1001|
+|3039001||1|0|2|303900101|303900102|303900103|303900104|0|0|0|0|303900101|0|0|0|0|0|Cyclops: Union Burst|1001|
+|3039002||0|0|2|303900201|303900202|303900203|303900204|0|0|0|0|303900201|303900202|303900203|0|0|0|Cyclops: Skill 1 (Proportional DMG to enemy with highest physical attack)|1001|
+|3039003||0|0|2|303900301|0|0|0|0|0|0|0|0|0|0|0|0|0|Cyclops: Standard attack|1001|
+|3039004||0|0|2|303900401|303900402|0|0|0|0|0|0|0|0|0|0|0|0|Cyclops: Damage limit|1001|
+|3039011||1|0|2|303901101|303901102|303901103|303901104|0|0|0|0|303901101|0|0|0|0|0|Cyclops: Skill 0 (Union Burst)|1001|
+|3039012||0|0|2|303901201|303901202|303901203|303901204|0|0|0|0|303901201|303901202|303901203|0|0|0|Cyclops: Skill 1 (Proportional DMG to enemy with highest physical attack)|1001|
+|3039021||1|0|2|303902101|303902102|303902103|303902104|303902105|0|0|0|303902101|0|0|0|0|0|Cyclops: Skill 0 (Union Burst)|1001|
+|3039022||0|0|2|303902201|303902202|303902203|303902204|0|0|0|0|303902201|303902202|303902203|0|0|0|Cyclops: Skill 1 (Proportional DMG to enemy with highest physical attack)|1001|
+|3039023||0|0|2|303902301|303902302|0|0|0|0|0|0|0|0|0|0|0|0|Cyclops: Standard attack|1001|
+|3039024||0|0|2|303902401|303902402|0|0|0|0|0|0|0|0|0|0|0|0|Cyclops: Damage limit|1001|
+|3040001||1|0|2|304000101|304000102|0|0|0|0|0|0|304000101|0|0|0|0|0|Nightmare Skill 1|1001|
+|3040002||0|0|2|304000201|304000202|304000203|0|0|0|0|0|304000201|304000202|0|0|0|0|Nightmare Skill 2|1001|
+|3040003||1|0|2|304000301|304000302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3040011||1|0|2|304001101|304001102|0|0|0|0|0|0|304001101|0|0|0|0|0|Night Mare UB|1001|
+|3040012||0|0|2|304001201|304001202|304001203|304001204|0|0|0|0|304001201|304001202|304001202|0|0|0|Night Mare skill1|1001|
+|3040013||1|0|2|304001301|304001302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3041001||0|0|2.5|304100101|0|0|0|0|0|0|0|0|0|0|0|0|0|Titanoturtle: Skill 0 Union Burst|1001|
+|3041002||0|0|2.5|304100201|304100202|304100203|0|0|0|0|0|0|0|0|0|0|0|Titanoturtle: Skill 1|1001|
+|3042001||1|0|0|304200101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3042002||1|0|1.5|304200201|304200202|0|0|0|0|0|0|304200201|0|0|0|0|0|sample|1001|
+|3042003||1|0|1.5|304200301|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3042004||1|0|0|304200401|304200402|304200403|0|0|0|0|0|304200401|304200401|0|0|0|0|sample|1001|
+|3042011||1|0|0|304201101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3042012||1|0|1.5|304201201|304201202|0|0|0|0|0|0|304201201|0|0|0|0|0|sample|1001|
+|3042013||1|0|1.5|304201301|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3042014||1|0|0|304201401|304201402|304201403|0|0|0|0|0|304201401|304201401|0|0|0|0|sample|1001|
+|3043001||1|0|0|304300101|0|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Union Burst|1001|
+|3043002||2|0|1.5|304300201|304300202|304300203|304300204|0|0|0|0|304300201|304300201|304300201|0|0|0|Tentapus Ink Bomb|1001|
+|3043003||1|0|1.5|304300301|304300302|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Eel 1|1001|
+|3043004||1|0|0|304300401|304300402|304300403|304300404|0|0|0|0|0|0|0|0|0|0|Tentapus Awakening|1001|
+|3043005||1|0|1.5|304300501|0|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Standard Attack|1001|
+|3043006||1|0|1.5|304300601|304300602|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Eel 2|1001|
+|3043007||1|0|1.5|304300701|304300702|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Eel 3|1001|
+|3043008||1|0|1.5|304300801|304300802|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Eel 4|1001|
+|3043009||1|0|1.5|304300901|304300902|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Eel 5|1001|
+|3044001||1|0|0|304400101|0|0|0|0|0|0|0|0|0|0|0|0|0|Island Whale Union Burst|1001|
+|3044002||2|0|1.5|304400201|304400202|304400203|0|0|0|0|0|0|0|0|0|0|0|Island Whale Skill 1|1001|
+|3044003||1|0|6|304400301|304400302|0|0|0|0|0|0|304400301|0|0|0|0|0|Island Whale Skill 2|1001|
+|3044004||1|0|0|304400401|304400402|304400403|304400404|0|0|0|0|0|0|0|0|0|0|Island Whale Awakening|1001|
+|3045001||0|0|1.5|304500101|304500102|304500103|304500104|304500105|0|0|0|304500101|0|0|0|0|0|Ninja Stag Beetle Skill 0|1001|
+|3045002||0|0|1.5|304500201|304500202|304500203|0|0|0|0|0|0|0|304500202|0|0|0|Ninja Stag Beetle Skill 1|1001|
+|3046001||1|0|1.5|304600101|0|0|0|0|0|0|0|0|0|0|0|0|0|Rai-Rai Skill 0|1001|
+|3046002||1|0|1.5|304600201|0|0|0|0|0|0|0|0|0|0|0|0|0|Rai-Rai Skill 1|1001|
+|3046003||1|0|0|304600301|304600302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3046011||1|0|1.5|304601101|304601102|0|0|0|0|0|0|0|0|0|0|0|0|Rai-Rai Skill 0|1001|
+|3046012||1|0|1.5|304601201|304601202|0|0|0|0|0|0|0|0|0|0|0|0|Rai-Rai Skill 1|1001|
+|3046013||1|0|0|304601301|304601302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3046021||1|0|1.5|304602101|0|0|0|0|0|0|0|0|0|0|0|0|0|Rai-Rai Skill 0|1001|
+|3046022||1|0|1.5|304602201|0|0|0|0|0|0|0|0|0|0|0|0|0|Rai-Rai Skill 1|1001|
+|3047001||1|0|2.7|304700101|304700102|304700103|0|0|0|0|0|304700101|304700101|0|0|0|0|Living Mail Union Burst|1001|
+|3047002||1|0|2.2|304700203|304700204|304700201|304700202|0|0|0|0|0|0|0|0|0|0|Living Mail Skill 1|1001|
+|3047003||1|0|3.5|304700301|0|0|0|0|0|0|0|304700301|0|0|0|0|0|Living Mail Skill 2|1001|
+|3047004||1|0|2.7|304700401|304700402|304700403|0|0|0|0|0|0|0|0|0|0|0|Living Mail Awakening|1001|
+|3047041||0|0|2.7|304704101|304704102|0|0|0|0|0|0|304704101|0|0|0|0|0|Tower Living Mail Union Burst|1001|
+|3047042||0|0|2.2|304704201|304704202|304704203|304704204|0|0|0|0|0|0|0|0|0|0|Tower Living Mail Skill 1|1001|
+|3047043||0|0|3.5|304704301|304704302|0|0|0|0|0|0|0|0|0|0|0|0|Tower Living Mail Skil 2|1001|
+|3047044||0|0|2.7|304704401|304704402|304704403|0|0|0|0|0|0|0|0|0|0|0|Tower Living Mail Awakening|1001|
+|3047051||0|0|2.7|304705101|304705102|304705103|0|0|0|0|0|304705101|304705101|0|0|0|0|Living Mail Union Burst|1001|
+|3047052||0|0|2.2|304705203|304705204|304705201|304705202|0|0|0|0|0|0|0|0|0|0|Living Mail Skill 1|1001|
+|3047053||0|0|3.5|304705301|0|0|0|0|0|0|0|304705301|0|0|0|0|0|Living Mail Skill 2|1001|
+|3047054||0|0|2.7|304705401|304705402|304705403|0|0|0|0|0|0|0|0|0|0|0|Living Mail Awakening|1001|
+|3048001||2|0|1.5|304800101|304800102|0|0|0|0|0|0|304800101|0|0|0|0|0|Wraithlord Skill 0|1001|
+|3048002||2|0|1.5|304800201|304800202|304800203|0|0|0|0|0|0|0|0|0|0|0|Wraithlord Skill 1|1001|
+|3048011||2|0|1.5|304801101|304801102|0|0|0|0|0|0|304801101|0|0|0|0|0|Wraithlord Skill 0|1001|
+|3048012||2|0|1.5|304801201|304801202|304801203|0|0|0|0|0|0|0|0|0|0|0|Wraithlord Skill 1|1001|
+|3049001||0|0|2|304900101|304900102|304900103|304900104|304900105|0|0|0|0|0|0|0|0|0|Franken UB|1001|
+|3049002||1|0|2.7|304900201|304900202|0|0|0|0|0|0|0|0|0|0|0|0|Franken Skill 1|1001|
+|3049003||1|0|2.5|304900301|0|0|0|0|0|0|0|0|0|0|0|0|0|Franken Skill 2|1001|
+|3049004||1|0|1.5|304900401|304900402|304900403|0|0|0|0|0|0|0|0|0|0|0|Franken Awakening|1001|
+|3049005||0|0|2|304900501|0|0|0|0|0|0|0|0|0|0|0|0|0|Franken Standard Attack|1001|
+|3050001||1|0|0|305000101|305000102|305000103|0|0|0|0|0|0|305000102|0|0|0|0|Pudding Union Burst|1001|
+|3050002||1|0|1.8|305000201|305000202|0|0|0|0|0|0|0|0|0|0|0|0|Pudding Skill 1|1001|
+|3050003||1|0|2.7|305000301|305000302|305000303|305000304|0|0|0|0|0|305000302|305000303|0|0|0|Pudding Skill 2|1001|
+|3050004||1|0|0|305000401|305000402|305000403|305000404|0|0|0|0|0|0|0|0|0|0|Pudding Awakening|1001|
+|3050005||1|0|0|305000501|305000502|305000503|0|0|0|0|0|0|305000502|0|0|0|0|Jack-o-Pudding Union Burst|1001|
+|3050006||1|0|1.8|305000601|305000602|0|0|0|0|0|0|0|0|0|0|0|0|Jack-o-Pudding Skill 1|1001|
+|3050007||1|0|2.7|305000701|305000702|305000703|305000704|0|0|0|0|0|305000702|305000703|0|0|0|Jack-o-Pudding Skill 2|1001|
+|3050008||1|0|0|305000801|305000802|305000803|305000804|0|0|0|0|0|0|0|0|0|0|Jack-o-Pudding Awakening|1001|
+|3051001||0|0|2|305100101|305100102|305100103|305100104|0|0|0|0|305100101|0|0|0|0|0|Mega Lapahn UB|1001|
+|3051002||0|0|2|305100201|305100202|0|0|0|0|0|0|0|0|0|0|0|0|Mega Lapahn Skill 1|1001|
+|3051003||0|0|0|305100301|305100302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3051021||0|0|2|305102101|305102102|305102103|305102104|0|0|0|0|0|0|0|0|0|0|Mega Lapahn UB|1001|
+|3051022||0|0|2|305102201|305102202|305102203|0|0|0|0|0|0|0|0|0|0|0|Mega Lapahn Skill 1|1001|
+|3051023||0|0|0|305102301|305102302|0|0|0|0|0|0|0|0|0|0|0|0|Mega Lapahn Standard Attack|1001|
+|3051024||0|0|0|305102401|305102402|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3052001||1|0|0|305200101|305200102|0|0|0|0|0|0|0|0|0|0|0|0|Golem Union Burst|1001|
+|3052002||1|0|1.8|305200201|305200202|0|0|0|0|0|0|0|0|0|0|0|0|Golem Skill 1|1001|
+|3052003||1|0|4.5|305200301|305200302|305200303|305200304|0|0|0|0|305200301|305200301|305200303|0|0|0|Golem Skill 2|1001|
+|3052004||1|0|0|305200401|305200402|305200403|305200404|0|0|0|0|0|0|0|0|0|0|Golem Awakening|1001|
+|3052041||0|0|0|305204101|305204102|305204103|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3052042||0|0|1.8|305204201|305204202|305204203|305204204|0|0|0|0|305204201|305204202|305204203|0|0|0||1001|
+|3052043||0|0|4.5|305204301|305204302|305204303|305204304|0|0|0|0|305204301|305204302|305204302|0|0|0||1001|
+|3052044||0|0|0|305204401|305204402|305204403|305204404|0|0|0|0|0|0|0|0|0|0||1001|
+|3052051||1|0|0|305205101|305205102|0|0|0|0|0|0|0|0|0|0|0|0|Golem Union Burst|1001|
+|3052052||1|0|1.8|305205201|305205202|0|0|0|0|0|0|0|0|0|0|0|0|Golem Skill 1|1001|
+|3052053||1|0|4.5|305205301|305205302|305205303|305205304|0|0|0|0|305205301|305205301|305205303|0|0|0|Golem Skill 2|1001|
+|3052054||1|0|0|305205401|305205402|305205403|305205404|0|0|0|0|0|0|0|0|0|0|Golem Awakening|1001|
+|3053001||0|0|0|305300101|305300102|0|0|0|0|0|0|0|0|0|0|0|0|High Garoog UB|1001|
+|3053002||0|0|1.5|305300201|305300202|305300203|0|0|0|0|0|305300201|0|0|0|0|0|High Garoog Skill 1|1001|
+|3053003||0|0|1.5|305300301|305300302|0|0|0|0|0|0|305300301|0|0|0|0|0|High Garoog Skill 2|1001|
+|3053004||0|0|0|305300401|305300402|305300403|0|0|0|0|0|0|0|0|0|0|0|High Garoog Awakening|1001|
+|3054001||1|0|0|305400101|305400102|305400103|0|0|0|0|0|305400101|0|0|0|0|0|Ice Horn UB|1001|
+|3054002||1|0|3|305400201|305400202|305400203|305400204|305400205|0|0|0|305400201|0|0|0|0|0|Ice Horn Skill 1|1001|
+|3055001||1|0|0|305500101|305500102|305500103|0|0|0|0|0|305500101|305500101|0|0|0|0|Foggy Union Burst|1001|
+|3055002||1|0|1.5|305500201|305500202|0|0|0|0|0|0|0|0|0|0|0|0|Foggy Skill 1|1001|
+|3055003||1|0|1.5|305500301|305500302|0|0|0|0|0|0|0|0|0|0|0|0|Foggy Skill 2|1001|
+|3055004||1|0|0|305500401|305500402|305500403|305500404|0|0|0|0|0|0|0|0|0|0|Foggy Awakening|1001|
+|3055005||1|0|4|305500501|305500502|0|0|0|0|0|0|305500501|0|0|0|0|0|Foggy Skill 3|1001|
+|3055006||1|0|1.5|305500601|305500602|0|0|0|0|0|0|0|0|0|0|0|0|Foggy Skill 4|1001|
+|3055007||1|0|1.5|305500701|305500702|0|0|0|0|0|0|0|0|0|0|0|0|Foggy Skill 5|1001|
+|3055008||1|0|1.5|305500801|305500802|0|0|0|0|0|0|0|0|0|0|0|0|Foggy Skill 6|1001|
+|3055009||1|0|0|305500901|305500902|305500903|305500904|0|0|0|0|0|0|0|0|0|0|Foggy Awakening|1001|
+|3055041||1|0|0|305504101|305504102|305504103|0|0|0|0|0|305504101|305504101|0|0|0|0|Foggy Union Burst|1001|
+|3055042||1|0|1.5|305504201|305504202|0|0|0|0|0|0|0|0|0|0|0|0|Foggy Skill 1|1001|
+|3055043||1|0|1.5|305504301|305504302|0|0|0|0|0|0|0|0|0|0|0|0|Foggy Skill 2|1001|
+|3055044||1|0|0|305504401|305504402|305504403|305504404|0|0|0|0|0|0|0|0|0|0|Foggy Awakening|1001|
+|3055045||1|0|4|305504501|305504502|0|0|0|0|0|0|305504501|0|0|0|0|0|Foggy Skill 3|1001|
+|3055046||1|0|1.5|305504601|305504602|0|0|0|0|0|0|0|0|0|0|0|0|Foggy Skill 4|1001|
+|3055047||1|0|1.5|305504701|305504702|0|0|0|0|0|0|0|0|0|0|0|0|Foggy Skill 5|1001|
+|3055048||1|0|1.5|305504801|305504802|0|0|0|0|0|0|0|0|0|0|0|0|Foggy Skill 6|1001|
+|3055049||1|0|0|305504901|305504902|305504903|305504904|0|0|0|0|0|0|0|0|0|0|Foggy Awakening|1001|
+|3056001||1|0|0|305600101|305600102|0|0|0|0|0|0|0|0|0|0|0|0|Lord Evyle UB|1001|
+|3056002||1|0|1.8|305600201|305600202|305600203|305600204|305600205|305600206|0|0|0|0|0|0|0|0|Lord Evyle Skill 1|1001|
+|3056003||1|0|2|305600301|305600302|305600303|0|0|0|0|0|0|0|0|0|0|0|Lord Evyle Skill 2|1001|
+|3056004||1|0|0|305600401|305600402|305600403|0|0|0|0|0|0|0|0|0|0|0|Lord Evyle Awakening|1001|
+|3057001||0|0|2|305700101|305700102|305700103|0|0|0|0|0|0|0|0|0|0|0|Goblin Brave UB|1001|
+|3057002||0|0|2|305700201|305700202|0|0|0|0|0|0|0|0|0|0|0|0|Goblin Brave damage limit|1001|
+|3057011||0|0|2|305701101|305701102|305701103|0|0|0|0|0|0|0|0|0|0|0|Goblin Brave UB|1001|
+|3057021||0|0|2|305702101|305702102|305702103|305702104|0|0|0|0|0|0|305702101|0|0|0|Goblin Brave UB|1001|
+|3057022||0|0|2|305702201|0|0|0|0|0|0|0|0|0|0|0|0|0|Goblin Brave standard attack|1001|
+|3057023||0|0|2|305702301|305702302|0|0|0|0|0|0|0|0|0|0|0|0|Goblin Brave damage limit|1001|
+|3058001||1|0|2|305800101|0|0|0|0|0|0|0|0|0|0|0|0|0|Nepterion UB|1001|
+|3058002||1|0|2|305800201|305800202|305800203|0|0|0|0|0|305800201|305800201|305800201|0|0|0|Nepterion Skill 1|1001|
+|3058003||1|0|3.5|305800301|305800302|0|0|0|0|0|0|0|0|0|0|0|0|Nepterion Skill 2 (instead of attack)|1001|
+|3058011||1|0|2|305801101|0|0|0|0|0|0|0|0|0|0|0|0|0|Nepterion UB|1001|
+|3058012||1|0|2|305801201|305801202|305801203|305801204|0|0|0|0|305801201|305801201|305801201|0|0|0|Nepterion Skill 1|1001|
+|3058013||1|0|2|305801301|0|0|0|0|0|0|0|0|0|0|0|0|0|Nepterion Skill 2 (instead of attack)|1001|
+|3058014||1|0|2|305801401|305801402|305801403|305801404|0|0|0|0|0|0|0|0|0|0|Nepterion Skill 2 (instead of attack)|1001|
+|3058015||1|0|2|305801501|0|0|0|0|0|0|0|0|0|0|0|0|0|Nepterion Skill 2 (instead of attack)|1001|
+|3059001||1|0|2.2|305900101|305900102|0|0|0|0|0|0|305900101|0|0|0|0|0|Prisma Hen UB|1001|
+|3059002||0|0|4|305900201|305900202|305900203|305900204|0|0|0|0|305900201|0|0|0|0|0|Prisma Hen Skill 1|1001|
+|3059003||0|0|2.2|305900301|0|0|0|0|0|0|0|0|0|0|0|0|0|Prisma Hen standard attack|1001|
+|3059004||0|0|0|305900401|305900402|0|0|0|0|0|0|0|0|0|0|0|0|Prisma Hen damage limit|1001|
+|3059011||1|0|2.2|305901101|305901102|305901103|0|0|0|0|0|305901101|0|0|0|0|0|Prisma Hen UB|1001|
+|3059012||0|0|4|305901201|305901202|305901203|305901204|0|0|0|0|305901201|0|0|0|0|0|Prisma Hen Skill 1|1001|
+|3059013||0|0|2.2|305901301|0|0|0|0|0|0|0|0|0|0|0|0|0|Prisma Hen standard attack|1001|
+|3059014||0|0|0|305901401|305901402|0|0|0|0|0|0|0|0|0|0|0|0|Prisma Hen damage limit|1001|
+|3060001||0|0|0|306000101|0|0|0|0|0|0|0|0|0|0|0|0|0|Kagami Mochi|1001|
+|3060002||0|0|2.2|306000201|306000202|0|0|0|0|0|0|0|0|0|0|0|0|Kagami Mochi|1001|
+|3060003||0|0|4.2|306000301|0|0|0|0|0|0|0|0|0|0|0|0|0|Kagami Mochi|1001|
+|3060004||0|0|0|306000401|306000402|306000403|306000404|0|0|0|0|0|0|0|0|0|0|Kagami Mochi|1001|
+|3060005||0|0|0|306000501|306000502|306000503|0|0|0|0|0|0|0|0|0|0|0|Kagami Mochi|1001|
+|3060006||0|0|0|306000601|0|0|0|0|0|0|0|0|0|0|0|0|0|Kagami Mochi|1001|
+|3060007||0|0|0|306000701|306000702|306000703|306000704|0|0|0|0|0|0|0|0|0|0|Kagami Mochi|1001|
+|3060008||0|0|90|306000801|0|0|0|0|0|0|0|0|0|0|0|0|0|Kagami Mochi Null Action|1001|
+|3060009||0|0|2.2|306000901|306000902|0|0|0|0|0|0|0|0|0|0|0|0|Kagami Mochi Knockback|1001|
+|3060071||0|0|0|306007101|0|0|0|0|0|0|0|0|0|0|0|0|0|Mochifiend Gummy UB|1001|
+|3060072||0|0|2.2|306007201|306007202|0|0|0|0|0|0|0|0|0|0|0|0|Mochifiend Gummy skill1|1001|
+|3060073||0|0|4.2|306007301|0|0|0|0|0|0|0|0|0|0|0|0|0|Mochifiend Gummy skill2|1001|
+|3060074||0|0|0|306007401|306007402|306007403|306007404|0|0|0|0|0|0|0|0|0|0|Mochifiend Gummy skill3|1001|
+|3060075||0|0|4.2|306007501|0|0|0|0|0|0|0|0|0|0|0|0|0|Mochifiend Gummy skill2|1001|
+|3061001||0|0|2|306100101|306100102|0|0|0|0|0|0|306100101|0|0|0|0|0|Jackal Thief: Union Burst|1001|
+|3061002||0|0|2|306100201|306100202|306100203|306100204|0|0|0|0|306100201|306100201|0|0|0|0|Jackal Thief: Skill|1001|
+|3061011||0|0|2|306101101|306101102|0|0|0|0|0|0|306101101|0|0|0|0|0|Jackal Thief UB|1001|
+|3061012||0|0|2|306101201|306101202|306101203|0|0|0|0|0|306101201|0|0|0|0|0|Jackal Thief Skill1|1001|
+|3061013||0|0|2|306101301|0|0|0|0|0|0|0|0|0|0|0|0|0|Jackal Thief Standard Attack|1001|
+|3061014||0|0|3|306101401|306101402|0|0|0|0|0|0|0|0|0|0|0|0|Jackal Thief damage limit|1001|
+|3061021||0|0|2|306102101|306102102|0|0|0|0|0|0|306102101|0|0|0|0|0|Jackal Thief UB|1001|
+|3061022||0|0|2|306102201|306102202|306102203|306102204|306102205|0|0|0|306102201|306102201|0|306102204|0|0|Jackal Thief Skill1|1001|
+|3061023||0|0|2|306101301|0|0|0|0|0|0|0|0|0|0|0|0|0|Jackal Thief Standard Attack|1001|
+|3061024||0|0|3|306101401|306101402|0|0|0|0|0|0|0|0|0|0|0|0|Jackal Thief damage limit|1001|
+|3062001||0|0|2|306200101|306200102|306200103|0|0|0|0|0|0|0|0|0|0|0|Sham Raccoon: Union Burst|1001|
+|3062002||0|0|2|306200201|306200202|306200203|306200204|306200205|0|0|0|306200201|306200201|306200203|0|0|0|Sham Raccoon: Skill|1001|
+|3062011||0|0|2|306201101|306201102|306201103|0|0|0|0|0|0|0|0|0|0|0|Master Senri: Union Burst|1001|
+|3062012||0|0|2|306201201|306201202|306201203|306201204|306201205|0|0|0|306201201|306201201|306201203|0|0|0|Master Senri Skill 1|1001|
+|3062013||0|0|2|306201301|0|0|0|0|0|0|0|0|0|0|0|0|0|Master Senri Standard Attack|1001|
+|3062021||0|0|2|306202101|306202102|306202103|0|0|0|0|0|0|0|0|0|0|0|Master Senri: Union Burst|1001|
+|3062022||0|0|2|306202201|306202202|306202203|306202204|306202205|0|0|0|306202201|306202201|306202203|0|0|0|Master Senri Skill 1|1001|
+|3062023||0|0|2|306202301|0|0|0|0|0|0|0|0|0|0|0|0|0|Master Senri Standard Attack|1001|
+|3062031||0|0|2|306203101|306203102|306203103|0|0|0|0|0|0|0|0|0|0|0|Master Senri: Union Burst|1001|
+|3062032||0|0|2|306203201|306203202|306203203|306203204|306203205|0|0|0|306203201|306203201|306203203|0|0|0|Master Senri Skill 1|1001|
+|3062033||0|0|2|306203301|0|0|0|0|0|0|0|0|0|0|0|0|0|Master Senri Standard Attack|1001|
+|3062041||0|0|2|306204101|306204102|306204103|0|0|0|0|0|0|0|0|0|0|0|Master Senri: Union Burst|1001|
+|3062042||0|0|2|306204201|306204202|306204203|306204204|306204205|0|0|0|306204201|306204201|306204203|0|0|0|Master Senri Skill 1|1001|
+|3062043||0|0|2|306204301|0|0|0|0|0|0|0|0|0|0|0|0|0|Master Senri Standard Attack|1001|
+|3063001||0|0|0|306300101|306300102|306300103|306300104|0|0|0|0|0|306300102|306300102|0|0|0||1001|
+|3063002||0|0|1.8|306300201|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3063003||0|0|2|306300301|306300302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3063004||0|0|0|306300401|306300402|306300403|306300404|0|0|0|0|0|0|0|0|0|0||1001|
+|3063011||0|0|0|306301101|306301102|306301103|306301104|306301105|0|0|0|0|306301102|306301102|0|0|0||1001|
+|3063012||0|0|1.8|306301201|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3063013||0|0|2|306301301|306301302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3063014||0|0|0|306301401|306301402|306301403|306301404|0|0|0|0|0|0|0|0|0|0||1001|
+|3064001||0|0|0|306400101|306400102|306400103|0|0|0|0|0|306400101|306400101|0|0|0|0|Wild Talon: UB|1001|
+|3064002||0|0|2.5|306400201|306400202|306400203|0|0|0|0|0|306400201|306400202|0|0|0|0|Wild Talon: Skill|1001|
+|3065001||0|0|0|306500101|306500102|306500103|306500104|306500105|0|0|0|306500101|306500101|0|0|0|0|Funky Orc: UB|1001|
+|3065002||0|0|3|306500201|306500202|306500203|306500204|0|0|0|0|306500201|306500201|306500203|0|0|0|Funky Orc: Skill|1001|
+|3065003||0|0|0|306500301|0|0|0|0|0|0|0|0|0|0|0|0|0|Funky Orc: Skill|1001|
+|3066001||0|0|0|306600101|306600102|306600103|306600104|306600105|0|0|0|306600101|306600101|306600101|306600101|0|0|Great Speckled Salamander: UB|1001|
+|3066002||0|0|2.5|306600201|306600202|306600203|306600204|0|0|0|0|306600201|306600201|0|0|0|0|Great Speckled Salamander: Skill|1001|
+|3067001||0|0|0|306700101|306700102|306700103|0|0|0|0|0|0|306700102|0|0|0|0|Ugly Lovely|1001|
+|3067002||0|0|6|306700201|306700202|306700203|306700204|306700205|0|0|0|0|0|306700201|0|0|0|Ugly Lovely|1001|
+|3067003||0|0|2.8|306700301|306700302|306700303|306700304|0|0|0|0|306700301|306700301|306700303|0|0|0|Ugly Lovely|1001|
+|3067004||0|0|0|306700401|306700402|306700403|306700404|0|0|0|0|0|0|0|0|0|0|Ugly Lovely|1001|
+|3067005||0|0|2.8|306700501|306700502|306700503|306700504|0|0|0|0|306700501|306700501|306700503|0|0|0|Ugly Lovely|1001|
+|3067006||0|0|1|306700601|306700602|0|0|0|0|0|0|306700601|0|0|0|0|0|Ugly Lovely|1001|
+|3067007||0|0|3|306700701|306700702|306700703|0|0|0|0|0|0|0|0|0|0|0|Ugly Lovely|1001|
+|3067008||0|0|0|306700801|306700802|306700803|306700804|0|0|0|0|0|0|0|0|0|0|Ugly Lovely|1001|
+|3067009||0|0|0.5|306700901|306700902|0|0|0|0|0|0|306700901|0|0|0|0|0|Ugly Lovely|1001|
+|3067071||0|0|0|306707101|306707102|306707103|0|0|0|0|0|0|306707102|0|0|0|0|Ugly Lovely UB|1001|
+|3067072||0|0|6|306707201|306707202|306707203|306707204|306707205|0|0|0|0|0|306707201|0|0|0|Ugly Lovely skill1|1001|
+|3067073||0|0|2.8|306707301|306707302|306707303|306707304|0|0|0|0|306707301|306707301|306707303|0|0|0|Ugly Lovely skill2|1001|
+|3067074||0|0|0|306707401|306707402|306707403|306707404|0|0|0|0|0|0|0|0|0|0|Ugly Lovely  Awakening|1001|
+|3068001||1|0|0|306800101|306800102|0|0|0|0|0|0|0|0|0|0|0|0|Goddess of Woe|1001|
+|3068002||1|0|1.8|306800201|306800202|0|0|0|0|0|0|0|0|0|0|0|0|Goddess of Woe|1001|
+|3068003||1|0|3|306800301|306800302|306800303|306800304|0|0|0|0|0|0|0|0|0|0|Goddess of Woe|1001|
+|3068004||1|0|0|306800401|306800402|306800403|306800404|0|0|0|0|0|0|0|0|0|0|Goddess of Woe|1001|
+|3068005||1|0|4.2|306800501|306800502|306800503|306800504|306800505|306800506|306800507|0|0|0|0|0|0|0|Goddess of Woe|1001|
+|3068006||1|0|0.1|306800601|306800602|306800603|0|0|0|0|0|0|0|0|0|0|0|Goddess of Woe|1001|
+|3068007||1|0|0|306800701|306800702|306800703|306800704|0|0|0|0|0|0|0|0|0|0|Goddess of Woe|1001|
+|3068008||1|0|1000|306800801|0|0|0|0|0|0|0|0|0|0|0|0|0|Goddess of Woe|1001|
+|3068071||1|0|0|306807101|306807102|0|0|0|0|0|0|0|0|0|0|0|0|Goddess of Woe UB|1001|
+|3068072||1|0|1.8|306807201|306807202|0|0|0|0|0|0|0|0|0|0|0|0|Goddess of Woe Skill 1|1001|
+|3068073||1|0|3|306807301|306807302|306807303|306807304|0|0|0|0|0|0|0|0|0|0|Goddess of Woe Skill 2|1001|
+|3068074||1|0|0|306807401|306807402|306807403|306807404|0|0|0|0|0|0|0|0|0|0|Goddess of Woe Awake|1001|
+|3069001||1|0|2|306900101|306900102|306900103|306900104|0|0|0|0|0|0|0|0|0|0|Tritem UB|1001|
+|3069002||1|0|1.7|306900201|306900202|0|0|0|0|0|0|306900201|0|0|0|0|0|Tritem Skill 1 (Used as standard attack)|1001|
+|3069003||1|0|1.7|306900301|0|0|0|0|0|0|0|0|0|0|0|0|0|Tritem Skill 2|1001|
+|3069011||1|0|2|306901101|306901102|306901103|306901104|0|0|0|0|0|0|0|0|0|0|Tritem UB|1001|
+|3069012||1|0|1.7|306901201|306901202|0|0|0|0|0|0|306901201|0|0|0|0|0|Tritem Skill 1 (Used as standard attack)|1001|
+|3069013||1|0|1.7|306901301|0|0|0|0|0|0|0|0|0|0|0|0|0|Tritem Skill 2|1001|
+|3069014||1|0|3|306901401|306901402|306901403|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3069015||1|0|3|306901501|306901502|306901503|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3069016||1|0|3|306901601|306901602|306901603|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3069017||1|0|0|306901701|306901702|0|0|0|0|0|0|0|0|0|0|0|0|Tritem damage limit|1001|
+|3070001||1|0|2|307000101|0|0|0|0|0|0|0|0|0|0|0|0|0|Gigas UB|1001|
+|3070002||1|0|2|307000201|307000202|0|0|0|0|0|0|307000201|0|0|0|0|0|Gigas Skill 1|1001|
+|3070003||1|0|2|307000301|307000302|307000303|307000304|307000305|0|0|0|0|0|0|0|0|0|Gigas Skill 2|1001|
+|3070004||1|0|2|307000401|307000402|307000403|307000404|0|0|0|0|0|0|0|0|0|0|Gigas Awakening|1001|
+|3070005||1|0|2|307000501|307000502|307000503|307000504|0|0|0|0|0|0|0|0|0|0|Gigas Awakening (SP)|1001|
+|3070006||1|0|2|307000601|0|0|0|0|0|0|0|0|0|0|0|0|0|Gigas Standard Attack|1001|
+|3070043||1|0|2|307004301|307004302|307004303|307004304|307004305|0|0|0|0|0|0|0|0|0|Gigas Skill 2 (SP2)|1001|
+|3070053||1|0|2|307005301|307005302|307005303|307005304|307005305|0|0|0|0|0|0|0|0|0|Gigas Skill 2 (SP3)|1001|
+|3070081||1|0|2|307008101|0|0|0|0|0|0|0|0|0|0|0|0|0|Gigas UB|1001|
+|3070082||1|0|2|307008201|307008202|0|0|0|0|0|0|307008201|0|0|0|0|0|Gigas Skill 1|1001|
+|3070083||1|0|2|307008301|307008302|307008303|307008304|307008305|307008306|0|0|0|0|0|0|0|0|Gigas Skill 2|1001|
+|3070084||1|0|2|307008401|307008402|307008403|307008404|0|0|0|0|0|0|0|0|0|0|Gigas Awakening|1001|
+|3070085||1|0|2|307008501|307008502|307008503|307008504|0|0|0|0|0|0|0|0|0|0|Gigas Awakening (SP)|1001|
+|3070086||1|0|2|307008601|0|0|0|0|0|0|0|0|0|0|0|0|0|Gigas Standard Attack|1001|
+|3071001||0|0|0|307100101|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3071002||0|0|0|307100201|307100202|307100203|307100204|307100205|0|0|0|307100201|307100201|307100201|307100201|0|0||1001|
+|3071003||0|0|5.8|307100301|307100302|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3071004||0|0|0|307100401|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3071011||0|0|0|307101101|307101102|307101103|307101104|307101105|307101106|0|0|307101101|0|307101103|0|307101105|0||1001|
+|3071012||0|0|1.8|307101201|307101202|307101203|307101204|307101205|0|0|0|307101201|307101201|307101201|0|0|0||1001|
+|3071013||0|0|1.8|307101301|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3071014||0|0|0|307101401|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3071015||0|0|0|307101301|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3071021||0|0|0|307102101|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3071022||0|0|23|307102201|307102202|307102203|307102204|0|0|0|0|0|0|0|0|0|0||1001|
+|3071023||0|0|10|307102301|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3071024||0|0|2|307102201|307102202|307102203|307102204|0|0|0|0|0|0|0|0|0|0||1001|
+|3072001||1|0|2|307200101|307200102|307200103|307200104|307200105|0|0|0|307200101|307200101|0|307200104|0|0||1001|
+|3072002||1|0|2|307200201|307200202|307200203|0|0|0|0|0|307200201|307200202|0|0|0|0||1001|
+|3072003||1|0|1.8|307200301|307200302|0|0|0|0|0|0|307200301|0|0|0|0|0||1001|
+|3072004||1|0|2|307200401|307200402|307200403|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3072005||1|0|2|307200501|307200502|307200503|307200504|0|0|0|0|0|0|0|0|0|0||1001|
+|3073001||0|0|0|307300101|307300102|307300103|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073002||0|0|1.8|307300201|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073003||0|0|1.8|307300301|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073004||0|0|0|307300401|307300402|307300403|307300404|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073005||0|0|0.3|307300501|307300502|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073006||0|0|0|307300601|307300602|307300603|307300604|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073007||0|0|1.8|307300701|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073008||0|0|1.8|307300801|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073071||0|0|0|307307101|307307102|307307103|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073072||0|0|1.8|307307201|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073073||0|0|1.8|307307301|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073074||0|0|0|307307401|307307402|307307403|307307404|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073075||0|0|0.3|307307501|307307502|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073076||0|0|0|307307601|307307602|307307603|307307604|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073077||0|0|1.8|307307701|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073078||0|0|1.8|307307801|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073082||0|0|1.8|307308201|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073083||0|0|1.8|307308301|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073087||0|0|1.8|307308701|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073088||0|0|1.8|307308801|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073092||0|0|1.8|307309201|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073093||0|0|1.8|307309301|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073097||0|0|1.8|307309701|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3073098||0|0|1.8|307309801|0|0|0|0|0|0|0|0|0|0|0|0|0|Evil Magistrate|1001|
+|3074001||0|0|1.8|307400101|0|0|0|0|0|0|0|0|0|0|0|0|0|Petelgeuse UB|1001|
+|3074002||0|0|1.8|307400201|307400202|307400203|0|0|0|0|0|307400201|0|0|0|0|0|Petelgeuse Skill 1 (Evil Aura)|1001|
+|3074003||0|0|1.8|307400301|0|0|0|0|0|0|0|0|0|0|0|0|0|Petelgeuse Skill 2 (Rearguard Rush)|1001|
+|3074004||0|0|1.8|307400401|307400402|307400403|0|0|0|0|0|0|0|0|0|0|0|Petelgeuse Awake|1001|
+|3074005||0|0|2.8|307400501|307400502|307400503|0|0|0|0|0|0|0|0|0|0|0|Petelgeuse Skill 4 (Countdown)|1001|
+|3074006||0|0|1.8|307400601|307400602|307400603|307400604|0|0|0|0|0|0|0|0|0|0|Petelgeuse Awake 2|1001|
+|3074007||0|0|3|307400701|307400702|307400703|307400704|307400705|0|0|0|0|0|0|0|0|0|Petelgeuse Break 1|1001|
+|3074008||0|0|3|307400801|307400802|307400803|307400804|307400805|0|0|0|0|0|0|0|0|0|Petelgeuse Break 2|1001|
+|3074009||0|0|3|307400901|307400902|307400903|307400904|307400905|0|0|0|0|0|0|0|0|0|Petelgeuse Break 3|1001|
+|3075001||0|0|1.5|307500101|0|0|0|0|0|0|0|0|0|0|0|0|0|Ziz Skill 0|1001|
+|3075002||0|0|1.5|307500201|307500202|307500203|0|0|0|0|0|307500201|307500202|0|0|0|0|Ziz Skill 1|1001|
+|3075003||0|0|1.5|307500301|307500302|0|0|0|0|0|0|307500301|0|0|0|0|0|Ziz Skill 2|1001|
+|3075004||0|0|1.5|307500401|307500402|307500403|0|0|0|0|0|307500401|0|0|0|0|0|Ziz Skill 3|1001|
+|3075041||0|0|1.5|307504101|307504102|0|0|0|0|0|0|0|0|0|0|0|0|Ziz Skill 0|1001|
+|3075042||0|0|1.5|307504201|307504202|307504203|0|0|0|0|0|307504201|307504202|0|0|0|0|Ziz Skill 1|1001|
+|3075043||0|0|1.5|307504301|307504302|307504303|0|0|0|0|0|0|307504302|0|0|0|0|Ziz Skill 2|1001|
+|3075044||0|0|1.5|307504401|307504402|307504403|307504404|0|0|0|0|307504401|0|0|0|0|0|Ziz Skill 3|1001|
+|3075051||0|0|1.5|307505101|0|0|0|0|0|0|0|0|0|0|0|0|0|Ziz Skill 0|1001|
+|3075052||0|0|1.5|307505201|307505202|307505203|0|0|0|0|0|307505201|307505202|0|0|0|0|Ziz Skill 1|1001|
+|3075053||0|0|1.5|307505301|307505302|0|0|0|0|0|0|307505301|0|0|0|0|0|Ziz Skill 2|1001|
+|3075054||0|0|1.5|307505401|307505402|307505403|0|0|0|0|0|307505401|0|0|0|0|0|Ziz Skill 3|1001|
+|3076001||1|0|0|307600101|307600103|0|0|0|0|0|0|307600101|0|0|0|0|0|Mad Clown UB|1001|
+|3076002||0|0|3|307600201|307600202|307600203|307600204|307600205|307600206|307600207|0|0|0|0|0|0|0|Mad Clown Skill 1|1001|
+|3076003||1|0|3|307600301|0|0|0|0|0|0|0|0|0|0|0|0|0|Mad Clown Skill 2|1001|
+|3076004||0|0|0|307600401|307600402|307600403|307600404|0|0|0|0|0|0|0|0|0|0|Mad Clown Awakening|1001|
+|3077001||1|0|3|307700101|0|0|0|0|0|0|0|0|0|0|0|0|0|Alma: Union Burst|1001|
+|3077002||0|0|1.5|307700201|307700202|0|0|0|0|0|0|307700201|0|0|0|0|0|Alma: Attacks enemy with hammer|1001|
+|3077003||1|0|1.5|307700301|307700302|307700303|0|0|0|0|0|307700301|307700301|0|0|0|0|Alma: Fires a sub-unit to attack enemy|1001|
+|3077004||0|0|1.5|307700401|307700402|307700403|307700404|0|0|0|0|307700401|307700401|307700401|0|0|0|Alma: Awakening|1001|
+|3077041||1|0|3|307704101|0|0|0|0|0|0|0|0|0|0|0|0|0|Alma: Union Burst|1001|
+|3077042||0|0|1.5|307704201|307704202|307704203|0|0|0|0|0|0|0|0|0|0|0|Alma: Attacks enemy with hammer|1001|
+|3077043||1|0|1.5|307704301|307704302|307704303|0|0|0|0|0|307704301|0|0|0|0|0|Alma: Fires a sub-unit to attack enemy|1001|
+|3077044||0|0|1.5|307704401|307704402|307704403|307704404|0|0|0|0|307704401|307704401|307704401|0|0|0|Alma: Awakening|1001|
+|3078001||0|0|0|307800101|307800102|307800103|307800104|0|0|0|0|307800101|0|307800103|0|0|0|Great Rain God UB|1001|
+|3078002||0|0|1.2|307800201|307800202|307800203|0|0|0|0|0|307800201|307800201|0|0|0|0|Great Rain God Skill 1|1001|
+|3078003||0|0|1.2|307800301|307800302|307800303|307800304|0|0|0|0|307800301|0|307800301|0|0|0|Great Rain God Skill 2|1001|
+|3078004||0|0|0|307800401|307800402|307800403|307800404|0|0|0|0|0|0|0|0|0|0|Great Rain God Awakening|1001|
+|3078005||0|0|1.2|307800501|307800502|0|0|0|0|0|0|0|0|0|0|0|0|Great Rain God Skill 3|1001|
+|3078006||0|0|1.2|307800601|0|0|0|0|0|0|0|0|0|0|0|0|0|Great Rain God Skill 4|1001|
+|3079001||1|0|0|307900101|0|0|0|0|0|0|0|0|0|0|0|0|0|Garoog UB|1001|
+|3079002||1|0|1.5|307900201|307900202|0|0|0|0|0|0|307900201|0|0|0|0|0|Garoog Skill 1|1001|
+|3079003||1|0|1.5|307900301|0|0|0|0|0|0|0|0|0|0|0|0|0|Garoog Skill 2|1001|
+|3079004||1|0|0|307900401|307900402|307900403|0|0|0|0|0|307900401|307900401|0|0|0|0|Garoog Awake|1001|
+|3080001||0|0|1.8|308000101|308000102|308000103|0|0|0|0|0|0|0|0|0|0|0|Majimun UB|1001|
+|3080002||0|0|1.8|308000201|308000202|308000203|308000204|308000205|308000206|0|0|0|0|308000201|0|0|0|Majimun Skill 1 (Flame Field)|1001|
+|3080003||0|0|8|308000301|308000302|308000303|308000304|0|0|0|0|0|0|0|0|0|0|Majimun Skill 2 (Summon Mini-Majimun)|1001|
+|3080004||0|0|1.8|308000401|308000402|308000403|0|0|0|0|0|0|0|0|0|0|0|Majimun Awake|1001|
+|3080005||0|0|2.8|308000501|308000502|308000503|308000504|0|0|0|0|0|0|0|0|0|0|Majimun Skill 4 (CR Down Field)|1001|
+|3080006||0|0|1.8|308000601|308000602|308000603|0|0|0|0|0|0|0|0|0|0|0|Majimun Attack Replacement (for applying Soul Suck)|1001|
+|3080007||0|0|0|308000701|308000702|0|0|0|0|0|0|0|0|0|0|0|0|Majimun Hit by Critical|1001|
+|3080008||0|0|0|308000801|308000802|308000803|308000804|0|0|0|0|0|0|0|0|0|0|Majimun Skill 7 (Summon Mini-Majimun)|1001|
+|3080009||0|0|0|308000901|308000902|0|0|0|0|0|0|0|0|0|0|0|0|Majimun Hit by Critical (for Mode 1)|1001|
+|3080010||0|0|1.8|308001001|308001002|308001003|0|0|0|0|0|0|0|0|0|0|0|Majimun Immediate Awake (for Mode 3)|1001|
+|3080011||0|0|0|308001101|308001102|308001103|308001104|0|0|0|0|0|0|0|0|0|0|Majimun Skill 7 (Summon Mini-Majimun)|1001|
+|3081001||1|0|0|308100101|0|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Union Burst|1001|
+|3081002||2|0|1.5|308100201|308100202|308100203|308100204|0|0|0|0|308100201|308100201|308100201|0|0|0|Tentapus Ink Bomb|1001|
+|3081003||1|0|1.5|308100301|308100302|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Eel 1|1001|
+|3081004||1|0|0|308100401|308100402|308100403|308100404|0|0|0|0|0|0|0|0|0|0|Tentapus Awakening|1001|
+|3081005||1|0|1.5|308100501|0|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Standard Attack|1001|
+|3081006||1|0|1.5|308100601|308100602|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Eel 2|1001|
+|3081007||1|0|1.5|308100701|308100702|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Eel 3|1001|
+|3081008||1|0|1.5|308100801|308100802|0|0|0|0|0|0|0|0|0|0|0|0|Tentapus Eel 4|1001|
+|3082001||1|0|0|308200101|308200102|308200103|308200104|308200105|0|0|0|308200101|308200101|0|0|0|0|Mandragora UB|1001|
+|3082002||2|0|1.5|308200201|308200202|308200203|308200204|308200205|308200206|308200207|0|308200201|0|308200203|0|308200205|0|Mandragora Skill 1|1001|
+|3082003||1|0|1.5|308200301|308200302|0|0|0|0|0|0|0|0|0|0|0|0|Mandragora Skill 2|1001|
+|3082004||1|0|0|308200401|308200402|0|0|0|0|0|0|0|0|0|0|0|0|Mandragora Awakening|1001|
+|3082005||1|0|0|308200501|308200502|308200503|308200504|308200505|0|0|0|0|0|0|0|0|0|Mandragora Mode 2|1001|
+|3082006||1|0|0|308200601|0|0|0|0|0|0|0|0|0|0|0|0|0|Standard attack replacement|1001|
+|3082007||1|0|0|308200701|308200702|0|0|0|0|0|0|308200701|0|0|0|0|0|Standard attack replacement (for SP1)|1001|
+|3082008||1|0|0|308200801|308200802|0|0|0|0|0|0|0|0|0|0|0|0|Mandragora Awakening (for SP3)|1001|
+|3083001||1|0|0|308300101|0|0|0|0|0|0|0|0|0|0|0|0|0|Island Whale Union Burst|1001|
+|3083002||2|0|1.5|308300201|308300202|308300203|0|0|0|0|0|0|0|0|0|0|0|Island Whale Skill 1|1001|
+|3083003||1|0|6|308300301|308300302|308300303|0|0|0|0|0|308300301|308300301|0|0|0|0|Island Whale Skill 2|1001|
+|3083004||1|0|0|308300401|308300402|308300403|308300404|0|0|0|0|0|0|0|0|0|0|Island Whale Awakening|1001|
+|3084001||1|0|0|308400101|308400102|0|0|0|0|0|0|308400101|0|0|0|0|0|Phantom Baron UB (Magic percentage damage + magic defense debuff)|1001|
+|3084002||0|0|1.2|308400201|308400202|308400203|0|0|0|0|0|308400201|308400202|0|0|0|0|Phantom Baron Skill 1 (Physical damage to rearmost 2 characters + pull to front line: variant of knockback)|1001|
+|3084003||1|0|1.2|308400301|308400302|308400303|0|0|0|0|0|0|0|0|0|0|0|Phantom Baron Skill 2 (Small magic damage to all enemies → additional large magic damage to are in front → reset position of character pulled forward with knockback)|1001|
+|3084004||1|0|0|308400401|308400402|308400403|308400404|0|0|0|0|0|0|0|0|0|0|Phantom Baron Awakening (Magic attack buff + Haste)|1001|
+|3084005||1|0|1.2|308400501|308400502|308400503|308400504|308400505|0|0|0|0|0|0|0|0|0|Phantom Baron Skill 3 (Damage to area in front → reduces TP of damaged characters → recovers boss HP)|1001|
+|3084006||1|0|0|308400601|308400602|308400603|308400604|0|0|0|0|0|0|0|0|0|0|Phantom Baron SP Battle Awakening (Magic attack buff + Haste)|1001|
+|3085001||1|0|0|308500101|308500102|0|0|0|0|0|0|308500101|0|0|0|0|0|Coral Qilin Union Burst|1001|
+|3085002||1|0|0|308500201|308500202|308500203|308500204|0|0|0|0|0|0|0|0|0|0|Coral Qilin Skill 1|1001|
+|3085003||1|0|0|308500301|308500302|308500303|308500304|308500305|0|0|0|0|0|0|0|0|0|Coral Qilin Skill 2|1001|
+|3085004||0|0|0|308500401|308500402|308500403|308500404|0|0|0|0|0|0|0|0|0|0|Coral Qilin Awakening|1001|
+|3086001||0|0|0|308600101|308600102|308600103|0|0|0|0|0|0|0|0|0|0|0|Pseudo-Dragon UB|1001|
+|3086002||0|0|0|308600201|308600202|308600203|308600204|308600205|0|0|0|0|0|0|0|0|0|Pseudo-Dragon Skill 1|1001|
+|3086003||0|0|0|308600301|308600302|0|0|0|0|0|0|308600301|0|0|0|0|0|Pseudo-Dragon Skill 2|1001|
+|3086004||0|0|0|308600401|308600402|308600403|308600404|0|0|0|0|0|0|0|0|0|0|Pseudo-Dragon Awake|1001|
+|3086005||0|0|0|308600501|308600502|308600503|308600504|308600505|0|0|0|0|0|0|0|0|0|Pseudo-Dragon Skill 4 (Summon)|1001|
+|3086006||0|0|0|308600601|308600602|0|0|0|0|0|0|0|0|0|0|0|0|Pseudo-Dragon Skill 4 (Immediate 99 Marks)|1001|
+|3086007||0|0|0|308600701|308600702|308600703|308600704|308600705|0|0|0|0|0|0|0|0|0||1001|
+|3086008||0|0|0|308600801|308600802|308600803|308600804|308600805|0|0|0|0|0|0|0|0|0||1001|
+|3086061||0|0|0|308606101|308606102|308606103|308606104|0|0|0|0|0|0|0|0|0|0|Pseudo-Dragon UB (Mode 3)|1001|
+|3086062||0|0|0|308606201|308606202|308606203|308606204|308606205|0|0|0|0|0|0|0|0|0|Pseudo-Dragon Skill 1|1001|
+|3086063||0|0|0|308600301|308600302|0|0|0|0|0|0|308600301|0|0|0|0|0|Pseudo-Dragon Skill 2|1001|
+|3086064||0|0|0|308600401|308600402|308600403|0|0|0|0|0|0|0|0|0|0|0|Pseudo-Dragon Awake|1001|
+|3086065||0|0|0|308606501|308606502|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3090001||0|0|0|309000101|309000102|0|0|0|0|0|0|0|0|0|0|0|0|Land Sloth: Union Burst|1001|
+|3090002||0|0|1.5|309000201|0|0|0|0|0|0|0|0|0|0|0|0|0|Land Sloth: Skill|1001|
+|3091001||0|0|0|309100101|309100102|309100103|0|0|0|0|0|309100101|309100101|0|0|0|0|Croco Warrior: Union Burst|1001|
+|3091002||0|0|1.5|309100201|309100202|309100203|0|0|0|0|0|309100201|309100202|0|0|0|0|Croco Warrior: Skill|1001|
+|3091003||0|0|1.5|309100301|309100302|0|0|0|0|0|0|0|0|0|0|0|0|Croco Warrior: Standard Attack|1001|
+|3092001||1|0|1.5|309200101|309200102|309200103|0|0|0|0|0|309200101|309200102|0|0|0|0|Sky Valkyrie Skill 1|1001|
+|3092002||1|0|1.5|309200201|309200202|0|0|0|0|0|0|0|0|0|0|0|0|Sky Valkyrie Skill 2|1001|
+|3092011||1|0|1.5|309201101|309201102|309201103|0|0|0|0|0|309201101|309201102|0|0|0|0|Sky Valkyrie Skill 1|1001|
+|3092012||1|0|1.5|309201201|309201202|0|0|0|0|0|0|0|0|0|0|0|0|Sky Valkyrie Skill 2|1001|
+|3093001||0|0|0|309300101|309300102|309300103|309300104|309300105|309300106|309300107|0|0|309300106|309300103|309300103|0|0|Reindeer Vendetta UB|1001|
+|3093002||0|0|1.5|309300201|309300202|309300203|0|0|0|0|0|309300201|0|0|0|0|0|Reindeer Vendetta Skill1|1001|
+|3093003||0|0|1.5|309300301|309300302|309300303|309300304|309300305|309300306|0|0|309300301|0|309300303|0|309300305|0|Reindeer Vendetta Skill2|1001|
+|3093004||0|0|0|309300401|309300402|0|0|0|0|0|0|0|0|0|0|0|0|Reindeer Vendetta Awake|1001|
+|3093005||0|0|1.5|309300501|309300502|309300503|0|0|0|0|0|309300501|309300501|0|0|0|0|Reindeer Vendetta Skill4|1001|
+|3094001||0|0|1.5|309400101|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3094002||0|0|1.5|309400201|309400202|0|0|0|0|0|0|309400201|0|0|0|0|0||1001|
+|3094003||0|0|1.5|309400301|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3094004||0|0|1.5|309400401|309400402|0|0|0|0|0|0|309400401|0|0|0|0|0||1001|
+|3095001||0|0|1.5|309500101|309500102|309500103|0|0|0|0|0|309500101|309500101|0|0|0|0||1001|
+|3095002||0|0|1.5|309500201|309500202|309500203|309500204|0|0|0|0|309500201|309500201|309500201|0|0|0||1001|
+|3095003||0|0|1.5|309500301|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3095004||0|0|1.5|309500401|309500402|0|0|0|0|0|0|309500401|0|0|0|0|0||1001|
+|3096001||0|0|1.5|309600101|309600102|309600103|0|0|0|0|0|309600101|309600101|0|0|0|0||1001|
+|3096002||0|0|1.5|309600201|309600202|0|0|0|0|0|0|309600201|0|0|0|0|0||1001|
+|3096003||0|0|1.5|309600301|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3096004||0|0|1.5|309600401|309600402|309600403|0|0|0|0|0|309600401|309600401|0|0|0|0||1001|
+|3096005||0|0|0|309600501|309600502|309600503|0|0|0|0|0|309600501|309600501|0|0|0|0||1001|
+|3096006||0|0|0|309600601|309600602|0|0|0|0|0|0|309600601|0|0|0|0|0||1001|
+|3096007||0|0|0|309600701|309600702|309600703|0|0|0|0|0|309600701|309600701|0|0|0|0||1001|
+|3097001||0|0|1.5|309700101|309700102|0|0|0|0|0|0|309700101|0|0|0|0|0||1001|
+|3097002||0|0|1.5|309700201|309700202|309700203|309700204|0|0|0|0|309700201|309700201|309700201|0|0|0||1001|
+|3097003||0|0|1.5|309700301|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3097004||0|0|1.5|309700401|309700402|309700403|0|0|0|0|0|309700401|309700401|0|0|0|0||1001|
+|3098001||1|0|1.5|309800101|0|0|0|0|0|0|0|0|0|0|0|0|0|skill1|1001|
+|3098002||1|0|1.5|309800201|309800202|309800203|309800204|0|0|0|0|0|309800202|309800203|0|0|0|skill2|1001|
+|3098003||1|0|1.5|309800301|309800302|0|0|0|0|0|0|0|0|0|0|0|0|skill1|1001|
+|3098004||1|0|1.5|309800401|309800402|309800403|309800404|309800405|0|0|0|0|0|309800403|309800404|0|0|skill2|1001|
+|3098005||1|0|1.5|309800501|309800502|309800503|309800504|0|0|0|0|0|0|0|0|0|0|skill2|1001|
+|3098006||1|0|1.5|309800601|0|0|0|0|0|0|0|0|0|0|0|0|0|skill2|1001|
+|3099001||1|0|1.5|309900101|309900102|309900103|0|0|0|0|0|0|0|0|0|0|0|Goblin Meister skill0|1001|
+|3099002||1|0|1.5|309900201|309900202|309900203|309900204|0|0|0|0|0|0|0|0|0|0|Goblin Meister skill2|1001|
+|3099003||0|0|1.5|309900301|309900302|309900303|309900304|0|0|0|0|309900301|309900302|309900303|0|0|0|Goblin Meister skill1|1001|
+|3099004||1|0|1.5|309900401|309900402|309900403|309900404|0|0|0|0|309900401|0|0|0|0|0|Goblin Meister skill3|1001|
+|3100001||1|0|0|310000101|310000102|310000103|310000104|310000105|310000106|310000107|0|0|0|0|0|0|0|Mountain God UB|1001|
+|3100002||0|0|1.2|310000201|310000202|0|0|0|0|0|0|310000201|0|0|0|0|0|Mountain God Skill1|1001|
+|3100003||1|0|1.2|310000301|310000302|0|0|0|0|0|0|0|0|0|0|0|0|Mountain God Skill2|1001|
+|3100004||1|0|0|310000401|310000402|310000403|310000404|0|0|0|0|0|0|0|0|0|0|Mountain God Awakening|1001|
+|3100005||1|0|1.2|310000501|310000502|310000503|310000504|0|0|0|0|310000501|0|0|0|0|0|Mountain God Skill3|1001|
+|3100006||1|0|0|310000601|310000602|0|0|0|0|0|0|310000601|0|0|0|0|0|Mountain God SP Battle Awakening|1001|
+|3101001||0|0|0|310100101|310100102|310100103|0|0|0|0|0|310100101|310100102|0|0|0|0|Wrath Dragon UB [Physical] Percentage damage to all|1001|
+|3101002||0|0|3|310100201|310100202|310100203|0|0|0|0|0|310100201|310100202|0|0|0|0|Wrath Dragon Skill 1 [Magic] Damage to all + [Dependent Apply] Burn|1001|
+|3101003||0|0|1.5|310100301|310100302|310100303|0|0|0|0|0|310100301|0|0|0|0|0|Wrath Dragon Skill 2 [Physical] Damage to all + [Dependent Apply] Knockback + [Apply] Enemy buff cancel|1001|
+|3101004||0|0|2|310100401|310100403|0|0|0|0|0|0|0|0|0|0|0|0|Wrath Dragon Skill 3 [Check] Break + [Apply] Self TP reduction|1001|
+|3101005||0|0|2|310100501|310100502|0|0|0|0|0|0|310100501|0|0|0|0|0|Wrath Dragon Skill 4 [Physical] Damage to all|1001|
+|3101006||0|0|0|310100601|310100602|0|0|0|0|0|0|0|0|0|0|0|0|Wrath Dragon Skill 5 [Check] Remaining time + [Apply] Break Gauge invulnerable + [Shift] Action pattern|1001|
+|3101007||0|0|0|310100701|310100702|310100703|310100706|0|0|0|0|0|0|0|0|0|0|Wrath Dragon Skill 6 Awake [Check] Remaining HP + [Apply] Self attack speed, attack, magic attack up + Break ineffective|1001|
+|3101008||0|0|3|310100801|310100802|310100803|0|0|0|0|0|0|0|0|0|0|0|Wrath Dragon Break 1|1001|
+|3101009||0|0|3|310100901|310100902|310100903|0|0|0|0|0|0|0|0|0|0|0|Wrath Dragon Break 2|1001|
+|3101010||0|0|3|310101001|310101002|310101003|0|0|0|0|0|0|0|0|0|0|0|Wrath Dragon Break 3|1001|
+|3102001||0|0|0|310200101|310200102|310200103|0|0|0|0|0|310200101|310200101|0|0|0|0|Sharkhead Ray: Union Burst|1001|
+|3102002||0|0|1.5|310200201|310200202|310200203|0|0|0|0|0|310200201|310200201|0|0|0|0|Sharkhead Ray: Skill|1001|
+|3102003||0|0|1.5|310200301|0|0|0|0|0|0|0|0|0|0|0|0|0|Sharkhead Ray: Standard Attack|1001|
+|3103001||0|0|0|310300101|310300102|310300103|310300104|310300105|310300106|0|0|0|0|0|0|0|0|Antibeast [Physical] Percentage damage to all + random effect|1001|
+|3103002||0|0|3|310300201|0|0|0|0|0|0|0|0|0|0|0|0|0|Antibeast [Apply] Dodge rate up (massive) to self|1001|
+|3103003||0|0|180|310300301|0|0|0|0|0|0|0|0|0|0|0|0|0|Antibeast [Apply] Stance to self (no action)|1001|
+|3103004||0|0|2|310300401|310300402|310300403|0|0|0|0|0|310300401|310300402|0|0|0|0|Antibeast [Physical] Moderate range physical damage + knockback around enemy in front|1001|
+|3103005||0|0|2|310300501|0|0|0|0|0|0|0|0|0|0|0|0|0|Antibeast [Physical] Moderate range physical damage around enemy in front|1001|
+|3103006||0|0|2|310300601|310300602|0|0|0|0|0|0|0|0|0|0|0|0|Antibeast [Apply] Attack speed up to self|1001|
+|3103041||0|0|0|310304101|310304102|310304103|310304104|310304105|310304106|0|0|0|0|0|0|0|0|Antibeast [Physical] Percentage damage to all + random effect|1001|
+|3103061||0|0|0|310306101|310306102|310306103|310306104|310306105|310306106|0|0|0|0|0|0|0|0|Antibeast [Physical] Percentage damage to all + random effect|1001|
+|3104001||0|0|0|310400101|310400102|0|0|0|0|0|0|310400101|0|0|0|0|0|Chameleops: Union Burst|1001|
+|3104002||0|0|2|310400201|310400202|310400203|310400204|310400205|0|0|0|0|0|0|0|0|0|Chameleops: Transform|1001|
+|3104003||0|0|1.5|310400301|0|0|0|0|0|0|0|0|0|0|0|0|0|Chameleops: Standard attack|1001|
+|3104004||0|0|1.5|310400401|0|0|0|0|0|0|0|0|0|0|0|0|0|Chameleops: Standard attack|1001|
+|3105001||0|0|2|310500101|310500102|310500103|310500104|0|0|0|0|310500101|0|0|0|0|0|Mega Lapahn UB|1001|
+|3105002||0|0|2|310500201|310500202|310500203|0|0|0|0|0|310500201|310500202|0|0|0|0|Mega Lapahn Skill 1|1001|
+|3105003||0|0|2|310500301|310500302|0|0|0|0|0|0|310500301|0|0|0|0|0|Mega Lapahn Skill 2|1001|
+|3105004||0|0|2|310500401|310500402|310500403|0|0|0|0|0|0|0|0|0|0|0|Mega Lapahn Awake|1001|
+|3106001||0|0|1.5|310600101|310600102|310600103|0|0|0|0|0|310600101|310600101|310600101|0|0|0|Ueki-chan UB|1001|
+|3106002||0|0|1.5|310600201|310600202|0|0|0|0|0|0|310600201|0|0|0|0|0|Ueki-chan Skill 1 (Lash)|1001|
+|3106003||0|0|1.5|310600301|0|0|0|0|0|0|0|0|0|0|0|0|0|Ueki-chan Skill 2 (Kyukon-chan Summon)|1001|
+|3106004||0|0|1.5|310600401|310600402|310600403|0|0|0|0|0|0|0|0|0|0|0|Ueki-chan Awake|1001|
+|3106005||0|0|1.5|310600501|310600502|0|0|0|0|0|0|0|0|0|0|0|0|Ueki-chan Skill 4 (Tear Field)|1001|
+|3106006||0|0|3|310600601|310600602|310600603|0|0|0|0|0|0|0|0|0|0|0|Ueki-chan Break 1|1001|
+|3106007||0|0|3|310600701|310600702|310600703|0|0|0|0|0|0|0|0|0|0|0|Ueki-chan Break 2|1001|
+|3106008||0|0|3|310600801|310600802|310600803|0|0|0|0|0|0|0|0|0|0|0|Ueki-chan Break 3|1001|
+|3106009||0|0|1.5|310600901|310600902|0|0|0|0|0|0|0|0|0|0|0|0|Ueki-chan Skill 2 (Kyukon-chan Summon VH)|1001|
+|3106010||0|0|1.5|310601001|0|0|0|0|0|0|0|0|0|0|0|0|0|Ueki-chan Skill 2 (Kyukon-chan Summon MODE 1)|1001|
+|3106011||0|0|1.5|310601101|0|0|0|0|0|0|0|0|0|0|0|0|0|Ueki-chan Skill 2 (Kyukon-chan Summon MODE 2)|1001|
+|3106012||0|0|1.5|310601201|0|0|0|0|0|0|0|0|0|0|0|0|0|Ueki-chan Skill 2 (Kyukon-chan Summon MODE 3)|1001|
+|3107001||0|0|0|310700101|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3107002||0|0|1.5|310700201|310700202|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3107003||0|0|1.5|310700301|310700302|310700303|310700304|0|0|0|0|310700301|310700302|310700302|0|0|0||1001|
+|3107004||0|0|0|310700401|310700402|310700403|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3107005||0|0|1.5|310700501|310700502|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3107006||0|0|3.3|310700601|310700602|310700603|0|0|0|0|0|310700601|310700601|0|0|0|0||1001|
+|3107007||0|0|0|310700701|310700702|310700703|310700704|0|0|0|0|0|0|0|0|0|0||1001|
+|3108001||0|0|2|310800101|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108002||0|0|2|310800201|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108003||0|0|2|310800301|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108004||0|0|2|310800401|310800402|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108005||0|0|2|310800501|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108006||0|0|0|310800601|310800602|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108007||0|0|0|310800701|310800702|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108008||0|0|0|310800801|310800802|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108017||0|0|0|310801701|310801702|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108027||0|0|0|310802701|310802702|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108037||0|0|0|310803701|310803702|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108051||0|0|2|310805101|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108052||0|0|2|310805201|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108053||0|0|2|310805301|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108054||0|0|2|310805401|310805402|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108055||0|0|2|310805501|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108056||0|0|0|310805601|310805602|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108057||0|0|0|310805701|310805702|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108061||0|0|2|310806101|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108062||0|0|2|310806201|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108063||0|0|2|310806301|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108064||0|0|2|310806401|310806402|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108065||0|0|2|310806501|0|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108066||0|0|0|310806601|310806602|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3108067||0|0|0|310806701|310806702|0|0|0|0|0|0|0|0|0|0|0|0||1001|
+|3109001||0|0|8|310900101|0|0|0|0|0|0|0|0|0|0|0|0|0|Flying Saucer UB|1001|
+|3109002||0|0|0|310900201|0|0|0|0|0|0|0|0|0|0|0|0|0|Flying Saucer Skill 2|1001|
+|3109003||0|0|8|310900301|0|0|0|0|0|0|0|0|0|0|0|0|0|Flying Saucer Skill 3|1001|
+|3110001||0|0|3|311000101|0|0|0|0|0|0|0|0|0|0|0|0|0|Treant Castle: Union Burst|1001|
+|3110002||0|0|1.5|311000201|311000203|311000204|0|0|0|0|0|311000201|311000201|0|0|0|0|Treant Castle: Skill 1|1001|
+|3110003||0|0|1.5|311000301|311000302|311000303|311000304|0|0|0|0|311000301|311000301|0|0|0|0|Treant Castle: Skill 2|1001|
+|3110004||0|0|1.5|311000401|311000402|311000403|311000404|0|0|0|0|311000401|311000401|311000401|0|0|0|Treant Castle: Awakening|1001|
+|3112001||0|0|3|311200101|311200102|0|0|0|0|0|0|0|0|0|0|0|0|Rafflesia: UB (Damage to area in front)|1001|
+|3112002||0|0|3|311200201|311200202|0|0|0|0|0|0|0|0|0|0|0|0|Rafflesia: Skill 1 (Damage & debuff to an enemy in front)|1001|
+|3112003||0|0|3|311200301|311200302|0|0|0|0|0|0|311200301|0|0|0|0|0|Rafflesia: Skill 2 (Self buff)|1001|
+|3112004||0|0|3|311200401|311200402|0|0|0|0|0|0|311200401|0|0|0|0|0|Rafflesia: Skill 2 (Self buff)|1001|
+|3901002||0|0|3|390100201|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3901003||0|0|3|390100301|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3901004||0|0|3|390100401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3901005||0|0|3|390100501|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|3901006||0|0|90|0|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|4008012||0|0|3|400801201|0|0|0|0|0|0|0|0|0|0|0|0|0|Lobs a boulder to deal damage to a nearby enemy.|1001|
+|4008101||0|0|3|400810101|400810102|400810103|0|0|0|0|0|0|0|0|0|0|0|Lobs a boulder to deal damage to a nearby enemy.|1001|
+|4012012||0|0|3|401201201|401201202|0|0|0|0|0|0|401201201|0|0|0|0|0|Lobs a boulder to deal damage to a nearby enemy.|1001|
+|4025012|Avalanche|0|0|3|402501201|402501202|0|0|0|0|0|0|402501201|0|0|0|0|0|Lobs a boulder to deal damage to a nearby enemy.|1001|
+|4042032|Energy Heal|0|0|3|404203201|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers TP of an ally.|1001|
+|4042042|Cure|0|0|3|404204201|0|0|0|0|0|0|0|0|0|0|0|0|0|Recovers HP of an ally.|1001|
+|4084022|Heal|0|0|3|408402201|0|0|0|0|0|0|0|0|0|0|0|0|0|Restores the HP of a party member.|1001|
+|4084032|Energy Heal|0|0|3|408403201|0|0|0|0|0|0|0|0|0|0|0|0|0|Restores the HP of a party member.|1001|
+|9000002||0|0|3|900000201|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9000004||0|0|3|900000401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9000005||0|0|3|900000501|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9000006||0|0|3|900000601|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9000007||0|0|90|900000701|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9000008||0|0|3|900000801|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9001001||0|0|3|900100101|900100102|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9001002||0|0|3|900100201|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9001003||0|0|3|900100301|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9001004||0|0|3|900100401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9001005||0|0|3|900100501|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9001006||0|0|3|900100601|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9001007||0|0|90|0|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9002001||0|0|3|900200101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9002002||0|0|3|900200201|900200202|0|0|0|0|0|0|900200201|0|0|0|0|0|sample|1001|
+|9002003||0|0|3|900200301|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9002004||0|0|3|900200401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9002005||0|0|3|900200501|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9002006||0|0|90|0|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9003001||0|0|3|900300101|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9003002||0|0|3|900300201|900300202|0|0|0|0|0|0|900300201|0|0|0|0|0|sample|1001|
+|9003003||0|0|3|900300301|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9003004||0|0|3|900300401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9003005||0|0|90|0|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9004004||0|0|90|900400401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9004005||0|0|90|900400501|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9004006||0|0|90|900400601|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9004007||0|0|90|900400701|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9010004||0|0|0|901000401|0|0|0|0|0|0|0|0|0|0|0|0|0|Restores the TP of the closest party member by a small amount.|1006|
+|9012003||0|0|3|901200301|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9012004||0|0|3|901200401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9012005||0|0|90|901200501|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9017004||0|0|0|901700401|0|0|0|0|0|0|0|0|0|0|0|0|0|Restores the TP of the closest party member by a small amount.|1006|
+|9028001|Phoenix Sword|1|0|0|902800101|902800102|0|0|0|0|0|0|0|0|0|0|0|0|Inflicts a large amount of physical damage to all enemies neighboring the vanguard. The lower Saren's HP, the greater the damage dealt.|1001|
+|9028002|Noble Guard|1|0|1.25|902800201|0|0|0|0|0|0|0|0|0|0|0|0|0|Increases the magical defense of all party members by a small amount.|1003|
+|9028003|Elegant Ovation|0|0|1.25|902800301|0|0|0|0|0|0|0|0|0|0|0|0|0|Restores the TP of the closest party member by a small amount.|1006|
+|9036004||0|0|90|903600401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9036005||0|0|90|903600501|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9038004||0|0|90|903800401|0|0|0|0|0|0|0|0|0|0|0|0|0|sample|1001|
+|9044004||0|0|0|904400401|0|0|0|0|0|0|0|0|0|0|0|0|0|Restores the TP of the closest party member by a small amount.|1006|
+|9075004||0|0|0|907500401|0|0|0|0|0|0|0|0|0|0|0|0|0|Restores the TP of the closest party member by a small amount.|1006|
+|9077004||0|0|0|907700401|0|0|0|0|0|0|0|0|0|0|0|0|0|Restores the TP of the closest party member by a small amount.|1006|
+|9078002||0|0|0|907800201|0|0|0|0|0|0|0|0|0|0|0|0|0|Restores the TP of the closest party member by a small amount.|1006|

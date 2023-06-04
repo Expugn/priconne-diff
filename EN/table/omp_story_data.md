@@ -1,0 +1,17 @@
+|omp_story_id|event_id|condition_quest_id|condition_boss_id|story_seq|is_readable_on_result|reward_type|reward_id|reward_count|sub_title|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|7001|10035|10035103|0|1|0|0|0|0|Uzuki and Rin's Memory|
+|7002|10035|10035107|0|2|0|0|0|0|New Generations Memory|
+|7003|10035|10035107|0|4|0|0|0|0|Uzuki and Mio's Memory|
+|7004|10035|10035111|0|6|0|0|0|0|Gourmet Guild Memory|
+|7005|10035|10035111|0|7|0|0|0|0|Rin and Mio's Memory|
+|7006|10035|10035111|0|8|0|0|0|0|New Generations Memory|
+|7007|10035|10035115|0|9|0|0|0|0|New Generations & Gourmet Guild Memory|
+|7008|10035|10035115|0|10|0|0|0|0|Gourmet Guild Memory|
+|7009|10036|10036111|0|14|0|0|0|0|New Generations & Gourmet Guild Memory|
+|7102|10035|10035107|0|3|0|0|0|0|New Generations Memory|
+|7103|10035|10035107|0|5|0|0|0|0|Gourmet Guild Memory|
+|7104|10035|10035115|0|11|0|0|0|0|New Generations & Gourmet Guild Memory|
+|7105|10036|10036111|0|12|0|0|0|0|New Generations & Gourmet Guild Memory|
+|7106|10036|10036111|0|13|0|0|0|0|New Generations & Gourmet Guild Memory|
+|7201|10035|10035103|0|15|1|7|2405|1||

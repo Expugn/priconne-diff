@@ -1,0 +1,290 @@
+|equipment_id|equipment_name|description|promotion_level|hp|atk|magic_str|def|magic_def|physical_critical|magic_critical|wave_hp_recovery|wave_energy_recovery|dodge|physical_penetrate|magic_penetrate|life_steal|hp_recovery_rate|energy_recovery_rate|energy_reduce_rate|accuracy|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|101011|Iron Blade|Sword|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101071|Killer Pen|Dagger|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101101|Wooden Knuckles|Knuckles|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101131|Hunter's Bow|Bow|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101161|Steel Spear|Spear|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101191|Hand Axe|Axe|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101251|Fragrant Wood Staff|Restoration Staff|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101281|Leather Overalls|Light Armor|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101371|Traveler's Robe|Wizard's Robes|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101401|Wooden Shield|Shield|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101431|Leather Boots|Shoes|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101521|Fashionable Beret|Wizard's Hat|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101551|Motivational Bracelet|Attack Accessories|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101581|Charm Pendant|Defense Accessory|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|101611|Warcry Bracelet|Magic Accessory|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102011|Gear Blade|Sword|2|30|13|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102013|Blue Blood|Sword|2|60|27|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102014|Aurora Sword|Sword|2|0|27|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|102041|Crescent Sword|Katana|2|35|30|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102071|Commando Knife|Dagger|2|0|13|0|0|0|0|0|0|5|0|0|0|0|0|0|0|0|
+|102101|Leather Knuckles|Knuckles|2|0|27|0|0|0|0|0|0|10|0|0|0|0|0|0|0|0|
+|102131|Crystal Bow|Bow|2|0|27|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|102162|Trident|Spear|2|0|12|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102163|Flame Spear|Spear|2|0|20|0|3|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102191|Metal Axe|Axe|2|0|16|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102192|Full Metal Axe|Axe|2|0|34|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102221|Green Rod|Attack Staff|2|0|0|16|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102222|Little Dragon Rod|Attack Staff|2|0|0|34|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102251|Staff of Vitality|Restoration Staff|2|0|0|13|0|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|102252|Unicorn's Grace|Restoration Staff|2|0|0|27|0|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|102281|Sage's Vestment|Light Armor|2|90|5|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102282|Light Plate Armor|Light Armor|2|150|7|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|102311|Scalemail|Heavy Armor|2|95|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102312|Full Plate Armor|Heavy Armor|2|180|0|0|2|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|102341|Folkloric Garment|Clothing|2|90|6|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102342|Ninja Outfit|Clothing|2|120|7|0|1|1|0|0|110|0|0|0|0|0|0|0|0|0|
+|102371|Springtime Robe|Wizard's Robes|2|65|0|4|0|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|102372|Nordic Robe|Wizard's Robes|2|120|0|7|1|2|0|0|0|0|0|0|0|0|0|0|0|0|
+|102401|Tower Shield|Shield|2|135|7|0|3|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102431|Clown Boots|Shoes|2|30|2|0|1|0|0|0|0|0|1|0|0|0|0|0|0|0|
+|102432|Hunting Boots|Shoes|2|60|3|0|2|1|0|0|0|0|2|0|0|0|0|0|0|0|
+|102461|Witch's Boots|Wizard's Shoes|2|30|0|8|0|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|102491|Cute Cap|Helmet|2|90|3|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|102493|Legionnaire Helm|Helmet|2|90|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|102521|Priestess Hood|Wizard's Hat|2|0|0|7|1|3|0|0|0|0|0|0|0|0|10|0|0|0|
+|102551|Jewel of Courage|Attack Accessories|2|0|11|0|0|0|0|0|30|5|0|0|0|0|0|0|0|0|
+|102552|Spiked Bangle|Attack Accessories|2|0|20|0|1|0|0|0|0|10|0|0|0|0|5|0|0|0|
+|102581|Benevolent Jewel|Defense Accessory|2|55|0|0|1|1|0|0|25|0|0|0|0|0|0|0|0|0|
+|102582|Victory Friendship Bracelet|Defense Accessory|2|120|0|0|2|2|0|0|0|0|0|0|0|0|0|0|0|0|
+|102611|Magic Glasses|Magic Accessory|2|0|0|11|0|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|102612|Orb of Wisdom|Magic Accessory|2|0|0|10|0|0|0|0|25|5|0|0|0|0|0|0|0|0|
+|102613|Magic Monocle|Magic Accessory|2|0|0|24|0|2|0|0|0|0|0|0|0|0|0|0|0|0|
+|102614|Patterned Bracelet|Magic Accessory|2|0|0|20|0|1|0|0|0|10|0|0|0|0|0|0|0|0|
+|103011|Sparkling Sword|Sword|3|30|13.4|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103012|Dragon Crest Sword|Sword|3|38.4|17.7|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103013|Feather Blade|Sword|3|45|20.4|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103041|Moonlight Sword|Katana|3|21.7|19.4|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103042|Thunder Katana|Katana|3|25|22.7|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103071|Platinum Knife|Dagger|3|0|13.4|0|0|0|0|0|0|5|0|0|0|0|0|0|0|0|
+|103072|Vampire's Dagger|Dagger|3|0|20.4|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|
+|103101|Dragon's Claw|Knuckles|3|0|17.7|0|0|0|0|0|0|5|0|0|0|0|0|0|0|0|
+|103131|Cupid's Bow|Bow|3|0|17.7|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|103132|Devil's Bow|Bow|3|0|20.4|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|103161|A Knight's Pride|Spear|3|0|11.7|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103162|Super Spear|Spear|3|0|15.4|0|1.7|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103191|Blue Sphere Axe|Axe|3|0|16.7|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103192|Graceful Flower Battleaxe|Axe|3|0|22|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103193|Lightning Bolt Axe|Axe|3|0|25.7|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103221|Thornblood Rod|Attack Staff|3|0|0|16.7|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103222|Devil's Horn|Attack Staff|3|0|0|25.7|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103251|Protector of the Heavens|Restoration Staff|3|0|0|13.4|0|0.7|0|0|0|0|0|0|0|0|0|0|0|0|
+|103252|Flower Bud Staff|Restoration Staff|3|0|0|17.7|0|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|103281|Fashionable Armor|Light Armor|3|81.7|3.7|0|0.4|0.4|0|0|0|0|0|0|0|0|0|0|0|0|
+|103282|Battle Dress|Light Armor|3|108.4|5|0|0.7|0.7|0|0|0|0|0|0|0|0|0|0|0|0|
+|103283|Heavy Metal Armor|Light Armor|3|126.7|5.7|0|0.7|0.7|0|0|0|0|0|0|0|0|0|0|0|0|
+|103311|Gorgeous Armor|Heavy Armor|3|81.7|0|0|1|0.7|0|0|0|0|0|0|0|0|0|0|0|0|
+|103341|Leather Robe|Clothing|3|60|3.4|0|0.4|0.4|0|0|53.4|0|0|0|0|0|0|0|0|0|
+|103342|Palace Uniform|Clothing|3|78.4|4.4|0|0.7|0.4|0|0|70|0|0|0|0|0|0|0|0|0|
+|103343|Cosmic Veil|Clothing|3|68.4|5|0|0.7|0.7|0|0|123.4|0|0|0|0|0|0|0|0|0|
+|103371|Cupid's Robe|Wizard's Robes|3|78.4|0|4.4|0.7|1.4|0|0|0|0|0|0|0|0|0|0|0|0|
+|103372|Philosopher's Robe|Wizard's Robes|3|81.7|0|4.7|0.7|1.4|0|0|0|0|0|0|0|0|1.7|0|0|0|
+|103401|Garnet Shield|Shield|3|96.7|2.7|0|2|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103431|Ninja Shoes|Shoes|3|30|1.7|0|0.7|0.4|0|0|0|0|1|0|0|0|0|0|0|0|
+|103432|Fencing Boots|Shoes|3|38.4|8.7|0|0|0|0|0|0|0|1.4|0|0|0|0|0|0|0|
+|103461|Witch's Palace Boots|Wizard's Shoes|3|38.4|0|6.7|1|1.4|0|0|0|0|0|0|0|0|0|0|0|0|
+|103491|Dragon's Head|Helmet|3|78.4|0|0|1.7|1.4|0|0|0|0|0|0|0|0|0|0|0|0|
+|103521|Witch's Headband|Wizard's Hat|3|30|0|6.7|0|1.4|0|0|0|0|0|0|0|0|0|0|0|0|
+|103522|Witch's Hat|Wizard's Hat|3|38.4|0|8.7|0|2|0|0|0|0|0|0|0|0|0|0|0|0|
+|103551|Opal Earrings|Attack Accessories|3|0|11|0|1|0|0|0|30|0|0|0|0|0|0|0|0|0|
+|103552|Gryphon Feather Headdress|Attack Accessories|3|0|14.7|0|0.7|0|0|0|78.4|0|0|0|0|0|0|0|0|0|
+|103553|Scarlet Diamonds|Attack Accessories|3|23.4|18|0|1.4|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|103581|Emerald Earrings|Defense Accessory|3|60|0|0|1|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|103582|Octagram Pendant|Defense Accessory|3|0|8.7|0|1.7|1.4|0|0|0|0|0|0|0|0|0|0|0|0|
+|103583|Lion King's Grace|Defense Accessory|3|90|0|0|1.7|1.7|0|0|0|0|0|0|0|0|0|0|0|0|
+|103611|Turquoise Earrings|Magic Accessory|3|0|0|10|0|0|0|0|0|8.4|0|0|0|0|0|0|0|0|
+|103612|Pearl Earrings|Magic Accessory|3|0|0|3.4|0|1.7|0|0|0|0|0|0|0|0|5|0|0|0|
+|103613|Sorcerer Glasses|Magic Accessory|3|0|0|13|0|0|0|0|0|11.7|0|0|0|0|0|0|0|0|
+|103614|Laurel's Sorrow|Magic Accessory|3|0|0|15.4|0|1|0|0|0|0|0|0|0|0|5|0|0|0|
+|104011|Angelic Blade|Sword|4|33|14.6|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|104012|Sun Blade|Sword|4|14|16|0|0|0|0|0|0|3|0|0|0|0|0|0|0|0|
+|104013|Frozen Claymore|Sword|4|0|17|0|0|0|2|0|0|0|0|0|0|0|0|1|0|0|
+|104014|Chaos Blade|Sword|4|28|19|0|0|0|0|0|0|0|0|0|0|0.4|0|0|0|0|
+|104041|Beautiful Butterfly Katana|Katana|4|16|14.6|0|0|0|0|0|0|0|0|0|0|0.4|0|0|0|0|
+|104042|Iridescent Blade|Katana|4|0|16.8|0|0|0|0|0|0|0|0|0|0|0|0|2|0|0|
+|104043|Falcon Sword|Katana|4|0|21|0|0|0|3|0|0|0|0|0|0|0|0|0|0|0|
+|104044|Sunbird Katana|Katana|4|0|22|0|0|0|2|0|20|0|0|0|0|0|0|0|0|0|
+|104071|Precious Knife|Dagger|4|0|14.6|0|0|0|0|0|0|5|0|0|0|0|0|0|0|0|
+|104072|Princess Blade|Dagger|4|10|15|0|0|0|0|0|60|0|0|0|0|0|0|0|0|0|
+|104073|Dark Matter Blade|Dagger|4|0|16|0|0|1|0|0|30|0|0|0|0|0|0|0|0|0|
+|104074|Unicorn Knife|Dagger|4|20|16.8|0|0|0|0|0|30|0|0|0|0|0|0|0|0|1|
+|104101|Blazing Gauntlet|Knuckles|4|0|14.6|0|0|0|0|0|0|5|0|0|0|0|0|0|0|0|
+|104102|Lionheart's Gauntlet|Knuckles|4|0|16.2|0|0|0|2|0|0|0|0|0|0|0|0|2.4|0|0|
+|104103|Blizzard Claw|Knuckles|4|0|18|0|0|0|2|0|0|0|0|0|0|0|0|0|1|0|
+|104104|Azure Thunder|Knuckles|4|0|20|0|0|0.8|2|0|0|0|0|0|0|0|0|0|0|0|
+|104131|Lightning Bow|Bow|4|0|14.6|0|0|0.8|0|0|0|0|0|0|0|0|0|0|0|0|
+|104132|Angel Bow|Bow|4|0|13|0|0|0.8|0|0|24|0|0|0|0|0|0|1|0|0|
+|104133|Artemis Bow|Bow|4|0|15|0|0|1.2|3|0|0|0|0|0|0|0|0|0|0|0|
+|104134|Feywood Bow|Bow|4|0|16|0|0|0.8|0|0|12|0|0|0|0|0|0|0|0|1|
+|104161|Scarlet Dragon Lance|Spear|4|0|12.8|0|1.2|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|104162|Queen Bee Spear|Spear|4|0|13.6|0|1|0.4|0|0|0|0|0|0|0|0|0|0|0|0|
+|104163|Stormbringer|Spear|4|0|17|0|0.6|0.4|1|0|0|0|0|0|0|0|0|0|0|0|
+|104164|Gaia Bardiche|Spear|4|0|16|0|0.6|0.4|0|0|0|0|0|0|0|0|0|0.6|0|0|
+|104191|Purple Dragon Axe|Axe|4|0|18.2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|104192|Hellfire Axe|Axe|4|0|19.4|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|104193|Warrior Queen's Battle Axe|Axe|4|0|22.8|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|104194|Aqua Slasher|Axe|4|0|24|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|
+|104221|Fury Rod|Attack Staff|4|0|0|18.2|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|104222|Sun Rod|Attack Staff|4|0|0|18.4|0|0|0|0|0|0|0|0|0|0.2|0|0|0|0|
+|104223|Staff of Themis|Attack Staff|4|0|0|20.8|0|0|0|1|0|0|0|0|0|0|0|0|0|0|
+|104224|Archdemon's Wand|Attack Staff|4|0|0|21.6|0|0|0|1|20|0|0|0|0|0.2|0|0|0|0|
+|104251|Moon Flower Cane|Restoration Staff|4|0|0|14.6|0|0.8|0|0|0|0|0|0|0|0|0|0|0|0|
+|104252|Life Rod|Restoration Staff|4|0|0|13.4|0|0.8|0|0|0|0|0|0|0|0|3|0|0|0|
+|104253|Phoenix Staff|Restoration Staff|4|0|0|15.4|0|0.8|0|0|0|0|0|0|0|0|0|0|1|0|
+|104254|Archangel Rod|Restoration Staff|4|0|0|17.2|0|0.8|0|0|20|0|0|0|0|0|1|0|0|0|
+|104281|Invisible Dress|Light Armor|4|90|4|0|0.4|0.4|0|0|0|0|0|0|0|0|0|0|0|0|
+|104282|Mythril Plate|Light Armor|4|50|5|0|0.6|0.4|0|0|0|5|0|0|0|0|0|0|0|0|
+|104283|Crusader Plate|Light Armor|4|30|7|0|1|0.8|2|0|0|0|0|0|0|0|0|0|0|0|
+|104284|Scarlet Mail|Light Armor|4|32|8.8|0|0.8|0.6|2|0|0|0|0|0|0|0|0|0|0|0|
+|104311|Angelic Armor|Heavy Armor|4|90|0|0|1|0.8|0|0|0|0|0|0|0|0|0|0|0|0|
+|104312|Vermillion Mail|Heavy Armor|4|60|0|0|0.8|0.8|0|0|80|0|0|0|0|0|0|0|0|0|
+|104313|Violet Armor|Heavy Armor|4|60|0|0|0.8|2|0|0|0|0|0|0|0|0|0|0|0|0|
+|104314|Draconic Armor|Heavy Armor|4|20|0|0|1.4|2|0|0|0|0|0|0|0|0.2|0|0|0|0|
+|104341|Moonlit Robe|Clothing|4|72|2|0|0.4|0.4|0|0|65|0|0|0|0|0|0|0|0|0|
+|104342|Hermit's Robe|Clothing|4|36|7|0|1|0.6|0|0|0|0|0.2|0|0|0|0|0|0|0|
+|104343|Azure Robe|Clothing|4|40|9|0|0.6|0.4|2|0|0|0|0|0|0|0|0|0|0|0|
+|104344|Dark Terror Dress|Clothing|4|40|6|0|1.4|0|0|0|50|0|0|0|0|0|0|0|0|0|
+|104371|Grand Wizard's Robe|Wizard's Robes|4|33|0|7.4|0.4|0.8|0|0|0|0|0|0|0|0|0|1|0|0|
+|104372|Saint's Robe|Wizard's Robes|4|48|0|7.4|0.4|0.8|0|0|0|0|0|0|0|0|1|0|0|0|
+|104373|Viridian Robe|Wizard's Robes|4|40|0|5|0.8|1.2|0|0|0|0|0|0|0|0|0.6|0|0|0|
+|104401|Empress Shield|Shield|4|33|3.6|0|0.8|0.8|0|0|0|0|0|0|0|0.8|0|0|0|0|
+|104402|Guardian Shield|Shield|4|0|10|0|0.8|0.8|0|0|0|0|0|0|0|0.6|0|0|0|0|
+|104431|Paladin Greaves|Shoes|4|33|1.8|0|0.8|0.4|0|0|0|0|1.2|0|0|0|0|0|0|0|
+|104432|Angel Boots|Shoes|4|44|0|0|0.6|0.6|0|0|0|0|1|0|0|0|3|0|0|0|
+|104433|Faerie Boots|Shoes|4|0|7.6|0|0|0.6|0|0|0|0|1|0|0|0|2|0|0|0|
+|104461|Wizard's Boots|Wizard's Shoes|4|33|0|5.4|0.8|1.2|0|0|0|0|0|0|0|0|0|0|0|0|
+|104462|Necromancer Boots|Wizard's Shoes|4|20|0|3|0.2|2.4|0|0|40|0|0|0|0|0|0|0|0|0|
+|104463|Aquarius Boots|Wizard's Shoes|4|8|0|10|0|1|0|1.4|0|0|0|0|0|0|0|0|0.4|0|
+|104491|Feather Waltz|Helmet|4|98|3.6|0|0.8|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|104521|Wizard's Hood|Wizard's Hat|4|33|0|7.4|0|1.6|0|0|0|0|0|0|0|0|0|0|0|0|
+|104522|Holy Hood|Wizard's Hat|4|18|0|9|0|0.8|0|1|0|4|0|0|0|0|0|0|0|0|
+|104523|Gospel Tiara|Wizard's Hat|4|20|0|9|0.6|1|0|1|0|0|0|0|0|0|0|0|0|0|
+|104551|Elemental Heart|Attack Accessories|4|0|13.2|0|0.4|0|2|0|0|0|0|0|0|0|0|1|0|0|
+|104552|Sun Amulet|Attack Accessories|4|0|14|0|0|0.4|2|0|0|0|0|0|0|0|2|0|0|0|
+|104553|Sovereign Flame|Attack Accessories|4|40|14.8|0|0|0|2.4|0|0|0|0|0|0|0|0|0|0|0|
+|104554|Feline Pendant|Accuracy Accessory|4|0|10.8|0|0|0|1.6|0|0|0|0.4|0|0|0|0|0|0|2|
+|104581|Sacrificial Bangles|Defense Accessory|4|48|0|2|1|1.2|0|0|40|0|0|0|0|0|0|0|0|0|
+|104582|Lunar Bracelet|Defense Accessory|4|60|0|0|1.8|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|104583|Disciple's Pendant|Defense Accessory|4|40|0|0|1.2|1.2|0|0|0|0|0|0|0|0|2|0|0|0|
+|104611|Selene's Lament|Magic Accessory|4|20|0|12|0|0|0|1.2|0|5|0|0|0|0|0|0|0|0|
+|104612|Dragon's Tears|Magic Accessory|4|24|0|14|0|0|0|1.6|24|0|0|0|0|0|0|0|0|0|
+|104613|Archsage's Orb|Magic Accessory|4|0|0|16|0|0|0|2|0|3.2|0|0|0|0|0|0|0|0|
+|105011|Lightning Blade|Sword|5|24|21|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0.6|
+|105012|Sword of Liberation|Sword|5|24|23|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0.6|
+|105013|Arbiter's Greatsword|Sword|5|28|24|0|0|0|0|0|0|1.6|0|0|0|0|0|0|0|0|
+|105014|Wharfblade Aqua Ruler|Sword|5|32|26.4|0|0|0|0.8|0|0|0|0|0|0|0|0|0|0|0|
+|105015|Supreme Lightwyrm's Sword|Sword|5|12|29|0|0|0|2|0|0|0|0|0|0|0|0|0|0|0|
+|105016|Core Erzschneid|Sword|5|16|30.6|0|0|0|2.8|0|0|0|0|0|0|0|0|0|0|0|
+|105017|Rabbit Broadblade|Sword|5|12|33.4|0|0|0|3.2|0|0|0|0|0|0|0|0|0|0|0|
+|105041|Whiteblossom Blade|Katana|5|0|23.6|0|0|0|2.4|0|0|0|0|0|0|0|0|0|0|0.6|
+|105042|Forsaken Blue|Katana|5|0|24|0|0|0|2.4|0|0|0|0|0|0|0|1.2|0|0|0|
+|105043|Demon Blade Bloodcrow|Katana|5|0|25|0|0|0|2.8|0|0|0|0|0|0|0.4|0|0|0|0|
+|105044|Firebrand Ignis|Katana|5|16|26.8|0|0|0|3.2|0|0|0|0|0|0|0|0|0|0|0|
+|105045|Fujin's Emerald Longsword|Katana|5|20|24|0|0.8|0|2|0|0|0|0|0|0|0|0|0|0|0|
+|105046|Branched Summoner|Katana|5|0|30|0|0|0|5|0|0|0|0|0|0|0|0|0|0|0.4|
+|105047|Koi Scalesword|Katana|5|0|34.4|0|0|0|4|0|0|0|0|0|0|0|0|0|0|0|
+|105071|Emerald Dagger|Dagger|5|24|20|0|0|0|4|0|30|0|0|0|0|0|0|0|0|0|
+|105072|Molten Edge|Dagger|5|8|23|0|0|0|4|0|0|0|0|0|0|0|0|0.4|0|0|
+|105073|Tirnanog Dagger|Dagger|5|12|24|0|0|0|3.2|0|24|0|0|0|0|0|0|0|0|0|
+|105074|Gemini Blitzprongs|Dagger|5|22|24.8|0|0|0|4|0|0|1.2|0|0|0|0|0|0|0|0|
+|105075|Twilight Obsius|Dagger|5|0|29.2|0|0|0|4|0|0|0|0|0|0|0|0|0|0|0|
+|105076|Gehenna Dragoon|Dagger|5|0|32.2|0|0|0|2.8|0|0|0|0|0|0|0|0|0|0|0|
+|105077|Ravenedge Tengu|Dagger|5|0|30.6|0|0|0|6|0|0|0|0|0|0|0|0|0|0|0.8|
+|105101|Moon Caestus|Fist|5|0|24|0|0|0|1.2|0|0|0|0|0|0|0|0|0|0|0.6|
+|105102|Crimson Claws|Fist|5|0|26|0|0|0|3.2|0|0|0|0|0|0|0|0|0|0|0|
+|105103|Cocytus Nails|Fist|5|0|24|0|0.6|0|2.8|0|0|0|0|0|0|0|0|0|0|0|
+|105104|Stormlord Tempest Gear|Fist|5|0|24.8|0|0.8|0|3.2|0|0|0|0|0|0|0|0|0|0|0|
+|105105|Tenebrous Blood Howl|Fist|5|0|22.2|0|0|1.2|6|0|0|0|0|0|0|0|0|0|0|0|
+|105106|Core Erzbrecher|Fist|5|0|30.8|0|0|0|6|0|0|0|0|0|0|0|0|0|0|0|
+|105107|Hornoceros Fist|Fist|5|0|26.6|0|0.8|0.6|5.6|0|0|0|0|0|0|0|0|0|0|0|
+|105131|Platinum Wingspan|Bow|5|0|20|0|0|0.8|0.8|0|0|0|0|0|0|0|0|0.4|0|0|
+|105132|Abyss Bow|Bow|5|0|22|0|0|0.6|1.4|0|0|0|0|0|0|0.4|0|0|0|0|
+|105133|Sunset Bow|Bow|5|0|25.2|0|0|0|3|0|0|0|0|0|0|0|0|0|0|0.6|
+|105134|Greatbow Deusfall|Bow|5|0|26.4|0|0.4|0.4|0|0|0|0|0|0|0|0|0|0|0|0|
+|105135|Frost Tear|Bow|5|0|27.4|0|0.6|0.2|0|0|0|0|0|0|0|0|0|0|0|0|
+|105136|Core Erzbogen|Bow|5|0|27.8|0|0.8|0.4|0|0|0|0|0|0|0|0|0|0|0|0|
+|105137|Peregrine Arch|Bow|5|0|32|0|0|0.4|4.4|0|0|0|0|0|0|0|0|0|0|0|
+|105161|Deepfrost Lance|Spear|5|0|19.6|0|0.8|0.4|2|0|0|0|0|0|0|0|0|0|0|0|
+|105162|Gale Stinger|Spear|5|0|18.4|0|0.8|0.6|0|0|0|0|0.4|0|0|0|0|0|0|0|
+|105163|Guardian's Pike|Spear|5|0|20.4|0|0.8|0.8|0|0|0|0|0|0|0|0|0|0|0|0|
+|105164|Hades Lance Doompain|Spear|5|0|22.6|0|0.6|0.6|0|0|0|0|0|0|0|0.4|0|0|0|0|
+|105165|Prominence Spear|Spear|5|0|28.2|0|0|0.6|0|0|0|0|0|0|0|0|0|0|0|0|
+|105166|Core Erzbolga|Spear|5|30|25.4|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|105167|Antlerpike Venado|Bow|5|50|27.8|0|0.6|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|105191|Reaper Axe|Axe|5|0|24|0|0|0|0|0|0|0|0|0|0|0.4|0|0|0|0.2|
+|105192|Judgment Axe|Axe|5|0|24|0|0|0|2|0|0|0|0|0|0|0|0|0.6|0|0|
+|105193|Gaia Axe|Axe|5|12|26|0|0|0|2.4|0|0|0|0|0|0|0|0|0|0|0|
+|105194|Earth-Quaker Terrabreak|Axe|5|0|28|0|0|0|2.4|0|20|0|0|0|0|0|0|0|0|0|
+|105195|Mechanical Core Breaker|Axe|5|0|30.2|0|0|0.2|0|0|0|0|0|0|0|0|0|0|0|0|
+|105196|Turquoise Tide|Axe|5|0|34|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|
+|105197|Flarebear's Claws|Axe|5|40|30|0|0|0|4|0|0|0|0|0|0|0|0|0|0|0|
+|105221|Xenosphere Rod|Attack Staff|5|0|0|20|0|0|0|2|0|0|0|0|0|0|0|0|0.6|0|
+|105222|Genesis Staff|Attack Staff|5|0|0|22|0|0|0|2.4|0|4|0|0|0|0|0|0|0|0|
+|105223|Ceraunos Wand|Attack Staff|5|0|0|23.6|0|0|0|2.8|0|0|0|0|0|0|0|0.4|0|0|
+|105224|Nidhogg's Darklight|Attack Staff|5|0|0|25.6|0|0|0|3.2|0|2|0|0|0|0|0|0|0|0|
+|105225|Lunar Abyss|Attack Staff|5|0|0|29.2|0|0|0|2|0|0|0|0|0|0|0|0|0|0|
+|105226|Graceful Butterfly Staff|Attack Staff|5|0|0|30.8|0|0|0|0|0|4|0|0|0|0|0|0|0|0|
+|105227|Blacksnake Pyrostave|Attack Staff|5|0|0|34.4|0|0|0|2.4|0|0|0|0|0|0|0|0|0|0|
+|105251|Pyramour Rod|Restoration Staff|5|0|0|19|0|0.8|0|0|24|0|0|0|0|0|1.2|0|0|0|
+|105252|Purebloom Rod|Restoration Staff|5|0|0|18.4|0.4|0.6|0|0|0|2|0|0|0|0|0|0|0.4|0|
+|105253|Atlantis Rod|Restoration Staff|5|0|0|20|0.6|0.8|0|0|24|0|0|0|0|0|0|0|0|0|
+|105254|Sky Scepter Stellasphere|Restoration Staff|5|12|0|22|0.6|0.8|0|0|0|0|0|0|0|0|0|0|0|0|
+|105255|Yggdrasil's Bough|Restoration Staff|5|0|0|25.4|0.4|0.4|0|0|0|0|0|0|0|0|1|0|0|0|
+|105256|Rebirth Torch Phoenicis|Restoration Staff|5|0|0|30.4|0.2|0.4|0|0|0|0|0|0|0|0|0.2|0|0|0|
+|105257|Whitesnake Aquastave|Restoration Staff|5|0|0|27.2|0.8|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|105281|Phantasm Mail|Light Armor|5|20|6.4|0|1.2|0.8|0|0|0|0|0|0|0|0|0|0.6|0|0|
+|105282|Heavenly Raiment|Light Armor|5|16|8.4|0|1.2|1.2|0|0|0|0|0|0|0|0|0|0|0|0|
+|105283|Ragequeen Dress|Light Armor|5|16|8.8|0|1.4|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|105284|Dancer's Majesty|Light Armor|5|0|9.6|0|1.2|1.2|0|0|0|2.4|0|0|0|0|0|0|0|0|
+|105285|Noble Soul Rose|Light Armor|5|0|14|0|1.6|0.4|1.8|0|0|0|0|0|0|0|0|0|0|0|
+|105286|Southerly Omnipotence|Light Armor|5|0|16.2|0|1.2|0.8|0|0|0|0|0|0|0|0|0|0|0|0|
+|105311|Azure Splendor|Heavy Armor|5|24|0|0|2|1.8|0|0|0|0|0|0|0|0|0|0|0|0|
+|105312|Petalfall Regalia|Heavy Armor|5|0|0|0|2.2|2|0|0|20|0|0|0|0|0|0|0|0|0|
+|105313|Royal Goldplate|Heavy Armor|5|10|0|0|2.4|1.6|0|0|0|0|0|0|0|0|0|0|0.2|0|
+|105314|Whirlwind Sagemail|Heavy Armor|5|14|0|0|2.4|2|0|0|0|0|0|0|0|0|0|0|0|0|
+|105315|Argent Mirror Armor|Heavy Armor|5|20|0|0|1.8|2.6|0|0|10|0|0|0|0|0|0|0|0|0|
+|105316|Northerly Omniscience|Heavy Armor|5|15|0|0|3.2|1.8|0|0|0|0|0|0|0|0|0|0|0|0|
+|105341|Aegis Coat|Clothing|5|20|6.8|0|0.8|0.4|0|0|0|0|0|0|0|0|0|0|0|2|
+|105342|Maiden Livery|Clothing|5|32|0|0|1.2|2|0|0|0|0|0.4|0|0|0|0|0|0|0|
+|105343|Fiendflame Gear|Clothing|5|0|13|0|1|0.8|2|0|0|0|0|0|0|0|0|0|0|0|
+|105344|Stygian Shadowgarb|Clothing|5|0|13.2|0|1|0.8|2.4|0|0|0|0|0|0|0|0|0|0|0|
+|105345|Azul Rondó|Clothing|5|0|13.6|0|1.2|0.4|0|0|0|0|0|0|0|0|0|0|0|1|
+|105346|Easterly Benevolence|Clothing|5|0|12.4|0|1.4|1|0|0|30|0|0|0|0|0|0|0|0|0|
+|105371|Priestess Garb|Wizard's Robes|5|24|0|4|1|1.4|0|0|0|0|0|0|0|0|0|0.6|0|0|
+|105372|Empress Robe|Wizard's Robes|5|0|0|8.6|1|1.4|0|1.6|0|0|0|0|0|0|0|0|0|0|
+|105373|Exomagia Robe|Wizard's Robes|5|0|0|9.6|0.8|1.4|0|2|0|0|0|0|0|0|0|0|0|0|
+|105374|Glacier Mantle|Wizard's Robes|5|16|0|8.6|1.2|1.4|0|0|0|0|0|0|0|0|0|0|0|0|
+|105375|Celestial Hallowed Robe|Wizard's Robes|5|0|0|9.2|1|1.6|0|2.6|0|0|0|0|0|0|0|0|0|0|
+|105376|Westerly Omnipresence|Wizard's Robes|5|0|0|10.4|0.8|1.8|0|3|0|0|0|0|0|0|0|0|0|0|
+|105401|Diviner's Shield|Shield|5|0|10.8|0|1|0.6|0|0|0|0|0.4|0|0|0|0|0|0|0|
+|105402|Argent Mirror Shield|Shield|5|16|0|0|1.8|2.8|0|0|0|0|0|0|0|0|0|0|0|0|
+|105431|Infernal Greaves|Shoes|5|12|6|0|1.6|1.2|2|0|0|0|0|0|0|0|0|0|0|0|
+|105432|Hermes Goldfeet|Shoes|5|0|14|0|0.8|0.6|0|0|0|0|0.4|0|0|0|0|0|0|0|
+|105433|Winged Warding Boots|Shoes|5|20|0|0|1.2|3.6|0|0|0|0|0|0|0|0|0|0|0|0|
+|105462|Bloodruby Heels|Wizard's Shoes|5|12|0|4.8|1.2|1.8|0|0|0|0|0|0|0|0|0.8|0|0|0|
+|105463|Argent Mirror Greaves|Wizard's Shoes|5|14|0|5.2|1.4|2.2|0|0|0|0|0|0|0|0|0|0|0|0|
+|105491|Royal Guard Hat|Hat|5|0|12|0|1|0.8|0|0|0|0|0|0|0|0|0|0|0|0.6|
+|105521|Crown of Anguish|Wizard's Hat|5|20|0|9.6|0.6|1|0|1.6|0|0|0|0|0|0|0|0|0|0|
+|105522|Miter of Virtue|Wizard's Hat|5|0|0|4.4|1.2|2|0|0|0|2.4|0|0|0|0|0|0|0|0|
+|105523|Prosperity Veil|Wizard's Hat|5|0|0|4.6|1.6|1.8|0|0|0|0|0|0|0|0|0|0.4|0|0|
+|105524|Winged Wisdom Helm|Wizard's Hat|5|0|0|7.2|1.4|2|0|0|0|3|0|0|0|0|0|0|0|0|
+|105551|Millennium Earrings|Attack Accessories|5|14|12.8|0|0|0|2|0|0|0|0|0|0|0|0|0|0|2|
+|105552|Wyrmswrath Pendant|Attack Accessories|5|0|16.8|0|0|0|2.6|0|0|5|0|0|0|0|0|0|0|0|
+|105553|War God's Vigor|Attack Accessories|5|0|20.4|0|0|0|4.8|0|0|0|0|0|0|0|0|0|0|0|
+|105554|Peony Flamepin|Attack Accessories|5|0|20.8|0|0|0|5.6|0|0|0|0|0|0|0|0|0|0|0|
+|105555|Scarletwyrm's Flame Ring|Attack Accessories|5|0|19.6|0|0|0|5.8|0|0|0|0|0|0|0|0|0|0|0.6|
+|105556|Ruby Rose Choker|Attack Accessories|5|10|21|0|0|0|5.8|0|0|0|0|0|0|0|0|0|0|0|
+|105581|Spirit King's Talisman|Defense Accessory|5|40|0|0|2|1.2|0|0|20|0|0|0|0|0|0|0|0|0|
+|105582|Mermaid Tears|Defense Accessory|5|12|0|0|2.4|1.6|0|0|0|0|0|0|0|0|0.4|0|0|0|
+|105583|Warden King's Armlet|Defense Accessory|5|0|0|0|2|2|0|0|0|0|0|0|0|0|0|0|0.4|0|
+|105584|Leviathan Clasp|Defense Accessory|5|0|0|0|2|2.4|0|0|20|0|0|0|0|0|0|0|0|0|
+|105585|Ancile Ring|Defense Accessory|5|10|0|0|2.8|1.8|0|0|0|0|0|0|0|0|0|0|0|0|
+|105586|Elfin Choker|Defense Accessory|5|12|0|0|1.8|2.2|0|0|0|0|0.6|0|0|0|0|0|0|0|
+|105611|Poseidon Earrings|Magic Accessory|5|0|0|15.6|0|0|0|1.6|0|0|0|0|0|0|0|0|0.6|0|
+|105612|Sacred Steed's Grace|Magic Accessory|5|28|0|16.8|0|0|0|2|0|0|0|0|0|0|0|0|0|0|
+|105613|Sophos Bracelet|Magic Accessory|5|0|0|18.4|0|0|0|2.8|24|0|0|0|0|0|0|0|0|0|
+|105614|Icetear Ribbon|Magic Accessory|5|6|0|19.6|0|0|0|3.2|0|0|0|0|0|0|0|0|0|0|
+|105615|Xenocrystal|Magic Accessory|5|0|0|20.2|0|0|0|4|0|0|0|0|0|0|0|0|0|0|
+|105616|Chaotic Choker|Magic Accessory|5|0|0|20.6|0|0|0|3|0|2|0|0|0|0|0|0|0|0|

@@ -1,0 +1,13 @@
+{
+    "dear_setting": [
+        {"event_id":10017,"system_name":"Intimacy","tutorial_quest_id":10017102,"tutorial_chara_index":1,"tutorial_story_id":6017101},
+        {"event_id":10019,"system_name":"Intimacy","tutorial_quest_id":10019102,"tutorial_chara_index":1,"tutorial_story_id":6019101},
+        {"event_id":10023,"system_name":"Intimacy","tutorial_quest_id":10023103,"tutorial_chara_index":1,"tutorial_story_id":6023101},
+        {"event_id":10025,"system_name":"Intimacy","tutorial_quest_id":10025102,"tutorial_chara_index":1,"tutorial_story_id":6025101},
+        {"event_id":10027,"system_name":"Intimacy","tutorial_quest_id":10027103,"tutorial_chara_index":1,"tutorial_story_id":6027101},
+        {"event_id":10029,"system_name":"Intimacy","tutorial_quest_id":10029103,"tutorial_chara_index":1,"tutorial_story_id":6029201},
+        {"event_id":10033,"system_name":"Intimacy","tutorial_quest_id":10033103,"tutorial_chara_index":1,"tutorial_story_id":6033201},
+        {"event_id":10038,"system_name":"Intimacy","tutorial_quest_id":10038103,"tutorial_chara_index":1,"tutorial_story_id":6038101},
+        {"event_id":10040,"system_name":"Intimacy","tutorial_quest_id":10040103,"tutorial_chara_index":1,"tutorial_story_id":6040101}
+    ]
+}

@@ -1,0 +1,13 @@
+|comment_id|where_type|character_id|face_type|character_name|description|voice_id|start_time|end_time|pos_x|pos_y|change_face_time|change_face_type|event_id|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|24015|24|110501|4|Kaori (Summer)|Aww, what a shame. I wonder if\nthe Majimun's got my soul now?|1|2022/07/04 23:00:00|2030/12/17 22:59:59|0|0|0|4|10021|
+|24016|24|110501|4|Kaori (Summer)|My dancing's all off beat today!\nI gotta eat some goya veggies\nand get back in high spirits!|2|2022/07/04 23:00:00|2030/12/17 22:59:59|0|0|4|1|10021|
+|24017|24|110501|4|Kaori (Summer)|There's Majimuns all over\nthe place! My head's getting\nall spinny!|3|2022/07/04 23:00:00|2030/12/17 22:59:59|0|0|0|4|10021|
+|24018|24|110501|1|Kaori (Summer)|There's always next time,\nso don't sweat it! Let's go\nfor a nice, refreshing swim!|4|2022/07/04 23:00:00|2030/12/17 22:59:59|0|0|5.2|2|10021|
+|24019|24|110501|5|Kaori (Summer)|That sure was embarrassing.\nHuh? Who said anything about\nmy swimsuit?|5|2022/07/04 23:00:00|2030/12/17 22:59:59|0|0|4.2|6|10021|
+|24020|24|110501|2|Kaori (Summer)|Doing great! Let's bring back\npeace to the ocean! A super fun\nsummer's waiting for us!|6|2022/07/04 23:00:00|2030/12/17 22:59:59|0|0|0|2|10021|
+|24021|24|110501|1|Kaori (Summer)|You can keep coming at me, but\nmy anima's going nowhere!\nAchoo! Oh no! I might have lost it!|7|2022/07/04 23:00:00|2030/12/17 22:59:59|0|0|6.4|6|10021|
+|24022|24|110501|2|Kaori (Summer)|Hiyasasa! ♪ Nothing like a\ngood dance after fighting to\nget all refreshed!|8|2022/07/04 23:00:00|2030/12/17 22:59:59|0|0|0|2|10021|
+|24023|24|110501|6|Kaori (Summer)|Huh? My swimsuit disappeared in\nthe middle of that fight. Do you\nknow where it is? Hey, don't leave!|9|2022/07/04 23:00:00|2030/12/17 22:59:59|0|0|10.08|3|10021|
+|24024|24|110501|1|Kaori (Summer)|I've got plenty left in the tank!\nNo Majimun or anything else is\ngonna take me down! ♪|10|2022/07/04 23:00:00|2030/12/17 22:59:59|0|0|5|2|10021|
+|24025|24|110501|2|Kaori (Summer)|My karate's the best in the world!\nI'm unstoppable when I've got the sun and ocean on my side!|11|2022/07/04 23:00:00|2030/12/17 22:59:59|0|0|0|2|10021|

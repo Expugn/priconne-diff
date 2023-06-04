@@ -1,0 +1,119 @@
+|unit_id|unit_name|age|guild|race|height|weight|birth_month|birth_day|blood_type|favorite|voice|voice_id|catch_copy|self_text|guild_id|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|100101|Hiyori|16|Twinkle Wish|beastfolk|155|44|8|27|A|helping others, cheering|Nao Toyama|0|An optimistic fighter who loves helping people||2|
+|100201|Yui|17|Twinkle Wish|humanfolk|158|47|4|5|O|cooking, people watching|Risa Taneda|0|A kind girl who excels at combat support||2|
+|100301|Rei|18|Twinkle Wish|demonfolk|163|46|1|12|B|reading, riding horses, tea|Saori Hayami|0|A cool-headed swordswoman who faces everything head-on||2|
+|100401|Misogi|9|Little Lyrical|humanfolk|128|27|8|10|O|pranks, exploring|Sumire Morohoshi|0|A prankster who loves exploring||5|
+|100501|Matsuri|12|Nightmare, Defenders of the Throne|beastfolk|146|40|11|25|O|playing hero|Asami Shimoda|0|A knight-in-training who idolizes heroes||8|
+|100601|Akari|13|Diabolos|demonfolk|150|42|11|22|O|the saxophone|Azumi Asakura|0|The town darling who everyone wants to dote on||7|
+|100701|Miyako|14|Diabolos|demonfolk|130|32|1|23|B|eating pudding|Sora Amamiya|0|A ghost girl who loves pudding||7|
+|100801|Yuki|14|Weissflügel (Landosol Branch)|elvenfolk|150|40|10|10|AB|looking at himself in the mirror|Naomi Ozora|0|Believes himself to be the fairest of them all||15|
+|100901|Anna|17|Twilight Caravan|demonfolk|159|45|7|5|A|writing novels|Asami Takano|0|A delusional girl who believes she was a hero in a previous life, "Hecate of the Gale"||13|
+|101001|Maho|16|Caon|beastfolk|155|42|9|22|O|daydreaming, collecting plushies|Maaya Uchida|0|The Princess of the Maho-Maho Kingdom||10|
+|101101|Rino|15|Labyrinth|humanfolk|156|44|8|25|A|sewing|Kana Asumi|0|A little sister-type who's friendly and talkative||3|
+|101201|Hatsune|17|Forestier|elvenfolk|156|46|12|24|A|playing with her little sister, sleeping in, naps, going to bed early|Ayaka Ohashi|0|A sleeping beauty who uses her superpowers to help others||6|
+|101301|Nanaka|18|Twilight Caravan|demonfolk|166|55|8|21|O|reading, magic|Haruka Yoshimura|0|A magical girl who lets her nerd flag fly||13|
+|101401|Kasumi|18|Caon|beastfolk|152|41|11|3|AB|reading, reasoning|Inori Minase|0|A brilliant, beautiful detective||10|
+|101501|Misato|21|Forestier|elvenfolk|165|54|9|5|O|making picture books|Mariko Kouda|0|A motherly figure known to all as Miss Misato||6|
+|101601|Suzuna|18|Lucent Academy|demonfolk|167|48|4|10|O|fashion|Sumire Uesaka|0|A charismatic fashion model who's naïve yet popular||14|
+|101701|Kaori|19|Caon|beastfolk|158|53|7|7|A|dancing, karate|Natsumi Takamori|0|A natural airhead who always believes things will work out||10|
+|101801|Io|23|Lucent Academy|demonfolk|162|52|8|14|B|romance novels, romance plays, romance manga|Shizuka Ito|0|A pure-hearted teacher who charms the hearts of men||14|
+|102001|Mimi|10|Little Lyrical|beastfolk|117|21|4|3|O|collecting cute things|Rina Hidaka|0|Loves singing, carrots, and rabbits||5|
+|102101|Kurumi|12|Sarendia Orphanage|humanfolk|150|40|6|9|B|watching plays, playing house|Kana Ueda|0|A cowardly crybaby you can't help wanting to protect||9|
+|102201|Yori|13|Diabolos|demonfolk|150|40|11|22|O|all games|Sayuri Hara|0|A timid girl who's scared of strangers||7|
+|102301|Ayane|14|Sarendia Orphanage|humanfolk|148|38|5|10|B|indoor activities|Yu Serizawa|0|Together forever with Pukichi!||9|
+|102501|Suzume|15|Sarendia Orphanage|humanfolk|154|43|12|12|O|serving others|Aoi Yuki|0|A clumsy maid who works hard for her mistress||9|
+|102601|Rin|17|Elizabeth Park|beastfolk|144|42|1|1|B|Sweet Bun|Kotori Koiwai|0|A lazybones who values play and sleep above all else||11|
+|102701|Eriko|16|Twilight Caravan|demonfolk|154|43|7|30|B|experimenting, sewing, cooking|Chinami Hashimoto|0|A girl who's obsessed with her soulmate||13|
+|102801|Saren|17|Sarendia Orphanage|elvenfolk|156|43|10|4|A|management, tea parties|Yui Horie|0|A kind, humble young lady who runs an orphanage||9|
+|102901|Nozomi|17|Carmina|humanfolk|157|40|1|24|B|watching stage performances, dancing|Yoko Hikasa|0|A popular idol known for her singing and dancing||4|
+|103001|Ninon|16|Weissflügel (Landosol Branch)|humanfolk|163|51|8|31|O|developing ninja arts|Satomi Sato|0|Teach me all the mysteries of Togoku!||15|
+|103101|Shinobu|18|Diabolos|demonfolk|157|42|12|22|AB|fortune-telling|Yuka Otsubo|0|A medium who's skilled at fortune-telling||7|
+|103201|Akino|18|Mercurius Foundation|humanfolk|157|45|3|12|AB|charitable works|Rei Matsuzaki|0|A powerful young lady who aims to become a full-fledged merchant||12|
+|103301|Mahiru|20|Elizabeth Park|humanfolk|142|35|3|3|B|comedy routines|Emi Nitta|0|A comical farmgirl who loves making people smile||11|
+|103401|Yukari|22|Mercurius Foundation|elvenfolk|164|55|3|16|A|window-shopping|Asami Imai|0|A pure-hearted woman with a mysterious charm||12|
+|103601|Kyoka|8|Little Lyrical|elvenfolk|118|21|2|2|A|studying|Yui Ogura|0|A polite, level-headed young honor student||5|
+|103701|Tomo|13|Nightmare, Defenders of the Throne|humanfolk|149|43|8|11|A|swordfighting, teasing older people|Minori Chihara|0|A swordfighter with a strong sense of duty who loves to tease||8|
+|103801|Shiori|14|Elizabeth Park|beastfolk|153|40|11|3|A|reading, taking walks|Ami Koshimizu|0|A frail girl who enjoys reading||11|
+|104001|Aoi|13|Forestier|elvenfolk|158|44|6|6|AB|practicing making friends|Kana Hanazawa|0|A girl hailing from the elven forest who wants to make friends||6|
+|104201|Chika|17|Carmina|humanfolk|163|46|6|3|O|various musical instruments|Ayaka Fukuhara|0|A summoner who sings to protect others||4|
+|104301|Makoto|17|Caon|beastfolk|168|54|8|9|O|making sweets|Mikako Komatsu|0|A wild girl who's strong-minded and compassionate||10|
+|104401|Illya|??|Diabolos|demonfolk|172|50|5|5|A|world conquest|Sakura Tange|0|A legendary vampire who once ruled over the night||7|
+|104501|Kuka|18|Weissflügel (Landosol Branch)|humanfolk|157|49|11|19|AB|reading novels|Juri Nagatsuma|0|A shy girl who loves fantasizing||15|
+|104601|Tamaki|18|Mercurius Foundation|beastfolk|158|48|3|1|AB|playing with cats|Manami Numakura|0|A catgirl who fights against the strong on behalf of the weak||12|
+|104701|Jun|25|Nightmare, Defenders of the Throne|humanfolk|171|50|10|25|A|martial arts, taking baths|Ayako Kawasumi|0|A calm, cool, and collected knight who hides her face|？？？|8|
+|104801|Mifuyu|20|Mercurius Foundation|humanfolk|163|49|11|11|O|mercenary jobs|Azusa Tadokoro|0|A mercenary who prioritizes efficiency in both her work and personal affairs||12|
+|104901|Shizuru|18|Labyrinth|humanfolk|168|54|10|24|O|all housework|Hitomi Nabatame|0|Your big sister will take good care of you!||3|
+|105001|Misaki|11|Lucent Academy|demonfolk|120|22|1|3|A|reading fashion magazines, collecting makeup|Misaki Kuno|0|A slightly precocious girl who's in love with love||14|
+|105101|Mitsuki|27|Twilight Caravan|humanfolk|166|53|3|7|A|researching, experimenting|Kotono Mitsuishi|0|A dangerous scientist who enjoys conducting experiments||13|
+|105201|Lima|18|Elizabeth Park|beastfolk|150|100|3|14|A|grooming, chatting|Sora Tokui|0|A fluffy animal with the heart of a maiden||11|
+|105301|Monika|18|Weissflügel (Landosol Branch)|humanfolk|140|33|7|28|A|visiting candy stores|Ayumi Tsuji|0|A soldier from a foreign land who looks and acts like a child||15|
+|105401|Tsumugi|14|Carmina|humanfolk|153|45|9|7|AB|sewing|Ibuki Kido|0|A cute girl who loves fashion||4|
+|105501|Ayumi|16|Weissflügel (Landosol Branch)|elvenfolk|155|43|4|7|O|observation|Eri Ozeki|0|A pure-hearted girl who loves with all her heart||15|
+|105601|Ruka|25|Twilight Caravan|humanfolk|167|54|7|11|B|fishing|Rina Sato|0|A smart and sophisticated elder sister-type overflowing with kindness||13|
+|105701|Djeeta|17|???|humanfolk|156|45|3|10|O|going on adventures, talking|Hisako Kanemoto|0|A skyfarer who dreams of adventure in the skies|||
+|105801|Pecorine|17|Gourmet Guild|humanfolk|156|46|3|31|O|eating, cooking|M・A・O|0|A girl who's always cheerful and hungry||1|
+|105901|Kokkoro|11|Gourmet Guild|elvenfolk|140|35|5|11|B|meditating, raising plants and animals|Miku Ito|0|A little guide who takes care of her lord||1|
+|106001|Karyl|14|Gourmet Guild|beastfolk|152|39|9|2|A|playing with cats|Rika Tachibana|0|A mysterious, cat-eared sorceress discovered lying unconscious||1|
+|106101|Muimi|16|???|humanfolk|148|40|8|11|O|adventures, reminiscing|Megumi Han|0|A young wanderer with a mysterious past|I don't need help... I'm fine on my own. Don't worry, I'm used to it by now...||
+|106301|Arisa|15|???|elvenfolk|155|42|6|17|O|collecting pretty leaves|Kana Yuki|0|A young elf striving to become a forest guardian|||
+|106501|Kaya|16|Dragons' Nest|dragonfolk|156|???|6|25|B|martial arts|Makoto Koichi|0|A dragongirl brawler who speaks with her fists||17|
+|106601|Inori|13|Dragons' Nest|dragonfolk|145|???|9|29|AB|gaming|Akane Fujita|0|A brash yet timid dragongirl with big ambitions||17|
+|106701|Homare|25|Dragons' Nest|dragonfolk|168|???|4|17|O|art, reading|Saori Onishi|0|???????||17|
+|106801|Labyrista|??|Labyrinth|humanfolk|???|??|?|?|?|people watching|Miyuki Sawashiro|0|？？？？？？？||3|
+|107001|Neneka|24|???|elvenfolk|149|??|3|24|O|imitation, appreciating art|Yuka Iguchi|0|A researcher of few words who lives a secretive life|||
+|107101|Christina|27|Nightmare, Defenders of the Throne|humanfolk|165|??|2|7|O|fighting strong opponents|Chiaki Takahashi|0|The audacious vice-captain of Nightmare||8|
+|107501|Pecorine (Summer)|17|Gourmet Guild|humanfolk|156|46|3|31|O|eating, cooking|M・A・O|0|A girl who's always cheerful and hungry|U-umm... You wouldn't happen to have any food, would you?\nI think I'm almost at my limit here...|1|
+|107601|Kokkoro (Summer)|11|Gourmet Guild|elvenfolk|140|35|5|11|B|meditating, raising plants and animals|Miku Ito|0|A little guide who takes care of her lord||1|
+|107701|Suzume (Summer)|15|Sarendia Orphanage|humanfolk|154|43|12|12|O|serving others|Aoi Yuki|0|A clumsy maid who works hard for her mistress|Urgh... I blew up the kitchen again. I'm so sorry. I don't deserve to call myself a maid...|9|
+|107801|Karyl (Summer)|14|Gourmet Guild|beastfolk|152|39|9|2|A|playing with cats|Rika Tachibana|0|A mysterious, cat-eared sorceress discovered lying unconscious|What're you dilly-dallying for? Fine, I guess I can help you out. You'd better be grateful!|1|
+|107901|Tamaki (Summer)|18|Mercurius Foundation|beastfolk|158|48|3|1|AB|playing with cats|Manami Numakura|0|A catgirl who fights against the strong on behalf of the weak|If you find a profit opportunity, you better let me know!\nI never let a single potential rupie slip by me—that's my policy!|12|
+|108001|Mifuyu (Summer)|20|Mercurius Foundation|humanfolk|163|49|11|11|O|mercenary jobs|Azusa Tadokoro|0|A mercenary who prioritizes efficiency in both her work and personal affairs|I've decided to become your personal teacher!\nOf course, I can't do anything for free.\nI'll be requiring fair payment.|12|
+|108101|Shinobu (Halloween)|18|Diabolos|demonfolk|157|42|12|22|AB|fortune-telling|Yuka Otsubo|0|A medium who's skilled at fortune-telling|Since I was a little girl, I've always been able to see things others couldn't.\nRight behind you now, there are one, two, three... Let's just say you're quite popular.|7|
+|108201|Miyako (Halloween)|14|Diabolos|demonfolk|130|32|1|23|B|eating pudding|Sora Amamiya|0|A ghost girl who loves pudding|Miyako doesn't know complicated stuff!\nBut being a ghost is fine if Miyako gets to eat pudding!|7|
+|108301|Misaki (Halloween)|11|Lucent Academy|demonfolk|120|22|1|3|A|reading fashion magazines, collecting makeup|Misaki Kuno|0|A slightly precocious girl who's in love with love|Were you looking for me? Don't worry. I'm so charming, you'll be head over heels for me in no time!|14|
+|108401|Chika (Holiday)|17|Carmina|humanfolk|163|46|6|3|O|various musical instruments|Ayaka Fukuhara|0|A summoner who sings to protect others|I use my Song Summoning abilities to fight so that people can live in peace.\nRecently, I've been performing as an i-idol, too, but I'm still not quite used to that...|4|
+|108501|Kurumi (Holiday)|12|Sarendia Orphanage|humanfolk|150|40|6|9|B|watching plays, playing house|Kana Ueda|0|A cowardly crybaby you can't help wanting to protect|Um, I... I'm K-Kurumi...\nW-waaaahhh... What now...?\nTh-this is so embarrassing... I-I'm sorryyyyy!|9|
+|108601|Ayane (Holiday)|14|Sarendia Orphanage|humanfolk|148|38|5|10|B|indoor activities|Yu Serizawa|0|Together forever with Pukichi!|Have you met my friend? His name's Pukichi!\nHe's a weapon, but he can talk too!\nHe's my bestest buddy in the whole wide world!|9|
+|108701|Hiyori (New Year)|16|Twinkle Wish|beastfolk|155|44|8|27|A|helping others, cheering|Nao Toyama|0|An optimistic fighter who loves helping people|Hey there, I'm Hiyori!\nIf anyone needs any help, I'll be there in a flash!\nYou wanna come with me too?|2|
+|108801|Yui (New Year)|17|Twinkle Wish|humanfolk|158|47|4|5|O|cooking, people watching|Risa Taneda|0|A kind girl who excels at combat support|I don't know how useful I'll really be, but...\nI'll do my best to support everyone!|2|
+|108901|Rei (New Year)|18|Twinkle Wish|demonfolk|163|46|1|12|B|reading, riding horses, tea|Saori Hayami|0|A cool-headed swordswoman who faces everything head-on|I'd like to think we met each other for a reason.\nLet's work together to reach the top of this tower. I'm counting on you.|2|
+|109001|Eriko (Valentine)|16|Twilight Caravan|demonfolk|154|43|7|30|B|experimenting, sewing, cooking|Chinami Hashimoto|0|A girl who's obsessed with her soulmate|I'm known to some as the Destroyer...\nBut there's no need to be afraid.\nI would never harm my destined soulmate...|13|
+|109101|Shizuru (Valentine)|18|Labyrinth|humanfolk|168|54|10|24|O|all housework|Hitomi Nabatame|0|Your big sister will take good care of you!|You just leave everything to your big sister, OK?\nI'll do the cooking, cleaning, and laundry,\nand even wash your back for you in the bath!|3|
+|109201|Anne|17|???|humanfolk|156|55|12|1|AB|reading|Yoko Hikasa|0|The spirit-summoning royal prodigy of Mysteria|My name's Anne! I'm actually the eldest princess of a kingdom called Mysteria, but you can skip the formality. I'd love it if we could just be friends!||
+|109301|Lou|15|???|humanfolk|144|45|2|4|O|eating, sleeping|Kimiko Koyama|0|A fresh-faced student of Mysteria Academy|I'm Lou! I learn magic at Mysteria Academy.\nAre you going to be friends with me too?||
+|109401|Grea|17|???|half-dragon|167|67|11|3|B|piano|Ayaka Fukuhara|0|A kindhearted dragon princess with superhuman abilities|I'm Grea. I have both human and dragon blood in my veins. It's, um... n-nice to meet you.||
+|109501|Kuka (Oedo)|18|Weissflügel (Landosol Branch)|humanfolk|157|49|11|19|AB|reading novels|Juri Nagatsuma|0|A shy girl who loves fantasizing|I was just thinking about you.\nAll the things you might do while I can't resist...\nEheh... Gueheheh...|15|
+|109601|Ninon (Oedo)|16|Weissflügel (Landosol Branch)|humanfolk|163|51|8|31|O|developing ninja arts|Satomi Sato|0|Teach me all the mysteries of Togoku!|Sushi, geisha, tempura... Ahhhhh!\nThe mysteries of the eastern lands are so wonderful!|15|
+|109701|Rem|17|???|demon clan|154|??|2|2|?|theatre, literature|Inori Minase|0|A younger twin maid who is fanatical as a demon|||
+|109801|Ram|17|???|demon clan|154|??|2|2|?|reading|Rie Murakawa|0|A demonically sharp-tongued elder twin maid|||
+|109901|Emilia|114|???|half elf|164|??|9|23|?|grooming Puck's fur, studying|Rie Takahashi|0|A gentle silver-haired half elf|||
+|110001|Suzuna (Summer)|18|Lucent Academy|demonfolk|167|48|4|10|O|fashion|Sumire Uesaka|0|A charismatic fashion model who's naïve yet popular|Whattup, whiz-boy?! Listen, I'm not great at spelling or math... Actually, I'm totally un-great at those. But if you need fashion advice, I got you covered!|14|
+|110101|Io (Summer)|23|Lucent Academy|demonfolk|162|52|8|14|B|romance novels, romance plays, romance manga|Shizuka Ito|0|A pure-hearted teacher who charms the hearts of men|Thank you for always helping me out.\nI'm the older one here, yet somehow I find myself relying on you...|14|
+|110201|Misaki (Summer)|11|Lucent Academy|demonfolk|120|22|1|3|A|reading fashion magazines, collecting makeup|Misaki Kuno|0|A slightly precocious girl who's in love with love||14|
+|110301|Saren (Summer)|17|Sarendia Orphanage|elvenfolk|156|43|10|4|A|management, tea parties|Yui Horie|0|A kind, humble young lady who runs an orphanage|A miser? No, I just like to make sure I use my resources wisely!|9|
+|110401|Makoto (Summer)|17|Caon|beastfolk|168|54|8|9|O|making sweets|Mikako Komatsu|0|A wild girl who's strong-minded and compassionate|Lemme know if you're ever hungry.\nIt won't be fancy, but I can whip up something tasty in no time!|10|
+|110501|Kaori (Summer)|19|Caon|beastfolk|158|53|7|7|A|dancing, karate|Natsumi Takamori|0|A natural airhead who always believes things will work out|Haitai! Let's sing and dance and have some fun!\nC'mon, you'll dance with me, won't you?|10|
+|110601|Maho (Summer)|16|Caon|beastfolk|155|42|9|22|O|daydreaming, collecting plushies|Maaya Uchida|0|The Princess of the Maho-Maho Kingdom|I'm Princess Maho of the Maho-Maho Kingdom!\n...Now, why're you lookin' so skeptical there?\nThe Maho-Maho Kingdom's a real faraway land, OK?|10|
+|110701|Aoi (Student)|13|Forestier|elvenfolk|158|44|6|6|AB|practicing making friends|Kana Hanazawa|0|A girl hailing from the elven forest who wants to make friends||6|
+|110801|Chloe|17|St. Theresa's Academy (Friendship Club)|elvenfolk|154|42|8|7|O|darts|Atsumi Tanezaki|0|A low-energy elf from the wrong side of town||16|
+|110901|Chieru|16|St. Theresa's Academy (Friendship Club)|humanfolk|156|46|9|15|O|dancing, karaoke|Ayane Sakura|0|An unstoppable bundle of energy who's always ahead of the curve||16|
+|111001|Yuni|18|St. Theresa's Academy (Friendship Club)|humanfolk|142|36|2|28|O|reading|Konomi Kohara|0|The small-statured sage of the library||16|
+|111101|Kyoka (Halloween)|8|Little Lyrical|elvenfolk|118|21|2|2|A|studying|Yui Ogura|0|A polite, level-headed young honor student||5|
+|111201|Misogi (Halloween)|9|Little Lyrical|humanfolk|128|27|8|10|O|pranks, exploring|Sumire Morohoshi|0|A prankster who loves exploring|If it's pranks you're after, I can deliver!\nC'mon, mister, try not to fall for this next one! ♪|5|
+|111301|Mimi (Halloween)|10|Little Lyrical|beastfolk|117|21|4|3|O|collecting cute things|Rina Hidaka|0|Loves singing, carrots, and rabbits|I'd love to be a fluffy bunny too! ♪\nHey, mister, if I ever turn into a bunny,\nI'll show you first of all!|5|
+|111401|Luna|??|???|humanfolk|142|28|?|?|?|looking for "friends"|Yui Ogura|0|A little necromancer girl who is searching for friends to go on her adventure|||
+|111501|Christina (Holiday)|27|Nightmare, Defenders of the Throne|humanfolk|165|??|2|7|O|fighting strong opponents|Chiaki Takahashi|0|The audacious vice-captain of Nightmare||8|
+|111601|Nozomi (Holiday)|17|Carmina|humanfolk|157|40|1|24|B|watching stage performances, dancing|Yoko Hikasa|0|A popular idol known for her singing and dancing||4|
+|111701|Illya (Holiday)|??|Diabolos|demonfolk|172|50|5|5|A|world conquest|Sakura Tange|0|A legendary vampire who once ruled over the night||7|
+|111901|Kokkoro (New Year)|11|Gourmet Guild|elvenfolk|140|35|5|11|B|meditating, raising plants and animals|Miku Ito|0|A little guide who takes care of her lord||1|
+|112001|Karyl (New Year)|14|Gourmet Guild|beastfolk|152|39|9|2|A|playing with cats|Rika Tachibana|0|A mysterious, cat-eared sorceress discovered lying unconscious||1|
+|112101|Suzume (New Year)|15|Sarendia Orphanage|humanfolk|154|43|12|12|O|serving others|Aoi Yuki|0|A clumsy maid who works hard for her mistress||9|
+|112201|Kasumi (Magical)|18|Caon|beastfolk|152|41|11|3|AB|reading, reasoning|Inori Minase|0|A brilliant, beautiful detective||10|
+|112301|Shiori (Magical)|14|Elizabeth Park|beastfolk|153|40|11|3|A|reading, taking walks|Ami Koshimizu|0|A frail girl who enjoys reading||11|
+|112401|Uzuki (IM@S CG)|17|New Generations|humanfolk|159|45|4|24|O|chatting with friends|Ayaka Ohashi|0|That dazzling smile! A girl with big idol dreams||100|
+|112501|Rin (IM@S CG)|15|New Generations|humanfolk|165|44|8|10|B|walking her dog|Ayaka Fukuhara|0|A coolheaded beauty with her Violet Blade||100|
+|112601|Mio (IM@S CG)|15|New Generations|humanfolk|161|46|12|1|B|shopping|Sayuri Hara|0|A lively girl who's gonna be a superstar! ☆☆★||100|
+|112701|Rin (Ranger)|17|Elizabeth Park|beastfolk|144|42|1|1|B|Sweet Bun|Kotori Koiwai|0|A lazybones who values play and sleep above all else||11|
+|112801|Mahiru (Ranger)|20|Elizabeth Park|humanfolk|142|35|3|3|B|comedy routines|Emi Nitta|0|A comical farmgirl who loves making people smile||11|
+|180401|Pecorine (Princess)|17|Gourmet Guild|humanfolk|156|46|3|31|O|eating, cooking|M・A・O|0|A girl who's always cheerful and hungry||1|

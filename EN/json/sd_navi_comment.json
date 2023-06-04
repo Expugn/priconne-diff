@@ -1,0 +1,11 @@
+{
+    "sd_navi_comment": [
+        {"comment_id":1000001,"where_type":1000,"character_id":190801,"motion_type":13,"description":"We've prepared a variety of minigames for you to play!\\nWhich will you try first?","voice_id":0,"start_time":"2023-01-19 13:00:00","end_time":"2030-04-01 14:00:00"},
+        {"comment_id":1000002,"where_type":1000,"character_id":190801,"motion_type":13,"description":"Allow me to introduce some entertaining minigames!\\nWhich game catches your interest the most?","voice_id":0,"start_time":"2023-01-19 13:00:00","end_time":"2030-04-01 14:00:00"},
+        {"comment_id":1001001,"where_type":1001,"character_id":190801,"motion_type":13,"description":"This game is available for the low, low price of {0} rupies!\\nI do hope you'll enjoy it!","voice_id":0,"start_time":"2023-01-19 13:00:00","end_time":"2030-04-01 14:00:00"},
+        {"comment_id":1002001,"where_type":1002,"character_id":190801,"motion_type":12,"description":"Tap the screen in time with the moving heart! Are you ready to help Shizuru and Eriko prepare some chocolate treats?","voice_id":0,"start_time":"2023-01-19 13:00:00","end_time":"2030-04-01 14:00:00"},
+        {"comment_id":1003001,"where_type":1003,"character_id":190801,"motion_type":11,"description":"Pull Kuka back, then let go and watch her fly! Thanks to all sorts of unexpected disasters, she might have quite the journey!","voice_id":0,"start_time":"2023-01-19 13:00:00","end_time":"2030-04-01 14:00:00"},
+        {"comment_id":1004001,"where_type":1004,"character_id":190801,"motion_type":3,"description":"Tap the left and right of the screen to defeat the incoming Majimun! Show them the power of your Ryukyu-Ken Spiral Shot!","voice_id":0,"start_time":"2023-01-19 13:00:00","end_time":"2030-04-01 14:00:00"},
+        {"comment_id":1005001,"where_type":1005,"character_id":190801,"motion_type":7,"description":"In this minigame, your task is to link panels using their first and last letters. Just remember, your answer mustn't end in X!","voice_id":0,"start_time":"2023-01-19 13:00:00","end_time":"2030-04-01 14:00:00"}
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "nyx_story_data": [
+        {"story_id":11,"story_seq":1,"story_phase":1,"title":"","sub_title":"","read_condition_time":"0","condition_quest_id":10038105,"condition_boss_count":0,"adv_flg":1,"adv_id":5038600},
+        {"story_id":12,"story_seq":2,"story_phase":1,"title":"1st Year—Chieru","sub_title":"A Language for the Masses","read_condition_time":"0","condition_quest_id":10038105,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":13,"story_seq":3,"story_phase":1,"title":"2nd Year—Chloe","sub_title":"I'm Pretty Bad at Essays","read_condition_time":"0","condition_quest_id":10038107,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":14,"story_seq":4,"story_phase":1,"title":"3rd Year—Yuni","sub_title":"The Call of the Heavens","read_condition_time":"0","condition_quest_id":10038109,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":21,"story_seq":5,"story_phase":2,"title":"","sub_title":"","read_condition_time":"0","condition_quest_id":10038111,"condition_boss_count":0,"adv_flg":2,"adv_id":5038601},
+        {"story_id":22,"story_seq":6,"story_phase":2,"title":"Akino's Log","sub_title":"Eureka!","read_condition_time":"0","condition_quest_id":10038111,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":23,"story_seq":7,"story_phase":2,"title":"Tamaki's Log","sub_title":"Time to Build!","read_condition_time":"0","condition_quest_id":10038112,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":24,"story_seq":8,"story_phase":2,"title":"Yukari's Log","sub_title":"When Did I Write This...?","read_condition_time":"0","condition_quest_id":10038113,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":25,"story_seq":9,"story_phase":2,"title":"Mifuyu's Log","sub_title":"I Can't Let This Continue","read_condition_time":"0","condition_quest_id":10038114,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":26,"story_seq":10,"story_phase":2,"title":"Conclusion","sub_title":"Beyond the Special Lesson","read_condition_time":"0","condition_quest_id":10038115,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":31,"story_seq":11,"story_phase":3,"title":"","sub_title":"","read_condition_time":"0","condition_quest_id":10038115,"condition_boss_count":1,"adv_flg":2,"adv_id":5038602},
+        {"story_id":32,"story_seq":12,"story_phase":3,"title":"Thesis on Inherited Inspiration","sub_title":"Dev Log: Brainstorming","read_condition_time":"0","condition_quest_id":10038115,"condition_boss_count":1,"adv_flg":0,"adv_id":0},
+        {"story_id":33,"story_seq":13,"story_phase":3,"title":"Thesis on Deficient Drive","sub_title":"Dev Log: Prototyping","read_condition_time":"0","condition_quest_id":10038115,"condition_boss_count":2,"adv_flg":0,"adv_id":0},
+        {"story_id":34,"story_seq":14,"story_phase":3,"title":"Thesis on Aesthetic Achievement","sub_title":"Dev Log: Refinement","read_condition_time":"0","condition_quest_id":10038115,"condition_boss_count":3,"adv_flg":0,"adv_id":0},
+        {"story_id":35,"story_seq":15,"story_phase":3,"title":"","sub_title":"","read_condition_time":"2023/03/18 23:00:00","condition_quest_id":10038115,"condition_boss_count":3,"adv_flg":3,"adv_id":5038603}
+    ]
+}

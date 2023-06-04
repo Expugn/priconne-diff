@@ -1,0 +1,19 @@
+{
+    "omp_story_data": [
+        {"omp_story_id":7001,"event_id":10035,"condition_quest_id":10035103,"condition_boss_id":0,"story_seq":1,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"Uzuki and Rin's Memory"},
+        {"omp_story_id":7002,"event_id":10035,"condition_quest_id":10035107,"condition_boss_id":0,"story_seq":2,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"New Generations Memory"},
+        {"omp_story_id":7003,"event_id":10035,"condition_quest_id":10035107,"condition_boss_id":0,"story_seq":4,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"Uzuki and Mio's Memory"},
+        {"omp_story_id":7004,"event_id":10035,"condition_quest_id":10035111,"condition_boss_id":0,"story_seq":6,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"Gourmet Guild Memory"},
+        {"omp_story_id":7005,"event_id":10035,"condition_quest_id":10035111,"condition_boss_id":0,"story_seq":7,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"Rin and Mio's Memory"},
+        {"omp_story_id":7006,"event_id":10035,"condition_quest_id":10035111,"condition_boss_id":0,"story_seq":8,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"New Generations Memory"},
+        {"omp_story_id":7007,"event_id":10035,"condition_quest_id":10035115,"condition_boss_id":0,"story_seq":9,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"New Generations & Gourmet Guild Memory"},
+        {"omp_story_id":7008,"event_id":10035,"condition_quest_id":10035115,"condition_boss_id":0,"story_seq":10,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"Gourmet Guild Memory"},
+        {"omp_story_id":7009,"event_id":10036,"condition_quest_id":10036111,"condition_boss_id":0,"story_seq":14,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"New Generations & Gourmet Guild Memory"},
+        {"omp_story_id":7102,"event_id":10035,"condition_quest_id":10035107,"condition_boss_id":0,"story_seq":3,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"New Generations Memory"},
+        {"omp_story_id":7103,"event_id":10035,"condition_quest_id":10035107,"condition_boss_id":0,"story_seq":5,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"Gourmet Guild Memory"},
+        {"omp_story_id":7104,"event_id":10035,"condition_quest_id":10035115,"condition_boss_id":0,"story_seq":11,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"New Generations & Gourmet Guild Memory"},
+        {"omp_story_id":7105,"event_id":10036,"condition_quest_id":10036111,"condition_boss_id":0,"story_seq":12,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"New Generations & Gourmet Guild Memory"},
+        {"omp_story_id":7106,"event_id":10036,"condition_quest_id":10036111,"condition_boss_id":0,"story_seq":13,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"New Generations & Gourmet Guild Memory"},
+        {"omp_story_id":7201,"event_id":10035,"condition_quest_id":10035103,"condition_boss_id":0,"story_seq":15,"is_readable_on_result":1,"reward_type":7,"reward_id":2405,"reward_count":1,"sub_title":""}
+    ]
+}

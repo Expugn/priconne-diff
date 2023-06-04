@@ -1,0 +1,13 @@
+{
+    "dear_story_data": [
+        {"story_group_id":6017,"story_type":6,"value":10017,"title":"Re:ZERO -Sharing Lunch in Another World-","thumbnail_id":0,"disp_order":1,"start_time":"2022/04/27 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":6019,"story_type":6,"value":10019,"title":"Suzuna's Rainbow Stage!","thumbnail_id":0,"disp_order":1,"start_time":"2022/05/27 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":6023,"story_type":6,"value":10023,"title":"The Woodland Loner and the Saintly School Lycéennes","thumbnail_id":0,"disp_order":1,"start_time":"2022/07/30 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":6025,"story_type":6,"value":10025,"title":"Little Brave Halloween Night!","thumbnail_id":0,"disp_order":1,"start_time":"2022/08/27 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":6027,"story_type":6,"value":10027,"title":"Dragon Explorers","thumbnail_id":0,"disp_order":1,"start_time":"2022/09/27 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":6029,"story_type":6,"value":10029,"title":"Present Panic! The Santas of Landosol","thumbnail_id":0,"disp_order":1,"start_time":"2022/10/27 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":6033,"story_type":6,"value":10033,"title":"The Magical Girl Duo: We Are Misty & Purely","thumbnail_id":0,"disp_order":1,"start_time":"2022/12/30 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":6038,"story_type":6,"value":10038,"title":"The Angelic Foundation and the Saintly School Lycéennes","thumbnail_id":0,"disp_order":1,"start_time":"2023/02/27 23:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":6040,"story_type":6,"value":10040,"title":"The Four Farming Warriors: Endeavors of a Broke Ranch","thumbnail_id":0,"disp_order":1,"start_time":"2023/03/28 23:00:00","end_time":"2030/04/24 14:59:59"}
+    ]
+}

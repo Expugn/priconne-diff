@@ -1,0 +1,7 @@
+{
+    "shiori_description": [
+        {"id":101,"type":1,"description":"In Side Stories, you can unlock special stories to enjoy.\\nEach story will become available as you clear the corresponding quests."},
+        {"id":201,"type":2,"description":"This event features an exclusive character to unlock\\nby clearing a specific mission.\\nPlease do your best to achieve the mission requirements."},
+        {"id":301,"type":3,"description":"When clearing this event's quests and bosses, special Intimacy Episodes\\nmay appear. You will earn Intimacy with the characters based on your\\nresponses, and they may give you gifts at certain milestones."}
+    ]
+}

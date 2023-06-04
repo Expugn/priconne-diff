@@ -1,0 +1,7 @@
+{
+    "grand_arena_time_reward_schedule": [
+        {"id":1,"start_time":"2017-10-26 15:00:00","end_time":"2019-02-19 11:59:59","reward_type":2,"reward_id":90004,"reward_limit":10000},
+        {"id":2,"start_time":"2019-02-19 12:00:00","end_time":"2022-09-16 10:59:59","reward_type":2,"reward_id":90004,"reward_limit":10000},
+        {"id":3,"start_time":"2022-09-16 11:00:00","end_time":"2030-11-30 11:59:59","reward_type":2,"reward_id":90004,"reward_limit":20000}
+    ]
+}

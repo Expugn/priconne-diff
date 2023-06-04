@@ -1,0 +1,2 @@
+|sub_story_id|event_id|title|condition_story_id|reward_type|reward_id|reward_count|
+| --- | --- | --- | --- | --- | --- | --- |

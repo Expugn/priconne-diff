@@ -1,0 +1,2 @@
+|id|letter_id|seq_num|type|line_num|start_pos|end_pos|seek_time|sheet_name|cue_name|command|command_param|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

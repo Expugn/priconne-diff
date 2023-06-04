@@ -1,0 +1,16 @@
+{
+    "sekai_add_times_data": [
+        {"id":1,"sekai_id":1002,"add_times":6,"add_times_limit":10,"add_times_time":"2023/04/01 0:00:00","duration":0},
+        {"id":2,"sekai_id":1002,"add_times":2,"add_times_limit":10,"add_times_time":"2023/04/01 2:00:00","duration":120},
+        {"id":3,"sekai_id":1002,"add_times":2,"add_times_limit":10,"add_times_time":"2023/04/01 4:00:00","duration":120},
+        {"id":4,"sekai_id":1002,"add_times":2,"add_times_limit":10,"add_times_time":"2023/04/01 6:00:00","duration":120},
+        {"id":5,"sekai_id":1002,"add_times":2,"add_times_limit":10,"add_times_time":"2023/04/01 8:00:00","duration":120},
+        {"id":6,"sekai_id":1002,"add_times":2,"add_times_limit":10,"add_times_time":"2023/04/01 10:00:00","duration":120},
+        {"id":7,"sekai_id":1002,"add_times":2,"add_times_limit":10,"add_times_time":"2023/04/01 12:00:00","duration":120},
+        {"id":8,"sekai_id":1002,"add_times":2,"add_times_limit":10,"add_times_time":"2023/04/01 14:00:00","duration":120},
+        {"id":9,"sekai_id":1002,"add_times":2,"add_times_limit":10,"add_times_time":"2023/04/01 16:00:00","duration":120},
+        {"id":10,"sekai_id":1002,"add_times":2,"add_times_limit":10,"add_times_time":"2023/04/01 18:00:00","duration":120},
+        {"id":11,"sekai_id":1002,"add_times":2,"add_times_limit":10,"add_times_time":"2023/04/01 20:00:00","duration":120},
+        {"id":12,"sekai_id":1002,"add_times":2,"add_times_limit":10,"add_times_time":"2023/04/01 22:00:00","duration":120}
+    ]
+}
