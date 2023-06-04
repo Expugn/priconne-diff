@@ -1,0 +1,2 @@
+|id|quest_id|pattern|trigger_type_1|trigger_value_1|next_pattern_1|trigger_type_2|trigger_value_2|next_pattern_2|wave_group_id|detail_unit_id|detail_monster_position_x_1|detail_monster_position_y_1|detail_monster_scale_1|floor_unit_id|floor_monster_position_x_1|floor_monster_position_y_1|floor_monster_scale_1|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

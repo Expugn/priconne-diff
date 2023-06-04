@@ -1,0 +1,8 @@
+{
+    "ttk_weapon": [
+        {"ttk_weapon_id":1,"ttk_score":0,"name":"木槌"},
+        {"ttk_weapon_id":2,"ttk_score":64000,"name":"魔法小槌"},
+        {"ttk_weapon_id":3,"ttk_score":256000,"name":"真陽親手製作的摺扇"},
+        {"ttk_weapon_id":4,"ttk_score":480000,"name":"萬寶槌"}
+    ]
+}

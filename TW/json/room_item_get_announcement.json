@@ -1,0 +1,18 @@
+{
+    "room_item_get_announcement": [
+        {"id":1,"room_item_id":2801,"start_date":"2021/03/02 16:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":2,"room_item_id":2802,"start_date":"2021/03/28 16:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":3,"room_item_id":2307,"start_date":"2021/02/16 12:00","end_date":"2030/12/31 23:59:59","get_date":"2021/02/16 12:00","room_announcement_name":""},
+        {"id":4,"room_item_id":2308,"start_date":"2021/02/16 12:00","end_date":"2030/12/31 23:59:59","get_date":"2021/02/16 12:00","room_announcement_name":""},
+        {"id":5,"room_item_id":2806,"start_date":"2021/06/12 16:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":6,"room_item_id":2808,"start_date":"2021/07/05 16:00","end_date":"2030/12/31 23:59:59","get_date":"2022/07/19 16:00","room_announcement_name":""},
+        {"id":7,"room_item_id":2809,"start_date":"2021/10/01 16:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":8,"room_item_id":2814,"start_date":"2021/12/01 16:00","end_date":"2030/12/31 23:59:59","get_date":"2021/07/31 12:00","room_announcement_name":""},
+        {"id":9,"room_item_id":2804,"start_date":"2022/01/18 12:00","end_date":"2030/12/31 23:59:59","get_date":"2022/01/18 12:00","room_announcement_name":"大間地區振興海報\\n「新春金槍鮪釣起圖」"},
+        {"id":10,"room_item_id":2816,"start_date":"2023/02/15 05:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":11,"room_item_id":2818,"start_date":"2022/07/01 16:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":12,"room_item_id":2805,"start_date":"2022/09/23 16:00","end_date":"2030/12/31 23:59:59","get_date":"2022/09/23 16:00","room_announcement_name":""},
+        {"id":13,"room_item_id":2828,"start_date":"2023/02/01 16:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":14,"room_item_id":2829,"start_date":"2023/05/09 16:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""}
+    ]
+}

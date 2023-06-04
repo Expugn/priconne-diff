@@ -1,0 +1,6 @@
+{
+    "ticket_gacha_data": [
+        {"gacha_id":80005,"gacha_name":"★3必中3周年轉蛋券","gacha_type":1,"ticket_id":24009,"gacha_times":1,"gacha_detail":2,"guarantee_rarity":"0","rarity_odds":"80000","chara_odds_star1":"80005_1","chara_odds_star2":"80005_2","chara_odds_star3":"80005_3","staging_type":1},
+        {"gacha_id":80006,"gacha_name":"★3必中4周年轉蛋券","gacha_type":1,"ticket_id":24010,"gacha_times":1,"gacha_detail":2,"guarantee_rarity":"0","rarity_odds":"80000","chara_odds_star1":"80006_1","chara_odds_star2":"80006_2","chara_odds_star3":"80006_3","staging_type":1}
+    ]
+}

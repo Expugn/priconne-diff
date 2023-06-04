@@ -1,0 +1,17 @@
+{
+    "custom_mypage": [
+        {"still_id":9000092,"group_id":20001,"still_group_id":0,"still_name":"3周年紀念自訂主頁面1","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000093,"group_id":20001,"still_group_id":0,"still_name":"3周年紀念自訂主頁面2","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000094,"group_id":20001,"still_group_id":0,"still_name":"3周年紀念自訂主頁面3","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000098,"group_id":20003,"still_group_id":0,"still_name":"3.5周年紀念自訂主頁面1","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000099,"group_id":20003,"still_group_id":0,"still_name":"3.5周年紀念自訂主頁面2","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000100,"group_id":30001,"still_group_id":0,"still_name":"宮子廚房 通往究極之路 完成紀念","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000101,"group_id":20004,"still_group_id":0,"still_name":"4周年紀念自訂主頁面","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000169,"group_id":40001,"still_group_id":0,"still_name":"大家喜歡的東西","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000170,"group_id":40001,"still_group_id":0,"still_name":"和大家一起賞花","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000210,"group_id":40001,"still_group_id":0,"still_name":"5月的連假！","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000211,"group_id":40001,"still_group_id":0,"still_name":"梅雨合唱團","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000215,"group_id":20005,"still_group_id":0,"still_name":"4.5周年紀念自訂主頁面1","vertical_still_flg":1,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000216,"group_id":20005,"still_group_id":0,"still_name":"4.5周年紀念自訂主頁面2","vertical_still_flg":1,"scroll_direction":0,"mypage_type":1}
+    ]
+}

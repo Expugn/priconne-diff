@@ -1,0 +1,29 @@
+{
+    "tower_story_data": [
+        {"story_group_id":7001,"story_type":7,"value":1,"title":"追尋失落的記憶","thumbnail_id":0,"disp_order":1,"start_time":"2019/02/13 12:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7002,"story_type":7,"value":2,"title":"姊妹羈絆與願望之塔","thumbnail_id":0,"disp_order":1,"start_time":"2019/03/15 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7003,"story_type":7,"value":3,"title":"眾星二重奏","thumbnail_id":0,"disp_order":1,"start_time":"2019/04/17 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7004,"story_type":7,"value":4,"title":"Sisters‧Booking","thumbnail_id":0,"disp_order":1,"start_time":"2019/06/17 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7005,"story_type":7,"value":5,"title":"惡作劇的鬼屋","thumbnail_id":0,"disp_order":1,"start_time":"2019/08/16 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7006,"story_type":7,"value":6,"title":"兩人的榮耀與羈絆相隨","thumbnail_id":0,"disp_order":1,"start_time":"2019/10/18 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7007,"story_type":7,"value":7,"title":"冥風戰記外傳‧吸血鬼傳承","thumbnail_id":0,"disp_order":1,"start_time":"2019/12/17 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7008,"story_type":7,"value":8,"title":"天真妹系Shooters！","thumbnail_id":0,"disp_order":1,"start_time":"2020/02/17 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7009,"story_type":7,"value":9,"title":"毛茸茸的童話奇遇行","thumbnail_id":0,"disp_order":1,"start_time":"2020/04/14 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7010,"story_type":7,"value":10,"title":"教師們的指導","thumbnail_id":0,"disp_order":1,"start_time":"2020/06/12 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7011,"story_type":7,"value":11,"title":"忍劍奇幻旅程","thumbnail_id":0,"disp_order":1,"start_time":"2020/08/14 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7012,"story_type":7,"value":12,"title":"擦肩而過的距離","thumbnail_id":0,"disp_order":1,"start_time":"2020/10/13 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7013,"story_type":7,"value":13,"title":"不諧和的Work&Rest","thumbnail_id":0,"disp_order":1,"start_time":"2020/12/10 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7014,"story_type":7,"value":14,"title":"淑女的理想與成人的真相","thumbnail_id":0,"disp_order":1,"start_time":"2021/02/09 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7015,"story_type":7,"value":15,"title":"姐姐的命題與博士的對偶","thumbnail_id":0,"disp_order":1,"start_time":"2021/04/08 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7016,"story_type":7,"value":16,"title":"追憶的歌姬與徘徊的幽靈","thumbnail_id":0,"disp_order":1,"start_time":"2021/06/11 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7017,"story_type":7,"value":17,"title":"美之探究者與女君之宴","thumbnail_id":0,"disp_order":1,"start_time":"2021/08/13 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7018,"story_type":7,"value":18,"title":"別冒失！脫離大凶大作戰！","thumbnail_id":0,"disp_order":1,"start_time":"2021/10/08 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7019,"story_type":7,"value":19,"title":"與軍人們的共同任務","thumbnail_id":0,"disp_order":1,"start_time":"2021/12/10 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7020,"story_type":7,"value":20,"title":"小題大作的搞笑與鯛魚燒","thumbnail_id":0,"disp_order":1,"start_time":"2022/02/10 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7021,"story_type":7,"value":21,"title":"年輕正義與大人美學","thumbnail_id":0,"disp_order":1,"start_time":"2022/04/08 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7022,"story_type":7,"value":22,"title":"超能力×魔法＝超魔法少女","thumbnail_id":0,"disp_order":1,"start_time":"2022/06/10 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7023,"story_type":7,"value":23,"title":"加油打氣英雄團！","thumbnail_id":0,"disp_order":1,"start_time":"2022/08/09 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7024,"story_type":7,"value":24,"title":"變貌大妃與（前）黑心商人","thumbnail_id":0,"disp_order":1,"start_time":"2022/11/08 16:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7025,"story_type":7,"value":25,"title":"激鬥！龍獸之拳交鋒","thumbnail_id":0,"disp_order":1,"start_time":"2023/03/09 16:00:00","end_time":"2030/04/24 14:59:59"}
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "cgg_completion_data": [
+        {"completion_id":101,"completion_emblem_id":0,"gacha_type":2,"completion_num":16,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"獲得「珍稀款蒐藏」所有種類的周邊","receive_description":"獲得珍稀款蒐藏中所有種類的周邊了！"},
+        {"completion_id":102,"completion_emblem_id":0,"gacha_type":1,"completion_num":23,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"獲得「基本款蒐藏」所有種類的周邊","receive_description":"獲得基本款蒐藏中所有種類的周邊了！"},
+        {"completion_id":103,"completion_emblem_id":0,"gacha_type":3,"completion_num":21,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"獲得「祭典款蒐藏」所有種類的周邊","receive_description":"獲得祭典款蒐藏中所有種類的周邊了！"},
+        {"completion_id":201,"completion_emblem_id":11001146,"gacha_type":0,"completion_num":30,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"獲得所有周邊的50%","receive_description":"由於蒐集到了所有周邊的50%，\\n獲得了稱號\\n「[FFBB00,CE4F00]慈樂之音箱推[-]」。"},
+        {"completion_id":202,"completion_emblem_id":11001147,"gacha_type":0,"completion_num":60,"secret_goods_id_1":10101,"secret_goods_id_2":10102,"secret_goods_id_3":10103,"description":"獲得所有種類的周邊","receive_description":"由於蒐集到了所有種類的周邊，\\n獲得了稱號\\n「[FFBB00,CE4F00]慈樂之音神推[-]」。"}
+    ]
+}

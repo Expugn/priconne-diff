@@ -1,0 +1,9 @@
+{
+    "trial_battle_category": [
+        {"category_id":1,"category_name":"單體物理攻擊類型","icon_id":1,"label_type_1":101,"label_type_2":0,"label_type_3":0,"description":"說明1","description_detail":"會出現設定了蘊含高物理攻擊力，並會進行強大\\n範圍攻擊的Boss。"},
+        {"category_id":2,"category_name":"單體魔法攻擊類型","icon_id":2,"label_type_1":102,"label_type_2":0,"label_type_3":0,"description":"說明2","description_detail":"會出現設定了蘊含高魔法攻擊力，並會進行強大\\n範圍攻擊的Boss。"},
+        {"category_id":3,"category_name":"防禦類型","icon_id":3,"label_type_1":103,"label_type_2":0,"label_type_3":0,"description":"說明3","description_detail":"會出現設定了以提升防禦力技能創造出傲人的高耐久力，\\n並足以凌駕對手攻擊的Boss。"},
+        {"category_id":4,"category_name":"複數物理攻擊類型","icon_id":4,"label_type_1":101,"label_type_2":202,"label_type_3":0,"description":"說明4","description_detail":"會出現設定了蘊含高物理攻擊力，並會進行強大\\n範圍攻擊的複數目標Boss。"},
+        {"category_id":5,"category_name":"複數魔法攻擊類型","icon_id":5,"label_type_1":102,"label_type_2":202,"label_type_3":0,"description":"說明5","description_detail":"會出現設定了蘊含高魔法攻擊力，並會進行強大\\n範圍攻擊的複數目標Boss。"}
+    ]
+}

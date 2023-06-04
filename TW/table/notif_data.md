@@ -1,0 +1,2 @@
+|unit_id|notif_type|comment|
+| --- | --- | --- |

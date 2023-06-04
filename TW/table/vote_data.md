@@ -1,0 +1,3 @@
+|vote_id|vote_start_time|vote_end_time|result_start_time|result_end_time|start_story_id|result_story_id|
+| --- | --- | --- | --- | --- | --- | --- |
+|1|2019-07-24 16:00:00|2019-07-29 15:59:59|2019-08-01 16:00:00|2019-08-08 15:59:59|500|501|

@@ -1,0 +1,15 @@
+{
+    "mission_condition_data": [
+        {"id":1,"condition_group_id":9040001,"relation_id":11100,"condition_value":0},
+        {"id":2,"condition_group_id":9050001,"relation_id":107101,"condition_value":5},
+        {"id":3,"condition_group_id":9050001,"relation_id":108101,"condition_value":5},
+        {"id":4,"condition_group_id":9050001,"relation_id":108301,"condition_value":5},
+        {"id":5,"condition_group_id":9040002,"relation_id":11100,"condition_value":0},
+        {"id":6,"condition_group_id":9040003,"relation_id":11100,"condition_value":0},
+        {"id":7,"condition_group_id":9010001,"relation_id":91001,"condition_value":0},
+        {"id":8,"condition_group_id":9020001,"relation_id":91001,"condition_value":0},
+        {"id":9,"condition_group_id":9020001,"relation_id":91002,"condition_value":0},
+        {"id":10,"condition_group_id":9040004,"relation_id":11101,"condition_value":0},
+        {"id":11,"condition_group_id":9040005,"relation_id":11102,"condition_value":0}
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "taq_completion_rewards": [
+        {"id":1,"completion_num":369,"mission_detail":"將題庫解放至30%（369題）吧","emblem_id":10903001},
+        {"id":2,"completion_num":738,"mission_detail":"將題庫解放至60%（738題）吧","emblem_id":10903002},
+        {"id":3,"completion_num":1229,"mission_detail":"將題庫解放至100%（1229題）吧","emblem_id":10903003}
+    ]
+}

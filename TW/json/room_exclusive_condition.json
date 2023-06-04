@@ -1,0 +1,5 @@
+{
+    "room_exclusive_condition": [
+        {"id":10000001,"unit_id":118501,"room_item_id":1,"notification":"無法同時配置花凜和花凜的辦公桌。"}
+    ]
+}

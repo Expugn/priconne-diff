@@ -1,0 +1,10 @@
+{
+    "taq_genre": [
+        {"genre_id":1,"genre_name":"戰鬥、運動"},
+        {"genre_id":2,"genre_name":"詞語、故事"},
+        {"genre_id":3,"genre_name":"文化、冷知識"},
+        {"genre_id":4,"genre_name":"化學、地理、數學"},
+        {"genre_id":5,"genre_name":"美食、生活"},
+        {"genre_id":6,"genre_name":"人、生物"}
+    ]
+}

@@ -1,0 +1,2 @@
+sre_boss_id,name,limit_time,reward_image_1,reward_count_1,reward_image_2,reward_count_2,reward_image_3,reward_count_3,reward_image_4,reward_count_4,reward_image_5,reward_count_5,extermination_reward_group_id,background,bg_position,enemy_position_x,enemy_local_position_y,enemy_size,result_boss_position_y,wave_bgm_sheet,clear_story_id_1,clear_story_id_2,disappearance_story_id
+"3008","彌勒","90","91002","1500","94002","5000000","20005","10","23001","50","21951","1","3008","103111","-100","0","0","0.9","260","bgm_M646","0","0","9000003"

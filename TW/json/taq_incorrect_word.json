@@ -1,0 +1,9 @@
+{
+    "taq_incorrect_word": [
+        {"word_id":1,"incorrect_word":"123456789"},
+        {"word_id":2,"incorrect_word":"ABCDEFGHIJKLMNOPQRSTUVWXYZ"},
+        {"word_id":3,"incorrect_word":"abcdefghijklmnopqrstuvwxyz"},
+        {"word_id":4,"incorrect_word":"あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをんがぎぐげござじずぜぞだぢづでどばびぶべぼぱぴぷぺぽぁぃぅぇぉゃゅょっ"},
+        {"word_id":5,"incorrect_word":"アイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワヲンガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポァィゥェォャュョッ"}
+    ]
+}

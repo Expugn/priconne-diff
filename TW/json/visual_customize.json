@@ -1,0 +1,19 @@
+{
+    "visual_customize": [
+        {"id":10001,"title_prefab":0,"title_movie":0,"title_voice":0,"story_top_movie":0,"quest_top_movie":0,"profile_logo":0,"watched_story_id":0,"start_time":"2018/01/01 15:00:00","end_time":"2019/08/01 15:59:59"},
+        {"id":10002,"title_prefab":1001,"title_movie":1001,"title_voice":1001,"story_top_movie":1,"quest_top_movie":1,"profile_logo":0,"watched_story_id":0,"start_time":"2019/08/01 16:00:00","end_time":"2020/02/14 15:59:59"},
+        {"id":10003,"title_prefab":0,"title_movie":1001,"title_voice":0,"story_top_movie":1,"quest_top_movie":1,"profile_logo":0,"watched_story_id":0,"start_time":"2020/02/14 16:00:00","end_time":"2020/08/03 15:59:59"},
+        {"id":10004,"title_prefab":1002,"title_movie":1001,"title_voice":1002,"story_top_movie":1,"quest_top_movie":1,"profile_logo":1002,"watched_story_id":0,"start_time":"2020/08/03 16:00:00","end_time":"2020/08/31 23:59:59"},
+        {"id":10005,"title_prefab":1002,"title_movie":1002,"title_voice":1002,"story_top_movie":2,"quest_top_movie":2,"profile_logo":1002,"watched_story_id":2015009,"start_time":"2020/08/03 16:00:00","end_time":"2020/08/31 23:59:59"},
+        {"id":10006,"title_prefab":0,"title_movie":1001,"title_voice":0,"story_top_movie":1,"quest_top_movie":1,"profile_logo":0,"watched_story_id":0,"start_time":"2020/09/01","end_time":"2021/02/09 04:59:59"},
+        {"id":10007,"title_prefab":0,"title_movie":1002,"title_voice":0,"story_top_movie":2,"quest_top_movie":2,"profile_logo":0,"watched_story_id":2015009,"start_time":"2020/09/01","end_time":"2021/02/09 04:59:59"},
+        {"id":10008,"title_prefab":0,"title_movie":1001,"title_voice":0,"story_top_movie":1,"quest_top_movie":1,"profile_logo":1003,"watched_story_id":0,"start_time":"2021/02/09 05:00:00","end_time":"2021/02/26 04:59:59"},
+        {"id":10009,"title_prefab":0,"title_movie":1002,"title_voice":0,"story_top_movie":2,"quest_top_movie":2,"profile_logo":1003,"watched_story_id":2015009,"start_time":"2021/02/09 05:00:00","end_time":"2021/02/26 04:59:59"},
+        {"id":10010,"title_prefab":0,"title_movie":1001,"title_voice":0,"story_top_movie":1,"quest_top_movie":1,"profile_logo":0,"watched_story_id":0,"start_time":"2021/02/26 04:59:59","end_time":"2021/08/01 04:59:59"},
+        {"id":10011,"title_prefab":0,"title_movie":1002,"title_voice":0,"story_top_movie":2,"quest_top_movie":2,"profile_logo":0,"watched_story_id":2015009,"start_time":"2021/02/26 04:59:59","end_time":"2021/08/01 04:59:59"},
+        {"id":10012,"title_prefab":1003,"title_movie":1001,"title_voice":1003,"story_top_movie":1,"quest_top_movie":1,"profile_logo":1004,"watched_story_id":0,"start_time":"2021/08/01 05:00:00","end_time":"2021/08/31 23:59:59"},
+        {"id":10013,"title_prefab":1003,"title_movie":1002,"title_voice":1003,"story_top_movie":2,"quest_top_movie":2,"profile_logo":1004,"watched_story_id":2015009,"start_time":"2021/08/01 05:00:00","end_time":"2021/08/31 23:59:59"},
+        {"id":10014,"title_prefab":0,"title_movie":1001,"title_voice":0,"story_top_movie":1,"quest_top_movie":1,"profile_logo":0,"watched_story_id":0,"start_time":"2021/09/01","end_time":"2030/08/15 04:59:59"},
+        {"id":10015,"title_prefab":0,"title_movie":1002,"title_voice":0,"story_top_movie":2,"quest_top_movie":2,"profile_logo":0,"watched_story_id":2015009,"start_time":"2021/09/01","end_time":"2030/08/15 04:59:59"}
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "space_battle_data": [
+        {"space_battle_id":1002001,"space_enemy_id":800100211,"limit_time":90,"clear_reward_group":810020011,"background":100586,"sheet_id":"bgm_M17","que_id":"bgm_M17_02","result_boss_position_y":0,"quest_detail_bg_id":100585,"quest_detail_bg_position":0,"quest_name":"神秘的圓盤來襲！"}
+    ]
+}

@@ -1,0 +1,2 @@
+|wave_group_id|enemy_id_1|enemy_id_2|enemy_id_3|enemy_id_4|enemy_id_5|
+| --- | --- | --- | --- | --- | --- |

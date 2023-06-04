@@ -1,0 +1,3 @@
+|sre_id|name|teaser_time|start_time|end_time|count_start_time|close_time|story_id|close_story_condition_id|close_story_id|top_bgm|top_bg|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|3|終炎的理想鄉|2023/04/14 16:00:00|2023/04/17 16:00:00|2023/04/24 15:59:59|2023/04/23 15:59:59|2023/05/07 15:59:59|2000002|9000003|2116006|bgm_M643||

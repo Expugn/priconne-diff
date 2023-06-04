@@ -1,0 +1,3 @@
+|id|except_unit_group_id|except_unit_id|
+| --- | --- | --- |
+|1|1|106901|

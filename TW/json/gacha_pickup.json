@@ -1,0 +1,10 @@
+{
+    "gacha_pickup": [
+        {"id":1,"priority":1,"reward_type":1,"reward_id":112001,"name":"凱留（新年）"},
+        {"id":1,"priority":2,"reward_type":1,"reward_id":111801,"name":"貪吃佩可（新年）"},
+        {"id":1,"priority":3,"reward_type":1,"reward_id":111901,"name":"可可蘿（新年）"},
+        {"id":1,"priority":4,"reward_type":1,"reward_id":115001,"name":"似似花（新年）"},
+        {"id":1,"priority":5,"reward_type":1,"reward_id":108801,"name":"優衣（新年）"},
+        {"id":1,"priority":6,"reward_type":1,"reward_id":108701,"name":"日和（新年）"}
+    ]
+}

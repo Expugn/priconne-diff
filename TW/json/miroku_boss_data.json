@@ -1,0 +1,5 @@
+{
+    "miroku_boss_data": [
+        {"sre_boss_id":3008,"name":"彌勒","limit_time":90,"reward_image_1":91002,"reward_count_1":1500,"reward_image_2":94002,"reward_count_2":5000000,"reward_image_3":20005,"reward_count_3":10,"reward_image_4":23001,"reward_count_4":50,"reward_image_5":21951,"reward_count_5":1,"extermination_reward_group_id":3008,"background":103111,"bg_position":-100,"enemy_position_x":0,"enemy_local_position_y":0,"enemy_size":0.9,"result_boss_position_y":260,"wave_bgm_sheet":"bgm_M646","clear_story_id_1":0,"clear_story_id_2":0,"disappearance_story_id":9000003}
+    ]
+}

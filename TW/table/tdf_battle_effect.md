@@ -1,0 +1,2 @@
+|id|quest_id|icon_name|effect_name|description|
+| --- | --- | --- | --- | --- |

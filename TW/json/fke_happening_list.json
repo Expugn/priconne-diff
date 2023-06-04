@@ -1,0 +1,24 @@
+{
+    "fke_happening_list": [
+        {"happening_id":1,"happening_name":"梅莎路提姆"},
+        {"happening_id":2,"happening_name":"香蕉皮跳躍"},
+        {"happening_id":3,"happening_name":"香蕉皮滑行"},
+        {"happening_id":4,"happening_name":"步未的團扇"},
+        {"happening_id":5,"happening_name":"惡代官雕像"},
+        {"happening_id":6,"happening_name":"間歇泉"},
+        {"happening_id":7,"happening_name":"龍捲風"},
+        {"happening_id":8,"happening_name":"逆風"},
+        {"happening_id":9,"happening_name":"傾盆大雨"},
+        {"happening_id":10,"happening_name":"席茲"},
+        {"happening_id":11,"happening_name":"落雷"},
+        {"happening_id":12,"happening_name":"彈力球"},
+        {"happening_id":13,"happening_name":"超低空飛行"},
+        {"happening_id":14,"happening_name":"突破平流層"},
+        {"happening_id":15,"happening_name":"火箭"},
+        {"happening_id":16,"happening_name":"妮諾的爆裂忍法"},
+        {"happening_id":17,"happening_name":"摩擦腹部"},
+        {"happening_id":18,"happening_name":"順風"},
+        {"happening_id":19,"happening_name":"鑽頭"},
+        {"happening_id":20,"happening_name":"頭暈目眩"}
+    ]
+}

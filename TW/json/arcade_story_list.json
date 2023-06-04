@@ -1,0 +1,23 @@
+{
+    "arcade_story_list": [
+        {"story_id":5021700,"arcade_id":1003,"sub_title":"與香織的海邊特訓！"},
+        {"story_id":5021701,"arcade_id":1003,"sub_title":"始於禮而止於禮"},
+        {"story_id":5021710,"arcade_id":1003,"sub_title":"挑戰自己的極限"},
+        {"story_id":5021711,"arcade_id":1003,"sub_title":"真的才是最棒的"},
+        {"story_id":5027700,"arcade_id":1004,"sub_title":"再次前往艾爾皮斯島！"},
+        {"story_id":5027701,"arcade_id":1004,"sub_title":"過熱的戰鬥"},
+        {"story_id":5027702,"arcade_id":1004,"sub_title":"真打登場"},
+        {"story_id":5027703,"arcade_id":1004,"sub_title":"戰鬥的結果……"},
+        {"story_id":5027704,"arcade_id":1004,"sub_title":"朝向更高處邁進！"},
+        {"story_id":5040700,"arcade_id":1005,"sub_title":"看守起司！"},
+        {"story_id":5040701,"arcade_id":1005,"sub_title":"與小小敵人之間的攻防戰"},
+        {"story_id":5040702,"arcade_id":1005,"sub_title":"起司的誘惑"},
+        {"story_id":5040703,"arcade_id":1005,"sub_title":"萌生愛意？"},
+        {"story_id":5040704,"arcade_id":1005,"sub_title":"勞動會持續到天長地久"},
+        {"story_id":5080700,"arcade_id":1008,"sub_title":"通往究極之路"},
+        {"story_id":5080701,"arcade_id":1008,"sub_title":"布丁會持續到天長地久"},
+        {"story_id":5096700,"arcade_id":1010,"sub_title":"不會結束的假期"},
+        {"story_id":5096701,"arcade_id":1010,"sub_title":"競爭、互相理解的羈絆"},
+        {"story_id":9004201,"arcade_id":1009,"sub_title":"團結一致以答對為目標！"}
+    ]
+}

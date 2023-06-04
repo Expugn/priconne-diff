@@ -1,0 +1,13 @@
+{
+    "equipment_donation": [
+        {"team_level":10,"donation_num_once":2,"donation_num_daily":10,"request_num_once":10},
+        {"team_level":20,"donation_num_once":2,"donation_num_daily":10,"request_num_once":10},
+        {"team_level":30,"donation_num_once":2,"donation_num_daily":10,"request_num_once":10},
+        {"team_level":40,"donation_num_once":2,"donation_num_daily":10,"request_num_once":10},
+        {"team_level":50,"donation_num_once":2,"donation_num_daily":10,"request_num_once":10},
+        {"team_level":60,"donation_num_once":2,"donation_num_daily":10,"request_num_once":10},
+        {"team_level":70,"donation_num_once":2,"donation_num_daily":10,"request_num_once":10},
+        {"team_level":80,"donation_num_once":2,"donation_num_daily":10,"request_num_once":10},
+        {"team_level":999,"donation_num_once":2,"donation_num_daily":10,"request_num_once":10}
+    ]
+}

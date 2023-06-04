@@ -1,0 +1,8 @@
+{
+    "sre_mission_category_data": [
+        {"category_id":1000,"name":"共通"},
+        {"category_id":1001,"name":"第1階段"},
+        {"category_id":1002,"name":"第2階段"},
+        {"category_id":1003,"name":"第3階段"}
+    ]
+}

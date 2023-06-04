@@ -1,0 +1,24 @@
+{
+    "tw_treasure_item": [
+        {"id":1,"item_id":97501,"type":1,"point":1,"message_id":97501},
+        {"id":2,"item_id":97502,"type":2,"point":3,"message_id":97502},
+        {"id":3,"item_id":97503,"type":1,"point":1,"message_id":97503},
+        {"id":4,"item_id":97504,"type":1,"point":1,"message_id":97504},
+        {"id":5,"item_id":97505,"type":1,"point":1,"message_id":97505},
+        {"id":6,"item_id":97506,"type":2,"point":3,"message_id":97506},
+        {"id":7,"item_id":97507,"type":2,"point":3,"message_id":97507},
+        {"id":8,"item_id":97508,"type":2,"point":3,"message_id":97508},
+        {"id":9,"item_id":97509,"type":1,"point":1,"message_id":97509},
+        {"id":10,"item_id":97510,"type":1,"point":1,"message_id":97510},
+        {"id":11,"item_id":97511,"type":2,"point":3,"message_id":97511},
+        {"id":12,"item_id":97512,"type":2,"point":3,"message_id":97512},
+        {"id":13,"item_id":97513,"type":2,"point":3,"message_id":97513},
+        {"id":14,"item_id":97514,"type":2,"point":3,"message_id":97514},
+        {"id":15,"item_id":97515,"type":1,"point":1,"message_id":97515},
+        {"id":16,"item_id":97516,"type":2,"point":3,"message_id":97516},
+        {"id":17,"item_id":97517,"type":2,"point":3,"message_id":97517},
+        {"id":18,"item_id":97518,"type":2,"point":3,"message_id":97518},
+        {"id":19,"item_id":97519,"type":2,"point":3,"message_id":97519},
+        {"id":20,"item_id":97520,"type":2,"point":3,"message_id":97520}
+    ]
+}

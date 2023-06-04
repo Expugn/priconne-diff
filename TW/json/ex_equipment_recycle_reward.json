@@ -1,0 +1,8 @@
+{
+    "ex_equipment_recycle_reward": [
+        {"rarity":1,"enhance_pt_coefficient":50,"coin_coefficient":10},
+        {"rarity":2,"enhance_pt_coefficient":150,"coin_coefficient":30},
+        {"rarity":3,"enhance_pt_coefficient":500,"coin_coefficient":100},
+        {"rarity":4,"enhance_pt_coefficient":5000,"coin_coefficient":1000}
+    ]
+}

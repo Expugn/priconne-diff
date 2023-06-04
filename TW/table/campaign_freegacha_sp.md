@@ -1,0 +1,3 @@
+|campaign_id|max_exec_count|start_time|end_time|
+| --- | --- | --- | --- |
+|1|10|2020/08/03 05:00:00|2020/08/06 04:59:59|

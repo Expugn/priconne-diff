@@ -1,0 +1,16 @@
+{
+    "ske_story_data": [
+        {"sub_story_id":1005801,"original_event_id":10058,"title":"羈絆日記之1","unlock_condition_quest_id":20033108,"unlock_condition_boss_id":0,"read_condition_event_story_id":5058003},
+        {"sub_story_id":1005802,"original_event_id":10058,"title":"羈絆日記之2","unlock_condition_quest_id":20033110,"unlock_condition_boss_id":0,"read_condition_event_story_id":5058003},
+        {"sub_story_id":1005803,"original_event_id":10058,"title":"羈絆日記之3","unlock_condition_quest_id":20033112,"unlock_condition_boss_id":0,"read_condition_event_story_id":5058003},
+        {"sub_story_id":1005804,"original_event_id":10058,"title":"羈絆日記之4","unlock_condition_quest_id":20033115,"unlock_condition_boss_id":0,"read_condition_event_story_id":5058004},
+        {"sub_story_id":1005805,"original_event_id":10058,"title":"羈絆日記之5","unlock_condition_quest_id":0,"unlock_condition_boss_id":2003301,"read_condition_event_story_id":5058005},
+        {"sub_story_id":1005901,"original_event_id":10059,"title":"羈絆日記之6","unlock_condition_quest_id":20034103,"unlock_condition_boss_id":0,"read_condition_event_story_id":5059001},
+        {"sub_story_id":1005902,"original_event_id":10059,"title":"羈絆日記之7","unlock_condition_quest_id":20034106,"unlock_condition_boss_id":0,"read_condition_event_story_id":5059002},
+        {"sub_story_id":1005903,"original_event_id":10059,"title":"羈絆日記之8","unlock_condition_quest_id":20034109,"unlock_condition_boss_id":0,"read_condition_event_story_id":5059004},
+        {"sub_story_id":1005904,"original_event_id":10059,"title":"羈絆日記之9","unlock_condition_quest_id":20034112,"unlock_condition_boss_id":0,"read_condition_event_story_id":5059005},
+        {"sub_story_id":1005905,"original_event_id":10059,"title":"羈絆日記之10","unlock_condition_quest_id":20034115,"unlock_condition_boss_id":0,"read_condition_event_story_id":5059006},
+        {"sub_story_id":1005906,"original_event_id":10059,"title":"羈絆日記之11","unlock_condition_quest_id":0,"unlock_condition_boss_id":2003401,"read_condition_event_story_id":5059007},
+        {"sub_story_id":1005907,"original_event_id":10059,"title":"額外頁數","unlock_condition_quest_id":0,"unlock_condition_boss_id":0,"read_condition_event_story_id":0}
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "ex_equipment_category": [
+        {"category":101,"category_name":"單手劍","category_base":"red","outline":"#D23232","recycle_item_id":90009},
+        {"category":102,"category_name":"雙手劍","category_base":"red","outline":"#D23232","recycle_item_id":90009},
+        {"category":103,"category_name":"短劍","category_base":"red","outline":"#D23232","recycle_item_id":90009},
+        {"category":104,"category_name":"槍","category_base":"red","outline":"#D23232","recycle_item_id":90009},
+        {"category":105,"category_name":"斧","category_base":"red","outline":"#D23232","recycle_item_id":90009},
+        {"category":106,"category_name":"弓","category_base":"red","outline":"#D23232","recycle_item_id":90009},
+        {"category":107,"category_name":"拳","category_base":"red","outline":"#D23232","recycle_item_id":90009},
+        {"category":108,"category_name":"盾","category_base":"red","outline":"#D23232","recycle_item_id":90009},
+        {"category":109,"category_name":"杖","category_base":"red","outline":"#D23232","recycle_item_id":90009},
+        {"category":110,"category_name":"書本","category_base":"red","outline":"#D23232","recycle_item_id":90009},
+        {"category":201,"category_name":"衣服","category_base":"blue","outline":"#476FD8","recycle_item_id":90010},
+        {"category":202,"category_name":"鎧甲","category_base":"blue","outline":"#476FD8","recycle_item_id":90010},
+        {"category":203,"category_name":"白長袍","category_base":"blue","outline":"#476FD8","recycle_item_id":90010},
+        {"category":204,"category_name":"黑長袍","category_base":"blue","outline":"#476FD8","recycle_item_id":90010},
+        {"category":301,"category_name":"戒指","category_base":"yellow","outline":"#E5681E","recycle_item_id":90011},
+        {"category":302,"category_name":"手鐲","category_base":"yellow","outline":"#E5681E","recycle_item_id":90011},
+        {"category":303,"category_name":"項鍊","category_base":"yellow","outline":"#E5681E","recycle_item_id":90011},
+        {"category":304,"category_name":"寶珠","category_base":"yellow","outline":"#E5681E","recycle_item_id":90011},
+        {"category":305,"category_name":"耳環","category_base":"yellow","outline":"#E5681E","recycle_item_id":90011}
+    ]
+}
