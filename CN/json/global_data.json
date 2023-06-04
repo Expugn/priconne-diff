@@ -1,0 +1,6 @@
+{
+    "global_data": [
+        {"key_name":"GACHA_SINGLE_MANA","value":1000,"desc":"单抽赠送mana"},
+        {"key_name":"GACHA_MULTIPLE_MANA","value":10000,"desc":"十连抽赠送mana"}
+    ]
+}

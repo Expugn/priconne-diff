@@ -1,0 +1,7 @@
+{
+    "dungeon_special_battle": [
+        {"special_battle_id":101,"quest_id":31008005,"mode":1,"purpose_type":1,"parts_hp_save_flag":1,"trigger_hp":37,"wave_group_id":501010081,"action_start_second":5,"hp_gauge_color_flag":1,"start_idle_trigger":0,"appear_time":0,"detail_boss_bg_size":1.1,"detail_boss_bg_height":70,"detail_boss_motion":"0"},
+        {"special_battle_id":102,"quest_id":31008005,"mode":2,"purpose_type":2,"parts_hp_save_flag":0,"trigger_hp":0,"wave_group_id":501010082,"action_start_second":5,"hp_gauge_color_flag":1,"start_idle_trigger":600,"appear_time":5,"detail_boss_bg_size":1,"detail_boss_bg_height":0,"detail_boss_motion":"0"},
+        {"special_battle_id":103,"quest_id":31008005,"mode":3,"purpose_type":1,"parts_hp_save_flag":0,"trigger_hp":0,"wave_group_id":501010083,"action_start_second":5,"hp_gauge_color_flag":1,"start_idle_trigger":0,"appear_time":0,"detail_boss_bg_size":1.1,"detail_boss_bg_height":0,"detail_boss_motion":"0"}
+    ]
+}

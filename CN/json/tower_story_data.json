@@ -1,0 +1,22 @@
+{
+    "tower_story_data": [
+        {"story_group_id":7001,"story_type":7,"value":1,"title":"寻求失去的记忆","thumbnail_id":0,"disp_order":1,"start_time":"2020/09/28 9:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7002,"story_type":7,"value":2,"title":"姐妹的羁绊与愿望之塔","thumbnail_id":0,"disp_order":1,"start_time":"2020/11/09 12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7003,"story_type":7,"value":3,"title":"星星们的二重奏","thumbnail_id":0,"disp_order":1,"start_time":"2020/12/07 12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7004,"story_type":7,"value":4,"title":"妹妹·约定","thumbnail_id":0,"disp_order":1,"start_time":"2021/02/01 11:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7005,"story_type":7,"value":5,"title":"傲娇鬼屋","thumbnail_id":0,"disp_order":1,"start_time":"2021/03/29 12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7006,"story_type":7,"value":6,"title":"两人的骄傲与羁绊同在","thumbnail_id":0,"disp_order":1,"start_time":"2021/05/28 9:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7007,"story_type":7,"value":7,"title":"冥风战记外传·吸血鬼传承","thumbnail_id":0,"disp_order":1,"start_time":"2021/07/26 12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7008,"story_type":7,"value":8,"title":"天真的妹妹射手！","thumbnail_id":0,"disp_order":1,"start_time":"2021/09/21 11:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7009,"story_type":7,"value":9,"title":"毛茸茸的童话旅途","thumbnail_id":0,"disp_order":1,"start_time":"2021/11/16 11:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7010,"story_type":7,"value":10,"title":"老师们的学习辅导","thumbnail_id":0,"disp_order":1,"start_time":"2022/01/14 11:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7011,"story_type":7,"value":11,"title":"忍剑奇道中","thumbnail_id":0,"disp_order":1,"start_time":"2022/03/16 12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7012,"story_type":7,"value":12,"title":"擦肩而过的距离","thumbnail_id":0,"disp_order":1,"start_time":"2022/05/15 12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7013,"story_type":7,"value":13,"title":"劳逸不均","thumbnail_id":0,"disp_order":1,"start_time":"2022/07/14 12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7014,"story_type":7,"value":14,"title":"淑女的理想和大人的真实","thumbnail_id":0,"disp_order":1,"start_time":"2022/09/15 12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7015,"story_type":7,"value":15,"title":"姐姐的命题和博士的对偶","thumbnail_id":0,"disp_order":1,"start_time":"2022/11/18 12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7016,"story_type":7,"value":16,"title":"追忆的歌姬与仿徨的幽灵","thumbnail_id":0,"disp_order":1,"start_time":"2023/01/18 12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7017,"story_type":7,"value":17,"title":"美的探求者和女君的宴席","thumbnail_id":0,"disp_order":1,"start_time":"2023/03/18 12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":7018,"story_type":7,"value":18,"title":"冒失退散！　摆脱大凶大作战","thumbnail_id":0,"disp_order":1,"start_time":"2023/05/17 12:00:00","end_time":"2099/12/31 23:59:59"}
+    ]
+}

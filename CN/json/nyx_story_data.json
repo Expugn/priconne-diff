@@ -1,0 +1,19 @@
+{
+    "nyx_story_data": [
+        {"story_id":11,"story_seq":1,"story_phase":1,"title":"","sub_title":"","read_condition_time":"0","condition_quest_id":10065105,"condition_boss_count":0,"adv_flg":1,"adv_id":5038600},
+        {"story_id":12,"story_seq":2,"story_phase":1,"title":"高中1年级　千爱瑠","sub_title":"应该流传至下世纪的新言语","read_condition_time":"0","condition_quest_id":10065105,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":13,"story_seq":3,"story_phase":1,"title":"高中2年级　克罗依","sub_title":"我非常不擅长写作文","read_condition_time":"0","condition_quest_id":10065107,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":14,"story_seq":4,"story_phase":1,"title":"高中3年级　优妮","sub_title":"自由飞翔","read_condition_time":"0","condition_quest_id":10065109,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":21,"story_seq":5,"story_phase":2,"title":"","sub_title":"","read_condition_time":"0","condition_quest_id":10065111,"condition_boss_count":0,"adv_flg":2,"adv_id":5038601},
+        {"story_id":22,"story_seq":6,"story_phase":2,"title":"记录负责人　秋乃","sub_title":"我想到了！","read_condition_time":"0","condition_quest_id":10065111,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":23,"story_seq":7,"story_phase":2,"title":"记录负责人　珠希","sub_title":"组装喵！","read_condition_time":"0","condition_quest_id":10065112,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":24,"story_seq":8,"story_phase":2,"title":"记录负责人　由加莉","sub_title":"我写过这个吗？","read_condition_time":"0","condition_quest_id":10065113,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":25,"story_seq":9,"story_phase":2,"title":"记录负责人　美冬","sub_title":"不能放着不管","read_condition_time":"0","condition_quest_id":10065114,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":26,"story_seq":10,"story_phase":2,"title":"总结","sub_title":"特别讲座结束","read_condition_time":"0","condition_quest_id":10065115,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":31,"story_seq":11,"story_phase":3,"title":"","sub_title":"","read_condition_time":"0","condition_quest_id":10065115,"condition_boss_count":1,"adv_flg":2,"adv_id":5038602},
+        {"story_id":32,"story_seq":12,"story_phase":3,"title":"浪漫继承计划","sub_title":"开发记录 - 考察","read_condition_time":"0","condition_quest_id":10065115,"condition_boss_count":1,"adv_flg":0,"adv_id":0},
+        {"story_id":33,"story_seq":13,"story_phase":3,"title":"未全充溢计划","sub_title":"开发记录 - 试作机完成","read_condition_time":"0","condition_quest_id":10065115,"condition_boss_count":2,"adv_flg":0,"adv_id":0},
+        {"story_id":34,"story_seq":14,"story_phase":3,"title":"画龙点睛计划","sub_title":"开发记录 - 最终工程","read_condition_time":"0","condition_quest_id":10065115,"condition_boss_count":3,"adv_flg":0,"adv_id":0},
+        {"story_id":35,"story_seq":15,"story_phase":3,"title":"","sub_title":"","read_condition_time":"2023/04/23 23:59:59","condition_quest_id":10065115,"condition_boss_count":3,"adv_flg":3,"adv_id":5038603}
+    ]
+}

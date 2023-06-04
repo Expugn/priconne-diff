@@ -1,0 +1,24 @@
+{
+    "hatsune_multi_route_parameter": [
+        {"id":1,"quest_id":10008101,"type":1,"param_1":10008111,"param_2":0,"param_3":0,"text_1":""},
+        {"id":2,"quest_id":10008112,"type":1,"param_1":10008115,"param_2":0,"param_3":0,"text_1":""},
+        {"id":3,"quest_id":10008101,"type":3,"param_1":10008103,"param_2":0,"param_3":0,"text_1":""},
+        {"id":4,"quest_id":10008105,"type":3,"param_1":10008115,"param_2":0,"param_3":0,"text_1":""},
+        {"id":5,"quest_id":10008112,"type":4,"param_1":150,"param_2":0,"param_3":0,"text_1":""},
+        {"id":6,"quest_id":10028101,"type":1,"param_1":10028111,"param_2":0,"param_3":0,"text_1":""},
+        {"id":7,"quest_id":10028112,"type":1,"param_1":10028115,"param_2":0,"param_3":0,"text_1":""},
+        {"id":8,"quest_id":10028101,"type":3,"param_1":10028103,"param_2":0,"param_3":0,"text_1":""},
+        {"id":9,"quest_id":10028105,"type":3,"param_1":10028115,"param_2":0,"param_3":0,"text_1":""},
+        {"id":10,"quest_id":10028112,"type":4,"param_1":150,"param_2":0,"param_3":0,"text_1":""},
+        {"id":11,"quest_id":20012104,"type":11,"param_1":20012104,"param_2":20012107,"param_3":0,"text_1":""},
+        {"id":12,"quest_id":20012108,"type":11,"param_1":20012108,"param_2":20012109,"param_3":0,"text_1":""},
+        {"id":13,"quest_id":20012110,"type":11,"param_1":20012110,"param_2":20012114,"param_3":0,"text_1":""},
+        {"id":14,"quest_id":20012115,"type":11,"param_1":20012115,"param_2":20012115,"param_3":0,"text_1":""},
+        {"id":15,"quest_id":20012110,"type":4,"param_1":120,"param_2":0,"param_3":0,"text_1":""},
+        {"id":16,"quest_id":20008101,"type":1,"param_1":20008111,"param_2":0,"param_3":0,"text_1":""},
+        {"id":17,"quest_id":20008112,"type":1,"param_1":20008115,"param_2":0,"param_3":0,"text_1":""},
+        {"id":18,"quest_id":20008101,"type":3,"param_1":20008103,"param_2":0,"param_3":0,"text_1":""},
+        {"id":19,"quest_id":20008105,"type":3,"param_1":20008115,"param_2":0,"param_3":0,"text_1":""},
+        {"id":20,"quest_id":20008112,"type":4,"param_1":150,"param_2":0,"param_3":0,"text_1":""}
+    ]
+}

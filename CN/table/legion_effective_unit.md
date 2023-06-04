@@ -1,0 +1,2 @@
+|legion_boss_id|unit_id|effect_id|support_effect_id|
+| --- | --- | --- | --- |

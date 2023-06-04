@@ -1,0 +1,4 @@
+|id|ttk_score|mission_detail|reward_type_1|reward_id_1|reward_count_1|reward_type_2|reward_id_2|reward_count_2|reward_type_3|reward_id_3|reward_count_3|reward_type_4|reward_id_4|reward_count_4|reward_type_5|reward_id_5|reward_count_5|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|1|192000|累计获得192000以上的分数吧|15|11001071|1|0|0|0|0|0|0|0|0|0|0|0|0|
+|2|480000|累计获得480000以上的分数吧|15|11001072|1|0|0|0|0|0|0|0|0|0|0|0|0|

@@ -1,0 +1,21 @@
+{
+    "hatsune_diary_data": [
+        {"diary_id":1,"contents_type":0,"diary_date":1,"sub_title":"为什么会\\n变成这样呢……","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/08/31 5:00:00","condition_story_id":5023000,"condition_boss_count":0},
+        {"diary_id":2,"contents_type":0,"diary_date":2,"sub_title":"连一声贵安\\n都说不出口","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/08/31 5:00:00","condition_story_id":5023001,"condition_boss_count":0},
+        {"diary_id":3,"contents_type":0,"diary_date":3,"sub_title":"搞砸了！","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/08/31 5:00:00","condition_story_id":5023002,"condition_boss_count":0},
+        {"diary_id":4,"contents_type":0,"diary_date":4,"sub_title":"优妮同学是\\n这样的人","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/01 5:00:00","condition_story_id":5023002,"condition_boss_count":0},
+        {"diary_id":5,"contents_type":0,"diary_date":5,"sub_title":"克罗依同学是\\n这样的人","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/01 5:00:00","condition_story_id":5023002,"condition_boss_count":0},
+        {"diary_id":6,"contents_type":0,"diary_date":6,"sub_title":"千爱瑠同学是\\n这样的人","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/01 5:00:00","condition_story_id":5023002,"condition_boss_count":0},
+        {"diary_id":7,"contents_type":0,"diary_date":7,"sub_title":"知性的\\n优妮同学","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/02 5:00:00","condition_story_id":5023003,"condition_boss_count":0},
+        {"diary_id":8,"contents_type":0,"diary_date":8,"sub_title":"温柔的\\n克罗依同学","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/02 5:00:00","condition_story_id":5023003,"condition_boss_count":0},
+        {"diary_id":9,"contents_type":0,"diary_date":9,"sub_title":"让人憧憬的\\n千爱瑠同学","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/02 5:00:00","condition_story_id":5023003,"condition_boss_count":0},
+        {"diary_id":10,"contents_type":0,"diary_date":10,"sub_title":"特别讲座\\n排练","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/03 5:00:00","condition_story_id":5023003,"condition_boss_count":0},
+        {"diary_id":11,"contents_type":0,"diary_date":11,"sub_title":"终于到了\\n特别讲座这一天","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/03 5:00:00","condition_story_id":5023004,"condition_boss_count":0},
+        {"diary_id":12,"contents_type":0,"diary_date":12,"sub_title":"真不愧是\\nBB团的团长！","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/03 5:00:00","condition_story_id":5023005,"condition_boss_count":0},
+        {"diary_id":13,"contents_type":0,"diary_date":13,"sub_title":"剧毒曼德拉草\\n大恐慌","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/03 5:00:00","condition_story_id":5023006,"condition_boss_count":0},
+        {"diary_id":14,"contents_type":0,"diary_date":14,"sub_title":"最后一天","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/14 5:00:00","condition_story_id":5023006,"condition_boss_count":1},
+        {"diary_id":15,"contents_type":1,"diary_date":0,"sub_title":"","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/14 21:00:00","condition_story_id":5023000,"condition_boss_count":0},
+        {"diary_id":16,"contents_type":1,"diary_date":0,"sub_title":"","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/14 21:00:00","condition_story_id":5023000,"condition_boss_count":0},
+        {"diary_id":17,"contents_type":1,"diary_date":0,"sub_title":"","forced_release_time":"2030/01/01 1:00:00","condition_time":"2019/09/14 21:00:00","condition_story_id":5023000,"condition_boss_count":0}
+    ]
+}

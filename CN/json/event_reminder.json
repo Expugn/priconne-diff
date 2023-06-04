@@ -1,0 +1,12 @@
+{
+    "event_reminder": [
+        {"reminder_id":1004601,"event_id":10046,"start_time":"2022/7/31 11:00:00","end_time":"2022/8/31 10:59:59","title_text":"活动特别章节","description_text":"活动「美里的夏日声援！　追梦的盛夏棒球队」的\\n特别章节已解锁。","notice_text":"也可以从特别剧情\\n阅读独特的故事。","thumbnail_id":5046601,"btn_text":"前往剧情","target_type":1,"target_id":5046601},
+        {"reminder_id":1004801,"event_id":10048,"start_time":"2022/9/15 0:00:00","end_time":"2022/9/30 10:59:59","title_text":"活动特别章节","description_text":"观看活动「快乐变身 双生天使」的\\n结局，即可解锁特别章节。","notice_text":"也可以从特别剧情\\n阅读独特的故事。","thumbnail_id":0,"btn_text":"前往剧情","target_type":2,"target_id":5048},
+        {"reminder_id":1004802,"event_id":10048,"start_time":"2022/9/15 0:00:00","end_time":"2022/9/30 10:59:59","title_text":"活动特别章节","description_text":"在活动「快乐变身 双生天使」中\\n收到了拉菲的信！","notice_text":"也可以从特别剧情\\n阅读独特的故事。","thumbnail_id":0,"btn_text":"前往剧情","target_type":3,"target_id":5048},
+        {"reminder_id":1005601,"event_id":10056,"start_time":"2023/1/15 0:00:00","end_time":"2023/1/30 10:59:59","title_text":"活动特别章节","description_text":"活动「新春美食公主！　孤注一掷的少女们」的\\n特别章节已解锁。","notice_text":"也可以从特别剧情\\n阅读独特的故事。","thumbnail_id":5056601,"btn_text":"前往剧情","target_type":4,"target_id":5056},
+        {"reminder_id":1006101,"event_id":10061,"start_time":"2023/2/28 11:00:00","end_time":"2023/3/19 14:59:59","title_text":"活动特别章节","description_text":"活动「灰姑娘课程　璀璨的日子有着苹果的滋味」的\\n特别章节已解锁。","notice_text":"可以从特别剧情\\n阅读独特的故事。","thumbnail_id":5061601,"btn_text":"前往剧情","target_type":3,"target_id":5061},
+        {"reminder_id":1006102,"event_id":10061,"start_time":"2023/3/14 23:59:59","end_time":"2023/3/19 14:59:59","title_text":"活动特别章节","description_text":"活动「灰姑娘课程　璀璨的日子有着苹果的滋味」的\\n特别章节已解锁。","notice_text":"","thumbnail_id":5061602,"btn_text":"前往剧情","target_type":5,"target_id":10061},
+        {"reminder_id":1006103,"event_id":10061,"start_time":"2023/3/19 15:00:00","end_time":"2023/3/31 10:59:59","title_text":"活动特别章节","description_text":"活动「灰姑娘课程　璀璨的日子有着苹果的滋味」的\\n特别章节已解锁。","notice_text":"可以从特别剧情\\n阅读独特的故事。","thumbnail_id":5061601,"btn_text":"前往剧情","target_type":3,"target_id":5061},
+        {"reminder_id":1006601,"event_id":10066,"start_time":"2023/4/28 11:00:00","end_time":"2023/5/31 10:59:59","title_text":"小游戏剧情解锁","description_text":"小游戏「大激战！词语接龙 龙人竞赛」\\n解锁了新的剧情","notice_text":"观看需要在「大家的游戏桌」中\\n购买「大激战！词语接龙 龙人竞赛」\\n并游玩EXTRA","thumbnail_id":5027704,"btn_text":"前往剧情","target_type":6,"target_id":1004}
+    ]
+}
