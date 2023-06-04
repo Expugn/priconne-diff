@@ -1,0 +1,8 @@
+{
+    "ttk_weapon": [
+        {"ttk_weapon_id":1,"ttk_score":0,"name":"나무망치"},
+        {"ttk_weapon_id":2,"ttk_score":64000,"name":"마법의 작은 망치"},
+        {"ttk_weapon_id":3,"ttk_score":256000,"name":"마히루의 수제 쥘부채"},
+        {"ttk_weapon_id":4,"ttk_score":480000,"name":"요술 망치"}
+    ]
+}

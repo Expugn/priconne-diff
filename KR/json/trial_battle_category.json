@@ -1,0 +1,9 @@
+{
+    "trial_battle_category": [
+        {"category_id":1,"category_name":"가고일","icon_id":1,"label_type_1":101,"label_type_2":0,"label_type_3":0,"description":"강력한 새 석상","description_detail":"높은 물리 공격력을 지닌, 강력한 범위 공격을 하도록\\n프로그램된 보스가 나타난다."},
+        {"category_id":2,"category_name":"마구스 가고일","icon_id":2,"label_type_1":102,"label_type_2":0,"label_type_3":0,"description":"마경의 새 석상","description_detail":"높은 마법 공격력을 지닌, 강력한 범위 공격을 하도록\\n프로그램된 보스가 나타난다."},
+        {"category_id":3,"category_name":"가드 가고일","icon_id":3,"label_type_1":103,"label_type_2":0,"label_type_3":0,"description":"견고한 새 석상","description_detail":"방어력 증가 스킬로 높은 내구력을 자랑하며 상대의 공격을\\n능가하도록 프로그램된 보스가 나타난다."},
+        {"category_id":4,"category_name":"가고일 버스트","icon_id":4,"label_type_1":101,"label_type_2":202,"label_type_3":0,"description":"강력한 부석을 거느린 새 석상","description_detail":"높은 물리 공격력을 지닌, 강력한 범위 공격을 하도록\\n프로그램된 멀티 타깃 보스가 나타난다."},
+        {"category_id":5,"category_name":"가고일 마기","icon_id":5,"label_type_1":102,"label_type_2":202,"label_type_3":0,"description":"마경의 부석을 거느린 새 석상","description_detail":"높은 마법 공격력을 지닌, 강력한 범위 공격을 하도록\\n프로그램된 멀티 타깃 보스가 나타난다."}
+    ]
+}

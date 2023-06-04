@@ -1,0 +1,7 @@
+{
+    "kaiser_special_battle": [
+        {"mode":1,"recommended_level":140,"purpose_type":4,"purpose_count":280,"trigger_hp":0,"story_id_mode_start":432,"story_id_mode_end":433,"wave_group_id":801100321,"unnecessary_defeat_chara":610019401,"story_start_second":1.5,"action_start_second":6,"hp_gauge_color_flag":1,"start_idle_trigger":0,"appear_time":0},
+        {"mode":2,"recommended_level":140,"purpose_type":1,"purpose_count":0,"trigger_hp":50,"story_id_mode_start":0,"story_id_mode_end":434,"wave_group_id":801100322,"unnecessary_defeat_chara":0,"story_start_second":1.5,"action_start_second":5,"hp_gauge_color_flag":1,"start_idle_trigger":0,"appear_time":0},
+        {"mode":3,"recommended_level":140,"purpose_type":1,"purpose_count":0,"trigger_hp":0,"story_id_mode_start":0,"story_id_mode_end":435,"wave_group_id":801100323,"unnecessary_defeat_chara":0,"story_start_second":1.5,"action_start_second":5,"hp_gauge_color_flag":1,"start_idle_trigger":0,"appear_time":0}
+    ]
+}

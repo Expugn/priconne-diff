@@ -1,0 +1,5 @@
+{
+    "taq_game_setting": [
+        {"id":1,"lottery_rate":0.15,"help_use_count_normal":4,"help_use_count_hard":3,"help_use_count_veryhard":2}
+    ]
+}

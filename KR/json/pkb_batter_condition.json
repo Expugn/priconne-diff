@@ -1,0 +1,13 @@
+{
+    "pkb_batter_condition": [
+        {"batter_id":1,"pkb_score":0,"name":"아야네","detail":"","meet":1,"critical":2,"power":1,"ability_name":"---","ability_detail":"","is_playable":1},
+        {"batter_id":2,"pkb_score":6000,"name":"아사히","detail":"역경에 굴하지 않고 부원들을 이끄는 주장. 결정력 있는 스윙을 살린 안정감 있는 타격이 특기.","meet":0,"critical":1,"power":3,"ability_name":"---","ability_detail":"","is_playable":1},
+        {"batter_id":3,"pkb_score":16000,"name":"부원3","detail":"무뚝뚝하지만 동료를 소중히 생각하는 마음은 누구보다 강한 남자. 싸움으로 단련된 힘이 주특기인 파워 타자.","meet":3,"critical":3,"power":0,"ability_name":"아드레날린","ability_detail":"홈런을 연발하면 연발한 수에 따라 파워업한다","is_playable":1},
+        {"batter_id":4,"pkb_score":30000,"name":"{0}","detail":"모두에게서 두터운 신뢰를 모으는, 기대받는 조력자 부원. 실력은 미지수지만 행운의 해프닝을 불러온다.","meet":2,"critical":2,"power":2,"ability_name":"럭키","ability_detail":"행운의 해프닝을 불러온다","is_playable":1},
+        {"batter_id":5,"pkb_score":50000,"name":"선수 명부 보너스 페이지","detail":"아무도 모르는 극비 정보가 실려있는 보너스 페이지. 결코 누구에게도 보여서는 안 된다.","meet":1,"critical":0,"power":1,"ability_name":"","ability_detail":"","is_playable":0},
+        {"batter_id":6,"pkb_score":50000,"name":"선수 명부 보너스 페이지","detail":"","meet":0,"critical":1,"power":1,"ability_name":"","ability_detail":"","is_playable":0},
+        {"batter_id":7,"pkb_score":50000,"name":"선수 명부 보너스 페이지","detail":"","meet":0,"critical":0,"power":0,"ability_name":"","ability_detail":"","is_playable":0},
+        {"batter_id":8,"pkb_score":50000,"name":"선수 명부 보너스 페이지","detail":"","meet":1,"critical":0,"power":0,"ability_name":"","ability_detail":"","is_playable":0},
+        {"batter_id":9,"pkb_score":50000,"name":"선수 명부 보너스 페이지","detail":"","meet":0,"critical":0,"power":0,"ability_name":"","ability_detail":"","is_playable":0}
+    ]
+}

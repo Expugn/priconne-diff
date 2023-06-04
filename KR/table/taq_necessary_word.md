@@ -1,0 +1,2 @@
+|taq_no|necessary_word_1|unnecessary_word_1|necessary_word_2|unnecessary_word_2|necessary_word_3|unnecessary_word_3|necessary_word_4|unnecessary_word_4|necessary_word_5|unnecessary_word_5|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

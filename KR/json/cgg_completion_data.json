@@ -1,0 +1,9 @@
+{
+    "cgg_completion_data": [
+        {"completion_id":101,"completion_emblem_id":0,"gacha_type":2,"completion_num":16,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"「프리미엄 컬렉션」 굿즈를 전 종류 획득하자","receive_description":"프리미엄 컬렉션 굿즈를 전 종류 획득했습니다!"},
+        {"completion_id":102,"completion_emblem_id":0,"gacha_type":1,"completion_num":23,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"「스탠더드 컬렉션」 굿즈를 전 종류 획득하자","receive_description":"스탠더드 컬렉션 굿즈를 전 종류 획득했습니다!"},
+        {"completion_id":103,"completion_emblem_id":0,"gacha_type":3,"completion_num":21,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"「페스 컬렉션」 굿즈를 전 종류 획득하자","receive_description":"페스 컬렉션 굿즈를 전 종류 획득했습니다!"},
+        {"completion_id":201,"completion_emblem_id":11001146,"gacha_type":0,"completion_num":30,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"굿즈 전체의 50%를 획득하자","receive_description":"굿즈 전체의 50%를 모아\\n칭호 「[FFBB00,CE4F00]카르미나 올팬[-]」을\\n획득했습니다."},
+        {"completion_id":202,"completion_emblem_id":11001147,"gacha_type":0,"completion_num":60,"secret_goods_id_1":10101,"secret_goods_id_2":10102,"secret_goods_id_3":10103,"description":"모든 종류의 굿즈를 획득하자","receive_description":"모든 종류의 굿즈를 모아\\n칭호 「[FFBB00,CE4F00]카르미나 최애[-]」를\\n획득했습니다."}
+    ]
+}

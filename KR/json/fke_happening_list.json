@@ -1,0 +1,24 @@
+{
+    "fke_happening_list": [
+        {"happening_id":1,"happening_name":"메사르팀"},
+        {"happening_id":2,"happening_name":"바나나 점프"},
+        {"happening_id":3,"happening_name":"바나나 슬라이드"},
+        {"happening_id":4,"happening_name":"아유미의 부채"},
+        {"happening_id":5,"happening_name":"아쿠다이칸 조각"},
+        {"happening_id":6,"happening_name":"간헐천"},
+        {"happening_id":7,"happening_name":"토네이도"},
+        {"happening_id":8,"happening_name":"맞바람"},
+        {"happening_id":9,"happening_name":"폭우"},
+        {"happening_id":10,"happening_name":"지즈"},
+        {"happening_id":11,"happening_name":"낙뢰"},
+        {"happening_id":12,"happening_name":"슈퍼 볼"},
+        {"happening_id":13,"happening_name":"초 저공비행"},
+        {"happening_id":14,"happening_name":"성층권 돌입"},
+        {"happening_id":15,"happening_name":"로켓"},
+        {"happening_id":16,"happening_name":"니논의 폭렬인법"},
+        {"happening_id":17,"happening_name":"슬라이딩"},
+        {"happening_id":18,"happening_name":"순풍"},
+        {"happening_id":19,"happening_name":"드릴"},
+        {"happening_id":20,"happening_name":"기절"}
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "nyx_drama_data": [
+        {"drama_id":101,"story_phase":1,"title":"특별강좌 프레젠테이션 리포트","sub_title":"치에룬 임팩트","condition_unlocked_story_id":12,"condition_locked_story_id":13},
+        {"drama_id":102,"story_phase":1,"title":"특별강좌 프레젠테이션 리포트","sub_title":"클로에의 높은 식견","condition_unlocked_story_id":13,"condition_locked_story_id":14},
+        {"drama_id":103,"story_phase":1,"title":"특별강좌 프레젠테이션 리포트","sub_title":"떨쳐라 선배 티","condition_unlocked_story_id":14,"condition_locked_story_id":22},
+        {"drama_id":201,"story_phase":2,"title":"메르쿠리우스 재단 활동 일지","sub_title":"아키노의 리더십","condition_unlocked_story_id":22,"condition_locked_story_id":23},
+        {"drama_id":202,"story_phase":2,"title":"메르쿠리우스 재단 활동 일지","sub_title":"타올라라 붕어빵의 얼","condition_unlocked_story_id":23,"condition_locked_story_id":24},
+        {"drama_id":203,"story_phase":2,"title":"메르쿠리우스 재단 활동 일지","sub_title":"한잔하면 불가능 없음","condition_unlocked_story_id":24,"condition_locked_story_id":25},
+        {"drama_id":204,"story_phase":2,"title":"메르쿠리우스 재단 활동 일지","sub_title":"미후유의 설교 1일 코스","condition_unlocked_story_id":25,"condition_locked_story_id":32},
+        {"drama_id":301,"story_phase":3,"title":"유니의 메모장","sub_title":"맥주와 생과자의 철학","condition_unlocked_story_id":32,"condition_locked_story_id":33},
+        {"drama_id":302,"story_phase":3,"title":"유니의 메모장","sub_title":"호랑이 굴에 숨어들어야","condition_unlocked_story_id":33,"condition_locked_story_id":34},
+        {"drama_id":303,"story_phase":3,"title":"유니의 메모장","sub_title":"동작 테스트와 파멸의 유혹","condition_unlocked_story_id":34,"condition_locked_story_id":0}
+    ]
+}

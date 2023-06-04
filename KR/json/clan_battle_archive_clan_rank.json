@@ -1,0 +1,18 @@
+{
+    "clan_battle_archive_clan_rank": [
+        {"id":1,"rank_from":1,"rank_to":1},
+        {"id":2,"rank_from":2,"rank_to":2},
+        {"id":3,"rank_from":3,"rank_to":3},
+        {"id":4,"rank_from":4,"rank_to":10},
+        {"id":5,"rank_from":11,"rank_to":50},
+        {"id":6,"rank_from":51,"rank_to":100},
+        {"id":7,"rank_from":101,"rank_to":1000},
+        {"id":8,"rank_from":1001,"rank_to":2000},
+        {"id":9,"rank_from":2001,"rank_to":5000},
+        {"id":10,"rank_from":5001,"rank_to":7000},
+        {"id":11,"rank_from":7001,"rank_to":10000},
+        {"id":12,"rank_from":10001,"rank_to":15000},
+        {"id":13,"rank_from":15001,"rank_to":20000},
+        {"id":14,"rank_from":20001,"rank_to":-1}
+    ]
+}

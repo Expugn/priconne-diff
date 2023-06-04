@@ -1,0 +1,16 @@
+{
+    "room_item_get_announcement": [
+        {"id":1,"room_item_id":2801,"start_date":"2021/12/01 15:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":2,"room_item_id":2802,"start_date":"2021/12/21 15:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":3,"room_item_id":2307,"start_date":"2022/03/16 15:00","end_date":"2030/12/31 23:59:59","get_date":"2022/03/16 15:00","room_announcement_name":""},
+        {"id":4,"room_item_id":2308,"start_date":"2022/03/16 15:00","end_date":"2030/12/31 23:59:59","get_date":"2022/03/16 15:00","room_announcement_name":""},
+        {"id":5,"room_item_id":2806,"start_date":"2022/03/10 15:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":6,"room_item_id":2808,"start_date":"2022/03/28 15:00","end_date":"2030/12/31 23:59:59","get_date":"2023/04/13 15:00","room_announcement_name":""},
+        {"id":7,"room_item_id":2809,"start_date":"2022/06/30 15:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":8,"room_item_id":2814,"start_date":"2022/08/29 15:00","end_date":"2030/12/31 23:59:59","get_date":"2022/08/29 15:00","room_announcement_name":""},
+        {"id":9,"room_item_id":2804,"start_date":"2023/02/17 15:00","end_date":"2030/12/31 23:59:59","get_date":"2023/02/17 15:00","room_announcement_name":"오마 지역 진흥 포스터\\n『새해 툰누스 낚시 도안』"},
+        {"id":10,"room_item_id":2816,"start_date":"2023/03/16 05:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":11,"room_item_id":2818,"start_date":"2023/03/29 15:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
+        {"id":12,"room_item_id":2805,"start_date":"2029/05/15 15:00","end_date":"2030/12/31 23:59:59","get_date":"2029/05/15 15:00","room_announcement_name":""}
+    ]
+}

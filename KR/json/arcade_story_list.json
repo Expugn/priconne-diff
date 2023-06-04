@@ -1,0 +1,21 @@
+{
+    "arcade_story_list": [
+        {"story_id":5021700,"arcade_id":1003,"sub_title":"카오리와 해변에서 대특훈!"},
+        {"story_id":5021701,"arcade_id":1003,"sub_title":"인사로 시작해 인사로 끝난다"},
+        {"story_id":5021710,"arcade_id":1003,"sub_title":"자신의 한계에 도전하라"},
+        {"story_id":5021711,"arcade_id":1003,"sub_title":"진짜가 제일"},
+        {"story_id":5027700,"arcade_id":1004,"sub_title":"다시 한번, 엘피스 섬으로!"},
+        {"story_id":5027701,"arcade_id":1004,"sub_title":"격렬해지는 싸움"},
+        {"story_id":5027702,"arcade_id":1004,"sub_title":"비장의 인물 등장"},
+        {"story_id":5027703,"arcade_id":1004,"sub_title":"싸움의 결과……"},
+        {"story_id":5027704,"arcade_id":1004,"sub_title":"더 높은 곳으로!"},
+        {"story_id":5040700,"arcade_id":1005,"sub_title":"치즈를 지키자!"},
+        {"story_id":5040701,"arcade_id":1005,"sub_title":"조그만 적과의 공방"},
+        {"story_id":5040702,"arcade_id":1005,"sub_title":"치즈의 유혹"},
+        {"story_id":5040703,"arcade_id":1005,"sub_title":"움트는 애정?"},
+        {"story_id":5040704,"arcade_id":1005,"sub_title":"노동은 계속된다 어디까지나"},
+        {"story_id":5080700,"arcade_id":1008,"sub_title":"궁극으로의 길"},
+        {"story_id":5080701,"arcade_id":1008,"sub_title":"푸딩은 계속된다, 어디까지나"},
+        {"story_id":9004201,"arcade_id":1009,"sub_title":"정답을 목표로 일치단결!"}
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "cgg_gacha_info": [
+        {"gacha_type":1,"cgg_id":1,"gacha_name":"스탠더드 컬렉션","gacha_description":"스탠더드 컬렉션에서는 포스터나 페넌트 등\\n방에 장식할 수 있는 단골 굿즈가 풍성하게!\\n당신의 방을 카르미나로 꾸미자!","cost_currency_num":3,"gacha_intro":"1회 메달 {0}개!\\n단골 굿즈로 당신의 방을 카르미나로 꾸미자!"},
+        {"gacha_type":2,"cgg_id":1,"gacha_name":"프리미엄 컬렉션","gacha_description":"프리미엄 컬렉션에서는 사인지나\\n브로마이드 등 ★★ 이상 굿즈가 풍성하게!\\n레어 굿즈를 잔뜩 획득하자!","cost_currency_num":10,"gacha_intro":"1회 메달 {0}개!\\n멤버 친필 사인지 등 ★★ 이상 굿즈를 확정으로 획득!"},
+        {"gacha_type":3,"cgg_id":1,"gacha_name":"페스 컬렉션","gacha_description":"페스 컬렉션에서는 카르미나 서머 라이브에서\\n대활약하는 굿즈가 한 곳에!\\n획득한 굿즈를 한 손에 들고 자, 라이브 공연장으로!","cost_currency_num":3,"gacha_intro":"1회 메달 {0}개!\\n카르미나 라이브에 참가하는 데 필수인 아이템을 획득하자!"}
+    ]
+}

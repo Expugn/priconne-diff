@@ -1,0 +1,10 @@
+{
+    "pct_combo_coefficient": [
+        {"id":1,"combo_min":1,"combo_max":9,"combo_coefficient":1010},
+        {"id":2,"combo_min":10,"combo_max":19,"combo_coefficient":1030},
+        {"id":3,"combo_min":20,"combo_max":29,"combo_coefficient":1050},
+        {"id":4,"combo_min":30,"combo_max":39,"combo_coefficient":1070},
+        {"id":5,"combo_min":40,"combo_max":49,"combo_coefficient":1100},
+        {"id":6,"combo_min":50,"combo_max":999,"combo_coefficient":1200}
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "taq_genre": [
+        {"genre_id":1,"genre_name":"배틀 · 스포츠"},
+        {"genre_id":2,"genre_name":"단어 · 이야기"},
+        {"genre_id":3,"genre_name":"문화 · 잡학"},
+        {"genre_id":4,"genre_name":"과학 · 지리 · 수학"},
+        {"genre_id":5,"genre_name":"음식 · 생활"},
+        {"genre_id":6,"genre_name":"사람 · 생물"}
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "omp_story_data": [
+        {"omp_story_id":7001,"event_id":10062,"condition_quest_id":10062103,"condition_boss_id":0,"story_seq":1,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"우즈키와 린의 메모리"},
+        {"omp_story_id":7002,"event_id":10062,"condition_quest_id":10062107,"condition_boss_id":0,"story_seq":2,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"뉴 제네레이션즈의 메모리"},
+        {"omp_story_id":7003,"event_id":10062,"condition_quest_id":10062107,"condition_boss_id":0,"story_seq":4,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"우즈키와 미오의 메모리"},
+        {"omp_story_id":7004,"event_id":10062,"condition_quest_id":10062111,"condition_boss_id":0,"story_seq":6,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"미식전의 메모리"},
+        {"omp_story_id":7005,"event_id":10062,"condition_quest_id":10062111,"condition_boss_id":0,"story_seq":7,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"린과 미오의 메모리"},
+        {"omp_story_id":7006,"event_id":10062,"condition_quest_id":10062111,"condition_boss_id":0,"story_seq":8,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"뉴 제네레이션즈의 메모리"},
+        {"omp_story_id":7007,"event_id":10062,"condition_quest_id":10062115,"condition_boss_id":0,"story_seq":9,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"뉴 제네레이션즈와 미식전의 메모리"},
+        {"omp_story_id":7008,"event_id":10062,"condition_quest_id":10062115,"condition_boss_id":0,"story_seq":10,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"미식전의 메모리"},
+        {"omp_story_id":7009,"event_id":10063,"condition_quest_id":10063111,"condition_boss_id":0,"story_seq":14,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"뉴 제네레이션즈와 미식전의 메모리"},
+        {"omp_story_id":7102,"event_id":10062,"condition_quest_id":10062107,"condition_boss_id":0,"story_seq":3,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"뉴 제네레이션즈의 메모리"},
+        {"omp_story_id":7103,"event_id":10062,"condition_quest_id":10062107,"condition_boss_id":0,"story_seq":5,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"미식전의 메모리"},
+        {"omp_story_id":7104,"event_id":10062,"condition_quest_id":10062115,"condition_boss_id":0,"story_seq":11,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"뉴 제네레이션즈와 미식전의 메모리"},
+        {"omp_story_id":7105,"event_id":10063,"condition_quest_id":10063111,"condition_boss_id":0,"story_seq":12,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"뉴 제네레이션즈와 미식전의 메모리"},
+        {"omp_story_id":7106,"event_id":10063,"condition_quest_id":10063111,"condition_boss_id":0,"story_seq":13,"is_readable_on_result":0,"reward_type":0,"reward_id":0,"reward_count":0,"sub_title":"뉴 제네레이션즈와 미식전의 메모리"},
+        {"omp_story_id":7201,"event_id":10062,"condition_quest_id":10062103,"condition_boss_id":0,"story_seq":15,"is_readable_on_result":1,"reward_type":7,"reward_id":2405,"reward_count":1,"sub_title":""}
+    ]
+}

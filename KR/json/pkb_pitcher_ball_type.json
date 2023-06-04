@@ -1,0 +1,21 @@
+{
+    "pkb_pitcher_ball_type": [
+        {"pitcher_id":1,"ball_type":1,"ball_type_name":"스트레이트"},
+        {"pitcher_id":1,"ball_type":2,"ball_type_name":"커브"},
+        {"pitcher_id":2,"ball_type":3,"ball_type_name":"스트레이트"},
+        {"pitcher_id":2,"ball_type":4,"ball_type_name":"싱커"},
+        {"pitcher_id":2,"ball_type":6,"ball_type_name":"S커브"},
+        {"pitcher_id":3,"ball_type":7,"ball_type_name":"스트레이트"},
+        {"pitcher_id":3,"ball_type":8,"ball_type_name":"커브"},
+        {"pitcher_id":3,"ball_type":9,"ball_type_name":"슬라이더"},
+        {"pitcher_id":3,"ball_type":5,"ball_type_name":"싱커"},
+        {"pitcher_id":3,"ball_type":16,"ball_type_name":"스크류 볼"},
+        {"pitcher_id":3,"ball_type":10,"ball_type_name":"하츠네☆일루전"},
+        {"pitcher_id":3,"ball_type":11,"ball_type_name":"하츠네☆배니시"},
+        {"pitcher_id":4,"ball_type":12,"ball_type_name":"스트레이트"},
+        {"pitcher_id":4,"ball_type":13,"ball_type_name":"커브"},
+        {"pitcher_id":4,"ball_type":14,"ball_type_name":"싱커"},
+        {"pitcher_id":4,"ball_type":17,"ball_type_name":"드래곤즈 앤드 볼"},
+        {"pitcher_id":4,"ball_type":18,"ball_type_name":"드래곤즈 테일"}
+    ]
+}

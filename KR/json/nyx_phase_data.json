@@ -1,0 +1,7 @@
+{
+    "nyx_phase_data": [
+        {"story_phase":1,"phase_title":"특별강좌 프레젠테이션 리포트","condition_quest_id":20023105,"condition_quest_boss":0},
+        {"story_phase":2,"phase_title":"메르쿠리우스 재단 활동 일지","condition_quest_id":20023111,"condition_quest_boss":0},
+        {"story_phase":3,"phase_title":"유니의 메모장","condition_quest_id":20023115,"condition_quest_boss":2002301}
+    ]
+}

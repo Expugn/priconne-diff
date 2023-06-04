@@ -1,0 +1,27 @@
+{
+    "tower_story_data": [
+        {"story_group_id":7001,"story_type":7,"value":1,"title":"잃어버린 기억을 찾아서","thumbnail_id":0,"disp_order":1,"start_time":"2019/10/15 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7002,"story_type":7,"value":2,"title":"자매의 인연과 소원의 탑","thumbnail_id":0,"disp_order":1,"start_time":"2019/11/12 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7003,"story_type":7,"value":3,"title":"스타들의 이중주","thumbnail_id":0,"disp_order":1,"start_time":"2019/12/19 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7004,"story_type":7,"value":4,"title":"시스터즈 부킹","thumbnail_id":0,"disp_order":1,"start_time":"2020/02/13 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7005,"story_type":7,"value":5,"title":"장난꾸러기 고스트 하우스","thumbnail_id":0,"disp_order":1,"start_time":"2020/04/16 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7006,"story_type":7,"value":6,"title":"두 사람의 긍지는 유대감과 함께","thumbnail_id":0,"disp_order":1,"start_time":"2020/06/11 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7007,"story_type":7,"value":7,"title":"명풍전기 외전ㆍ흡혈귀 전설","thumbnail_id":0,"disp_order":1,"start_time":"2020/08/13 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7008,"story_type":7,"value":8,"title":"달콤한 여동생 슈터즈!","thumbnail_id":0,"disp_order":1,"start_time":"2020/10/14 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7009,"story_type":7,"value":9,"title":"폭신폭신 메르헨 여행길","thumbnail_id":0,"disp_order":1,"start_time":"2020/12/15 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7010,"story_type":7,"value":10,"title":"선생님들의 가이던스","thumbnail_id":0,"disp_order":1,"start_time":"2021/02/11 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7011,"story_type":7,"value":11,"title":"닌자와 검객의 대모험","thumbnail_id":0,"disp_order":1,"start_time":"2021/04/11 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7012,"story_type":7,"value":12,"title":"엇갈리는 디스턴스","thumbnail_id":0,"disp_order":1,"start_time":"2021/06/14 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7013,"story_type":7,"value":13,"title":"뒤죽박죽 워크 & 레스트","thumbnail_id":0,"disp_order":1,"start_time":"2021/08/16 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7014,"story_type":7,"value":14,"title":"숙녀의 이상과 어른의 진실","thumbnail_id":0,"disp_order":1,"start_time":"2021/10/17 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7015,"story_type":7,"value":15,"title":"누나의 명제와 박사의 대우","thumbnail_id":0,"disp_order":1,"start_time":"2021/12/18 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7016,"story_type":7,"value":16,"title":"추억의 가희와 헤매는 유령","thumbnail_id":0,"disp_order":1,"start_time":"2022/02/17 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7017,"story_type":7,"value":17,"title":"미의 탐구자와 여군의 연회","thumbnail_id":0,"disp_order":1,"start_time":"2022/04/17 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7018,"story_type":7,"value":18,"title":"실수야 물러가라! 탈 대흉 대작전","thumbnail_id":0,"disp_order":1,"start_time":"2022/06/16 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7019,"story_type":7,"value":19,"title":"군인들의 합동 임무","thumbnail_id":0,"disp_order":1,"start_time":"2022/08/15 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7020,"story_type":7,"value":20,"title":"웃음과 붕어빵의 헛소동","thumbnail_id":0,"disp_order":1,"start_time":"2022/10/16 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7021,"story_type":7,"value":21,"title":"젊은 정의와 어른의 미학","thumbnail_id":0,"disp_order":1,"start_time":"2022/12/17 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7022,"story_type":7,"value":22,"title":"초능력 × 마법＝초 마법 소녀","thumbnail_id":0,"disp_order":1,"start_time":"2023/02/15 15:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":7023,"story_type":7,"value":23,"title":"치얼 업 히어로즈!","thumbnail_id":0,"disp_order":1,"start_time":"2023/04/15 15:00:00","end_time":"2030/04/24 14:59:59"}
+    ]
+}

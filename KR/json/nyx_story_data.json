@@ -1,0 +1,19 @@
+{
+    "nyx_story_data": [
+        {"story_id":11,"story_seq":1,"story_phase":1,"title":"","sub_title":"","read_condition_time":"0","condition_quest_id":20023105,"condition_boss_count":0,"adv_flg":1,"adv_id":5038600},
+        {"story_id":12,"story_seq":2,"story_phase":1,"title":"고등부 1학년 치에루","sub_title":"다음 세대로 계승해야 할 새로운 언어","read_condition_time":"0","condition_quest_id":20023105,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":13,"story_seq":3,"story_phase":1,"title":"고등부 2학년 클로에","sub_title":"저는 작문을 엄청 못합니다","read_condition_time":"0","condition_quest_id":20023107,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":14,"story_seq":4,"story_phase":1,"title":"고등부 3학년 유니","sub_title":"비상에 다다를 때까지","read_condition_time":"0","condition_quest_id":20023109,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":21,"story_seq":5,"story_phase":2,"title":"","sub_title":"","read_condition_time":"0","condition_quest_id":20023111,"condition_boss_count":0,"adv_flg":2,"adv_id":5038601},
+        {"story_id":22,"story_seq":6,"story_phase":2,"title":"기입 담당 아키노","sub_title":"떠올랐어요!","read_condition_time":"0","condition_quest_id":20023111,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":23,"story_seq":7,"story_phase":2,"title":"기입 담당 타마키","sub_title":"조립이다냥!","read_condition_time":"0","condition_quest_id":20023112,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":24,"story_seq":8,"story_phase":2,"title":"기입 담당 유카리","sub_title":"내가 이런 걸 썼던가…?","read_condition_time":"0","condition_quest_id":20023113,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":25,"story_seq":9,"story_phase":2,"title":"기입 담당 미후유","sub_title":"이대로 둘 수는 없어","read_condition_time":"0","condition_quest_id":20023114,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":26,"story_seq":10,"story_phase":2,"title":"총괄","sub_title":"특별 강좌를 마치며","read_condition_time":"0","condition_quest_id":20023115,"condition_boss_count":0,"adv_flg":0,"adv_id":0},
+        {"story_id":31,"story_seq":11,"story_phase":3,"title":"","sub_title":"","read_condition_time":"0","condition_quest_id":20023115,"condition_boss_count":1,"adv_flg":2,"adv_id":5038602},
+        {"story_id":32,"story_seq":12,"story_phase":3,"title":"낭만 계승 계획","sub_title":"개발기 - 고찰","read_condition_time":"0","condition_quest_id":20023115,"condition_boss_count":1,"adv_flg":0,"adv_id":0},
+        {"story_id":33,"story_seq":13,"story_phase":3,"title":"완전히 충족되지 않은 계획","sub_title":"개발기 - 시제품 완성","read_condition_time":"0","condition_quest_id":20023115,"condition_boss_count":2,"adv_flg":0,"adv_id":0},
+        {"story_id":34,"story_seq":14,"story_phase":3,"title":"화룡점정 계획","sub_title":"개발기 - 최종 공정","read_condition_time":"0","condition_quest_id":20023115,"condition_boss_count":3,"adv_flg":0,"adv_id":0},
+        {"story_id":35,"story_seq":15,"story_phase":3,"title":"","sub_title":"","read_condition_time":"2023/02/14 15:00:00","condition_quest_id":20023115,"condition_boss_count":3,"adv_flg":3,"adv_id":5038603}
+    ]
+}

@@ -1,0 +1,3 @@
+|id|teaser_time|start_time|end_time|count_start_time|close_time|story_id|close_story_condition_id|close_story_id|top_bgm|top_bg|after_bgm|after_bg|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|1|2021/01/16 15:00:00|2021/01/20 15:00:00|2021/01/28 14:59:59|2021/01/27 14:59:59|2021/02/04 14:59:59|2015006|2015008|2015009|bgm_M300||bgm_M260||

@@ -1,0 +1,9 @@
+{
+    "spskill_label_data": [
+        {"unit_id":106701,"normal_label_text":"평상시","sp_label_text":"특수 스킬"},
+        {"unit_id":115801,"normal_label_text":"평상시","sp_label_text":"변신 중"},
+        {"unit_id":116401,"normal_label_text":"평상시","sp_label_text":"특수 스킬"},
+        {"unit_id":118501,"normal_label_text":"평상시","sp_label_text":"특수 스킬"},
+        {"unit_id":122001,"normal_label_text":"평상시","sp_label_text":"특수 스킬"}
+    ]
+}

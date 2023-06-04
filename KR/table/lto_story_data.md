@@ -1,0 +1,3 @@
+|sub_story_id|event_id|title|condition_story_id|reward_type|reward_id|reward_count|
+| --- | --- | --- | --- | --- | --- | --- |
+|1004801|10048|라피가 보낸 편지|5048007|2|60473|1|

@@ -1,0 +1,8 @@
+{
+    "serial_group_data": [
+        {"serial_group_id":101,"campaign_name":"애니메이션 Season1 전권 구입 특전","serial_campaign_id_1":10101,"serial_campaign_id_2":10102,"serial_campaign_id_3":10103,"serial_campaign_id_4":10104,"serial_campaign_id_5":0,"serial_campaign_id_6":0,"start_time":"2029-11-05 12:00:00","end_time":"2030/05/15 4:59:59"},
+        {"serial_group_id":102,"campaign_name":"애니메이션 Season2 전권 구입 특전","serial_campaign_id_1":10201,"serial_campaign_id_2":10202,"serial_campaign_id_3":10203,"serial_campaign_id_4":0,"serial_campaign_id_5":0,"serial_campaign_id_6":0,"start_time":"2029-05-16 00:00:00","end_time":"2030/12/31 23:59:59"},
+        {"serial_group_id":201,"campaign_name":"주간 패미통","serial_campaign_id_1":0,"serial_campaign_id_2":0,"serial_campaign_id_3":0,"serial_campaign_id_4":0,"serial_campaign_id_5":0,"serial_campaign_id_6":0,"start_time":"2029-05-19 00:00:00","end_time":"2029/05/19 23:59:59"},
+        {"serial_group_id":202,"campaign_name":"공식 아트웍스 Vol.3","serial_campaign_id_1":0,"serial_campaign_id_2":0,"serial_campaign_id_3":0,"serial_campaign_id_4":0,"serial_campaign_id_5":0,"serial_campaign_id_6":0,"start_time":"2029-07-30 00:00:00","end_time":"2030/07/30 23:59:59"}
+    ]
+}

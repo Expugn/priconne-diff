@@ -1,0 +1,13 @@
+{
+    "ticket_gacha_data": [
+        {"gacha_id":80001,"gacha_name":"★3 확정 애니 뽑기 티켓 (프린세스 커넥트! Re:Dive 1)","gacha_type":1,"ticket_id":24005,"gacha_times":1,"gacha_detail":2,"guarantee_rarity":"0","rarity_odds":"80000","chara_odds_star1":"80001_1","chara_odds_star2":"80001_2","chara_odds_star3":"80001_3","staging_type":1},
+        {"gacha_id":80002,"gacha_name":"★3 확정 애니 뽑기 티켓 (프린세스 커넥트! Re:Dive 2)","gacha_type":1,"ticket_id":24006,"gacha_times":1,"gacha_detail":2,"guarantee_rarity":"0","rarity_odds":"80000","chara_odds_star1":"80002_1","chara_odds_star2":"80002_2","chara_odds_star3":"80002_3","staging_type":1},
+        {"gacha_id":80003,"gacha_name":"★3 확정 애니 뽑기 티켓 (프린세스 커넥트! Re:Dive 3)","gacha_type":1,"ticket_id":24007,"gacha_times":1,"gacha_detail":2,"guarantee_rarity":"0","rarity_odds":"80000","chara_odds_star1":"80003_1","chara_odds_star2":"80003_2","chara_odds_star3":"80003_3","staging_type":1},
+        {"gacha_id":80004,"gacha_name":"★3 확정 애니 뽑기 티켓 (프린세스 커넥트! Re:Dive 4)","gacha_type":1,"ticket_id":24008,"gacha_times":1,"gacha_detail":2,"guarantee_rarity":"0","rarity_odds":"80000","chara_odds_star1":"80004_1","chara_odds_star2":"80004_2","chara_odds_star3":"80004_3","staging_type":1},
+        {"gacha_id":80005,"gacha_name":"★3 확정 프리코네 페스 기념 뽑기 티켓","gacha_type":1,"ticket_id":24009,"gacha_times":1,"gacha_detail":2,"guarantee_rarity":"0","rarity_odds":"80000","chara_odds_star1":"80005_1","chara_odds_star2":"80005_2","chara_odds_star3":"80005_3","staging_type":1},
+        {"gacha_id":80006,"gacha_name":"★3 확정 프리코네 페스 2022 기념 뽑기 티켓","gacha_type":1,"ticket_id":24010,"gacha_times":1,"gacha_detail":2,"guarantee_rarity":"0","rarity_odds":"80000","chara_odds_star1":"80006_1","chara_odds_star2":"80006_2","chara_odds_star3":"80006_3","staging_type":1},
+        {"gacha_id":80007,"gacha_name":"★3 확정 애니 뽑기 티켓 프린세스 커넥트! Re:Dive Season2 1","gacha_type":1,"ticket_id":24011,"gacha_times":1,"gacha_detail":2,"guarantee_rarity":"0","rarity_odds":"80000","chara_odds_star1":"80007_1","chara_odds_star2":"80007_2","chara_odds_star3":"80007_3","staging_type":1},
+        {"gacha_id":80008,"gacha_name":"★3 확정 애니 뽑기 티켓 프린세스 커넥트! Re:Dive Season2 2","gacha_type":1,"ticket_id":24012,"gacha_times":1,"gacha_detail":2,"guarantee_rarity":"0","rarity_odds":"80000","chara_odds_star1":"80008_1","chara_odds_star2":"80008_2","chara_odds_star3":"80008_3","staging_type":1},
+        {"gacha_id":80009,"gacha_name":"★3 확정 애니 뽑기 티켓 프린세스 커넥트! Re:Dive Season2 3","gacha_type":1,"ticket_id":24013,"gacha_times":1,"gacha_detail":2,"guarantee_rarity":"0","rarity_odds":"80000","chara_odds_star1":"80009_1","chara_odds_star2":"80009_2","chara_odds_star3":"80009_3","staging_type":1}
+    ]
+}

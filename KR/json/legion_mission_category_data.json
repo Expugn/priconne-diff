@@ -1,0 +1,9 @@
+{
+    "legion_mission_category_data": [
+        {"category_id":1000,"name":"공통"},
+        {"category_id":1005,"name":"미소라"},
+        {"category_id":1006,"name":"란파"},
+        {"category_id":1007,"name":"아졸드"},
+        {"category_id":1008,"name":"카리자"}
+    ]
+}

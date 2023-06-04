@@ -1,0 +1,20 @@
+{
+    "shiori_unlock_unit_condition": [
+        {"id":10,"unit_id":107601,"event_id":20004,"condition_mission_id":72004021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에게 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득!![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":12,"unit_id":108001,"event_id":20005,"condition_mission_id":72005021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에게 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득!![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":15,"unit_id":108201,"event_id":20007,"condition_mission_id":72007021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에게 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득!![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":17,"unit_id":108501,"event_id":20009,"condition_mission_id":72009021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에게 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득!![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":19,"unit_id":108901,"event_id":20010,"condition_mission_id":72010021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에게 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득!![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":21,"unit_id":109001,"event_id":20011,"condition_mission_id":72011021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에게 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득!![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":22,"unit_id":109301,"event_id":20013,"condition_mission_id":72013021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에게 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득!![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":23,"unit_id":110101,"event_id":20015,"condition_mission_id":72015021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에게 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득!![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":24,"unit_id":110501,"event_id":20016,"condition_mission_id":72016021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에게 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득!![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":25,"unit_id":111201,"event_id":20018,"condition_mission_id":72018021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에게 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득!![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":26,"unit_id":111601,"event_id":20020,"condition_mission_id":72020021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에게 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득!![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":27,"unit_id":112101,"event_id":20021,"condition_mission_id":72021021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에게 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득!![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":28,"unit_id":112301,"event_id":20022,"condition_mission_id":72022021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":29,"unit_id":113001,"event_id":20025,"condition_mission_id":72025021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":30,"unit_id":113201,"event_id":20026,"condition_mission_id":72026021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"},
+        {"id":31,"unit_id":113501,"event_id":20027,"condition_mission_id":72027021,"top_description":"보스 NORMAL 토벌로 오픈!","description_1":"[3C404E]이벤트를 진행하여 보스에 도전!\\n보스 NORMAL을 토벌하면 한정 캐릭터 획득![-]","description_2":"[3C404E]보스 NORMAL 토벌로 오픈!"}
+    ]
+}
