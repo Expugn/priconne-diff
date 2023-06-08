@@ -1,5 +1,6 @@
 {
     "hatsune_series_gacha_reference": [
-        {"event_id":10085,"reference_key_event_id_flag":1}
+        {"event_id":10085,"reference_key_event_id_flag":1},
+        {"event_id":10111,"reference_key_event_id_flag":1}
     ]
 }

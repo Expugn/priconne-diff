@@ -1,8 +1,8 @@
 {
     "worldmap": [
-        {"course_id":1,"name":"初期世界地圖","map_id":1,"sheet_id":"bgm_M61","que_id":"bgm_M61_00","start_area_id":11001,"end_area_id":11017},
-        {"course_id":2,"name":"地下城地圖","map_id":1,"sheet_id":"bgm_M61","que_id":"bgm_M61","start_area_id":4001,"end_area_id":4004},
-        {"course_id":3,"name":"活動地圖","map_id":1,"sheet_id":"","que_id":"","start_area_id":7001,"end_area_id":7008},
-        {"course_id":4,"name":"艾爾皮斯島","map_id":2,"sheet_id":"bgm_M179","que_id":"bgm_M179_00","start_area_id":11018,"end_area_id":11062}
+        {"course_id":1,"name":"初期世界地圖","map_id":1,"map_type":101,"sheet_id":"bgm_M61","que_id":"bgm_M61_00","start_area_id":11001,"end_area_id":11017,"view_mode":0,"tutorial_adv_id":0},
+        {"course_id":2,"name":"地下城地圖","map_id":1,"map_type":0,"sheet_id":"bgm_M61","que_id":"bgm_M61","start_area_id":4001,"end_area_id":4004,"view_mode":0,"tutorial_adv_id":0},
+        {"course_id":3,"name":"活動地圖","map_id":1,"map_type":0,"sheet_id":"","que_id":"","start_area_id":7001,"end_area_id":7008,"view_mode":0,"tutorial_adv_id":0},
+        {"course_id":4,"name":"艾爾皮斯島","map_id":2,"map_type":102,"sheet_id":"bgm_M179","que_id":"bgm_M179_00","start_area_id":11018,"end_area_id":11062,"view_mode":0,"tutorial_adv_id":0}
     ]
 }

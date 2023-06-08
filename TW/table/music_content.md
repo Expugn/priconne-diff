@@ -257,3 +257,17 @@
 |255|虛偽的救濟者|1:35|0:00|終炎的理想鄉Boss戰\n\n時間／01:35\n作曲／千葉梓（Cygames）、関根修平（Cygames）\n編曲／関根修平（Cygames）|bgm_M646|bgm_M646_Mode1_juke|
 |256|司掌終炎的魔術師|1:40|0:00|終炎的理想鄉Boss戰\n\n時間／01:40\n作曲／千葉梓（Cygames）、関根修平（Cygames）\n編曲／関根修平（Cygames）|bgm_M646|bgm_M646_Mode2_juke|
 |257|追尋奧祕力量之人|2:00|0:00|終炎的理想鄉Boss戰\n-《Mirage Game》時間／編曲-\n\n時間／02:00\n作曲／田中公平\n編曲／吉川美矩、関根修平（Cygames）|bgm_M646|bgm_M646_Mode3_juke|
+|258|嚮往著希望的樂園|1:00|0:00|故事劇情主題曲\n-《Never Lose Again》編曲-\n\n時間／01:00\n作曲／奥井康介\n編曲／榎本三和子（Cygames）|bgm_M659|bgm_M659_juke|
+|259|即便在充滿不確定性的未來|1:17|0:00|故事劇情主題曲\n-《Never Lose Again》編曲-\n\n時間／01:17\n作曲／奥井康介\n編曲／Enarak（Cygames）|bgm_M660|bgm_M660_juke|
+|260|樂園守護者|2:12|0:00|故事劇情Boss戰\n\n時間／02:12\n作曲／西木康智\n編曲／佐藤遥（Cygames）|bgm_M664|bgm_M664_juke|
+|261|象徵久遠庭園之人|3:26|0:00|故事劇情Boss戰\n\n時間／03:26\n作曲／畑田浩孝（Cygames）\n編曲／畑田浩孝（Cygames）|bgm_M665|bgm_M665_juke|
+|262|Never Lose Again|1:22|0:42|角色歌曲\n\n時間／01:22\n演唱／矛依未（潘めぐみ）\n作詞／稲葉エミ\n作曲／奥井康介\n編曲／奥井康介|bgm_M667|bgm_M667|
+|263|貓與懷舊糖果的咖啡廳　歡迎光臨Café Naschkatze|1:39|0:00|故事劇情主題曲\n-《喵喵的奮力一擊》編曲-\n\n時間／01:39\n作曲／TAKT（TRYTONELABO）\n編曲／佐藤遥（Cygames）|bgm_M668|bgm_M668_juke|
+|264|祈福託災的招財貓|1:34|0:00|故事劇情Boss戰\n\n時間／01:34\n作曲／多田彰文\n編曲／多田彰文|bgm_M671|bgm_M671_juke|
+|265|喵喵的奮力一擊|1:35|0:51|角色歌曲\n\n時間／01:35\n演唱　／珠希（沼倉愛美）\n作詞／TAKT（TRYTONELABO）\n作曲／TAKT（TRYTONELABO）\n編曲／TAKT（TRYTONELABO）|bgm_M674|bgm_M674|
+|266|Dears　歡迎回家與我回來了的約定|1:21|0:00|故事劇情主題曲\n-《我的色彩STORY》編曲-\n\n時間／01:21\n作曲／高木龍一（Dream Monster）\n編曲／Max Mullowney（Cygames）|bgm_MC017|bgm_MC017_juke|
+|267|大王猩猩|2:31|0:00|故事劇情Boss戰\n\n時間／02:31\n作曲／小半大\n編曲／小半大|bgm_MC020|bgm_MC020_juke|
+|268|我的色彩STORY|1:29|0:59|角色歌曲\n\n時間／01:29\n演唱　／栞（小清水亞美）\n作詞／Cocoro. （Dream Monster）\n作曲／高木龍一（Dream Monster）\n編曲／高木龍一（Dream Monster）|bgm_MC034|bgm_MC034|
+|269|魔物生態報告書|2:19|0:00|故事劇情迷你內容\n-《我的色彩STORY》編曲-\n\n時間／02:19\n作曲／高木龍一（Dream Monster）\n編曲／Enarak（Cygames）|bgm_MC021|bgm_MC021_juke|
+|270|萬花綻放的新天地|2:06|0:00|主線冒險\n\n時間／02:06\n作曲／佐藤遥（Cygames）\n編曲／佐藤遥（Cygames）|bgm_MC001|bgm_MC001_juke|
+|271|吉歐‧提格尼亞的戰鬥|1:23|0:00|主線冒險\n\n時間／01:23\n作曲／長谷部翔（Cygames）\n編曲／長谷部翔（Cygames）|bgm_MC022|bgm_MC022_juke|

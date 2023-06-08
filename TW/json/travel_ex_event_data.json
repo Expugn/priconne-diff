@@ -6,6 +6,10 @@
         {"still_id":8000003,"title":"在露營地吃早餐","disp_order":4},
         {"still_id":8000004,"title":"混沌要通過了，把路讓開！","disp_order":5},
         {"still_id":8000005,"title":"穿越叢林","disp_order":6},
-        {"still_id":8000006,"title":"徒步（與機械）行來。","disp_order":7}
+        {"still_id":8000006,"title":"徒步（與機械）行來。","disp_order":7},
+        {"still_id":8000007,"title":"迷途惡魔的狂想曲","disp_order":8},
+        {"still_id":8000008,"title":"正所謂「欲速則飛舞」！","disp_order":9},
+        {"still_id":8000009,"title":"為了精靈族進行的熱鬧大冒險","disp_order":10},
+        {"still_id":8000010,"title":"前途多難的冒險講座？","disp_order":11}
     ]
 }

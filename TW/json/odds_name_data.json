@@ -231,6 +231,8 @@
         {"id":1010901,"odds_file":"1010920101","name":"流夏（新年）的記憶碎片","icon_type":99002,"description":""},
         {"id":1010902,"odds_file":"1010920102","name":"伊莉亞的記憶碎片","icon_type":99002,"description":""},
         {"id":1011001,"odds_file":"1011020101","name":"嘉夜（解放者）的記憶碎片","icon_type":99002,"description":""},
-        {"id":1011002,"odds_file":"1011020102","name":"望的記憶碎片","icon_type":99002,"description":""}
+        {"id":1011002,"odds_file":"1011020102","name":"望的記憶碎片","icon_type":99002,"description":""},
+        {"id":1011101,"odds_file":"1011120101","name":"嘉夜（解放者）的記憶碎片","icon_type":99002,"description":""},
+        {"id":1011102,"odds_file":"1011120102","name":"千歌的記憶碎片","icon_type":99002,"description":""}
     ]
 }

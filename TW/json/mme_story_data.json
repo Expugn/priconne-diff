@@ -9,13 +9,13 @@
         {"sub_story_id":5110607,"original_event_id":10110,"title":"真軌的懷想","sub_title":"惡與正義的放聲大笑","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10110112,"reward_type":8,"reward_id":91002,"reward_count":30},
         {"sub_story_id":5110608,"original_event_id":10110,"title":"拉基拉基的懷想　其一","sub_title":"所謂的公主騎士","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10110113,"reward_type":8,"reward_id":91002,"reward_count":30},
         {"sub_story_id":5110609,"original_event_id":10110,"title":"尾狗刀的懷想　其三","sub_title":"遙想未來的日子","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10110114,"reward_type":8,"reward_id":91002,"reward_count":30},
-        {"sub_story_id":5111602,"original_event_id":10111,"title":"0","sub_title":"0","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111103,"reward_type":0,"reward_id":0,"reward_count":0},
-        {"sub_story_id":5111603,"original_event_id":10111,"title":"0","sub_title":"0","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111105,"reward_type":0,"reward_id":0,"reward_count":0},
-        {"sub_story_id":5111604,"original_event_id":10111,"title":"0","sub_title":"0","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111108,"reward_type":0,"reward_id":0,"reward_count":0},
-        {"sub_story_id":5111605,"original_event_id":10111,"title":"0","sub_title":"0","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111109,"reward_type":0,"reward_id":0,"reward_count":0},
-        {"sub_story_id":5111606,"original_event_id":10111,"title":"0","sub_title":"0","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111110,"reward_type":0,"reward_id":0,"reward_count":0},
-        {"sub_story_id":5111607,"original_event_id":10111,"title":"0","sub_title":"0","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111113,"reward_type":0,"reward_id":0,"reward_count":0},
-        {"sub_story_id":5111608,"original_event_id":10111,"title":"0","sub_title":"0","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111113,"reward_type":0,"reward_id":0,"reward_count":0},
-        {"sub_story_id":5111609,"original_event_id":10111,"title":"0","sub_title":"0","is_puzzle_piece":0,"is_last":1,"condition_quest_id":0,"reward_type":0,"reward_id":0,"reward_count":0}
+        {"sub_story_id":5111602,"original_event_id":10111,"title":"拉基拉基的懷想　其二","sub_title":"跳躍王的懲罰","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111103,"reward_type":8,"reward_id":91002,"reward_count":30},
+        {"sub_story_id":5111603,"original_event_id":10111,"title":"克莉絲提娜的懷想　其二","sub_title":"兩人一起絕對能做到","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111105,"reward_type":8,"reward_id":91002,"reward_count":30},
+        {"sub_story_id":5111604,"original_event_id":10111,"title":"大吾的懷想　其二","sub_title":"踩虎尾","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111108,"reward_type":8,"reward_id":91002,"reward_count":30},
+        {"sub_story_id":5111605,"original_event_id":10111,"title":"拉比林斯達的懷想　其二","sub_title":"最可疑的七冠是誰","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111109,"reward_type":8,"reward_id":91002,"reward_count":30},
+        {"sub_story_id":5111606,"original_event_id":10111,"title":"似似花的懷想","sub_title":"過於簡單的問題","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111110,"reward_type":8,"reward_id":91002,"reward_count":30},
+        {"sub_story_id":5111607,"original_event_id":10111,"title":"尾狗刀的懷想　其四","sub_title":"魔物使如是說","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111113,"reward_type":8,"reward_id":91002,"reward_count":30},
+        {"sub_story_id":5111608,"original_event_id":10111,"title":"尾狗刀的懷想　其五","sub_title":"惡徒們追尋的未來","is_puzzle_piece":1,"is_last":0,"condition_quest_id":10111113,"reward_type":8,"reward_id":91002,"reward_count":30},
+        {"sub_story_id":5111609,"original_event_id":10111,"title":"終幕","sub_title":"超越過去，創造回憶","is_puzzle_piece":0,"is_last":1,"condition_quest_id":0,"reward_type":16,"reward_id":9000222,"reward_count":1}
     ]
 }

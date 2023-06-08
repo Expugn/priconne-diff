@@ -1,0 +1,2 @@
+|comment_id|where_type|character_id|face_type|voice_id|pos_x|pos_y|change_face_time|change_face_type|original_event_id|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

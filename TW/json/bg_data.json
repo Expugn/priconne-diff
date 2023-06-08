@@ -168,6 +168,9 @@
         {"view_name":"HATSUNE_XEH","bg_id":531100,"event_id":0},
         {"view_name":"HATSUNE_DSB","bg_id":0,"event_id":0},
         {"view_name":"HATSUNE_DSB_DRAMA","bg_id":0,"event_id":0},
-        {"view_name":"HATSUNE_DSB_DIARY","bg_id":0,"event_id":0}
+        {"view_name":"HATSUNE_DSB_DIARY","bg_id":0,"event_id":0},
+        {"view_name":"DIMENSION_FAULT_TOP","bg_id":0,"event_id":0},
+        {"view_name":"STORY_FBS_DETAIL","bg_id":530030,"event_id":0},
+        {"view_name":"HATSUNE_DVS","bg_id":500130,"event_id":0}
     ]
 }

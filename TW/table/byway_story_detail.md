@@ -1,0 +1,2 @@
+|story_id|story_type|title|sub_title|visible_type|pre_story_id|unlock_quest_id|lock_all_text|reward_type_1|reward_id_1|reward_value_1|reward_type_2|reward_id_2|reward_value_2|reward_type_3|reward_id_3|reward_value_3|start_time|end_time|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -17964,14 +17964,9 @@
         {"command_id":40922046,"drama_id":40922,"command_type":21,"param_01":"vo_wac_230331","param_02":"vo_wac_230331_008","param_03":"0","param_04":"0","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":40922047,"drama_id":40922,"command_type":11,"param_01":"105811","param_02":"當然♪\\n讓我們一起把蘭德索爾變得更加美好吧☆","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
         {"command_id":40922048,"drama_id":40922,"command_type":91,"param_01":"0","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
-        {"command_id":40922049,"drama_id":40922,"command_type":22,"param_01":"0","param_02":"0","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
-        {"command_id":40922050,"drama_id":40922,"command_type":111,"param_01":"","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
-        {"command_id":40923001,"drama_id":40923,"command_type":3,"param_01":"118511","param_02":"wac_215_karin_idle_normal","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
-        {"command_id":40923002,"drama_id":40923,"command_type":3,"param_01":"105911","param_02":"wac_215_coccoro_idle_wish2","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
-        {"command_id":40923003,"drama_id":40923,"command_type":3,"param_01":"105811","param_02":"wac_215_peko_idle_guts2","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
-        {"command_id":40923004,"drama_id":40923,"command_type":3,"param_01":"106011","param_02":"wac_215_idle_arm_crossed","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
-        {"command_id":40923005,"drama_id":40923,"command_type":3,"param_01":"106411","param_02":"wac_215_idle_normal2_joy","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
-        {"command_id":40923006,"drama_id":40923,"command_type":3,"param_01":"2","param_02":"wac_kishi_idle_normal_joy","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
-        {"command_id":40923007,"drama_id":40923,"command_type":91,"param_01":"0","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""}
+        {"command_id":40922049,"drama_id":40922,"command_type":3,"param_01":"105811","param_02":"wac_215_peko_idle_guts2","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
+        {"command_id":40922050,"drama_id":40922,"command_type":22,"param_01":"0","param_02":"0","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
+        {"command_id":40922051,"drama_id":40922,"command_type":93,"param_01":"0.5","param_02":"0","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
+        {"command_id":40923001,"drama_id":40923,"command_type":91,"param_01":"0","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""}
     ]
 }
