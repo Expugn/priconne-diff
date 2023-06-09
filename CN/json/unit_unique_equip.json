@@ -58,6 +58,7 @@
         {"unit_id":106101,"equip_slot":1,"equip_id":130611},
         {"unit_id":106301,"equip_slot":1,"equip_id":130631},
         {"unit_id":106501,"equip_slot":1,"equip_id":130651},
+        {"unit_id":106601,"equip_slot":1,"equip_id":130661},
         {"unit_id":107101,"equip_slot":1,"equip_id":130711},
         {"unit_id":107501,"equip_slot":1,"equip_id":130751},
         {"unit_id":107601,"equip_slot":1,"equip_id":130761},
@@ -110,6 +111,8 @@
         {"unit_id":112501,"equip_slot":1,"equip_id":131251},
         {"unit_id":112601,"equip_slot":1,"equip_id":131261},
         {"unit_id":112701,"equip_slot":1,"equip_id":131271},
-        {"unit_id":112801,"equip_slot":1,"equip_id":131281}
+        {"unit_id":112801,"equip_slot":1,"equip_id":131281},
+        {"unit_id":112901,"equip_slot":1,"equip_id":131291},
+        {"unit_id":113001,"equip_slot":1,"equip_id":131301}
     ]
 }
