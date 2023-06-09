@@ -100,6 +100,10 @@
         {"group_id":20106,"group_id_comment":"ลาบิริสต้า&ริโนะ","group_unit_id_01":106801001,"group_unit_id_02":101101001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":20107,"group_id_comment":"ลาบิริสต้า&ชิซึรุ","group_unit_id_01":106801001,"group_unit_id_02":104901001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":20108,"group_id_comment":"ลาบิริสต้า&เนเนกะ","group_unit_id_01":106801001,"group_unit_id_02":107001001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
-        {"group_id":20109,"group_id_comment":"ลาบิริสต้า&มุอิมิ","group_unit_id_01":106801001,"group_unit_id_02":106101001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
+        {"group_id":20109,"group_id_comment":"ลาบิริสต้า&มุอิมิ","group_unit_id_01":106801001,"group_unit_id_02":106101001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":20110,"group_id_comment":"เชฟี่&เปโกรีน","group_unit_id_01":106401001,"group_unit_id_02":105801001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":20111,"group_id_comment":"เชฟี่&คกโคโระ","group_unit_id_01":106401001,"group_unit_id_02":105901001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":20112,"group_id_comment":"เชฟี่&แคล","group_unit_id_01":106401001,"group_unit_id_02":106001001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":20113,"group_id_comment":"เชฟี่&อิโอะ","group_unit_id_01":106401001,"group_unit_id_02":101801001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
     ]
 }

@@ -158,13 +158,7 @@
 |158|Shinshun Gourmet Princess! Ittou ni Kaketa Otometachi|1:06|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Brand-New Sunrise>Arrange-\n\nความยาว / 01:06\nทำนอง   / KENJI IKEDA (Cygames)\nเรียบเรียง / TADA AKIFUMI|bgm_M435|bgm_M435_juke|
 |159|Great Thunnus|2:34|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 02:34\nทำนอง   / NAKAMURA HIROSHI\nเรียบเรียง / NAKAMURA HIROSHI|bgm_M438|bgm_M438_juke|
 |160|Brand-New Sunrise|1:27|0:55|เพลงตัวละคร\n\nความยาว / 01:27\nขับร้อง   / มุอิมิ (MEGUMI HAN)\n           เนเนกะ (YUKA IGUCHI)\nเนื้อเพลง / NOMURA IKUMI (Cygames)\nทำนอง   / KENJI IKEDA (Cygames)\nเรียบเรียง / KENJI IKEDA (Cygames)|bgm_M441|bgm_M441|
-|161|かけがえのない日常|1:16|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<心想い ～ココロオモイ～>Arrange-\n\nความยาว / 01:16\nทำนอง   / UTSUMI TAKAAKI (TRYTONELABO)\nเรียบเรียง / SHOU HASEBE (Cygames)|bgm_M442A|bgm_M442A_juke|
-|162|離別と決意|1:16|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<心想い ～ココロオモイ～>Arrange-\n\nความยาว / 01:16\nทำนอง   / UTSUMI TAKAAKI (TRYTONELABO)\nเรียบเรียง / SHOU HASEBE (Cygames)|bgm_M442B|bgm_M442B_juke|
-|163|黒風の精霊|2:26|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 02:26\nทำนอง   / HIGASHIOHJI KENTA\nเรียบเรียง / HIGASHIOHJI KENTA|bgm_M447|bgm_M447_juke|
-|164|心想い ～ココロオモイ～|1:25|0:52|เพลงตัวละคร\n\nความยาว / 01:25\nขับร้อง   / คกโคโระ (MIKU ITO)\nเนื้อเพลง / 亀井博之\nทำนอง   / UTSUMI TAKAAKI (TRYTONELABO)\nเรียบเรียง / UTSUMI TAKAAKI (TRYTONELABO)|bgm_M456|bgm_M456|
-|165|シンデレラレッスン　華やかなる日々はリンゴの味|0:58|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<恋キラリマジック☆彡>Arrange-\n\nความยาว / 00:58\nทำนอง   / RYOU AOYAGI, MASHIRO UCHIDA\nเรียบเรียง / SHUUHEI SEKINE(Cygames)|bgm_M451|bgm_M451_juke|
-|166|魔物の姫|1:47|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 01:47\nทำนอง   / IREI KAN (Cygames)\nเรียบเรียง / IREI KAN (Cygames)|bgm_M455|bgm_M455_juke|
-|167|恋キラリマジック☆彡|1:29|0:49|เพลงตัวละคร\n\nความยาว / 01:29\nขับร้อง   / ริมะ (SORA TOKUI)\nเนื้อเพลง / RYOU AOYAGI, MASHIRO UCHIDA\nทำนอง   / RYOU AOYAGI, MASHIRO UCHIDA\nเรียบเรียง / RYOU AOYAGI|bgm_M465|bgm_M465|
-|168|鋼の聖女と聖なる学舎の異端児|1:01|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<無敵ドリーミング>Arrange-\n\nความยาว / 01:01\nทำนอง   / YUSUKE SHIRATO (Dream Monster)\nเรียบเรียง / SAWASHITA AOI|bgm_M457|bgm_M457_juke|
-|169|名もなき芸術|2:05|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 02:05\nทำนอง   / NAKAMURA HIROSHI\nเรียบเรียง / NAKAMURA HIROSHI|bgm_M461|bgm_M461_juke|
-|170|無敵ドリーミング|1:32|0:56|เพลงตัวละคร\n\nความยาว / 01:32\nขับร้อง   / จิเอรุ (AYANE SAKURA)\n           คุโรเอะ (ATSUMI TANEZAKI)\n           ยูนิ (KONOMI KOHAR)\nเนื้อเพลง / MIYUU SHIRAYUKI\nทำนอง   / YUSUKE SHIRATO (Dream Monster)\nเรียบเรียง / YUSUKE SHIRATO (Dream Monster)\n           SATO ATSUHITO (Dream Monster)|bgm_M466|bgm_M466|
+|161|Kakegae no Nai Nichijou|1:16|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Kokoro omoi ~Kokoro omoi~>Arrange-\n\nความยาว / 01:16\nทำนอง   / UTSUMI TAKAAKI (TRYTONELABO)\nเรียบเรียง / SHOU HASEBE (Cygames)|bgm_M442A|bgm_M442A_juke|
+|162|Ribetsu to Ketsui|1:16|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Kokoro omoi ~Kokoro omoi~>Arrange-\n\nความยาว / 01:16\nทำนอง   / UTSUMI TAKAAKI (TRYTONELABO)\nเรียบเรียง / SHOU HASEBE (Cygames)|bgm_M442B|bgm_M442B_juke|
+|163|Kokufu no Seirei|2:26|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 02:26\nทำนอง   / HIGASHIOHJI KENTA\nเรียบเรียง / HIGASHIOHJI KENTA|bgm_M447|bgm_M447_juke|
+|164|Kokoro Omoi ~Kokoro Omoi~|1:25|0:52|เพลงตัวละคร\n\nความยาว / 01:25\nขับร้อง   / คกโคโระ (MIKU ITO)\nเนื้อเพลง / KAMEI HIROYUKI\nทำนอง   / UTSUMI TAKAAKI (TRYTONELABO)\nเรียบเรียง / UTSUMI TAKAAKI (TRYTONELABO)|bgm_M456|bgm_M456|
