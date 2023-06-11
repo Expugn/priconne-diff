@@ -110,6 +110,7 @@
         {"gacha_id":10109,"event_id":10109,"gacha_name":"新春美食回憶　雪菲的跑腿大作戰！","item_type":2,"item_id":61082,"cost":1,"repeat_step":6},
         {"gacha_id":10110,"event_id":10110,"gacha_name":"解放自由的伊甸園　有朝一日重逢的未來","item_type":2,"item_id":61092,"cost":1,"repeat_step":6},
         {"gacha_id":10111,"event_id":10111,"gacha_name":"解放自由的伊甸園　有朝一日重逢的未來","item_type":2,"item_id":61102,"cost":1,"repeat_step":6},
+        {"gacha_id":10112,"event_id":10112,"gacha_name":"Re:member　我的心願編織出的未來","item_type":2,"item_id":61112,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"吸血鬼獵人 with伊莉亞","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
