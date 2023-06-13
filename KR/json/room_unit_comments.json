@@ -5546,7 +5546,7 @@
         {"id":6213,"unit_id":102601,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"하아~ 너랑 있으면\\n한없이 기분 좋게\\n늘어질 수 있네~","insert_word_type":0},
         {"id":6214,"unit_id":121901,"trigger":1,"voice_id":1,"beloved_step":1,"time":0,"face_id":1,"description":"암흑 기사이면서\\n전설의 해적이기도 한\\n나에게 불가능은 없다!","insert_word_type":0},
         {"id":6215,"unit_id":121901,"trigger":1,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"해적단 선원,\\n상시 모집 중입니다…\\n이걸로 새로운 맹우가\\n늘어날 것이다…!","insert_word_type":0},
-        {"id":6216,"unit_id":121901,"trigger":1,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"어깨에 태울 반려동물이\\n있었으면 좋겠군. 지금 당장\\n반려동물용품을 사러\\n가야지…!","insert_word_type":0},
+        {"id":6216,"unit_id":121901,"trigger":1,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"어깨에 태울 반려동물이\\n있었으면 좋겠군.\\n지금 당장 반려동물\\n용품을 사러 가야지…!","insert_word_type":0},
         {"id":6217,"unit_id":121901,"trigger":1,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"보물 지도는 어디서\\n파는 걸까…\\n헌책방? 고물상?","insert_word_type":0},
         {"id":6218,"unit_id":121901,"trigger":1,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"이 해적 의상으로\\n몸을 감싸고 있으니\\n전생의 새로운 기억이\\n되살아나는군!","insert_word_type":0},
         {"id":6219,"unit_id":121901,"trigger":1,"voice_id":101,"beloved_step":4,"time":0,"face_id":1,"description":"언젠가는 시구르드와\\n해원을 향한 모험을\\n떠나고 싶어…\\n분명 즐거울 거야!","insert_word_type":0},
