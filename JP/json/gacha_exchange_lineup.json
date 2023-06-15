@@ -557,6 +557,7 @@
         {"id":555,"exchange_id":261,"unit_id":107101,"rarity":3,"gacha_bonus_id":0,"start_time":"2023/05/24 12:00:00","end_time":"2023/05/27 11:59:59"},
         {"id":556,"exchange_id":262,"unit_id":123801,"rarity":3,"gacha_bonus_id":0,"start_time":"2023/05/27 12:00:00","end_time":"2023/05/31 11:59:59"},
         {"id":557,"exchange_id":263,"unit_id":126201,"rarity":3,"gacha_bonus_id":1114,"start_time":"2023/05/31 12:00:00","end_time":"2023/06/09 11:59:59"},
-        {"id":558,"exchange_id":264,"unit_id":124001,"rarity":3,"gacha_bonus_id":0,"start_time":"2023/06/09 12:00:00","end_time":"2023/06/15 14:59:59"}
+        {"id":558,"exchange_id":264,"unit_id":124001,"rarity":3,"gacha_bonus_id":0,"start_time":"2023/06/09 12:00:00","end_time":"2023/06/15 14:59:59"},
+        {"id":559,"exchange_id":265,"unit_id":126301,"rarity":3,"gacha_bonus_id":1115,"start_time":"2023/06/15 15:00:00","end_time":"2023/06/23 11:59:59"}
     ]
 }
