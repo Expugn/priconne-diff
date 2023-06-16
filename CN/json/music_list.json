@@ -172,6 +172,10 @@
         {"music_id":170,"list_name":"無敵ドリーミング","font_size":20,"pre_shop_start":"","shop_start":"2023/04/12 09:00:00","shop_end":"","story_id":-1,"cost_item_num":1500,"sort":170,"kana":"むてきどりーみんぐ","ios_url":"","android_url":"","dmm_url":""},
         {"music_id":171,"list_name":"イノリＳＯＳ！！　タイムトラベル・ドラゴンズ","font_size":20,"pre_shop_start":"","shop_start":"2023/05/15 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":171,"kana":"いのりえすおーえすたいむとらべるどらごんず","ios_url":"","android_url":"","dmm_url":""},
         {"music_id":172,"list_name":"バースト・タイムラーベ","font_size":20,"pre_shop_start":"","shop_start":"2023/05/15 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":172,"kana":"ばーすとたいむらーべ","ios_url":"","android_url":"","dmm_url":""},
-        {"music_id":173,"list_name":"Seize The Day！","font_size":20,"pre_shop_start":"","shop_start":"2023/05/15 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1500,"sort":173,"kana":"しーずざでい","ios_url":"","android_url":"","dmm_url":""}
+        {"music_id":173,"list_name":"Seize The Day！","font_size":20,"pre_shop_start":"","shop_start":"2023/05/15 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1500,"sort":173,"kana":"しーずざでい","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":174,"list_name":"以心電心！アオイ トイ フレンズ","font_size":20,"pre_shop_start":"","shop_start":"2023/06/16 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":174,"kana":"いしんでんしんあおいといふれんず","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":175,"list_name":"究極玩具王 メガトイキング","font_size":20,"pre_shop_start":"","shop_start":"2023/06/16 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":175,"kana":"きゅうきょくがんぐおうめがといきんぐ","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":176,"list_name":"ぼっちのためのトモダチ行進曲","font_size":20,"pre_shop_start":"","shop_start":"2023/06/16 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1500,"sort":176,"kana":"ぼっちのためのともだちまーち","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":177,"list_name":"砂塵舞う中で","font_size":20,"pre_shop_start":"","shop_start":"2023/06/16 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":177,"kana":"さじんまうなかで","ios_url":"","android_url":"","dmm_url":""}
     ]
 }
