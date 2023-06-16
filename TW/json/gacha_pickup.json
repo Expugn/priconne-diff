@@ -5,6 +5,14 @@
         {"id":1,"priority":3,"reward_type":1,"reward_id":111901,"name":"可可蘿（新年）"},
         {"id":1,"priority":4,"reward_type":1,"reward_id":115001,"name":"似似花（新年）"},
         {"id":1,"priority":5,"reward_type":1,"reward_id":108801,"name":"優衣（新年）"},
-        {"id":1,"priority":6,"reward_type":1,"reward_id":108701,"name":"日和（新年）"}
+        {"id":1,"priority":6,"reward_type":1,"reward_id":108701,"name":"日和（新年）"},
+        {"id":2,"priority":1,"reward_type":1,"reward_id":116401,"name":"優妮（聖學祭）"},
+        {"id":2,"priority":2,"reward_type":1,"reward_id":121301,"name":"胡桃（舞台）"},
+        {"id":2,"priority":3,"reward_type":1,"reward_id":121401,"name":"美咲（舞台）"},
+        {"id":2,"priority":4,"reward_type":1,"reward_id":121601,"name":"祈梨（怪盜）"},
+        {"id":2,"priority":5,"reward_type":1,"reward_id":122001,"name":"忍（海盜）"},
+        {"id":2,"priority":6,"reward_type":1,"reward_id":121901,"name":"杏奈（海盜）"},
+        {"id":2,"priority":7,"reward_type":1,"reward_id":122201,"name":"優花梨（露營）"},
+        {"id":2,"priority":8,"reward_type":1,"reward_id":122301,"name":"班比"}
     ]
 }

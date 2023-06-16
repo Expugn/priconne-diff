@@ -296,6 +296,20 @@
         {"enemy_id":610110504,"event_id":10110,"mode":1,"enemy_point":0,"initial_position":100,"order":0},
         {"enemy_id":610111501,"event_id":10111,"mode":2,"enemy_point":0,"initial_position":-120,"order":0},
         {"enemy_id":610111502,"event_id":10111,"mode":2,"enemy_point":0,"initial_position":-40,"order":0},
-        {"enemy_id":610111503,"event_id":10111,"mode":2,"enemy_point":0,"initial_position":40,"order":0}
+        {"enemy_id":610111503,"event_id":10111,"mode":2,"enemy_point":0,"initial_position":40,"order":0},
+        {"enemy_id":610112601,"event_id":10112,"mode":1,"enemy_point":0,"initial_position":-150,"order":0},
+        {"enemy_id":610112602,"event_id":10112,"mode":1,"enemy_point":0,"initial_position":250,"order":0},
+        {"enemy_id":610112603,"event_id":10112,"mode":1,"enemy_point":0,"initial_position":50,"order":0},
+        {"enemy_id":610112604,"event_id":10112,"mode":1,"enemy_point":0,"initial_position":450,"order":0},
+        {"enemy_id":610112701,"event_id":10112,"mode":2,"enemy_point":1,"initial_position":-15,"order":1},
+        {"enemy_id":610112702,"event_id":10112,"mode":2,"enemy_point":1,"initial_position":40,"order":2},
+        {"enemy_id":610112703,"event_id":10112,"mode":2,"enemy_point":1,"initial_position":-70,"order":3},
+        {"enemy_id":610112704,"event_id":10112,"mode":2,"enemy_point":1,"initial_position":40,"order":4},
+        {"enemy_id":610112705,"event_id":10112,"mode":2,"enemy_point":1,"initial_position":-15,"order":5},
+        {"enemy_id":610112706,"event_id":10112,"mode":2,"enemy_point":1,"initial_position":-70,"order":6},
+        {"enemy_id":610112707,"event_id":10112,"mode":2,"enemy_point":1,"initial_position":40,"order":7},
+        {"enemy_id":610112708,"event_id":10112,"mode":2,"enemy_point":1,"initial_position":-15,"order":8},
+        {"enemy_id":610112709,"event_id":10112,"mode":2,"enemy_point":1,"initial_position":-70,"order":9},
+        {"enemy_id":610112710,"event_id":10112,"mode":2,"enemy_point":1,"initial_position":-100,"order":10}
     ]
 }

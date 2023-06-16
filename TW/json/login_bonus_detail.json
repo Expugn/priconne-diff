@@ -342,6 +342,12 @@
         {"id":372,"login_bonus_id":49020,"count":7,"reward_type":8,"reward_id":91002,"reward_num":200,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":0},
         {"id":373,"login_bonus_id":49020,"count":8,"reward_type":8,"reward_id":91002,"reward_num":300,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":0},
         {"id":374,"login_bonus_id":49020,"count":9,"reward_type":8,"reward_id":91002,"reward_num":300,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":0},
-        {"id":375,"login_bonus_id":49020,"count":10,"reward_type":8,"reward_id":91002,"reward_num":600,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":0}
+        {"id":375,"login_bonus_id":49020,"count":10,"reward_type":8,"reward_id":91002,"reward_num":600,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":0},
+        {"id":376,"login_bonus_id":40011,"count":1,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":125801,"character_name":"莉莉","description":"馬上就可以\\n見到大家了呢。\\n現在我的內心雀躍不已……\\n","voice_id":1,"bg_id":0},
+        {"id":377,"login_bonus_id":40011,"count":2,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126001,"character_name":"可璃亞","description":"初次見面，我是可璃亞♪\\n我非常期待\\n和大家一起冒險","voice_id":1,"bg_id":0},
+        {"id":378,"login_bonus_id":40011,"count":3,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126101,"character_name":"普蕾西亞","description":"嗯──\\n這個，給你。\\n是的","voice_id":1,"bg_id":0},
+        {"id":379,"login_bonus_id":40011,"count":4,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":125801,"character_name":"莉莉","description":"讓我再次自我介紹……\\n我是【幻變少女】的\\n公會長莉莉","voice_id":2,"bg_id":0},
+        {"id":380,"login_bonus_id":40011,"count":5,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126001,"character_name":"可璃亞","description":"你好，哥哥♪\\n我是【幻變少女】的\\n可璃亞","voice_id":2,"bg_id":0},
+        {"id":381,"login_bonus_id":40011,"count":6,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126101,"character_name":"普蕾西亞","description":"哥哥。\\n你願意過來，我很開心","voice_id":2,"bg_id":0}
     ]
 }
