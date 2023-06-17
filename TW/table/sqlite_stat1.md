@@ -14,13 +14,13 @@
 |tower_area_data||48|
 |dsb_story_data|dsb_story_data_0_original_event_id|9 9|
 |prizegacha_sp_detail||5|
-|gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|530 3|
+|gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|537 3|
 |clan_battle_archive_clan_rank||14|
 |clan_cost_group||6|
 |tower_ex_quest_data|tower_ex_quest_data_0_floor_num|48 1|
 |event_navi_comment_condition||1369|
 |sekai_boss_mode||12|
-|prizegacha_data||90|
+|prizegacha_data||91|
 |clan_battle_last_attack_reward||3|
 |secret_dungeon_emblem_mission||25|
 |space_battle_data||1|
@@ -163,9 +163,9 @@
 |ssp_story_data|ssp_story_data_0_original_event_id|22 22|
 |event_enemy_reward_group||137|
 |hatsune_quest_condition|hatsune_quest_condition_0_event_id|2240 20|
-|gacha_pickup|gacha_pickup_0_id_1_reward_id|14 7 1|
-|gacha_pickup|gacha_pickup_0_id|14 7|
-|gacha_pickup|sqlite_autoindex_gacha_pickup_1|14 7 1|
+|gacha_pickup|gacha_pickup_0_id_1_reward_id|21 7 1|
+|gacha_pickup|gacha_pickup_0_id|21 7|
+|gacha_pickup|sqlite_autoindex_gacha_pickup_1|21 7 1|
 |grand_arena_defence_reward||1|
 |room_emotion_icon||18|
 |growth_restriction_unit|growth_restriction_unit_0_growth_id|17 1|
@@ -315,7 +315,7 @@
 |srt_reward||15|
 |tower_schedule|tower_schedule_0_opening_story_id|48 1|
 |hatsune_relay_data||48|
-|gacha_data|gacha_data_0_exchange_id|771 4|
+|gacha_data|gacha_data_0_exchange_id|774 4|
 |secret_dungeon_enemy_info|sqlite_autoindex_secret_dungeon_enemy_info_1|25 5 1|
 |custom_mypage|custom_mypage_0_still_group_id|14 14|
 |room_item_detail|room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2|534 534 534|
@@ -328,7 +328,7 @@
 |login_bonus_detail|login_bonus_detail_0_login_bonus_id_1_count|349 10 2|
 |redeem_unit|redeem_unit_0_unit_id|6 3|
 |growth_parameter_unique||1|
-|unit_introduction|unit_introduction_0_gacha_id|231 1|
+|unit_introduction|unit_introduction_0_gacha_id|232 1|
 |content_map_data||5|
 |quest_condition_data||1107|
 |mission_condition_data|mission_condition_data_0_condition_group_id|11 2|
@@ -439,7 +439,7 @@
 |glossary_detail||81|
 |sd_navi_comment||13|
 |worldmap|worldmap_0_map_type|4 2|
-|banner||253|
+|banner||254|
 |sre_quest_difficulty_data|sqlite_autoindex_sre_quest_difficulty_data_1|21 3 1|
 |sjr_name_later||95|
 |hatsune_quiz_condition|hatsune_quiz_condition_0_event_id_1_quiz_id|12 6 2|
