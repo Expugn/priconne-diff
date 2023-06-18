@@ -37,7 +37,7 @@
 |omp_story_data|omp_story_data_0_event_id|15 8|
 |shiori_stationary_mission_data||843|
 |hatsune_special_enemy||311|
-|campaign_freegacha||29|
+|campaign_freegacha||30|
 |room_item_announcement||2|
 |wac_drama_script|wac_drama_script_0_drama_id|17968 15|
 |tw_treasure_item||20|
@@ -237,7 +237,7 @@
 |ub_auto_data||19|
 |ttk_score||4|
 |sekai_unlock_story_condition||5|
-|campaign_freegacha_data||89|
+|campaign_freegacha_data||90|
 |birthday_login_bonus_data||151|
 |campaign_mission_category|campaign_mission_category_0_campaign_id_1_type|2 2 1|
 |campaign_mission_reward_data|campaign_mission_reward_data_0_campaign_mission_reward_id|12 2|
