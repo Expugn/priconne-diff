@@ -20,6 +20,10 @@
         {"id":3,"priority":4,"reward_type":1,"reward_id":123201,"name":"綾音（探險家）"},
         {"id":3,"priority":5,"reward_type":1,"reward_id":123701,"name":"七七香（萬聖節）"},
         {"id":3,"priority":6,"reward_type":1,"reward_id":123901,"name":"茉莉（狂野）"},
-        {"id":3,"priority":7,"reward_type":1,"reward_id":124201,"name":"純（聖誕節）"}
+        {"id":3,"priority":7,"reward_type":1,"reward_id":124201,"name":"純（聖誕節）"},
+        {"id":4,"priority":1,"reward_type":1,"reward_id":121001,"name":"貪吃佩可（超載）"},
+        {"id":4,"priority":2,"reward_type":1,"reward_id":121101,"name":"凱留（超載）"},
+        {"id":4,"priority":3,"reward_type":1,"reward_id":115501,"name":"可可蘿（祭服）"},
+        {"id":4,"priority":4,"reward_type":1,"reward_id":109101,"name":"靜流（情人節）"}
     ]
 }

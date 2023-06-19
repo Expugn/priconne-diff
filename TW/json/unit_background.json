@@ -208,6 +208,7 @@
         {"unit_id":124701,"unit_name":"深月（新年）","bg_id":501890,"bg_name":"大江戶_溫泉旅館_客房_正午","position":0,"face_type":2},
         {"unit_id":124801,"unit_name":"望（解放者）","bg_id":500033,"bg_name":"蘭德索爾_鬧區_祭典_白天","position":0,"face_type":2},
         {"unit_id":124901,"unit_name":"嘉夜（解放者）","bg_id":500033,"bg_name":"蘭德索爾_鬧區_祭典_白天","position":0,"face_type":4},
+        {"unit_id":125001,"unit_name":"矛依未（解放者）","bg_id":500033,"bg_name":"蘭德索爾_鬧區_祭典_白天","position":0,"face_type":2},
         {"unit_id":180101,"unit_name":"日和（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"優衣（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":4},
         {"unit_id":180301,"unit_name":"怜（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":3},
