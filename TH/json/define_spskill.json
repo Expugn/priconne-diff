@@ -1,5 +1,7 @@
 {
     "define_spskill": [
-
+        {"link_skill_slot":1158001,"sp_skill_id":1158100,"base_skill_id":1158001,"skill_category":1},
+        {"link_skill_slot":1158002,"sp_skill_id":1158101,"base_skill_id":1158001,"skill_category":2},
+        {"link_skill_slot":1158003,"sp_skill_id":1158102,"base_skill_id":1158001,"skill_category":2}
     ]
 }
