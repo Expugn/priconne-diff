@@ -1,0 +1,2 @@
+|season_id|slot_id|reward_type|reward_id|reward_count|currency_id|price|stock|
+| --- | --- | --- | --- | --- | --- | --- | --- |

@@ -1,0 +1,2 @@
+|block_id|position_x|position_y|
+| --- | --- | --- |

@@ -1,0 +1,2 @@
+|id|name|new_line_name|rarity|value|reset_value|appraise_flag|description|
+| --- | --- | --- | --- | --- | --- | --- | --- |

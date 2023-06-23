@@ -1,0 +1,2 @@
+|id|type|effect_id|category|icon_id|description|count_from|count_to|
+| --- | --- | --- | --- | --- | --- | --- | --- |

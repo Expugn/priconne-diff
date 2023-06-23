@@ -1,0 +1,2 @@
+|object_id|season_id|object_type|position_x|position_y|
+| --- | --- | --- | --- | --- |
