@@ -4374,6 +4374,12 @@
         {"id":4914,"unit_id":115901,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"กลิ่นหอมชะมัดเลย\\nที่ร้านอิซากายะของฉันก็...\\nไม่สิ ไม่เหมาะหรอกมั้ง","insert_word_type":0},
         {"id":4915,"unit_id":115901,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"อุ่นจัง...\\nขอหลับ\\nแค่นิดเดียว\\nได้ใช่ไหม...?","insert_word_type":0},
         {"id":4917,"unit_id":115901,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"อันนี้อร่อยมาก!\\nวัตถุดิบน่าจะ...ฮึบ\\nฉันก็จะลองทำดูนะ","insert_word_type":0},
-        {"id":4918,"unit_id":115901,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"หนังสือนี่...กรรมวิธี\\nที่ไม่ว่าใครก็เข้าใจ...เหรอ\\nอย่างน้อยที่สุด\\nก็เรียนเรื่องพวกนี้ไว้ล่ะกัน...","insert_word_type":0}
+        {"id":4918,"unit_id":115901,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"หนังสือนี่...กรรมวิธี\\nที่ไม่ว่าใครก็เข้าใจ...เหรอ\\nอย่างน้อยที่สุด\\nก็เรียนเรื่องพวกนี้ไว้ล่ะกัน...","insert_word_type":0},
+        {"id":4920,"unit_id":102001,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ถึงมิมิ\\nจะโตเป็นผู้ใหญ่\\nก็จะอยู่กับ\\nพี่จ๋าตลอดไป♪","insert_word_type":0},
+        {"id":4921,"unit_id":102001,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"มิมิอยากให้กอด\\แน่นๆ จัง...อื้ม!\\nกอดแบบเจ้าหญิงน่ะ~♪","insert_word_type":0},
+        {"id":4922,"unit_id":100401,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"คราวหน้า\\nจะแกล้งอะไรพี่จ๋าดีนะ\\nอยากเจอไวๆ จัง~","insert_word_type":0},
+        {"id":4923,"unit_id":100401,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"จะช่วยดูการแกล้ง\\nแบบพิเศษของมิโซงิเหรอ?\\nดีจังนะ♪","insert_word_type":0},
+        {"id":4924,"unit_id":103601,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"พอโตเป็นผู้ใหญ่แล้ว\\nจะทำอะไรกับคนนั้นดีนะ\\n...น่าตื่นเต้นจัง","insert_word_type":0},
+        {"id":4925,"unit_id":103601,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"อย่ามา\\nลูบหัวนะ! แต่\\nให้แค่นิดเดียวเท่านั้นนะคะ","insert_word_type":0}
     ]
 }
