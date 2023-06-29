@@ -11,6 +11,7 @@
         {"comment_id":1007001,"where_type":1007,"character_id":190801,"motion_type":4,"description":"미사토 씨나 부원 여러분과\\n타격 훈련을 해요!\\n홈런을 목표로, 공을\\n적절한 타이밍에 되받아쳐 보세요","voice_id":0,"start_time":"2021-09-29 15:00:00","end_time":"2030-04-01 14:00:00"},
         {"comment_id":1008001,"where_type":1008,"character_id":190801,"motion_type":6,"description":"카르미나 메달을 사용해\\n응원 굿즈를 입수합시다!\\n메달은 루피를 사용해\\n교환할 수 있어요.","voice_id":0,"start_time":"2022-09-29 15:00:00","end_time":"2030-04-01 14:00:00"},
         {"comment_id":1009001,"where_type":1009,"character_id":190801,"motion_type":13,"description":"먹은 푸딩은 푸딩 노트\\n에서 확인해 보세요!\\n푸딩의 재료는 루피를 사용해서\\n구입할 수 있어요.","voice_id":0,"start_time":"2023-01-16 15:00:00","end_time":"2030-04-01 14:00:00"},
-        {"comment_id":1010001,"where_type":1010,"character_id":190801,"motion_type":4,"description":"팀으로 퀴즈에 도전해 보세요!\\n혼자서 자신의 실력을 시험할지,\\n멀티로 동료와 함께 놀지,\\n원하는 모드를 골라주세요♪","voice_id":0,"start_time":"2023-03-16 15:00:00","end_time":"2030-04-01 14:00:00"}
+        {"comment_id":1010001,"where_type":1010,"character_id":190801,"motion_type":4,"description":"팀으로 퀴즈에 도전해 보세요!\\n혼자서 자신의 실력을 시험할지,\\n멀티로 동료와 함께 놀지,\\n원하는 모드를 골라주세요♪","voice_id":0,"start_time":"2023-03-16 15:00:00","end_time":"2030-04-01 14:00:00"},
+        {"comment_id":1011001,"where_type":1011,"character_id":190801,"motion_type":6,"description":"3개의 라운드를 달려 나가\\n종합 1위를 노려보세요!\\n참가자 여러분의 특징이나\\nGP의 특징에도 주목해 주세요♪","voice_id":0,"start_time":"2023-08-16 15:00:00","end_time":"2030-04-01 14:00:00"}
     ]
 }

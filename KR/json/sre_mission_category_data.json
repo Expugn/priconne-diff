@@ -1,0 +1,8 @@
+{
+    "sre_mission_category_data": [
+        {"category_id":1000,"name":"공통"},
+        {"category_id":1001,"name":"단계1"},
+        {"category_id":1002,"name":"단계2"},
+        {"category_id":1003,"name":"단계3"}
+    ]
+}

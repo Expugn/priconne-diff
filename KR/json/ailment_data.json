@@ -39,6 +39,10 @@
         {"ailment_id":37,"ailment_action":11,"ailment_detail_1":2,"ailment_name":"혼란(별도 기준)"},
         {"ailment_id":38,"ailment_action":8,"ailment_detail_1":13,"ailment_name":"결정화"},
         {"ailment_id":39,"ailment_action":83,"ailment_detail_1":1,"ailment_name":"슬로우(가산 가능)"},
-        {"ailment_id":40,"ailment_action":83,"ailment_detail_1":2,"ailment_name":"헤이스트(가산 가능)"}
+        {"ailment_id":40,"ailment_action":83,"ailment_detail_1":2,"ailment_name":"헤이스트(가산 가능)"},
+        {"ailment_id":41,"ailment_action":49,"ailment_detail_1":3,"ailment_name":"버프 삭제"},
+        {"ailment_id":42,"ailment_action":49,"ailment_detail_1":10,"ailment_name":"배리어 삭제"},
+        {"ailment_id":43,"ailment_action":9,"ailment_detail_1":9,"ailment_name":"흑염"},
+        {"ailment_id":44,"ailment_action":99,"ailment_detail_1":2,"ailment_name":"헤이스트 필드"}
     ]
 }

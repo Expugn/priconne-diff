@@ -93,6 +93,20 @@
         {"gacha_id":10092,"event_id":10092,"gacha_name":"에피소드 오브 파이러츠 해적섬의 저주받은 보물","item_type":2,"item_id":60912,"cost":1,"repeat_step":6},
         {"gacha_id":10093,"event_id":10093,"gacha_name":"이노리 SOS!! 타임 트래블 드래곤즈","item_type":2,"item_id":60922,"cost":1,"repeat_step":6},
         {"gacha_id":10094,"event_id":10094,"gacha_name":"엔조이＆리프레시! 울퉁불퉁 걸즈 캠프","item_type":2,"item_id":60932,"cost":1,"repeat_step":6},
+        {"gacha_id":10095,"event_id":10095,"gacha_name":"이심전심! 아오이 토이 프렌즈","item_type":2,"item_id":60942,"cost":1,"repeat_step":6},
+        {"gacha_id":10096,"event_id":10096,"gacha_name":"트윙클 서머 게임 \\n여름 바다에 빛나는 세 가지 마음","item_type":2,"item_id":60952,"cost":1,"repeat_step":6},
+        {"gacha_id":10097,"event_id":10097,"gacha_name":"엔드리스 서머 프로듀스 둘이 독점한 한여름의 파라다이스","item_type":2,"item_id":60962,"cost":1,"repeat_step":6},
+        {"gacha_id":10098,"event_id":10098,"gacha_name":"리틀 서머 메모리즈 물가에서 찾아낸 작은 행복","item_type":2,"item_id":60972,"cost":1,"repeat_step":6},
+        {"gacha_id":10099,"event_id":10099,"gacha_name":"카르미나 서머 라이브 저스트 어 모먼트!","item_type":2,"item_id":60982,"cost":1,"repeat_step":6},
+        {"gacha_id":10100,"event_id":10100,"gacha_name":"마호마호 미라클 저니! 여행하는 소녀와 땅끝의 커다란 나무","item_type":2,"item_id":60992,"cost":1,"repeat_step":6},
+        {"gacha_id":10101,"event_id":10101,"gacha_name":"일리걸 오에도 카르테 Dr. 미츠키의 진찰실","item_type":2,"item_id":61002,"cost":1,"repeat_step":6},
+        {"gacha_id":10102,"event_id":10102,"gacha_name":"좋아요! 러브! 총집합! 지고의 제전과 소녀의 비밀스런 덕질","item_type":2,"item_id":61012,"cost":1,"repeat_step":6},
+        {"gacha_id":10103,"event_id":10103,"gacha_name":"할로윈 세이버즈 스크램블! 복슬복슬 포획 대작전","item_type":2,"item_id":61022,"cost":1,"repeat_step":6},
+        {"gacha_id":10104,"event_id":10104,"gacha_name":"트라이벌 스피리츠 치켜올린 검과 긍지의 가교","item_type":2,"item_id":61032,"cost":1,"repeat_step":6},
+        {"gacha_id":10105,"event_id":10105,"gacha_name":"마법소녀 외전 매지컬★느와르즈!","item_type":2,"item_id":61042,"cost":1,"repeat_step":6},
+        {"gacha_id":10106,"event_id":10106,"gacha_name":"해피 해프닝 행복의 쌍둥이 천사와 성야의 선물","item_type":2,"item_id":61052,"cost":1,"repeat_step":6},
+        {"gacha_id":10107,"event_id":10107,"gacha_name":"메리 푸딩 크리스마스! 하늘을 나는 소녀와 정성 담긴 과자","item_type":2,"item_id":61062,"cost":1,"repeat_step":6},
+        {"gacha_id":10108,"event_id":10108,"gacha_name":"온천 수증기 망년기담 새해 첫날 해돋이에 잔을","item_type":2,"item_id":61072,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"뱀파이어 헌터 with 이리야 토벌증 교환","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }

@@ -1,19 +1,16 @@
 {
     "dear_setting": [
         {"event_id":10053,"system_name":"신뢰도","tutorial_quest_id":10053102,"tutorial_chara_index":1,"tutorial_story_id":6017101},
-        {"event_id":10068,"system_name":"신뢰도","tutorial_quest_id":10068103,"tutorial_chara_index":1,"tutorial_story_id":6068101},
-        {"event_id":10075,"system_name":"신뢰도","tutorial_quest_id":10075103,"tutorial_chara_index":1,"tutorial_story_id":6048101},
-        {"event_id":10076,"system_name":"신뢰도","tutorial_quest_id":10076105,"tutorial_chara_index":1,"tutorial_story_id":6076101},
-        {"event_id":10077,"system_name":"신뢰도","tutorial_quest_id":10077103,"tutorial_chara_index":1,"tutorial_story_id":6050106},
-        {"event_id":10078,"system_name":"신뢰도","tutorial_quest_id":10078114,"tutorial_chara_index":1,"tutorial_story_id":6078101},
-        {"event_id":10079,"system_name":"신뢰도","tutorial_quest_id":10079103,"tutorial_chara_index":1,"tutorial_story_id":6052101},
-        {"event_id":10081,"system_name":"신뢰도","tutorial_quest_id":10081103,"tutorial_chara_index":1,"tutorial_story_id":6054101},
-        {"event_id":10083,"system_name":"신뢰도","tutorial_quest_id":10083103,"tutorial_chara_index":1,"tutorial_story_id":6056101},
         {"event_id":10088,"system_name":"신뢰도","tutorial_quest_id":10088106,"tutorial_chara_index":1,"tutorial_story_id":6088201},
-        {"event_id":10089,"system_name":"신뢰도","tutorial_quest_id":10089106,"tutorial_chara_index":1,"tutorial_story_id":6061101},
         {"event_id":10090,"system_name":"신뢰도","tutorial_quest_id":10090104,"tutorial_chara_index":1,"tutorial_story_id":6090101},
         {"event_id":10093,"system_name":"신뢰도","tutorial_quest_id":10093108,"tutorial_chara_index":1,"tutorial_story_id":6066101},
         {"event_id":10094,"system_name":"신뢰도","tutorial_quest_id":10094102,"tutorial_chara_index":1,"tutorial_story_id":6094101},
+        {"event_id":10095,"system_name":"신뢰도","tutorial_quest_id":10095103,"tutorial_chara_index":1,"tutorial_story_id":6068101},
+        {"event_id":10100,"system_name":"신뢰도","tutorial_quest_id":10100103,"tutorial_chara_index":1,"tutorial_story_id":6100101},
+        {"event_id":10102,"system_name":"신뢰도","tutorial_quest_id":10102106,"tutorial_chara_index":1,"tutorial_story_id":6102101},
+        {"event_id":10103,"system_name":"신뢰도","tutorial_quest_id":10103105,"tutorial_chara_index":1,"tutorial_story_id":6076101},
+        {"event_id":10104,"system_name":"신뢰도","tutorial_quest_id":10104114,"tutorial_chara_index":1,"tutorial_story_id":6104101},
+        {"event_id":10105,"system_name":"신뢰도","tutorial_quest_id":10105114,"tutorial_chara_index":1,"tutorial_story_id":6078101},
         {"event_id":20015,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
         {"event_id":20017,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
         {"event_id":20018,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
@@ -23,6 +20,12 @@
         {"event_id":20023,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
         {"event_id":20024,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
         {"event_id":20025,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
-        {"event_id":20026,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0}
+        {"event_id":20026,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
+        {"event_id":20028,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
+        {"event_id":20029,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
+        {"event_id":20030,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
+        {"event_id":20031,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
+        {"event_id":20032,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
+        {"event_id":20035,"system_name":"신뢰도","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0}
     ]
 }

@@ -209,6 +209,17 @@
         {"still_id":9000207,"group_id":10008,"still_group_id":0,"still_name":"Moviescene1","vertical_still_flg":0,"scroll_direction":0,"mypage_type":2},
         {"still_id":9000208,"group_id":10008,"still_group_id":0,"still_name":"Moviescene2","vertical_still_flg":0,"scroll_direction":0,"mypage_type":2},
         {"still_id":9000209,"group_id":10008,"still_group_id":0,"still_name":"Moviescene3","vertical_still_flg":0,"scroll_direction":0,"mypage_type":2},
-        {"still_id":9000210,"group_id":40001,"still_group_id":0,"still_name":"5월 연휴!","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1}
+        {"still_id":9000210,"group_id":40001,"still_group_id":0,"still_name":"5월 연휴!","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000211,"group_id":40001,"still_group_id":0,"still_name":"장마 합창단","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000212,"group_id":40001,"still_group_id":0,"still_name":"여름 숲의 탐험대","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000213,"group_id":40001,"still_group_id":0,"still_name":"여름의 추억","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000214,"group_id":40001,"still_group_id":0,"still_name":"여름 소풍","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000215,"group_id":20005,"still_group_id":0,"still_name":"4.5주년 기념 커스텀 마이 페이지 1","vertical_still_flg":1,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000216,"group_id":20005,"still_group_id":0,"still_name":"4.5주년 기념 커스텀 마이 페이지 2","vertical_still_flg":1,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000217,"group_id":40001,"still_group_id":0,"still_name":"다 같이 달맞이","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000218,"group_id":40001,"still_group_id":0,"still_name":"할로윈 파티","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000219,"group_id":40001,"still_group_id":0,"still_name":"가을 하면......","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000220,"group_id":40001,"still_group_id":0,"still_name":"Wish a Merry Xmas","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000221,"group_id":40001,"still_group_id":0,"still_name":"새해의 한때","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1}
     ]
 }

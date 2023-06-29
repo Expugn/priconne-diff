@@ -82,6 +82,7 @@
         {"id":9321,"discription":"보유 가능 수량을 초과하여 획득한 메모리 피스 교환 티켓 보상입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9322,"discription":"스토리 열람으로 획득한 아이템입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9323,"discription":"모두의 캘린더 내에서 획득한 아이템입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
+        {"id":9324,"discription":"프린세스 아레나 미접속 기간에 따른 {0}일치 랭킹 보상입니다.","type_1":23,"type_2":0,"type_3":0,"type_4":0},
         {"id":9401,"discription":"데일리 쥬얼 팩 아이템입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9402,"discription":"7일간 스태미나 응원 팩의 아이템입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9403,"discription":"아이템 장비팩Ⅰ를 구입하여 획득한 아이템입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
@@ -129,12 +130,15 @@
         {"id":9515,"discription":"사이드 스토리 미션 달성으로 획득한 아이템입니다.","type_1":13,"type_2":0,"type_3":0,"type_4":0},
         {"id":9516,"discription":"「복각 이벤트 로그인 보너스」 {1}일째 획득한 아이템입니다.","type_1":13,"type_2":2,"type_3":0,"type_4":0},
         {"id":9517,"discription":"「모두의 훈련장」에서 획득한 아이템입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
+        {"id":9518,"discription":"EX 장비 분해로 획득한 아이템입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
+        {"id":9519,"discription":"EX 장비 강화로 획득한 아이템입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9600,"discription":"미니 게임에서 획득한 아이템입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9700,"discription":"「배틀 오브 랜드솔」에서 획득한 랭킹 보상입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9701,"discription":"「배틀 오브 랜드솔」에서 획득한 어택 보상입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9702,"discription":"「왕도 종말 결전」에서 획득한 아이템입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9703,"discription":"「배틀 오브 랜드솔」에서 획득한 아이템입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9704,"discription":"「레기온 워」에서 획득한 아이템입니다.","type_1":0,"type_2":0,"type_3":0,"type_4":0},
+        {"id":9705,"discription":"「{0}」에서 획득한 아이템입니다.","type_1":24,"type_2":0,"type_3":0,"type_4":0},
         {"id":9800,"discription":"「{0}」에서 획득한 아이템입니다.","type_1":21,"type_2":0,"type_3":0,"type_4":0},
         {"id":9801,"discription":"「{0}」에서 획득한 아이템입니다.","type_1":22,"type_2":0,"type_3":0,"type_4":0}
     ]

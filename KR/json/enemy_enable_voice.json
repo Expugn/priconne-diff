@@ -94,6 +94,17 @@
         {"unit_id":315403,"voice_id":315400},
         {"unit_id":315404,"voice_id":315404},
         {"unit_id":315405,"voice_id":315404},
-        {"unit_id":315406,"voice_id":315404}
+        {"unit_id":315406,"voice_id":315404},
+        {"unit_id":316700,"voice_id":316700},
+        {"unit_id":316701,"voice_id":316700},
+        {"unit_id":316702,"voice_id":316700},
+        {"unit_id":316703,"voice_id":316700},
+        {"unit_id":316704,"voice_id":316700},
+        {"unit_id":316705,"voice_id":316700},
+        {"unit_id":316706,"voice_id":316700},
+        {"unit_id":317200,"voice_id":317200},
+        {"unit_id":317700,"voice_id":317700},
+        {"unit_id":317800,"voice_id":317700},
+        {"unit_id":317900,"voice_id":317900}
     ]
 }

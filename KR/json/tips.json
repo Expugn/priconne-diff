@@ -61,6 +61,7 @@
         {"id":4106601,"value":106601,"tips_index":1,"title":"하극상"},
         {"id":4106701,"value":106701,"tips_index":1,"title":"비밀스러운 작가"},
         {"id":4106801,"value":106801,"tips_index":1,"title":"솜씨"},
+        {"id":4106901,"value":106901,"tips_index":1,"title":"쥐엄쥐엄"},
         {"id":4107001,"value":107001,"tips_index":1,"title":"깜짝 이벤트 대성공"},
         {"id":4107101,"value":107101,"tips_index":1,"title":"지루하다……"},
         {"id":4109201,"value":109201,"tips_index":1,"title":"흥미진진"},
@@ -110,6 +111,13 @@
         {"id":4122001,"value":122001,"tips_index":1,"title":"잘 보이는"},
         {"id":4122101,"value":122101,"tips_index":1,"title":"캠프 마이스터"},
         {"id":4122201,"value":122201,"tips_index":1,"title":"사치스러운 시간"},
+        {"id":4122301,"value":122301,"tips_index":1,"title":"최강이고♪"},
+        {"id":4123001,"value":123001,"tips_index":1,"title":"탱글탱글 탱글탱글"},
+        {"id":4123101,"value":123101,"tips_index":1,"title":"팔랑팔랑 빙그르르"},
+        {"id":4123201,"value":123201,"tips_index":1,"title":"소풍 기분으로"},
+        {"id":4123301,"value":123301,"tips_index":1,"title":"눈의 보양"},
+        {"id":4123801,"value":123801,"tips_index":1,"title":"사정없이"},
+        {"id":4123901,"value":123901,"tips_index":1,"title":"●비밀 도감● ①마츠리"},
         {"id":4180101,"value":180101,"tips_index":1,"title":"가위바위보 타임!"},
         {"id":4180201,"value":180201,"tips_index":1,"title":"꼬륵꼬륵"},
         {"id":4180301,"value":180301,"tips_index":1,"title":"지키는 힘"},
@@ -118,6 +126,7 @@
         {"id":4180601,"value":180601,"tips_index":1,"title":"구호"},
         {"id":4180701,"value":180701,"tips_index":1,"title":"나의 색"},
         {"id":4180801,"value":180801,"tips_index":1,"title":"셋이서 언제나"},
-        {"id":4180901,"value":180901,"tips_index":1,"title":"두 사람 함께라면"}
+        {"id":4180901,"value":180901,"tips_index":1,"title":"두 사람 함께라면"},
+        {"id":4181001,"value":181001,"tips_index":1,"title":"변함없는 것"}
     ]
 }

@@ -1,0 +1,21 @@
+{
+    "travel_quest_result_group": [
+        {"id":1,"situation_group_id":1,"situation_id":101},
+        {"id":2,"situation_group_id":1,"situation_id":103},
+        {"id":3,"situation_group_id":1,"situation_id":105},
+        {"id":4,"situation_group_id":2,"situation_id":101},
+        {"id":5,"situation_group_id":2,"situation_id":102},
+        {"id":6,"situation_group_id":2,"situation_id":103},
+        {"id":7,"situation_group_id":2,"situation_id":105},
+        {"id":8,"situation_group_id":3,"situation_id":101},
+        {"id":9,"situation_group_id":3,"situation_id":102},
+        {"id":10,"situation_group_id":3,"situation_id":103},
+        {"id":11,"situation_group_id":4,"situation_id":101},
+        {"id":12,"situation_group_id":4,"situation_id":103},
+        {"id":13,"situation_group_id":4,"situation_id":104},
+        {"id":14,"situation_group_id":4,"situation_id":105},
+        {"id":15,"situation_group_id":5,"situation_id":103},
+        {"id":16,"situation_group_id":5,"situation_id":104},
+        {"id":17,"situation_group_id":5,"situation_id":105}
+    ]
+}

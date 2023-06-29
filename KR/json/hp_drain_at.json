@@ -1,0 +1,5 @@
+{
+    "hp_drain_at": [
+        {"id":1,"limit_value":-1,"correction_value":1}
+    ]
+}
