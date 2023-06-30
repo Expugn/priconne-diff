@@ -1,5 +1,8 @@
 {
     "caravan_navi_comment": [
-
+        {"comment_id":10001,"where_type":2002,"character_id":126401,"face_type":2,"character_name":"クローチェ","description":"いらっしゃいませっ♪\\nキャラバンコインを使って\\n買い物ができますよっ！","voice_id":1,"start_time":"2023/06/30 12:00:00","end_time":"2023/09/22 14:59:59","pos_x":-470,"pos_y":0,"change_face_time":1.47,"change_face_type":1,"season_id":1},
+        {"comment_id":10002,"where_type":2002,"character_id":126401,"face_type":1,"character_name":"クローチェ","description":"素敵な品が揃ってるので\\nたーっくさん買っていって\\nくださいねっ♪","voice_id":2,"start_time":"2023/06/30 12:00:00","end_time":"2023/09/22 14:59:59","pos_x":-470,"pos_y":0,"change_face_time":2.15,"change_face_type":2,"season_id":1},
+        {"comment_id":10003,"where_type":2002,"character_id":126501,"face_type":2,"character_name":"ライラエル","description":"ショップへようこそ\\nキャラバンコインはこちら\\nで買い物に使えますよ","voice_id":1,"start_time":"2023/06/30 12:00:00","end_time":"2023/09/22 14:59:59","pos_x":-470,"pos_y":0,"change_face_time":0,"change_face_type":2,"season_id":1},
+        {"comment_id":10004,"where_type":2002,"character_id":126501,"face_type":1,"character_name":"ライラエル","description":"こちらのショップで\\n買い物をして、素敵な\\n旅を楽しんでくださいね","voice_id":2,"start_time":"2023/06/30 12:00:00","end_time":"2023/09/22 14:59:59","pos_x":-470,"pos_y":0,"change_face_time":0,"change_face_type":1,"season_id":1}
     ]
 }

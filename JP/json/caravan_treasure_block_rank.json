@@ -1,5 +1,7 @@
 {
     "caravan_treasure_block_rank": [
-
+        {"odds_id":10001,"upgrade_id":10002},
+        {"odds_id":10002,"upgrade_id":10003},
+        {"odds_id":10003,"upgrade_id":10003}
     ]
 }

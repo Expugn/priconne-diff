@@ -1,5 +1,5 @@
 {
     "caravan_dice_reward_period": [
-
+        {"id":1,"cost":300,"start_time":"2023/07/01 05:00:00","end_time":"2030/08/01 14:59:59"}
     ]
 }

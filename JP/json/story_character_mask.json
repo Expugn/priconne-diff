@@ -731,6 +731,7 @@
         {"chara_id":126412,"offset":0,"size":1200,"softness":50},
         {"chara_id":126413,"offset":0,"size":720,"softness":50},
         {"chara_id":126414,"offset":0,"size":720,"softness":50},
+        {"chara_id":126431,"offset":0,"size":800,"softness":50},
         {"chara_id":126511,"offset":0,"size":1200,"softness":50},
         {"chara_id":126611,"offset":-90,"size":700,"softness":80},
         {"chara_id":126711,"offset":0,"size":700,"softness":50},
