@@ -461,7 +461,7 @@
         {"tbl":"training_quest_data","idx":null,"stat":"28"},
         {"tbl":"unique_equip_enhance_rate","idx":"unique_equip_enhance_rate_0_equipment_id","stat":"240 2"},
         {"tbl":"trial_battle_reward_data","idx":null,"stat":"25"},
-        {"tbl":"travel_ex_event_data","idx":null,"stat":"11"},
+        {"tbl":"travel_ex_event_data","idx":null,"stat":"13"},
         {"tbl":"hatsune_diary_script","idx":"hatsune_diary_script_0_diary_id","stat":"427 31"},
         {"tbl":"hatsune_boss_condition","idx":null,"stat":"519"},
         {"tbl":"room_item_get_announcement","idx":null,"stat":"14"},
