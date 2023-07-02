@@ -43,3 +43,4 @@ ailment_id,ailment_action,ailment_detail_1,ailment_name
 "42","49","10","消除護盾"
 "43","9","9","黑炎"
 "44","99","2","加速領域"
+"45","99","1","緩速領域"

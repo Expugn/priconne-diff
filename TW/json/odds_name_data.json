@@ -235,6 +235,8 @@
         {"id":1011101,"odds_file":"1011120101","name":"嘉夜（解放者）的記憶碎片","icon_type":99002,"description":""},
         {"id":1011102,"odds_file":"1011120102","name":"千歌的記憶碎片","icon_type":99002,"description":""},
         {"id":1011201,"odds_file":"1011220101","name":"可可蘿的記憶碎片","icon_type":99002,"description":""},
-        {"id":1011202,"odds_file":"1011220102","name":"凱留的記憶碎片","icon_type":99002,"description":""}
+        {"id":1011202,"odds_file":"1011220102","name":"凱留的記憶碎片","icon_type":99002,"description":""},
+        {"id":1011401,"odds_file":"1011420101","name":"莫妮卡的記憶碎片","icon_type":99002,"description":""},
+        {"id":1011402,"odds_file":"1011420102","name":"珠希的記憶碎片","icon_type":99002,"description":""}
     ]
 }
