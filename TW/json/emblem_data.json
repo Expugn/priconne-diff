@@ -996,6 +996,8 @@
         {"emblem_id":11201003,"disp_oder":504003,"type":12,"emblem_name":"與戰友同在","description_mission_id":56015003,"event_emblem":0,"start_time":"2020/02/18 16:00:00","end_time":"2030/04/01 14:59:59"},
         {"emblem_id":11302001,"disp_oder":1302001,"type":13,"emblem_name":"新進冒險家","description_mission_id":51402001,"event_emblem":0,"start_time":"2023/03/01 16:00:00","end_time":"2030/01/01 23:59:59"},
         {"emblem_id":11302002,"disp_oder":1302002,"type":13,"emblem_name":"老手冒險家","description_mission_id":51402002,"event_emblem":0,"start_time":"2023/03/01 16:00:00","end_time":"2030/01/01 23:59:59"},
-        {"emblem_id":11302003,"disp_oder":1302003,"type":13,"emblem_name":"大師冒險家","description_mission_id":51402003,"event_emblem":0,"start_time":"2023/03/01 16:00:00","end_time":"2030/01/01 23:59:59"}
+        {"emblem_id":11302003,"disp_oder":1302003,"type":13,"emblem_name":"大師冒險家","description_mission_id":51402003,"event_emblem":0,"start_time":"2023/03/01 16:00:00","end_time":"2030/01/01 23:59:59"},
+        {"emblem_id":11401001,"disp_oder":1401001,"type":14,"emblem_name":"由異次元歸來之人","description_mission_id":51501001,"event_emblem":0,"start_time":"2023/07/07 16:00:00","end_time":"2030/01/01 23:59:59"},
+        {"emblem_id":11401002,"disp_oder":1401002,"type":14,"emblem_name":"次元騎士","description_mission_id":51502001,"event_emblem":0,"start_time":"2023/07/07 16:00:00","end_time":"2030/01/01 23:59:59"}
     ]
 }
