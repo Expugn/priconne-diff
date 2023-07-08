@@ -147,7 +147,7 @@
 |goldset_data||70|
 |sekai_add_times_data||12|
 |clan_battle_s_map_data|clan_battle_s_map_data_0_clan_battle_id|186 4|
-|unit_unique_equip||114|
+|unit_unique_equip||117|
 |story_detail||1369|
 |content_map_data||5|
 |odds_name_data||197|
