@@ -6298,6 +6298,8 @@
         {"id":7079,"unit_id":125101,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"嗯～好香的味道喵～\\n咖啡也是這樣，\\n香氣的療癒效果\\n十分出色喵～♪","insert_word_type":0},
         {"id":7080,"unit_id":125101,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"貓咪覺得暖和的東西，\\n好像就叫做\\n裹成一團喵……♪\\n裹成一團……","insert_word_type":0},
         {"id":7082,"unit_id":125101,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"喵哈～真好吃喵♪\\n不如就做為\\n咖啡廳的\\n新菜單吧～♪","insert_word_type":0},
-        {"id":7083,"unit_id":125101,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"喵來如此……\\n調查得越深入，\\n越是發現咖啡\\n真的很博大精深喵……","insert_word_type":0}
+        {"id":7083,"unit_id":125101,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"喵來如此……\\n調查得越深入，\\n越是發現咖啡\\n真的很博大精深喵……","insert_word_type":0},
+        {"id":7085,"unit_id":107101,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"我親手烹調的料理好像\\n很合小子你的口味。\\n擄獲你的胃囉♪","insert_word_type":0},
+        {"id":7086,"unit_id":107101,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"你說……若再觸碰到\\n胸部，誓約就會\\n失效嗎？問得真犀利。\\n放心吧，不會失效☆","insert_word_type":0}
     ]
 }
