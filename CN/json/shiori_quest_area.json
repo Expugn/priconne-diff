@@ -35,6 +35,8 @@
         {"area_id":20015101,"event_id":20015,"area_name":"阳雨海滩","map_type":201,"sheet_id":"bgm_M237","que_id":"bgm_M237","area_disp":1,"map_id":1,"scroll_width":98,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":12},
         {"area_id":20015201,"event_id":20015,"area_name":"阳雨海滩","map_type":201,"sheet_id":"bgm_M237","que_id":"bgm_M237","area_disp":1,"map_id":0,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
         {"area_id":20016101,"event_id":20016,"area_name":"真步真步王国避暑地？","map_type":201,"sheet_id":"bgm_M245","que_id":"bgm_M245_02","area_disp":1,"map_id":0,"scroll_width":150,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
-        {"area_id":20016201,"event_id":20016,"area_name":"真步真步王国避暑地？","map_type":201,"sheet_id":"bgm_M245","que_id":"bgm_M245_02","area_disp":1,"map_id":0,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0}
+        {"area_id":20016201,"event_id":20016,"area_name":"真步真步王国避暑地？","map_type":201,"sheet_id":"bgm_M245","que_id":"bgm_M245_02","area_disp":1,"map_id":0,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
+        {"area_id":20017101,"event_id":20017,"area_name":"圣特蕾莎女子学院","map_type":201,"sheet_id":"bgm_M254","que_id":"bgm_M254","area_disp":1,"map_id":1,"scroll_width":70,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
+        {"area_id":20017201,"event_id":20017,"area_name":"圣特蕾莎女子学院","map_type":201,"sheet_id":"bgm_M254","que_id":"bgm_M254","area_disp":1,"map_id":0,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0}
     ]
 }
