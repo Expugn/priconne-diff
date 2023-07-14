@@ -139,6 +139,7 @@
         {"unit_id":115701,"unit_name":"คาสึมิ (ฤดูร้อน)","bg_id":500160,"bg_name":"ชายฝั่งมัลเจ้น","position":0,"face_type":4},
         {"unit_id":115801,"unit_name":"ริมะ (ซินเดอเรลล่า)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
         {"unit_id":115901,"unit_name":"มาโคโตะ (ซินเดอเรลล่า)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
+        {"unit_id":116001,"unit_name":"มาโฮะ (ซินเดอเรลล่า)","bg_id":500060,"bg_name":"หน่วยลาดตระเวน ที่ตั้ง","position":0,"face_type":4},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
         {"unit_id":180401,"unit_name":"เปโกรีน (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},

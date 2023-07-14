@@ -12,7 +12,7 @@
         {"story_group_id":5010,"story_type":5,"value":20010,"title":"ทวิงเคิลไครซิสรับปีใหม่!","thumbnail_id":0,"disp_order":1,"start_time":"2021/05/22 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5011,"story_type":5,"value":20011,"title":"แบทเทิล ออฟ วาเลนไทน์! สวีตแบทเทิลประชันความรัก","thumbnail_id":0,"disp_order":1,"start_time":"2021/06/15 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5012,"story_type":5,"value":20012,"title":"ยอดนักสืบแห่งเมืองหลวง ผู้ตามล่าแห่งความเศร้าโศก (สตอล์กเกอร์)","thumbnail_id":0,"disp_order":1,"start_time":"2021/07/12 10:00:00","end_time":"2030/04/24 14:59:59"},
-        {"story_group_id":5013,"story_type":5,"value":10039,"title":"สองบุปผาที่เบ่งบาน ณ แอสทรูม","thumbnail_id":0,"disp_order":1,"start_time":"2021/08/07 10:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5013,"story_type":5,"value":20013,"title":"สองบุปผาที่เบ่งบาน ณ แอสทรูม","thumbnail_id":0,"disp_order":1,"start_time":"2021/08/07 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5015,"story_type":5,"value":10041,"title":"บันทึกการเดินทางของนายเหนือหัว ซามูไรปีกขาว","thumbnail_id":0,"disp_order":1,"start_time":"2021/09/04 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5017,"story_type":5,"value":10017,"title":"Re:ZERO รีเซทชีวิต รวมมิตรอาหารต่างโลก","thumbnail_id":0,"disp_order":1,"start_time":"2021/10/02 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5019,"story_type":5,"value":10043,"title":"เรนโบว์สเตจของสึซึนะ!","thumbnail_id":0,"disp_order":1,"start_time":"2021/11/02 10:00:00","end_time":"2030/04/24 14:59:59"},
@@ -35,6 +35,7 @@
         {"story_group_id":5056,"story_type":5,"value":10056,"title":"กรูเมต์ปริ้นเซสปีใหม่! การเดิมพันของเหล่าหญิงสาว","thumbnail_id":0,"disp_order":1,"start_time":"2023/04/21 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5058,"story_type":5,"value":10058,"title":"เชื่อมสายใย ผูกดวงใจ","thumbnail_id":0,"disp_order":1,"start_time":"2023/05/22 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5059,"story_type":5,"value":10059,"title":"เชื่อมสายใย ผูกดวงใจ","thumbnail_id":0,"disp_order":1,"start_time":"2023/05/22 10:00:00","end_time":"2030/04/24 14:59:59"},
-        {"story_group_id":5061,"story_type":5,"value":10061,"title":"บทเรียนซินเดอเรลล่า วันที่สวยงามรสชาติเหมือนแอปเปิล","thumbnail_id":0,"disp_order":1,"start_time":"2023/06/19 10:00:00","end_time":"2030/04/24 14:59:59"}
+        {"story_group_id":5061,"story_type":5,"value":10061,"title":"บทเรียนซินเดอเรลล่า วันที่สวยงามรสชาติเหมือนแอปเปิล","thumbnail_id":0,"disp_order":1,"start_time":"2023/06/19 10:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5064,"story_type":5,"value":10064,"title":"นักบุญหญิงเหล็กกับเด็กหญิงนอกคอกแห่งวิทยาลัยเซนต์","thumbnail_id":0,"disp_order":1,"start_time":"2023/07/21 10:00:00","end_time":"2030/04/24 14:59:59"}
     ]
 }
