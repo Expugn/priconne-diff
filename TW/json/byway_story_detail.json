@@ -1,5 +1,7 @@
 {
     "byway_story_detail": [
-
+        {"story_id":2201101,"story_type":8,"title":"分支劇情Ⅰ","sub_title":"地下社會公會，前往背面世界","visible_type":5,"pre_story_id":2201008,"unlock_quest_id":15063001,"lock_all_text":0,"reward_type_1":8,"reward_id_1":91002,"reward_value_1":20,"reward_type_2":0,"reward_id_2":0,"reward_value_2":0,"reward_type_3":0,"reward_id_3":0,"reward_value_3":0,"start_time":"2015/04/01 15:00:00","end_time":"2030/12/17 14:59:59"},
+        {"story_id":2201102,"story_type":8,"title":"分支劇情Ⅱ","sub_title":"鍛鍊吧！　幻變少女","visible_type":5,"pre_story_id":2201008,"unlock_quest_id":15063002,"lock_all_text":0,"reward_type_1":8,"reward_id_1":91002,"reward_value_1":20,"reward_type_2":0,"reward_id_2":0,"reward_value_2":0,"reward_type_3":0,"reward_id_3":0,"reward_value_3":0,"start_time":"2015/04/01 15:00:00","end_time":"2030/12/17 14:59:59"},
+        {"story_id":2201103,"story_type":8,"title":"分支劇情Ⅲ","sub_title":"到奇怪的國家校外教學","visible_type":5,"pre_story_id":2201008,"unlock_quest_id":15063003,"lock_all_text":0,"reward_type_1":8,"reward_id_1":91002,"reward_value_1":20,"reward_type_2":0,"reward_id_2":0,"reward_value_2":0,"reward_type_3":0,"reward_id_3":0,"reward_value_3":0,"start_time":"2015/04/01 15:00:00","end_time":"2030/12/17 14:59:59"}
     ]
 }
