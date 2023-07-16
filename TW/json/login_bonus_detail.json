@@ -348,6 +348,23 @@
         {"id":378,"login_bonus_id":40011,"count":3,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126101,"character_name":"普蕾西亞","description":"嗯──\\n這個，給你。\\n是的","voice_id":1,"bg_id":0},
         {"id":379,"login_bonus_id":40011,"count":4,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":125801,"character_name":"莉莉","description":"讓我再次自我介紹……\\n我是【幻變少女】的\\n公會長莉莉","voice_id":2,"bg_id":0},
         {"id":380,"login_bonus_id":40011,"count":5,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126001,"character_name":"可璃亞","description":"你好，哥哥♪\\n我是【幻變少女】的\\n可璃亞","voice_id":2,"bg_id":0},
-        {"id":381,"login_bonus_id":40011,"count":6,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126101,"character_name":"普蕾西亞","description":"哥哥。\\n你願意過來，我很開心","voice_id":2,"bg_id":0}
+        {"id":381,"login_bonus_id":40011,"count":6,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126101,"character_name":"普蕾西亞","description":"哥哥。\\n你願意過來，我很開心","voice_id":2,"bg_id":0},
+        {"id":382,"login_bonus_id":80008,"count":1,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530141},
+        {"id":383,"login_bonus_id":80008,"count":2,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530142},
+        {"id":384,"login_bonus_id":80008,"count":3,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530143},
+        {"id":385,"login_bonus_id":80008,"count":4,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530144},
+        {"id":386,"login_bonus_id":80008,"count":5,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530145},
+        {"id":387,"login_bonus_id":80008,"count":6,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530146},
+        {"id":388,"login_bonus_id":80008,"count":7,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530147},
+        {"id":389,"login_bonus_id":80008,"count":8,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530148},
+        {"id":390,"login_bonus_id":80008,"count":9,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530149},
+        {"id":391,"login_bonus_id":80008,"count":10,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530150},
+        {"id":392,"login_bonus_id":80008,"count":11,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530151},
+        {"id":393,"login_bonus_id":80008,"count":12,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530152},
+        {"id":394,"login_bonus_id":80008,"count":13,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530153},
+        {"id":395,"login_bonus_id":80008,"count":14,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530154},
+        {"id":396,"login_bonus_id":80008,"count":15,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530155},
+        {"id":397,"login_bonus_id":80008,"count":16,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530156},
+        {"id":398,"login_bonus_id":80008,"count":16,"reward_type":7,"reward_id":2830,"reward_num":1,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":530156}
     ]
 }
