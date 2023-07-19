@@ -171,6 +171,7 @@
         {"unit_id":119201,"unit_name":"真陽（聖誕節）","bg_id":500863,"bg_name":"牧場_雪_白天","position":0,"face_type":4},
         {"unit_id":119301,"unit_name":"璃乃（聖誕節）","bg_id":500036,"bg_name":"蘭德索爾_鬧區_聖誕節","position":0,"face_type":4},
         {"unit_id":119901,"unit_name":"宮子（聖誕節）","bg_id":500038,"bg_name":"蘭德索爾_鬧區_聖誕節","position":0,"face_type":4},
+        {"unit_id":120001,"unit_name":"靜流（黑暗）","bg_id":501450,"bg_name":"黑暗的據點","position":0,"face_type":2},
         {"unit_id":120701,"unit_name":"雪菲（新年）","bg_id":501480,"bg_name":"美食殿堂_公會小屋_外觀_新年","position":0,"face_type":2},
         {"unit_id":120801,"unit_name":"流夏（新年）","bg_id":500560,"bg_name":"參道_白天","position":0,"face_type":3},
         {"unit_id":120901,"unit_name":"伊莉亞（新年）","bg_id":500260,"bg_name":"古城","position":0,"face_type":4},
