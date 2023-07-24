@@ -57,6 +57,7 @@
         {"gacha_id":10059,"event_id":10059,"gacha_name":"เชื่อมสายใย ผูกดวงใจ","item_type":2,"item_id":60572,"cost":1,"repeat_step":6},
         {"gacha_id":10060,"event_id":10060,"gacha_name":"รีรัน สาวน้อยเวทมนตร์ เธอทั้งสองคือมิสตี้ & เพียวรี่","item_type":2,"item_id":60592,"cost":1,"repeat_step":5},
         {"gacha_id":10061,"event_id":10061,"gacha_name":"บทเรียนซินเดอเรลล่า วันที่สวยงามรสชาติเหมือนแอปเปิล","item_type":2,"item_id":60602,"cost":1,"repeat_step":6},
+        {"gacha_id":10064,"event_id":10064,"gacha_name":"นักบุญหญิงเหล็กกับเด็กหญิงนอกคอกแห่งวิทยาลัยเซนต์","item_type":2,"item_id":60632,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"แลกตราพิชิตแวมไพร์ฮันเตอร์ with อิลิยา","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
