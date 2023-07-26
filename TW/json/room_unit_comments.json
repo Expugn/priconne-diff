@@ -6265,7 +6265,7 @@
         {"id":7042,"unit_id":118201,"trigger":2,"voice_id":1,"beloved_step":1,"time":0,"face_id":1,"description":"你很擔心\\n只留我一個人嗎？\\n我說過，\\n我會當個乖孩子的～★","insert_word_type":0},
         {"id":7043,"unit_id":118201,"trigger":2,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"你要出去嗎？\\n還是要待在家裡\\n享受悠閒時光呢？","insert_word_type":0},
         {"id":7044,"unit_id":118201,"trigger":2,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"竟然馬上就讓\\n女孩子進家門……\\n呵呵，你果真\\n有兩下子～★","insert_word_type":0},
-        {"id":7045,"unit_id":118201,"trigger":2,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"騎士先生、騎士先生★\\n我可以\\n纏著你不放嗎？\\n我說騎士先生──★","insert_word_type":0},
+        {"id":7045,"unit_id":118201,"trigger":2,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"騎士同學、騎士同學★\\n我可以\\n纏著你不放嗎？\\n我說騎士同學──★","insert_word_type":0},
         {"id":7046,"unit_id":118201,"trigger":2,"voice_id":101,"beloved_step":4,"time":0,"face_id":1,"description":"要不要一起\\n耍懶呢～？\\n就像情侶那樣，\\n感覺很有趣呢♪","insert_word_type":0},
         {"id":7047,"unit_id":118201,"trigger":2,"voice_id":102,"beloved_step":8,"time":0,"face_id":1,"description":"呵呵★\\n像這樣被你\\n溫柔對待……\\n害我心頭小鹿亂撞呢♪","insert_word_type":0},
         {"id":7048,"unit_id":118201,"trigger":2,"voice_id":1,"beloved_step":1,"time":1,"face_id":1,"description":"早安★\\n哎呀呀～？\\n你還在睡啊──？","insert_word_type":0},

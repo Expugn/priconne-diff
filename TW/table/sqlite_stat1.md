@@ -370,8 +370,8 @@
 |birthday_login_bonus_detail|birthday_login_bonus_detail_0_login_bonus_id|159 2|
 |redeem_static_price_group||2|
 |skill_cost||275|
-|season_pack|season_pack_0_pack_type|47 8|
-|season_pack|season_pack_0_mission_id|47 4|
+|season_pack|season_pack_0_pack_type|56 10|
+|season_pack|season_pack_0_mission_id|56 5|
 |unique_equipment_data||178|
 |sre_schedule||1|
 |sjr_feature_group||7|
