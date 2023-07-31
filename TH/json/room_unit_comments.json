@@ -4424,6 +4424,8 @@
         {"id":4970,"unit_id":116301,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"ว้าว กลิ่นหอมจัง~!\\nเหมือนเกิดมาเพื่อ\\nจิเอรุเลยแฮะ!","insert_word_type":0},
         {"id":4971,"unit_id":116301,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"ใช้ไฟนี้\\nวิ่งคบเพลิงกันเถอะค่ะ!\\nรุ่นพี่ เอามาอันนึงสิคะ!","insert_word_type":0},
         {"id":4973,"unit_id":116301,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"ง่ำๆ... ถ้าไม่กิน\\nให้เพียงพอ จะกลายเป็น\\nแบบรุ่นพี่ยูนิเอานะ!","insert_word_type":0},
-        {"id":4974,"unit_id":116301,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"อืมๆ... ถ้าไม่ตั้งใจ\\nอ่านหนังสือ จะกลายเป็น\\nแบบรุ่นพี่คุโรเอะเอานะ!","insert_word_type":0}
+        {"id":4974,"unit_id":116301,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"อืมๆ... ถ้าไม่ตั้งใจ\\nอ่านหนังสือ จะกลายเป็น\\nแบบรุ่นพี่คุโรเอะเอานะ!","insert_word_type":0},
+        {"id":4976,"unit_id":102901,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ตอนนี้ล่ะก็ เขียนได้แน่\\nเพลงรักที่เปี่ยมไปด้วย\\nความรู้สึก\\nที่แท้จริงจากฉัน!","insert_word_type":0},
+        {"id":4977,"unit_id":102901,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"เฝ้ามองฉันที่เปล่งประกาย\\nมากขึ้นให้เยอะๆ ล่ะ!\\nอะ... เอ่อ...\\nจ้องแบบนี้ก็ยอะเกินไปนะ!","insert_word_type":0}
     ]
 }
