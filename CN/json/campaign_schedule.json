@@ -896,6 +896,19 @@
         {"id":894,"campaign_category":351,"value":1500,"system_id":8004,"icon_image":80,"start_time":"2023/07/24 5:00:00","end_time":"2023/07/30 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
         {"id":895,"campaign_category":352,"value":1500,"system_id":8005,"icon_image":80,"start_time":"2023/07/24 5:00:00","end_time":"2023/07/30 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
         {"id":896,"campaign_category":251,"value":1500,"system_id":7004,"icon_image":80,"start_time":"2023/07/18 12:00:00","end_time":"2023/07/25 23:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
-        {"id":897,"campaign_category":252,"value":1500,"system_id":7005,"icon_image":80,"start_time":"2023/07/18 12:00:00","end_time":"2023/07/25 23:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0}
+        {"id":897,"campaign_category":252,"value":1500,"system_id":7005,"icon_image":80,"start_time":"2023/07/18 12:00:00","end_time":"2023/07/25 23:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":898,"campaign_category":39,"value":2000,"system_id":111,"icon_image":30,"start_time":"2023/08/05 5:00:00","end_time":"2023/08/09 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":899,"campaign_category":49,"value":2000,"system_id":111,"icon_image":40,"start_time":"2023/08/05 5:00:00","end_time":"2023/08/09 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":900,"campaign_category":31,"value":2000,"system_id":101,"icon_image":30,"start_time":"2023/08/09 5:00:00","end_time":"2023/08/12 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":901,"campaign_category":41,"value":2000,"system_id":101,"icon_image":40,"start_time":"2023/08/09 5:00:00","end_time":"2023/08/12 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":902,"campaign_category":31,"value":4000,"system_id":101,"icon_image":30,"start_time":"2023/08/15 5:00:00","end_time":"2023/08/22 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":903,"campaign_category":41,"value":4000,"system_id":101,"icon_image":40,"start_time":"2023/08/15 5:00:00","end_time":"2023/08/22 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":904,"campaign_category":32,"value":2000,"system_id":102,"icon_image":30,"start_time":"2023/08/12 5:00:00","end_time":"2023/08/15 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":905,"campaign_category":42,"value":2000,"system_id":102,"icon_image":40,"start_time":"2023/08/12 5:00:00","end_time":"2023/08/15 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":906,"campaign_category":45,"value":2000,"system_id":104,"icon_image":40,"start_time":"2023/08/09 5:00:00","end_time":"2023/08/20 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":907,"campaign_category":34,"value":3000,"system_id":103,"icon_image":30,"start_time":"2023/08/15 5:00:00","end_time":"2023/08/20 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":908,"campaign_category":44,"value":3000,"system_id":103,"icon_image":40,"start_time":"2023/08/15 5:00:00","end_time":"2023/08/20 4:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":909,"campaign_category":151,"value":1500,"system_id":6004,"icon_image":80,"start_time":"2023/7/31 11:00:00","end_time":"2023/8/14 23:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":910,"campaign_category":152,"value":1500,"system_id":6005,"icon_image":80,"start_time":"2023/7/31 11:00:00","end_time":"2023/8/14 23:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0}
     ]
 }

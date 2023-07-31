@@ -1,7 +1,7 @@
 {
     "cgg_completion_data": [
         {"completion_id":101,"completion_emblem_id":0,"gacha_type":2,"completion_num":16,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"收集“高级藏品”里所有种类的周边吧","receive_description":"获得了“高级藏品”里所有种类的周边！"},
-        {"completion_id":102,"completion_emblem_id":0,"gacha_type":1,"completion_num":23,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"收集“常规藏品”里所有种类的周边吧","receive_description":"获得了“常规藏品”里所有种类的周边！"},
+        {"completion_id":102,"completion_emblem_id":0,"gacha_type":1,"completion_num":23,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"收集“标准藏品”里所有种类的周边吧","receive_description":"获得了“标准藏品”里所有种类的周边！"},
         {"completion_id":103,"completion_emblem_id":0,"gacha_type":3,"completion_num":21,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"收集“庆典藏品”里所有种类的周边吧","receive_description":"获得了“庆典藏品”里所有种类的周边！"},
         {"completion_id":201,"completion_emblem_id":11001146,"gacha_type":0,"completion_num":30,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"让周边收集率达到50%","receive_description":"由于周边收集率达到了50%，\\n获得称号【[FFBB00,CE4F00]慈乐之音全员粉[-]】。"},
         {"completion_id":202,"completion_emblem_id":11001147,"gacha_type":0,"completion_num":60,"secret_goods_id_1":10101,"secret_goods_id_2":10102,"secret_goods_id_3":10103,"description":"收集所有种类的周边吧","receive_description":"由于集齐了所有种类的周边，\\n获得称号【[FFBB00,CE4F00]慈乐之音狂热粉[-]】。"}
