@@ -1,0 +1,2 @@
+|gauge_id|trigger_score|completion_detail|unlock_story_id|reward_type|reward_id|reward_count|
+| --- | --- | --- | --- | --- | --- | --- |

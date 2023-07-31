@@ -1,0 +1,2 @@
+|id|unit_id|mode|reaction_type|condition_param_1|condition_param_2|condition_param_3|face_id|face_change_time|change_face_id|face_change_effect_id|cue_name|message|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
