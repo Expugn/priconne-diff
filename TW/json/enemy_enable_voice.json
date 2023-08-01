@@ -105,6 +105,11 @@
         {"unit_id":317200,"voice_id":317200},
         {"unit_id":317700,"voice_id":317700},
         {"unit_id":317800,"voice_id":317700},
-        {"unit_id":317900,"voice_id":317900}
+        {"unit_id":317900,"voice_id":317900},
+        {"unit_id":318400,"voice_id":318400},
+        {"unit_id":318401,"voice_id":318401},
+        {"unit_id":318402,"voice_id":318402},
+        {"unit_id":318403,"voice_id":318403},
+        {"unit_id":318404,"voice_id":318404}
     ]
 }

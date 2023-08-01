@@ -16,6 +16,21 @@
         {"id":14,"situation_group_id":4,"situation_id":105},
         {"id":15,"situation_group_id":5,"situation_id":103},
         {"id":16,"situation_group_id":5,"situation_id":104},
-        {"id":17,"situation_group_id":5,"situation_id":105}
+        {"id":17,"situation_group_id":5,"situation_id":105},
+        {"id":18,"situation_group_id":6,"situation_id":102},
+        {"id":19,"situation_group_id":6,"situation_id":104},
+        {"id":20,"situation_group_id":6,"situation_id":106},
+        {"id":21,"situation_group_id":7,"situation_id":101},
+        {"id":22,"situation_group_id":7,"situation_id":102},
+        {"id":23,"situation_group_id":7,"situation_id":106},
+        {"id":24,"situation_group_id":8,"situation_id":102},
+        {"id":25,"situation_group_id":8,"situation_id":103},
+        {"id":26,"situation_group_id":8,"situation_id":106},
+        {"id":27,"situation_group_id":9,"situation_id":103},
+        {"id":28,"situation_group_id":9,"situation_id":104},
+        {"id":29,"situation_group_id":9,"situation_id":105},
+        {"id":30,"situation_group_id":10,"situation_id":101},
+        {"id":31,"situation_group_id":10,"situation_id":103},
+        {"id":32,"situation_group_id":10,"situation_id":105}
     ]
 }
