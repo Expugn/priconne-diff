@@ -141,14 +141,14 @@
 |room_exclusive_condition|room_exclusive_condition_0_room_item_id|1 1|
 |room_exclusive_condition|room_exclusive_condition_0_unit_id|1 1|
 |login_bonus_message_data|login_bonus_message_data_0_login_bonus_id|528 66|
-|rarity_6_quest_data|rarity_6_quest_data_0_rarity_6_quest_id|43 1|
+|rarity_6_quest_data|rarity_6_quest_data_0_rarity_6_quest_id|44 1|
 |app_icon||75|
 |shiori_enemy_parameter||3769|
 |goldset_data||70|
 |sekai_add_times_data||12|
 |clan_battle_s_map_data|clan_battle_s_map_data_0_clan_battle_id|214 4|
 |unit_unique_equip||150|
-|story_detail|story_detail_0_unlock_quest_id|1791 6|
+|story_detail|story_detail_0_unlock_quest_id|1795 6|
 |content_map_data||5|
 |sjr_ub_data||27|
 |legion_schedule||1|
@@ -292,9 +292,9 @@
 |hatsune_bg_change_data|hatsune_bg_change_data_0_target_type_1_area_id|74 37 2|
 |gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|476 3|
 |campaign_schedule||1491|
-|unit_rarity|unit_rarity_0_unit_material_id|1243 6|
-|unit_rarity|unit_rarity_0_unit_id|1243 6|
-|unit_rarity|sqlite_autoindex_unit_rarity_1|1243 6 1|
+|unit_rarity|unit_rarity_0_unit_material_id|1244 6|
+|unit_rarity|unit_rarity_0_unit_id|1244 6|
+|unit_rarity|sqlite_autoindex_unit_rarity_1|1244 6 1|
 |enemy_parameter||14309|
 |sre_mission_data|sre_mission_data_0_sre_id|50 50|
 |sre_mission_data|sre_mission_data_0_sre_id_1_category_id|50 50 13|
@@ -368,11 +368,11 @@
 |shiori_wave_group_data||2130|
 |hatsune_stationary_mission_data|hatsune_stationary_mission_data_0_event_id|3454 32|
 |clan_battle_archive_person_rank||6|
-|unlock_rarity_6|unlock_rarity_6_0_material_id|835 10|
-|unlock_rarity_6|unlock_rarity_6_0_unit_id_1_unlock_level|835 4 3|
-|unlock_rarity_6|unlock_rarity_6_0_unit_id_1_slot_id|835 4 2|
-|unlock_rarity_6|unlock_rarity_6_0_unit_id|835 4|
-|unlock_rarity_6|sqlite_autoindex_unlock_rarity_6_1|835 4 2 1|
+|unlock_rarity_6|unlock_rarity_6_0_material_id|839 10|
+|unlock_rarity_6|unlock_rarity_6_0_unit_id_1_unlock_level|839 4 3|
+|unlock_rarity_6|unlock_rarity_6_0_unit_id_1_slot_id|839 4 2|
+|unlock_rarity_6|unlock_rarity_6_0_unit_id|839 4|
+|unlock_rarity_6|sqlite_autoindex_unlock_rarity_6_1|839 4 2 1|
 |item_e_ticket_data|item_e_ticket_data_0_exchange_number|48 12|
 |item_e_ticket_data|item_e_ticket_data_0_ticket_id|48 3|
 |item_e_ticket_data|sqlite_autoindex_item_e_ticket_data_1|48 3 1|

@@ -1603,7 +1603,7 @@
         {"command_id":17414054,"drama_id":17414,"command_type":93,"param_01":"2","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":17414055,"drama_id":17414,"command_type":131,"param_01":"1","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":17414056,"drama_id":17414,"command_type":21,"param_01":"vo_wac_17414","param_02":"vo_wac_17414_000","param_03":"0","param_04":"0","param_05":"","param_06":"","param_07":"","param_08":""},
-        {"command_id":17414057,"drama_id":17414,"command_type":11,"param_01":"110811","param_02":"우앗, 뭐야 이거, 쫄았잖아.\\n제법 거대한 날것이\\n아무렇게나 방치되어있잖아.\\n성벽이야. 새로운 방식의 바이오 테러인가?","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
+        {"command_id":17414057,"drama_id":17414,"command_type":11,"param_01":"110811","param_02":"우앗, 뭐야 이거, 쫄았잖아.\\n제법 거대한 날것이\\n아무렇게나 방치되어 있잖아.\\n성벽이야. 새로운 방식의 바이오 테러인가?","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
         {"command_id":17414058,"drama_id":17414,"command_type":91,"param_01":"0","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":17414059,"drama_id":17414,"command_type":3,"param_01":"110811","param_02":"wac_birthday_idle_smile","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":17414060,"drama_id":17414,"command_type":3,"param_01":"110911","param_02":"wac_birthday_talk_sad","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},

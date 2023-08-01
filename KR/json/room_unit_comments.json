@@ -5676,7 +5676,7 @@
         {"id":6358,"unit_id":122401,"trigger":2,"voice_id":3,"beloved_step":1,"time":3,"face_id":1,"description":"오늘 하루도\\n즐거웠어~!\\n내일도 또\\n즐기자!","insert_word_type":0},
         {"id":6360,"unit_id":122401,"trigger":3,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"흐아아…\\n마음이 들뜬 게\\n평소보다\\n잘 알겠어~…","insert_word_type":0},
         {"id":6361,"unit_id":122401,"trigger":3,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"참! 수영복이라면\\n젖어도 되니\\n다음에 씻겨 줄게♪","insert_word_type":0},
-        {"id":6362,"unit_id":122401,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"음~… 좋은 냄새♪\\n어쩐지\\n몸이 따끈따끈\\n해졌어!","insert_word_type":0},
+        {"id":6362,"unit_id":122401,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"음~… 좋은 냄새♪\\n어쩐지 몸이\\n따끈따끈해졌어!","insert_word_type":0},
         {"id":6363,"unit_id":122401,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"수영복이라서, 으음…\\n따뜻하고 시원해…!\\n이상한 느낌~","insert_word_type":0},
         {"id":6365,"unit_id":122401,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"실컷 몸을\\n움직인 후니까\\n얼마든지\\n먹을 수 있어~!","insert_word_type":0},
         {"id":6366,"unit_id":122401,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"흠흠…\\n과연~\\n수영복 종류는\\n그렇게나 많이 있구나…","insert_word_type":0},

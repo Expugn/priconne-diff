@@ -1,6 +1,6 @@
 {
     "sjr_emblem": [
-        {"emblem_id":11001198,"description":"難易度EXTRAで1度にスコアを115000以上獲得しよう"},
-        {"emblem_id":11001199,"description":"難易度EXTRAで1度にスコアを135000以上獲得しつつ、全ラウンド1着でゴールしよう"}
+        {"emblem_id":11001198,"description":"난이도 EXTRA에서 한 번에 스코어를 115,000점 이상 획득하자"},
+        {"emblem_id":11001199,"description":"난이도 EXTRA에서 한 번에 스코어를 135,000점 이상 획득하고 모든 라운드에서 1등으로 골인하자"}
     ]
 }
