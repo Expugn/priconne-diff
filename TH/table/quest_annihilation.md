@@ -1,3 +1,4 @@
 |system_id|quest_id|effect_type|quest_effect_position|
 | --- | --- | --- | --- |
 |104|31006005|501|0|
+|104|31007005|501|0|

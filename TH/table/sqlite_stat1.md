@@ -66,7 +66,7 @@
 |chara_fortune_reward||20|
 |guild||17|
 |pkb_drama|pkb_drama_0_drama_id|429 12|
-|dungeon_area_data||6|
+|dungeon_area_data||7|
 |unit_status_coefficient||1|
 |event_navi_comment||1058|
 |kaiser_restriction_group|kaiser_restriction_group_0_restriction_group_id|100 20|
@@ -121,8 +121,8 @@
 |grand_arena_defence_reward||1|
 |room_emotion_icon||18|
 |growth_restriction_unit|growth_restriction_unit_0_growth_id|4 1|
-|quest_annihilation|sqlite_autoindex_quest_annihilation_1|1 1 1|
-|dungeon_quest_data||42|
+|quest_annihilation|sqlite_autoindex_quest_annihilation_1|2 2 1|
+|dungeon_quest_data||47|
 |room_chat_formation||6|
 |spskill_label_data||1|
 |rarity_6_quest_data|rarity_6_quest_data_0_rarity_6_quest_id|27 1|
@@ -133,7 +133,7 @@
 |clan_battle_boss_damage_rank|clan_battle_boss_damage_rank_0_damage_rank_id|160 4|
 |clan_battle_boss_damage_rank|sqlite_autoindex_clan_battle_boss_damage_rank_1|160 4 1 1|
 |chara_identity||148|
-|wave_group_data||3805|
+|wave_group_data||3806|
 |pkb_pitcher_ball_type|pkb_pitcher_ball_type_0_pitcher_id|17 5|
 |pkb_pitcher_ball_type|sqlite_autoindex_pkb_pitcher_ball_type_1|17 5 1|
 |grand_arena_max_rank_reward||79|
@@ -197,7 +197,7 @@
 |item_data||326|
 |arena_daily_rank_reward||40|
 |unique_equipment_enhance_data|sqlite_autoindex_unique_equipment_enhance_data_1|199 199 1|
-|stationary_mission_data||1245|
+|stationary_mission_data||1247|
 |hatsune_quest|hatsune_quest_0_event_id|1180 20|
 |clan_battle_boss_fix_reward||40|
 |enemy_enable_voice||70|
@@ -246,8 +246,8 @@
 |arena_max_season_rank_reward||118|
 |unit_mypage_pos||36|
 |tower_story_detail||99|
-|story_detail||1259|
-|enemy_m_parts||100|
+|story_detail||1261|
+|enemy_m_parts||102|
 |resist_data||36|
 |music_content||165|
 |shiori_enemy_parameter||7328|
@@ -320,7 +320,7 @@
 |event_bg_data||1|
 |nyx_drama_script|nyx_drama_script_0_drama_id|735 74|
 |equipment_craft||314|
-|quest_reward_data||2813|
+|quest_reward_data||2814|
 |chara_e_ticket_data|chara_e_ticket_data_0_jewel_store_id|2 1|
 |mission_reward_data|mission_reward_data_0_mission_reward_id|491 4|
 |kaiser_extermination_reward||4|
@@ -350,6 +350,6 @@
 |hatsune_boss|hatsune_boss_0_event_id_1_difficulty|249 5 1|
 |hatsune_boss|hatsune_boss_0_event_id|249 5|
 |gift_message||112|
-|enemy_parameter||8332|
+|enemy_parameter||8340|
 |unique_equipment_rankup|unique_equipment_rankup_0_equip_id|1236 12|
 |unique_equipment_rankup|sqlite_autoindex_unique_equipment_rankup_1|1236 12 1|

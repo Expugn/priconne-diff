@@ -1,5 +1,6 @@
 {
     "quest_annihilation": [
-        {"system_id":104,"quest_id":31006005,"effect_type":501,"quest_effect_position":0}
+        {"system_id":104,"quest_id":31006005,"effect_type":501,"quest_effect_position":0},
+        {"system_id":104,"quest_id":31007005,"effect_type":501,"quest_effect_position":0}
     ]
 }
