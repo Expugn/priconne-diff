@@ -10,7 +10,7 @@
 |emblem_mission_data||866|
 |shiori_mission_reward_data|shiori_mission_reward_data_0_mission_reward_id|1744 2|
 |shiori_item||38|
-|campaign_schedule||1390|
+|campaign_schedule||1394|
 |tower_area_data||48|
 |dsb_story_data|dsb_story_data_0_original_event_id|9 9|
 |prizegacha_sp_detail||5|

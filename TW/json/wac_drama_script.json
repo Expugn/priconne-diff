@@ -6638,7 +6638,7 @@
         {"command_id":16412047,"drama_id":16412,"command_type":3,"param_01":"105511","param_02":"wac_idle_smile_L","param_03":"1","param_04":"","param_05":"1","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":16412048,"drama_id":16412,"command_type":3,"param_01":"105311","param_02":"wac_talk_smile_in","param_03":"0","param_04":"wac_talk_smile_loop","param_05":"1","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":16412049,"drama_id":16412,"command_type":21,"param_01":"vo_wac_220728","param_02":"vo_wac_220728_005","param_03":"0","param_04":"0","param_05":"","param_06":"","param_07":"","param_08":""},
-        {"command_id":16412050,"drama_id":16412,"command_type":11,"param_01":"105311","param_02":"嗯！超完美的合作！\\n說是有史以來最團結的一次也不為過呢！\\n……雖然這是麼講也是有點傻眼。\\n但就以這個步調完成繪圖大業吧！","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
+        {"command_id":16412050,"drama_id":16412,"command_type":11,"param_01":"105311","param_02":"嗯！超完美的合作！\\n說是有史以來最團結的一次也不為過呢！\\n……雖然這麼講也是有點傻眼。\\n但就以這個步調完成繪圖大業吧！","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
         {"command_id":16412051,"drama_id":16412,"command_type":91,"param_01":"0","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":16412052,"drama_id":16412,"command_type":22,"param_01":"0","param_02":"0","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":16412053,"drama_id":16412,"command_type":111,"param_01":"","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
