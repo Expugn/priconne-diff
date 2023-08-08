@@ -6366,6 +6366,8 @@
         {"id":7156,"unit_id":125301,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"這香味聞起來很舒服。\\n下次也來試試\\n天然的香料吧。","insert_word_type":0},
         {"id":7157,"unit_id":125301,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"野營的時候，\\n保暖是不容忽視的。","insert_word_type":0},
         {"id":7159,"unit_id":125301,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"能吃的時候盡量吃，\\n在大自然中\\n也是很重要的事。","insert_word_type":0},
-        {"id":7160,"unit_id":125301,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"累積更多的知識，\\n讓自己懂得活用\\n大自然的力量吧。","insert_word_type":0}
+        {"id":7160,"unit_id":125301,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"累積更多的知識，\\n讓自己懂得活用\\n大自然的力量吧。","insert_word_type":0},
+        {"id":7162,"unit_id":100901,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"這次的《冥風戰記》\\n也寫得很好。\\n呵呵，吉格魯特也會\\n為我感到開心吧？","insert_word_type":0},
+        {"id":7163,"unit_id":100901,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"若是為了你，\\n我可以隨時解放\\n我真正的魔力喔！","insert_word_type":0}
     ]
 }
