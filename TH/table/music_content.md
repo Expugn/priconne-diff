@@ -165,3 +165,6 @@
 |165|Cinderella Lesson: Hanayaka Naru Hibi wa Ringo no Aji|0:58|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Koi Kirari Magic☆>Arrange-\n\nความยาว / 00:58\nทำนอง   / RYOU AOYAGI, MASHIRO UCHIDA\nเรียบเรียง / SHUUHEI SEKINE(Cygames)|bgm_M451|bgm_M451_juke|
 |166|Mamono no Hime|1:47|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 01:47\nทำนอง   / IREI KAN (Cygames)\nเรียบเรียง / IREI KAN (Cygames)|bgm_M455|bgm_M455_juke|
 |167|Koi Kirari Magic☆|1:29|0:49|เพลงตัวละคร\n\nความยาว / 01:29\nขับร้อง   / ริมะ (SORA TOKUI)\nเนื้อเพลง / RYOU AOYAGI, MASHIRO UCHIDA\nทำนอง   / RYOU AOYAGI, MASHIRO UCHIDA\nเรียบเรียง / RYOU AOYAGI|bgm_M465|bgm_M465|
+|168|Hagane no Seijo to Seinaru Gakusha no Itanji|1:01|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Muteki Dreaming>Arrange-\n\nความยาว / 01:01\nทำนอง   / YUSUKE SHIRATO (Dream Monster)\nเรียบเรียง / SAWASHITA AOI|bgm_M457|bgm_M457_juke|
+|169|Na mo Naki Geijutsu|2:05|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 02:05\nทำนอง   / NAKAMURA HIROSHI\nเรียบเรียง / NAKAMURA HIROSHI|bgm_M461|bgm_M461_juke|
+|170|Muteki Dreaming|1:32|0:56|เพลงตัวละคร\n\nความยาว / 01:32\nขับร้อง   / จิเอรุ (AYANE SAKURA)\n           คุโรเอะ (ATSUMI TANEZAKI)\n           ยูนิ (KONOMI KOHAR)\nเนื้อเพลง / MIYUU SHIRAYUKI\nทำนอง   / YUSUKE SHIRATO (Dream Monster)\nเรียบเรียง / YUSUKE SHIRATO (Dream Monster)\n           SATO ATSUHITO (Dream Monster)|bgm_M466|bgm_M466|

@@ -97,6 +97,8 @@
         {"boss_id":1006101,"skip_motion_id":312800,"skip_bg_id":81006101,"skip_position_x":0,"skip_position_y":-27,"skip_scale_x":0.65,"skip_scale_y":0.65},
         {"boss_id":1006102,"skip_motion_id":312800,"skip_bg_id":81006102,"skip_position_x":0,"skip_position_y":-27,"skip_scale_x":0.65,"skip_scale_y":0.65},
         {"boss_id":1006401,"skip_motion_id":313200,"skip_bg_id":81006401,"skip_position_x":0,"skip_position_y":-30,"skip_scale_x":1,"skip_scale_y":1},
-        {"boss_id":1006402,"skip_motion_id":313200,"skip_bg_id":81006402,"skip_position_x":0,"skip_position_y":-30,"skip_scale_x":1,"skip_scale_y":1}
+        {"boss_id":1006402,"skip_motion_id":313200,"skip_bg_id":81006402,"skip_position_x":0,"skip_position_y":-30,"skip_scale_x":1,"skip_scale_y":1},
+        {"boss_id":1006501,"skip_motion_id":310700,"skip_bg_id":81003801,"skip_position_x":0,"skip_position_y":0,"skip_scale_x":1.2,"skip_scale_y":1.2},
+        {"boss_id":1006502,"skip_motion_id":310700,"skip_bg_id":81003802,"skip_position_x":0,"skip_position_y":0,"skip_scale_x":1.2,"skip_scale_y":1.2}
     ]
 }

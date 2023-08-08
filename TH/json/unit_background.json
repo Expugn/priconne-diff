@@ -140,6 +140,7 @@
         {"unit_id":115801,"unit_name":"ริมะ (ซินเดอเรลล่า)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
         {"unit_id":115901,"unit_name":"มาโคโตะ (ซินเดอเรลล่า)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
         {"unit_id":116001,"unit_name":"มาโฮะ (ซินเดอเรลล่า)","bg_id":500060,"bg_name":"หน่วยลาดตระเวน ที่ตั้ง","position":0,"face_type":4},
+        {"unit_id":116201,"unit_name":"คุโรเอะ (งานโรงเรียน)","bg_id":500732,"bg_name":"วิทยาลัยสตรีเซนต์เทเรซา ประตูหน้า งานโรงเรียน","position":0,"face_type":2},
         {"unit_id":116301,"unit_name":"จิเอรุ (งานโรงเรียน)","bg_id":500732,"bg_name":"วิทยาลัยสตรีเซนต์เทเรซา ประตูหน้า งานโรงเรียน","position":0,"face_type":2},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
