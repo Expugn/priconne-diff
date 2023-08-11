@@ -4273,6 +4273,16 @@
         {"quest_id":71270471,"area_id":27,"quest_name":"露娜之塔 471-479 層","wave_group_id_1":710047103,"bg_skip_id":102641},
         {"quest_id":71280481,"area_id":28,"quest_name":"露娜之塔 481-489 層","wave_group_id_1":710048103,"bg_skip_id":102641},
         {"quest_id":71290491,"area_id":29,"quest_name":"露娜之塔 491-499 層","wave_group_id_1":710049903,"bg_skip_id":102701},
+        {"quest_id":71300501,"area_id":30,"quest_name":"露娜之塔501-509層","wave_group_id_1":710050103,"bg_skip_id":102701},
+        {"quest_id":71310511,"area_id":31,"quest_name":"露娜之塔511-519層","wave_group_id_1":710051103,"bg_skip_id":102711},
+        {"quest_id":71320521,"area_id":32,"quest_name":"露娜之塔521-529層","wave_group_id_1":710052103,"bg_skip_id":102711},
+        {"quest_id":71330531,"area_id":33,"quest_name":"露娜之塔531-539層","wave_group_id_1":710053103,"bg_skip_id":102501},
+        {"quest_id":71340541,"area_id":34,"quest_name":"露娜之塔541-549層","wave_group_id_1":710054104,"bg_skip_id":102501},
+        {"quest_id":71350551,"area_id":35,"quest_name":"露娜之塔551-559層","wave_group_id_1":710055103,"bg_skip_id":102831},
+        {"quest_id":71360561,"area_id":36,"quest_name":"露娜之塔561-569層","wave_group_id_1":710056103,"bg_skip_id":102831},
+        {"quest_id":71370571,"area_id":37,"quest_name":"露娜之塔571-579層","wave_group_id_1":710057103,"bg_skip_id":102501},
+        {"quest_id":71380581,"area_id":38,"quest_name":"露娜之塔581-589層","wave_group_id_1":710058103,"bg_skip_id":102501},
+        {"quest_id":71390591,"area_id":39,"quest_name":"露娜之塔591-599層","wave_group_id_1":710059103,"bg_skip_id":101901},
         {"quest_id":73140350,"area_id":14,"quest_name":"露娜之塔迴廊探索12月","wave_group_id_1":720033005,"bg_skip_id":102051},
         {"quest_id":73150360,"area_id":15,"quest_name":"露娜之塔迴廊探索四月","wave_group_id_1":720033005,"bg_skip_id":102051},
         {"quest_id":73160370,"area_id":16,"quest_name":"露娜之塔探索迴廊12月","wave_group_id_1":720033005,"bg_skip_id":102051},
@@ -4307,6 +4317,7 @@
         {"quest_id":73450660,"area_id":45,"quest_name":"露娜之塔探索迴廊6月","wave_group_id_1":720033005,"bg_skip_id":102051},
         {"quest_id":73460670,"area_id":46,"quest_name":"露娜之塔探索迴廊8月","wave_group_id_1":720033005,"bg_skip_id":102051},
         {"quest_id":73470680,"area_id":47,"quest_name":"露娜之塔迴廊探索10月","wave_group_id_1":720033005,"bg_skip_id":102051},
-        {"quest_id":73480690,"area_id":48,"quest_name":"露娜之塔探索迴廊12月","wave_group_id_1":720033005,"bg_skip_id":102051}
+        {"quest_id":73480690,"area_id":48,"quest_name":"露娜之塔探索迴廊12月","wave_group_id_1":720033005,"bg_skip_id":102051},
+        {"quest_id":73490700,"area_id":49,"quest_name":"露娜之塔探索迴廊3月","wave_group_id_1":720033005,"bg_skip_id":102051}
     ]
 }
