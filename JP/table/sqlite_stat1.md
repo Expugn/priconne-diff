@@ -10,7 +10,7 @@
 |emblem_mission_data||919|
 |shiori_mission_reward_data|shiori_mission_reward_data_0_mission_reward_id|1932 2|
 |shiori_item||42|
-|campaign_schedule||1813|
+|campaign_schedule||1861|
 |tower_area_data||50|
 |dsb_story_data|dsb_story_data_0_original_event_id|9 9|
 |prizegacha_sp_detail||5|
@@ -39,7 +39,7 @@
 |omp_story_data|omp_story_data_0_event_id|15 8|
 |shiori_stationary_mission_data||988|
 |hatsune_special_enemy||349|
-|campaign_freegacha||31|
+|campaign_freegacha||32|
 |room_item_announcement||1|
 |caravan_dish||11|
 |wac_drama_script|wac_drama_script_0_drama_id|17968 15|
@@ -80,7 +80,7 @@
 |svd_drama_script|svd_drama_script_0_drama_id|703 88|
 |shiori_quest_condition||840|
 |clan_battle_schedule||65|
-|chara_fortune_reward||40|
+|chara_fortune_reward||44|
 |unit_conversion|unit_conversion_0_unit_id|1 1|
 |guild||23|
 |caravan_sound_setting|caravan_sound_setting_0_scene_type_1_effect_type|36 6 3|
@@ -256,11 +256,11 @@
 |sekai_top_data|sekai_top_data_0_sekai_id|22 11|
 |still|still_0_still_group_id|1583 5|
 |still|still_0_story_id|1583 2|
-|chara_fortune_rail||114|
+|chara_fortune_rail||126|
 |ub_auto_data||19|
 |ttk_score||4|
 |sekai_unlock_story_condition||5|
-|campaign_freegacha_data||114|
+|campaign_freegacha_data||115|
 |birthday_login_bonus_data||210|
 |campaign_mission_category|campaign_mission_category_0_campaign_id_1_type|2 2 1|
 |campaign_mission_reward_data|campaign_mission_reward_data_0_campaign_mission_reward_id|12 2|
@@ -407,7 +407,7 @@
 |unit_enemy_data||1503|
 |special_story_banner|special_story_banner_0_story_group_id|5 1|
 |tp_recovery_at||1|
-|visual_customize||32|
+|visual_customize||36|
 |sjr_ub_data||30|
 |apa_schedule||1|
 |xeh_story_data|xeh_story_data_0_original_event_id|10 10|
@@ -447,7 +447,7 @@
 |travel_top_event_pos_detail||14|
 |pkb_batter_condition||9|
 |pct_combo_coefficient||6|
-|chara_fortune_scenario||28|
+|chara_fortune_scenario||33|
 |combined_result_motion||1|
 |metamorphose|metamorphose_0_type_id|4 2|
 |metamorphose|sqlite_autoindex_metamorphose_1|4 2 1|
@@ -605,7 +605,7 @@
 |taq_necessary_word||113|
 |travel_quest_result||8|
 |sekai_boss_fix_reward||10|
-|chara_fortune_schedule||10|
+|chara_fortune_schedule||11|
 |mypage_frame|mypage_frame_0_group_id|5 1|
 |caravan_goal_bonus|caravan_goal_bonus_0_season_id|13 13|
 |wac_mural_data|wac_mural_data_0_mural_group_id|147 11|
@@ -622,7 +622,7 @@
 |unit_unique_equipment|sqlite_autoindex_unit_unique_equipment_1|192 1 1|
 |spskill_lv_initialize_data||34|
 |cooperation_quest_data||6|
-|daily_mission_data||99|
+|daily_mission_data||103|
 |ex_equipment_rankup_data|sqlite_autoindex_ex_equipment_rankup_data_1|5 2 1|
 |unique_equipment_craft||192|
 |legion_boss_enemy_setting||4|
