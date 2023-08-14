@@ -10,7 +10,7 @@
 |emblem_mission_data||870|
 |shiori_mission_reward_data|shiori_mission_reward_data_0_mission_reward_id|1744 2|
 |shiori_item||38|
-|campaign_schedule||1404|
+|campaign_schedule||1418|
 |tower_area_data||49|
 |dsb_story_data|dsb_story_data_0_original_event_id|9 9|
 |prizegacha_sp_detail||5|
@@ -580,7 +580,7 @@
 |promotion_bonus|promotion_bonus_0_unit_id|450 2|
 |promotion_bonus|sqlite_autoindex_promotion_bonus_1|450 2 1|
 |spskill_lv_initialize_data||28|
-|daily_mission_data||87|
+|daily_mission_data||89|
 |ex_equipment_rankup_data|sqlite_autoindex_ex_equipment_rankup_data_1|5 2 1|
 |unique_equipment_craft||180|
 |legion_boss_enemy_setting||4|
