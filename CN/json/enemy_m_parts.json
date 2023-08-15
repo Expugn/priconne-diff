@@ -264,8 +264,8 @@
         {"enemy_id":800100203,"name":"机械莉玛2020 阶段3","child_enemy_parameter_1":800100212,"child_enemy_parameter_2":800100213,"child_enemy_parameter_3":800100214,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
         {"enemy_id":801100213,"name":"覇瞳侍从（复数）","child_enemy_parameter_1":801100223,"child_enemy_parameter_2":801100233,"child_enemy_parameter_3":801100243,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
         {"enemy_id":802100210,"name":"兰法","child_enemy_parameter_1":802100211,"child_enemy_parameter_2":802100212,"child_enemy_parameter_3":0,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
-        {"enemy_id":802100230,"name":"卡里萨","child_enemy_parameter_1":802100231,"child_enemy_parameter_2":802100232,"child_enemy_parameter_3":802100233,"child_enemy_parameter_4":802100234,"child_enemy_parameter_5":0},
+        {"enemy_id":802100230,"name":"卡利萨","child_enemy_parameter_1":802100231,"child_enemy_parameter_2":802100232,"child_enemy_parameter_3":802100233,"child_enemy_parameter_4":802100234,"child_enemy_parameter_5":0},
         {"enemy_id":802100241,"name":"兰法","child_enemy_parameter_1":802100242,"child_enemy_parameter_2":802100243,"child_enemy_parameter_3":0,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
-        {"enemy_id":802100245,"name":"卡里萨","child_enemy_parameter_1":802100246,"child_enemy_parameter_2":802100247,"child_enemy_parameter_3":802100248,"child_enemy_parameter_4":802100249,"child_enemy_parameter_5":0}
+        {"enemy_id":802100245,"name":"卡利萨","child_enemy_parameter_1":802100246,"child_enemy_parameter_2":802100247,"child_enemy_parameter_3":802100248,"child_enemy_parameter_4":802100249,"child_enemy_parameter_5":0}
     ]
 }

@@ -1,5 +1,6 @@
 {
     "legion_effect": [
-
+        {"effect_id":100,"bonus_1":30,"bonus_2":30,"bonus_3":30,"bonus_4":30,"bonus_5":30},
+        {"effect_id":200,"bonus_1":15,"bonus_2":15,"bonus_3":15,"bonus_4":15,"bonus_5":15}
     ]
 }
