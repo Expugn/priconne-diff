@@ -121,6 +121,7 @@
         {"area_id":12056,"area_name":"56.歐呂克斯沙島‧北部","area_display_name":"56.歐呂克斯沙島\\n　　　　　北部","map_type":102,"sheet_id":"bgm_M483","que_id":"bgm_M483_E50","start_time":"2023/02/15 16:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":12057,"area_name":"57.歐呂克斯沙島‧南部","area_display_name":"57.歐呂克斯沙島\\n　　　　　南部","map_type":102,"sheet_id":"bgm_M571","que_id":"bgm_M571","start_time":"2023/04/14 16:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":12058,"area_name":"58.克魯斯密林‧東部","area_display_name":"58.克魯斯\\n　　　　　密林‧東部","map_type":102,"sheet_id":"bgm_M599A","que_id":"bgm_M599A","start_time":"2023/06/15 16:00:00","end_time":"2030/12/17 14:59:59"},
+        {"area_id":12063,"area_name":"63.阿帕雷尤街道‧西側","area_display_name":"63.阿帕雷尤\\n　　　　　街道‧西側","map_type":103,"sheet_id":"bgm_MC001","que_id":"bgm_MC001","start_time":"2023/08/15 16:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":13018,"area_name":"18.法艾頓草原‧北部","area_display_name":"18.法艾頓\\n　　　　　草原‧北部","map_type":102,"sheet_id":"bgm_M179","que_id":"bgm_M179","start_time":"2020/01/02 16:00:00","end_time":"2030/12/17 14:59:00"},
         {"area_id":13019,"area_name":"19.法艾頓草原‧南部","area_display_name":"19.法艾頓\\n　　　　　草原‧南部","map_type":102,"sheet_id":"bgm_M179","que_id":"bgm_M179","start_time":"2020/02/04 16:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":13020,"area_name":"20.卡斯塔利亞樹林‧西部","area_display_name":"20.卡斯塔利亞\\n　　　　　樹林‧西部","map_type":102,"sheet_id":"bgm_M180","que_id":"bgm_M180","start_time":"2020/05/05 16:00:00","end_time":"2030/12/17 14:59:59"},
