@@ -286,6 +286,9 @@
         {"target_level":284,"cost":205470},
         {"target_level":285,"cost":206270},
         {"target_level":286,"cost":207070},
-        {"target_level":287,"cost":207870}
+        {"target_level":287,"cost":207870},
+        {"target_level":288,"cost":208670},
+        {"target_level":289,"cost":209470},
+        {"target_level":290,"cost":210270}
     ]
 }
