@@ -407,7 +407,7 @@
 |unit_enemy_data||1513|
 |special_story_banner|special_story_banner_0_story_group_id|5 1|
 |tp_recovery_at||1|
-|visual_customize||36|
+|visual_customize||38|
 |sjr_ub_data||30|
 |apa_schedule||1|
 |xeh_story_data|xeh_story_data_0_original_event_id|10 10|

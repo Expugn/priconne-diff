@@ -407,7 +407,7 @@
         {"tbl":"unit_enemy_data","idx":null,"stat":"1513"},
         {"tbl":"special_story_banner","idx":"special_story_banner_0_story_group_id","stat":"5 1"},
         {"tbl":"tp_recovery_at","idx":null,"stat":"1"},
-        {"tbl":"visual_customize","idx":null,"stat":"36"},
+        {"tbl":"visual_customize","idx":null,"stat":"38"},
         {"tbl":"sjr_ub_data","idx":null,"stat":"30"},
         {"tbl":"apa_schedule","idx":null,"stat":"1"},
         {"tbl":"xeh_story_data","idx":"xeh_story_data_0_original_event_id","stat":"10 10"},
