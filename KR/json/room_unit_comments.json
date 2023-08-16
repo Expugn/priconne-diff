@@ -5700,7 +5700,7 @@
         {"id":6385,"unit_id":122601,"trigger":2,"voice_id":1,"beloved_step":1,"time":1,"face_id":1,"description":"좋은 아침, 기사 군\\n저쪽 하늘 봐봐\\n벌써 소나기구름이 나와 있어","insert_word_type":0},
         {"id":6386,"unit_id":122601,"trigger":2,"voice_id":2,"beloved_step":1,"time":2,"face_id":1,"description":"소나기, 내리려나…\\n만약 천둥이 치면\\n곁에 있어줄래…?","insert_word_type":0},
         {"id":6387,"unit_id":122601,"trigger":2,"voice_id":3,"beloved_step":1,"time":3,"face_id":1,"description":"쉿… 들어봐, 벌레 소리\\n…내, 내 심장\\n소리는 신경 쓰지 마…!","insert_word_type":0},
-        {"id":6389,"unit_id":122601,"trigger":3,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"후후, 수영복을 입고 뒹굴뒹굴\\n하는 건 왠지…\\n나쁜 짓 같아","insert_word_type":0},
+        {"id":6389,"unit_id":122601,"trigger":3,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"후후, 수영복을 입고\\n뒹굴뒹굴하는 건 왠지…\\n나쁜 짓 같아","insert_word_type":0},
         {"id":6390,"unit_id":122601,"trigger":3,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"귀여워~♪\\n일광욕 시켜주고\\n싶다♪","insert_word_type":0},
         {"id":6391,"unit_id":122601,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"살짝 바다 냄새가…\\n구수하고 짜서…\\n아… 배가 꼬륵거려","insert_word_type":0},
         {"id":6392,"unit_id":122601,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"수영복, 말릴 수 있을지도…\\n그렇지, 모두의 수영복도\\n가져오자!","insert_word_type":0},

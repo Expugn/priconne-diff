@@ -147,7 +147,7 @@
 |goldset_data||70|
 |sekai_add_times_data||12|
 |clan_battle_s_map_data|clan_battle_s_map_data_0_clan_battle_id|214 4|
-|unit_unique_equip||150|
+|unit_unique_equip||152|
 |story_detail|story_detail_0_unlock_quest_id|1795 6|
 |content_map_data||5|
 |sjr_ub_data||27|
@@ -224,7 +224,7 @@
 |travel_top_event_data|sqlite_autoindex_travel_top_event_data_1|18 1 1|
 |hatsune_diary_script|hatsune_diary_script_0_diary_id|427 31|
 |gift_message||141|
-|skill_action||10922|
+|skill_action||10912|
 |ex_equipment_recycle_reward||4|
 |sre_enemy_parameter||61|
 |sre_effective_unit|sre_effective_unit_0_sre_boss_id_1_sre_id|209 30 30|
@@ -376,7 +376,7 @@
 |item_e_ticket_data|item_e_ticket_data_0_exchange_number|48 12|
 |item_e_ticket_data|item_e_ticket_data_0_ticket_id|48 3|
 |item_e_ticket_data|sqlite_autoindex_item_e_ticket_data_1|48 3 1|
-|unique_equipment_craft||150|
+|unique_equipment_craft||152|
 |sre_wave_group_data|sre_wave_group_data_0_wave_group_id|24 1|
 |pkb_reward||1|
 |dsb_drama_script|dsb_drama_script_0_drama_id|963 54|
@@ -430,7 +430,7 @@
 |unit_comments|unit_comments_0_unit_id|2858 6|
 |dear_story_data|dear_story_data_0_value|27 1|
 |quest_area_data||137|
-|unique_equipment_data||150|
+|unique_equipment_data||152|
 |travel_ex_event_data||10|
 |omp_drama|omp_drama_0_drama_id|601 67|
 |arena_daily_rank_reward||40|
@@ -448,7 +448,7 @@
 |hatsune_mission_reward_data|hatsune_mission_reward_data_0_mission_reward_id|7170 2|
 |sd_navi_comment||13|
 |experience_team||257|
-|unique_equip_enhance_rate|unique_equip_enhance_rate_0_equipment_id|150 1|
+|unique_equip_enhance_rate|unique_equip_enhance_rate_0_equipment_id|152 1|
 |sekai_boss_damage_rank_reward||15|
 |secret_dungeon_floor_reward|secret_dungeon_floor_reward_0_dungeon_area_id|40 10|
 |secret_dungeon_floor_reward|sqlite_autoindex_secret_dungeon_floor_reward_1|40 10 1|
@@ -549,7 +549,7 @@
 |secret_dungeon_emblem_reward|secret_dungeon_emblem_reward_0_mission_reward_id|5 1|
 |sp_detail_voice||4|
 |unit_enemy_data||1352|
-|unique_equipment_enhance_data|sqlite_autoindex_unique_equipment_enhance_data_1|239 239 1|
+|unique_equipment_enhance_data|sqlite_autoindex_unique_equipment_enhance_data_1|249 249 1|
 |sre_schedule||1|
 |kmk_navi_comment||11|
 |ske_story_data|ske_story_data_0_original_event_id|12 6|
@@ -560,8 +560,8 @@
 |hatsune_item||108|
 |unit_motion_list||215|
 |dodge_tp_recovery||42|
-|unique_equipment_rankup|unique_equipment_rankup_0_equip_id|2400 16|
-|unique_equipment_rankup|sqlite_autoindex_unique_equipment_rankup_1|2400 16 1|
+|unique_equipment_rankup|unique_equipment_rankup_0_equip_id|2584 17|
+|unique_equipment_rankup|sqlite_autoindex_unique_equipment_rankup_1|2584 17 1|
 |hatsune_emblem_mission_reward|hatsune_emblem_mission_reward_0_reward_id|407 2|
 |hatsune_emblem_mission_reward|hatsune_emblem_mission_reward_0_mission_reward_id|407 2|
 |pkb_navi_comment||33|
