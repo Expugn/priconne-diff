@@ -242,6 +242,8 @@
         {"id":1011502,"odds_file":"1011520102","name":"鈴的記憶碎片","icon_type":99002,"description":""},
         {"id":1011601,"odds_file":"1011620101","name":"初音的記憶碎片","icon_type":99002,"description":""},
         {"id":1011602,"odds_file":"1011620102","name":"栞的記憶碎片","icon_type":99002,"description":""},
-        {"id":1011603,"odds_file":"box_rank_11-19","name":"隨機裝備箱","icon_type":99002,"description":"能夠獲得隨機的裝備。"}
+        {"id":1011603,"odds_file":"box_rank_11-19","name":"隨機裝備箱","icon_type":99002,"description":"能夠獲得隨機的裝備。"},
+        {"id":1011701,"odds_file":"1011720101","name":"嘉夜的記憶碎片","icon_type":99002,"description":""},
+        {"id":1011702,"odds_file":"1011720102","name":"珠希的記憶碎片","icon_type":99002,"description":""}
     ]
 }
