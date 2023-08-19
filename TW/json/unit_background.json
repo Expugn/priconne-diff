@@ -215,6 +215,7 @@
         {"unit_id":125201,"unit_name":"莫妮卡（咖啡廳）","bg_id":501950,"bg_name":"蘭德索爾_餐廳內_貓咪咖啡廳_白天","position":0,"face_type":2},
         {"unit_id":125301,"unit_name":"可可蘿（遊俠）","bg_id":501690,"bg_name":"平原_競技場_白天","position":0,"face_type":2},
         {"unit_id":125401,"unit_name":"栞（遊俠）","bg_id":501690,"bg_name":"平原_競技場_白天","position":0,"face_type":20},
+        {"unit_id":125801,"unit_name":"莉莉（墮落）","bg_id":501670,"bg_name":"吉歐‧提格尼亞_街道_白天","position":0,"face_type":2},
         {"unit_id":180101,"unit_name":"日和（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"優衣（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":4},
         {"unit_id":180301,"unit_name":"怜（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":3},

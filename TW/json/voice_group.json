@@ -153,6 +153,7 @@
         {"group_id":20155,"group_id_comment":"霸瞳皇帝＆似似花","group_unit_id_01":106901001,"group_unit_id_02":107001001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":20156,"group_id_comment":"美空＆蘭法","group_unit_id_01":118201001,"group_unit_id_02":118101001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":20157,"group_id_comment":"美空＆矛依未","group_unit_id_01":118201001,"group_unit_id_02":106101001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":20160,"group_id_comment":"莉莉＆可可蘿","group_unit_id_01":125801001,"group_unit_id_02":105901001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30001,"group_id_comment":"日和（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":300101001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30002,"group_id_comment":"優衣（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":300201001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30003,"group_id_comment":"怜（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":300301001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
@@ -351,6 +352,7 @@
         {"group_id":30196,"group_id_comment":"莫妮卡（咖啡廳）（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":325201001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30197,"group_id_comment":"靜流（黑暗）（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":320001001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30198,"group_id_comment":"可可蘿（遊俠）（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":325301001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
-        {"group_id":30199,"group_id_comment":"栞（遊俠）（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":325401001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
+        {"group_id":30199,"group_id_comment":"栞（遊俠）（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":325401001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":30200,"group_id_comment":"莉莉（墮落）（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":325801001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
     ]
 }

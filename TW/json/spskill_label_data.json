@@ -13,6 +13,7 @@
         {"unit_id":122301,"normal_label_text":"平常時","sp_label_text":"共鬥中"},
         {"unit_id":122701,"normal_label_text":"平常時","sp_label_text":"特殊技"},
         {"unit_id":123001,"normal_label_text":"平常時","sp_label_text":"特殊技"},
-        {"unit_id":125001,"normal_label_text":"平常時","sp_label_text":"共鬥中"}
+        {"unit_id":125001,"normal_label_text":"平常時","sp_label_text":"共鬥中"},
+        {"unit_id":125801,"normal_label_text":"平常時","sp_label_text":"特殊技能"}
     ]
 }
