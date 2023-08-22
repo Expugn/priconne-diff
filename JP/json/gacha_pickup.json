@@ -28,6 +28,10 @@
         {"id":5,"priority":1,"reward_type":1,"reward_id":107501,"name":"ペコリーヌ（サマー）"},
         {"id":5,"priority":2,"reward_type":1,"reward_id":107801,"name":"キャル（サマー）"},
         {"id":5,"priority":3,"reward_type":1,"reward_id":110301,"name":"サレン（サマー）"},
-        {"id":5,"priority":4,"reward_type":1,"reward_id":110001,"name":"スズナ（サマー）"}
+        {"id":5,"priority":4,"reward_type":1,"reward_id":110001,"name":"スズナ（サマー）"},
+        {"id":6,"priority":1,"reward_type":1,"reward_id":107701,"name":"スズメ（サマー）"},
+        {"id":6,"priority":2,"reward_type":1,"reward_id":107901,"name":"タマキ（サマー）"},
+        {"id":6,"priority":3,"reward_type":1,"reward_id":110601,"name":"マホ（サマー）"},
+        {"id":6,"priority":4,"reward_type":1,"reward_id":110401,"name":"マコト（サマー）"}
     ]
 }
