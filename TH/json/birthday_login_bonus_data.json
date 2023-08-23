@@ -1,8 +1,10 @@
 {
     "birthday_login_bonus_data": [
+        {"login_bonus_id":9100101,"name":"ฮิโยริ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-08-27 5:00:00","end_time":"2023-08-28 4:59:59","adv_id":1001500},
         {"login_bonus_id":9100201,"name":"ยุย [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-04-05 5:00:00","end_time":"2023-04-06 4:59:59","adv_id":1002500},
         {"login_bonus_id":9100401,"name":"มิโซงิ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-08-10 5:00:00","end_time":"2023-08-11 4:59:59","adv_id":1004500},
         {"login_bonus_id":9100901,"name":"อันนะ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-07-05 5:00:00","end_time":"2023-07-06 4:59:59","adv_id":1009500},
+        {"login_bonus_id":9101101,"name":"ริโนะ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-08-25 5:00:00","end_time":"2023-08-26 4:59:59","adv_id":1011500},
         {"login_bonus_id":9101301,"name":"นานากะ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-08-21 5:00:00","end_time":"2023-08-22 4:59:59","adv_id":1013500},
         {"login_bonus_id":9101601,"name":"สึซึนะ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-04-10 5:00:00","end_time":"2023-04-11 4:59:59","adv_id":1016500},
         {"login_bonus_id":9101701,"name":"คาโอริ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-07-07 5:00:00","end_time":"2023-07-08 4:59:59","adv_id":1017500},
