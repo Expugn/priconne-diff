@@ -92,6 +92,8 @@
         {"id":90,"campaign_id":30,"gacha_id":30244},
         {"id":91,"campaign_id":30,"gacha_id":40009},
         {"id":92,"campaign_id":30,"gacha_id":30247},
-        {"id":93,"campaign_id":30,"gacha_id":50248}
+        {"id":93,"campaign_id":30,"gacha_id":50248},
+        {"id":94,"campaign_id":31,"gacha_id":30256},
+        {"id":95,"campaign_id":31,"gacha_id":30257}
     ]
 }
