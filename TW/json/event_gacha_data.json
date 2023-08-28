@@ -116,6 +116,7 @@
         {"gacha_id":10115,"event_id":10115,"gacha_name":"Sweet Tiny Stage！　初出茅廬的女演員與小小淑女","item_type":2,"item_id":61142,"cost":1,"repeat_step":6},
         {"gacha_id":10116,"event_id":10116,"gacha_name":"Dears　歡迎回家與我回來了的約定","item_type":2,"item_id":61152,"cost":1,"repeat_step":6},
         {"gacha_id":10117,"event_id":10117,"gacha_name":"交出寶物！透明怪盜雙人組","item_type":2,"item_id":61162,"cost":1,"repeat_step":6},
+        {"gacha_id":10118,"event_id":10118,"gacha_name":"Connect‧With‧Blue　直至少女前往天際","item_type":2,"item_id":61172,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"吸血鬼獵人 with伊莉亞","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
