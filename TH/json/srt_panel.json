@@ -552,7 +552,7 @@
         {"reading_id":3008903,"reading":"หลอดไฟเม็ดถั่ว","start_chara":"ห","end_chara":"ว","is_over":0,"read_type":2,"panel_id":10089,"detail_text":"หลอดไฟดวงเล็กๆ","version":2},
         {"reading_id":3008904,"reading":"วื๊งวิ้ง","start_chara":"ว","end_chara":"ง","is_over":0,"read_type":2,"panel_id":10089,"detail_text":"คำเลียนเสียงธรรมชาติที่แสดงการกะพริบของแสง","version":2},
         {"reading_id":3008905,"reading":"คาสึมิปิ๊งไอเดีย","start_chara":"ค","end_chara":"ย","is_over":0,"read_type":3,"panel_id":10089,"detail_text":"พลังประกายที่นำไปสู่ความจริง หากใช้กับนักสืบมือฉมัง ไม่ว่าคดีจะยากแค่ไหนก็ไขได้!","version":2},
-        {"reading_id":3009000,"reading":"คลาวด์","start_chara":"ค","end_chara":"ด","is_over":0,"read_type":1,"panel_id":10090,"detail_text":"มวลหยดน้ำหรือเม็ดน้ำแข็งที่ลอยอยู่บนท้องฟ้า สามารถสร้างฝนฟ้าคะนอง","version":2},
+        {"reading_id":3009000,"reading":"มีเมฆมาก","start_chara":"ม","end_chara":"ก","is_over":0,"read_type":1,"panel_id":10090,"detail_text":"มวลหยดน้ำหรือเม็ดน้ำแข็งที่ลอยอยู่บนท้องฟ้า สามารถสร้างฝนฟ้าคะนอง","version":2},
         {"reading_id":3009001,"reading":"คิวมูโลนิมบัส","start_chara":"ค","end_chara":"ส","is_over":0,"read_type":2,"panel_id":10090,"detail_text":"เมฆก้อนใหญ่ที่มักเห็นได้บนท้องฟ้าในฤดูร้อน","version":2},
         {"reading_id":3009002,"reading":"ฟ้าครึ้ม","start_chara":"ฟ","end_chara":"ม","is_over":0,"read_type":2,"panel_id":10090,"detail_text":"สภาพอากาศที่ปกคลุมด้วยเมฆ มองไม่เห็นดวงอาทิตย์","version":2},
         {"reading_id":3009003,"reading":"สายไหม","start_chara":"ส","end_chara":"ม","is_over":0,"read_type":2,"panel_id":10090,"detail_text":"ขนมหวานสีขาวนุ่มที่ละลายในปาก","version":2},

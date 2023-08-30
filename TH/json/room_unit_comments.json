@@ -988,9 +988,9 @@
         {"id":1054,"unit_id":102901,"trigger":1,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"อยากลอง\\nร้องเพลงคู่\\nกับเขาจัง~♪","insert_word_type":0},
         {"id":1055,"unit_id":102901,"trigger":1,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"ปิ๊งปั๊งไม่เจ็บป่วย\\nทำดีวันละครั้งให้\\nใจเต้น... แต่งเพลง\\nนี่ยากจัง~","insert_word_type":0},
         {"id":1056,"unit_id":102901,"trigger":1,"voice_id":101,"beloved_step":4,"time":0,"face_id":1,"description":"แน่นอนว่า\\nแฟนๆ ก็สำคัญ...\\nแต่อยากให้ความสำคัญ\\nกับเขามากขึ้นจัง...","insert_word_type":0},
-        {"id":1057,"unit_id":102901,"trigger":1,"voice_id":102,"beloved_step":8,"time":0,"face_id":1,"description":"ต่อให้ไม่ดูโฟโต้บุ๊ค\\nตัวจริงก็\\nอยู่ตรงนี้แท้ๆ น้า~","insert_word_type":0},
+        {"id":1057,"unit_id":102901,"trigger":1,"voice_id":102,"beloved_step":8,"time":0,"face_id":1,"description":"ต่อให้ไม่ดูโฟโต้บุ๊ก\\nตัวจริงก็\\nอยู่ตรงนี้แท้ๆ น้า~","insert_word_type":0},
         {"id":1058,"unit_id":102901,"trigger":2,"voice_id":1,"beloved_step":1,"time":0,"face_id":1,"description":"จะช่วยเป็นคู่ซ้อม\\nงานจับมือให้ได้ไหม?","insert_word_type":0},
-        {"id":1059,"unit_id":102901,"trigger":2,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"กำลังซ้อมโพสท่า\\nสำหรับโฟโต้บุ๊ค~!\\nปะ เป็นไงมั่ง?","insert_word_type":0},
+        {"id":1059,"unit_id":102901,"trigger":2,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"กำลังซ้อมโพสท่า\\nสำหรับโฟโต้บุ๊ก~!\\nปะ เป็นไงมั่ง?","insert_word_type":0},
         {"id":1060,"unit_id":102901,"trigger":2,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"อ่านไม่ออกว่าเขียน\\nอะไรเอาไว้เหรอ?\\nแหม!\\nนี่คือลายเซ็นฉัน!","insert_word_type":0},
         {"id":1061,"unit_id":102901,"trigger":2,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"นี่ ไลฟ์ครั้งหน้า\\nมาดูได้ไหม?\\nจะเตรียมที่นั่งดีๆ\\nเอาไว้ให้!","insert_word_type":0},
         {"id":1062,"unit_id":102901,"trigger":2,"voice_id":101,"beloved_step":4,"time":0,"face_id":1,"description":"นี่ มาอ่านบท\\nด้วยกันได้ไหม?\\nอยากให้ช่วย\\nรับบทคนรักน่ะ","insert_word_type":0},
@@ -4470,6 +4470,8 @@
         {"id":5022,"unit_id":116501,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"เป็นกลิ่นที่หรูหราจังค่ะ\\nถ้าได้เป็นบอสแล้ว\\nจะเอาไว้ประดับห้องค่ะ","insert_word_type":0},
         {"id":5023,"unit_id":116501,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"อุ่นจังเลยค่ะ~\\nขอพักแบบนี้\\nสักครู่ค่ะ...","insert_word_type":0},
         {"id":5025,"unit_id":116501,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"ง่ำๆ♪\\nถ้าไม่กินให้สมกับเป็นบอส\\nจะเอาชนะศึกไม่ได้นะคะ!","insert_word_type":0},
-        {"id":5026,"unit_id":116501,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"ถ้าเป็นบอส\\nแค่หนังสือเศรษฐศาสตร์\\nอึก... ยากจัง ไม่รู้เรื่องค่ะ...","insert_word_type":0}
+        {"id":5026,"unit_id":116501,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"ถ้าเป็นบอส\\nแค่หนังสือเศรษฐศาสตร์\\nอึก... ยากจัง ไม่รู้เรื่องค่ะ...","insert_word_type":0},
+        {"id":5028,"unit_id":102501,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ถ้าคุณยอมรับ\\nตัวฉันที่ซุ่มซ่ามได้ล่ะก็...\\nฉันก็พร้อมที่จะพยายามค่ะ!","insert_word_type":0},
+        {"id":5029,"unit_id":102501,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"เชิญพูดได้ทุกเรื่องเลยค่ะ\\nหรือจะเป็นเรื่องบ้าบิ่น\\nก็ได้นะคะ...พูด~เล่นค่ะ♪","insert_word_type":0}
     ]
 }
