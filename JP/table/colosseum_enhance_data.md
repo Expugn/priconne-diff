@@ -1,0 +1,2 @@
+|id|enhance_id|min_level|max_level|rarity|promotion_level|equipment_slot_1|equipment_slot_2|equipment_slot_3|equipment_slot_4|equipment_slot_5|equipment_slot_6|unique_equipment_level_1|unique_equipment_level_2|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

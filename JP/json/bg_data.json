@@ -5,6 +5,7 @@
         {"view_name":"HOME","bg_id":0,"event_id":0},
         {"view_name":"UNIT_TOP","bg_id":530010,"event_id":0},
         {"view_name":"UNIT_DETAIL","bg_id":530010,"event_id":0},
+        {"view_name":"ARENA_TOP","bg_id":500380,"event_id":0},
         {"view_name":"NORMAL_ARENA_TOP","bg_id":500380,"event_id":0},
         {"view_name":"NORMAL_ARENA_RANKING","bg_id":500380,"event_id":0},
         {"view_name":"GRAND_ARENA_TOP","bg_id":500381,"event_id":0},

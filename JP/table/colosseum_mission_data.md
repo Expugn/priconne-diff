@@ -1,0 +1,2 @@
+|schedule_id|mission_id|difficulty|disp_group|description|mission_condition|condition_value_1|condition_num|mission_reward_id|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
