@@ -93,6 +93,7 @@
         {"id":4116701,"value":116701,"tips_index":1,"title":"擅长领域（可能）"},
         {"id":4116801,"value":116801,"tips_index":1,"title":"确定赤字"},
         {"id":4116901,"value":116901,"tips_index":1,"title":"擅长领域"},
+        {"id":4117501,"value":117501,"tips_index":1,"title":"刺痛"},
         {"id":4170101,"value":170101,"tips_index":1,"title":"闪亮登场"},
         {"id":4170201,"value":170201,"tips_index":1,"title":"努力打年糕"},
         {"id":4180101,"value":180101,"tips_index":1,"title":"猜拳时间！"},
@@ -100,6 +101,7 @@
         {"id":4180301,"value":180301,"tips_index":1,"title":"守护之力"},
         {"id":4180401,"value":180401,"tips_index":1,"title":"力量提升☆"},
         {"id":4180501,"value":180501,"tips_index":1,"title":"软乎乎"},
-        {"id":4180601,"value":180601,"tips_index":1,"title":"助威声"}
+        {"id":4180601,"value":180601,"tips_index":1,"title":"助威声"},
+        {"id":4180701,"value":180701,"tips_index":1,"title":"我的色彩"}
     ]
 }
