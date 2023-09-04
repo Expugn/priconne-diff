@@ -49,7 +49,7 @@
         {"command_id":11010047,"drama_id":101,"command_type":3,"param_01":"110931","param_02":"nyx_101_chieru_02","param_03":"0","param_04":"nyx_101_chieru_loop","param_05":"1","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":11010048,"drama_id":101,"command_type":3,"param_01":"104831","param_02":"nyx_idle_sad","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":11010049,"drama_id":101,"command_type":3,"param_01":"104631","param_02":"nyx_talk_sad","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
-        {"command_id":11010050,"drama_id":101,"command_type":11,"param_01":"104631","param_02":"ได้ยินเสียงเจรุๆ \\nอะไรสักอย่างเมี้ยว...\\nน่ากลัวจังเมี้ยว...","param_03":"18","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
+        {"command_id":11010050,"drama_id":101,"command_type":11,"param_01":"104631","param_02":"ได้ยินเสียงเจรุๆ\\nอะไรสักอย่างเมี้ยว...\\nน่ากลัวจังเมี้ยว...","param_03":"18","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":11010051,"drama_id":101,"command_type":91,"param_01":"0","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":11010052,"drama_id":101,"command_type":3,"param_01":"104631","param_02":"nyx_idle_sad","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":11010053,"drama_id":101,"command_type":3,"param_01":"103431","param_02":"nyx_talk_sad","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},

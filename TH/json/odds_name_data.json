@@ -138,6 +138,8 @@
         {"id":1006501,"odds_file":"1006520101","name":"เมโมรี่พีซของอาโออิ (นักเรียนแลกเปลี่ยน)","icon_type":99002,"description":""},
         {"id":1006502,"odds_file":"1006520102","name":"เมโมรี่พีซของทามากิ","icon_type":99002,"description":""},
         {"id":1006601,"odds_file":"1006620101","name":"เมโมรี่พีซของคายะ","icon_type":99002,"description":""},
-        {"id":1006602,"odds_file":"1006620102","name":"เมโมรี่พีซของมิซาโตะ","icon_type":99002,"description":""}
+        {"id":1006602,"odds_file":"1006620102","name":"เมโมรี่พีซของมิซาโตะ","icon_type":99002,"description":""},
+        {"id":1006701,"odds_file":"1006720101","name":"เมโมรี่พีซของซาเร็น","icon_type":99002,"description":""},
+        {"id":1006702,"odds_file":"1006720102","name":"เมโมรี่พีซของมาฮิรุ","icon_type":99002,"description":""}
     ]
 }

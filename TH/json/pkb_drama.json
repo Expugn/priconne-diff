@@ -31,7 +31,7 @@
         {"command_id":1050001,"drama_id":5,"command_type":5,"param_01":"3","param_02":"3","param_03":"100","param_04":"64","param_05":"-155","param_06":"57","param_07":"1","param_08":"pkb_idle_normal_l"},
         {"command_id":1050002,"drama_id":5,"command_type":3,"param_01":"3","param_02":"pkb_talk_arm_crossed_l","param_03":"0","param_04":"pkb_idle_arm_crossed_l","param_05":"1","param_06":"0.2","param_07":"0.2","param_08":""},
         {"command_id":1050003,"drama_id":5,"command_type":21,"param_01":"vo_minigame_1006","param_02":"vo_minigame_1006_top_602","param_03":"0","param_04":"0","param_05":"","param_06":"","param_07":"","param_08":""},
-        {"command_id":1050004,"drama_id":5,"command_type":11,"param_01":"3","param_02":"โอ๊ส~! \\nใส่แรงใจให้เต็มที่\\nแล้วเริ่มฝึกกันเลยย~!","param_03":"16","param_04":"0","param_05":"0","param_06":"0","param_07":"","param_08":"0"},
+        {"command_id":1050004,"drama_id":5,"command_type":11,"param_01":"3","param_02":"โอ๊ส~!\\nใส่แรงใจให้เต็มที่\\nแล้วเริ่มฝึกกันเลยย~!","param_03":"16","param_04":"0","param_05":"0","param_06":"0","param_07":"","param_08":"0"},
         {"command_id":1050005,"drama_id":5,"command_type":93,"param_01":"2","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":1050006,"drama_id":5,"command_type":3,"param_01":"3","param_02":"pkb_talk_handsup_l","param_03":"0","param_04":"pkb_idle_normal_l","param_05":"1","param_06":"0.2","param_07":"0.2","param_08":""},
         {"command_id":1050007,"drama_id":5,"command_type":91,"param_01":"1050004","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
