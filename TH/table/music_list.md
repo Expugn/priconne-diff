@@ -168,3 +168,6 @@
 |168|Hagane no Seijo to Seinaru Gakusha no Itanji|28||2023-08-08 11:00:00||-1|1000|168|Hagane no Seijo to Seinaru Gakusha no Itanji||||
 |169|Na mo Naki Geijutsu|28||2023-08-08 11:00:00||-1|1000|169|Na mo Naki Geijutsu||||
 |170|Muteki Dreaming|28||2023-08-08 11:00:00||-1|1500|170|Muteki Dreaming||||
+|171|Inori SOS!! Time Travel Dragons|28||2023-09-07 11:00:00||-1|1000|171|Inori SOS!! Time Travel Dragons||||
+|172|Burst Time Rabe|28||2023-09-07 11:00:00||-1|1000|172|Burst Time Rabe||||
+|173|Seize the Day!|28||2023-09-07 11:00:00||-1|1500|173|Seize the Day!||||

@@ -1,13 +1,13 @@
 {
     "clan_battle_recommend_data": [
-        {"level_id":1,"recommend_group":1,"level_from":10,"level_to":55,"atack_party_count":2,"magic_party_count":2},
-        {"level_id":2,"recommend_group":1,"level_from":56,"level_to":75,"atack_party_count":2,"magic_party_count":2},
-        {"level_id":3,"recommend_group":1,"level_from":76,"level_to":95,"atack_party_count":2,"magic_party_count":2},
-        {"level_id":4,"recommend_group":2,"level_from":96,"level_to":115,"atack_party_count":2,"magic_party_count":2},
-        {"level_id":5,"recommend_group":2,"level_from":116,"level_to":135,"atack_party_count":2,"magic_party_count":2},
-        {"level_id":6,"recommend_group":2,"level_from":136,"level_to":155,"atack_party_count":2,"magic_party_count":2},
-        {"level_id":7,"recommend_group":3,"level_from":156,"level_to":175,"atack_party_count":2,"magic_party_count":2},
-        {"level_id":8,"recommend_group":3,"level_from":176,"level_to":185,"atack_party_count":2,"magic_party_count":2},
-        {"level_id":9,"recommend_group":3,"level_from":186,"level_to":195,"atack_party_count":2,"magic_party_count":2}
+        {"level_id":1,"recommend_group":1,"level_from":10,"level_to":60,"atack_party_count":2,"magic_party_count":2},
+        {"level_id":2,"recommend_group":1,"level_from":61,"level_to":80,"atack_party_count":2,"magic_party_count":2},
+        {"level_id":3,"recommend_group":1,"level_from":81,"level_to":100,"atack_party_count":2,"magic_party_count":2},
+        {"level_id":4,"recommend_group":2,"level_from":101,"level_to":120,"atack_party_count":2,"magic_party_count":2},
+        {"level_id":5,"recommend_group":2,"level_from":121,"level_to":140,"atack_party_count":2,"magic_party_count":2},
+        {"level_id":6,"recommend_group":2,"level_from":141,"level_to":160,"atack_party_count":2,"magic_party_count":2},
+        {"level_id":7,"recommend_group":3,"level_from":162,"level_to":181,"atack_party_count":2,"magic_party_count":2},
+        {"level_id":8,"recommend_group":3,"level_from":182,"level_to":191,"atack_party_count":2,"magic_party_count":2},
+        {"level_id":9,"recommend_group":3,"level_from":192,"level_to":201,"atack_party_count":2,"magic_party_count":2}
     ]
 }
