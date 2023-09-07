@@ -1,0 +1,2 @@
+|exclude_group_id|block_type_1|block_type_2|block_type_3|
+| --- | --- | --- | --- |
