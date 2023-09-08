@@ -140,6 +140,7 @@
         {"area_id":13033,"area_name":"33.法斯奇亞森林‧東部","area_display_name":"33.法斯奇亞\\n　　　　　　森林‧東部","map_type":102,"sheet_id":"bgm_M339","que_id":"bgm_M339","start_time":"2023/01/10 16:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":13034,"area_name":"34.迪克斯提亞岩崖‧西壁","area_display_name":"34.迪克斯提亞\\n　　　　　岩崖‧西壁","map_type":102,"sheet_id":"bgm_M374","que_id":"bgm_M374","start_time":"2023/03/09 16:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":13035,"area_name":"35.迪克斯提亞岩崖‧東壁","area_display_name":"35.迪克斯提亞\\n　　　　　岩崖‧東壁","map_type":102,"sheet_id":"bgm_M374","que_id":"bgm_M374","start_time":"2023/06/08 16:00:00","end_time":"2030/12/17 14:59:59"},
+        {"area_id":13063,"area_name":"63.阿帕雷尤街道‧西側","area_display_name":"63.阿帕雷尤\\n　　　　　街道‧西側","map_type":103,"sheet_id":"bgm_MC001","que_id":"bgm_MC001","start_time":"2023/09/08 16:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":18001,"area_name":"聖跡調查冒險","area_display_name":"聖跡調查冒險","map_type":0,"sheet_id":"","que_id":"","start_time":"2019/03/06 16:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":19001,"area_name":"神殿調查冒險","area_display_name":"神殿調查冒險","map_type":0,"sheet_id":"","que_id":"","start_time":"2020/01/02 16:00:00","end_time":"2030/12/17 14:59:00"},
         {"area_id":21001,"area_name":"瑪那冒險","area_display_name":"瑪那冒險","map_type":0,"sheet_id":"","que_id":"","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},

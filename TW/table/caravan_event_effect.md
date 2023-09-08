@@ -1,0 +1,2 @@
+|event_id|description|effect_type|effect_value|effect_turn|effect_times|category|
+| --- | --- | --- | --- | --- | --- | --- |

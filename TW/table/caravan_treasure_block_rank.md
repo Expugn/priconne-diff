@@ -1,0 +1,2 @@
+|odds_id|upgrade_id|
+| --- | --- |
