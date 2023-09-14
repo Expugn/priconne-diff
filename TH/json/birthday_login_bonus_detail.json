@@ -30,6 +30,8 @@
         {"id":30,"login_bonus_id":9103001,"reward_type":2,"reward_id":31030,"reward_num":10},
         {"id":31,"login_bonus_id":9106001,"reward_type":2,"reward_id":31060,"reward_num":10},
         {"id":32,"login_bonus_id":9101501,"reward_type":2,"reward_id":31015,"reward_num":10},
-        {"id":33,"login_bonus_id":9105401,"reward_type":2,"reward_id":31054,"reward_num":10}
+        {"id":33,"login_bonus_id":9105401,"reward_type":2,"reward_id":31054,"reward_num":10},
+        {"id":34,"login_bonus_id":9110901,"reward_type":2,"reward_id":31109,"reward_num":10},
+        {"id":35,"login_bonus_id":9101001,"reward_type":2,"reward_id":31010,"reward_num":10}
     ]
 }

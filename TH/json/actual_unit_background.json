@@ -136,6 +136,7 @@
         {"unit_id":116231,"unit_name":"คุโรเอะ ฮานาโกะ","bg_id":510150,"face_type":2},
         {"unit_id":116331,"unit_name":"คาซามะ จิเอรุ","bg_id":510050,"face_type":4},
         {"unit_id":116531,"unit_name":"อิจิโนเสะ อิโนริ","bg_id":510301,"face_type":4},
+        {"unit_id":116631,"unit_name":"คิโด คายะ","bg_id":510300,"face_type":4},
         {"unit_id":180131,"unit_name":"ฮารุซากิ ฮิโยริ","bg_id":510121,"face_type":4},
         {"unit_id":180231,"unit_name":"คุซาโนะ ยุย","bg_id":510350,"face_type":2},
         {"unit_id":180431,"unit_name":"ยูสเทียน่า-ฟอน-แอสแทร์","bg_id":510350,"face_type":4},
