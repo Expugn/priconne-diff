@@ -40,6 +40,8 @@
         {"area_id":20017201,"event_id":20017,"area_name":"圣特蕾莎女子学院","map_type":201,"sheet_id":"bgm_M254","que_id":"bgm_M254","area_disp":1,"map_id":0,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
         {"area_id":20018101,"event_id":20018,"area_name":"鬼屋周边","map_type":201,"sheet_id":"bgm_M265","que_id":"bgm_M265_Top","area_disp":1,"map_id":1,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
         {"area_id":20018102,"event_id":20018,"area_name":"幽灵墓地","map_type":201,"sheet_id":"bgm_M265","que_id":"bgm_M265_Top","area_disp":1,"map_id":2,"scroll_width":0,"scroll_height":0,"open_tutorial_id":1,"tutorial_param_1":"202","tutorial_param_2":"0","additional_effect":0},
-        {"area_id":20018201,"event_id":20018,"area_name":"幽灵墓地","map_type":201,"sheet_id":"bgm_M265","que_id":"bgm_M265_Top","area_disp":1,"map_id":1,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0}
+        {"area_id":20018201,"event_id":20018,"area_name":"幽灵墓地","map_type":201,"sheet_id":"bgm_M265","que_id":"bgm_M265_Top","area_disp":1,"map_id":1,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
+        {"area_id":20019101,"event_id":20019,"area_name":"厄尔庇斯岛 营地开拓区","map_type":201,"sheet_id":"bgm_M273","que_id":"bgm_M273","area_disp":1,"map_id":0,"scroll_width":90,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
+        {"area_id":20019201,"event_id":20019,"area_name":"厄尔庇斯岛 营地开拓区","map_type":201,"sheet_id":"bgm_M273","que_id":"bgm_M273","area_disp":1,"map_id":0,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0}
     ]
 }
