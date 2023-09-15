@@ -25,6 +25,7 @@
         {"id":7000,"scene_type":7,"effect_type":0,"rank":0,"value":90002},
         {"id":7001,"scene_type":7,"effect_type":0,"rank":1,"value":90002},
         {"id":7002,"scene_type":7,"effect_type":0,"rank":2,"value":90003},
-        {"id":100001,"scene_type":100,"effect_type":1,"rank":0,"value":1}
+        {"id":100001,"scene_type":100,"effect_type":1,"rank":0,"value":1},
+        {"id":100002,"scene_type":100,"effect_type":2,"rank":0,"value":1}
     ]
 }
