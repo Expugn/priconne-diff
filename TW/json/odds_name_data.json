@@ -246,6 +246,8 @@
         {"id":1011701,"odds_file":"1011720101","name":"嘉夜的記憶碎片","icon_type":99002,"description":""},
         {"id":1011702,"odds_file":"1011720102","name":"珠希的記憶碎片","icon_type":99002,"description":""},
         {"id":1011801,"odds_file":"1011820101","name":"花凜（鍊金術師）的記憶碎片","icon_type":99002,"description":""},
-        {"id":1011802,"odds_file":"1011820102","name":"吉塔的記憶碎片","icon_type":99002,"description":""}
+        {"id":1011802,"odds_file":"1011820102","name":"吉塔的記憶碎片","icon_type":99002,"description":""},
+        {"id":1011901,"odds_file":"1011920101","name":"霞的記憶碎片","icon_type":99002,"description":""},
+        {"id":1011902,"odds_file":"1011920102","name":"忍的記憶碎片","icon_type":99002,"description":""}
     ]
 }
