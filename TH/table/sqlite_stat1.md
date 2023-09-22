@@ -49,11 +49,11 @@
 |clan_battle_recommend_data|clan_battle_recommend_data_0_recommend_group|9 3|
 |room_item||417|
 |growth_parameter||6|
-|unlock_rarity_6|unlock_rarity_6_0_material_id|580 10|
-|unlock_rarity_6|unlock_rarity_6_0_unit_id_1_unlock_level|580 4 3|
-|unlock_rarity_6|unlock_rarity_6_0_unit_id_1_slot_id|580 4 2|
-|unlock_rarity_6|unlock_rarity_6_0_unit_id|580 4|
-|unlock_rarity_6|sqlite_autoindex_unlock_rarity_6_1|580 4 2 1|
+|unlock_rarity_6|unlock_rarity_6_0_material_id|584 10|
+|unlock_rarity_6|unlock_rarity_6_0_unit_id_1_unlock_level|584 4 3|
+|unlock_rarity_6|unlock_rarity_6_0_unit_id_1_slot_id|584 4 2|
+|unlock_rarity_6|unlock_rarity_6_0_unit_id|584 4|
+|unlock_rarity_6|sqlite_autoindex_unlock_rarity_6_1|584 4 2 1|
 |lto_letter_script|lto_letter_script_0_letter_id|54 54|
 |album_production_list|album_production_list_0_unit_id|1340 9|
 |voice_group||105|
@@ -83,8 +83,8 @@
 |fke_happening_list||20|
 |fke_reward||1|
 |shiori_event_list||15|
-|fix_lineup_group_set|fix_lineup_group_set_0_team_level_from_1_team_level_to|24 3 2|
-|fix_lineup_group_set|sqlite_autoindex_fix_lineup_group_set_1|24 4 1 1|
+|fix_lineup_group_set|fix_lineup_group_set_0_team_level_from_1_team_level_to|31 4 3|
+|fix_lineup_group_set|sqlite_autoindex_fix_lineup_group_set_1|31 5 1 1|
 |clan_battle_s_boss_data||190|
 |unit_rarity|unit_rarity_0_unit_material_id|878 6|
 |unit_rarity|unit_rarity_0_unit_id|878 6|
@@ -161,7 +161,7 @@
 |campaign_mission_data|campaign_mission_data_0_campaign_id|16 16|
 |ttk_score||4|
 |campaign_freegacha_data||42|
-|birthday_login_bonus_data||33|
+|birthday_login_bonus_data||34|
 |campaign_mission_category|campaign_mission_category_0_campaign_id_1_type|2 2 1|
 |campaign_mission_reward_data|campaign_mission_reward_data_0_campaign_mission_reward_id|12 2|
 |hatsune_item||65|
@@ -261,7 +261,7 @@
 |vote_data||1|
 |ttk_story_script|ttk_story_script_0_story_id|219 44|
 |pct_system_fruits||1|
-|birthday_login_bonus_detail|birthday_login_bonus_detail_0_login_bonus_id|33 1|
+|birthday_login_bonus_detail|birthday_login_bonus_detail_0_login_bonus_id|34 1|
 |skill_cost||199|
 |season_pack|season_pack_0_mission_id|37 10|
 |unique_equipment_data||105|
@@ -307,7 +307,7 @@
 |hatsune_schedule|hatsune_schedule_0_original_event_id|65 3|
 |hatsune_schedule|hatsune_schedule_0_series_event_id|65 22|
 |dodge_tp_recovery||39|
-|content_release_data||36|
+|content_release_data||37|
 |hatsune_special_mission_data||355|
 |room_character_personality||153|
 |room_change||1|
