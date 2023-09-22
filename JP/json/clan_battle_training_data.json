@@ -132,13 +132,17 @@
         {"id":130,"training_id":1065,"mode":0,"phase":2,"map_data_id":305},
         {"id":131,"training_id":1065,"mode":0,"phase":3,"map_data_id":306},
         {"id":132,"training_id":1065,"mode":0,"phase":4,"map_data_id":307},
-        {"id":133,"training_id":1066,"mode":0,"phase":1,"map_data_id":309},
+        {"id":133,"training_id":1066,"mode":0,"phase":1,"map_data_id":308},
         {"id":134,"training_id":1066,"mode":0,"phase":2,"map_data_id":310},
         {"id":135,"training_id":1066,"mode":0,"phase":3,"map_data_id":311},
         {"id":136,"training_id":1066,"mode":0,"phase":4,"map_data_id":312},
-        {"id":137,"training_id":1067,"mode":0,"phase":1,"map_data_id":314},
+        {"id":137,"training_id":1067,"mode":0,"phase":1,"map_data_id":313},
         {"id":138,"training_id":1067,"mode":0,"phase":2,"map_data_id":315},
         {"id":139,"training_id":1067,"mode":0,"phase":3,"map_data_id":316},
-        {"id":140,"training_id":1067,"mode":0,"phase":4,"map_data_id":317}
+        {"id":140,"training_id":1067,"mode":0,"phase":4,"map_data_id":317},
+        {"id":141,"training_id":1068,"mode":0,"phase":1,"map_data_id":318},
+        {"id":142,"training_id":1068,"mode":0,"phase":2,"map_data_id":320},
+        {"id":143,"training_id":1068,"mode":0,"phase":3,"map_data_id":321},
+        {"id":144,"training_id":1068,"mode":0,"phase":4,"map_data_id":322}
     ]
 }
