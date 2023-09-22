@@ -144,6 +144,8 @@
         {"unit_id":116301,"unit_name":"จิเอรุ (งานโรงเรียน)","bg_id":500732,"bg_name":"วิทยาลัยสตรีเซนต์เทเรซา ประตูหน้า งานโรงเรียน","position":0,"face_type":2},
         {"unit_id":116501,"unit_name":"อิโนริ (ไทม์ทราเวล)","bg_id":500010,"bg_name":"แลนด์โซล เขตเมือง กลางวัน","position":0,"face_type":18},
         {"unit_id":116601,"unit_name":"คายะ (ไทม์ทราเวล)","bg_id":500010,"bg_name":"แลนด์โซล เขตเมือง กลางวัน","position":0,"face_type":4},
+        {"unit_id":116701,"unit_name":"อาโออิ (ชุดช่าง)","bg_id":501340,"bg_name":"โรงงานของเล่น","position":0,"face_type":4},
+        {"unit_id":116801,"unit_name":"ทามากิ (ชุดช่าง)","bg_id":501340,"bg_name":"โรงงานของเล่น","position":0,"face_type":4},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
         {"unit_id":180401,"unit_name":"เปโกรีน (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
