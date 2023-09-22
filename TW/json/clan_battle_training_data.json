@@ -116,6 +116,10 @@
         {"id":116,"training_id":1061,"mode":0,"phase":1,"map_data_id":288},
         {"id":117,"training_id":1061,"mode":0,"phase":2,"map_data_id":289},
         {"id":118,"training_id":1061,"mode":0,"phase":3,"map_data_id":290},
-        {"id":119,"training_id":1061,"mode":0,"phase":4,"map_data_id":291}
+        {"id":119,"training_id":1061,"mode":0,"phase":4,"map_data_id":291},
+        {"id":121,"training_id":1063,"mode":0,"phase":1,"map_data_id":294},
+        {"id":122,"training_id":1063,"mode":0,"phase":2,"map_data_id":295},
+        {"id":123,"training_id":1063,"mode":0,"phase":3,"map_data_id":296},
+        {"id":124,"training_id":1063,"mode":0,"phase":4,"map_data_id":297}
     ]
 }

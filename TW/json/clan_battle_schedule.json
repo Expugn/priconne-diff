@@ -60,6 +60,7 @@
         {"clan_battle_id":1058,"release_month":5,"last_clan_battle_id":1057,"point_per_stamina":1,"cost_group_id":1,"cost_group_id_s":2,"map_bgm":"bgm_M181","resource_id":2,"start_time":"2023/05/27 05:00:00","end_time":"2023/06/26 04:59:59"},
         {"clan_battle_id":1059,"release_month":6,"last_clan_battle_id":1058,"point_per_stamina":1,"cost_group_id":1,"cost_group_id_s":2,"map_bgm":"bgm_M186","resource_id":1,"start_time":"2023/06/26 05:00:00","end_time":"2023/07/27 04:59:59"},
         {"clan_battle_id":1060,"release_month":7,"last_clan_battle_id":1059,"point_per_stamina":1,"cost_group_id":1,"cost_group_id_s":2,"map_bgm":"bgm_M205","resource_id":2,"start_time":"2023/07/27 05:00:00","end_time":"2023/08/27 04:59:59"},
-        {"clan_battle_id":1061,"release_month":8,"last_clan_battle_id":1060,"point_per_stamina":1,"cost_group_id":1,"cost_group_id_s":2,"map_bgm":"bgm_M90","resource_id":1,"start_time":"2023/08/27 05:00:00","end_time":"2023/09/26 04:59:59"}
+        {"clan_battle_id":1061,"release_month":8,"last_clan_battle_id":1060,"point_per_stamina":1,"cost_group_id":1,"cost_group_id_s":2,"map_bgm":"bgm_M90","resource_id":1,"start_time":"2023/08/27 05:00:00","end_time":"2023/09/26 04:59:59"},
+        {"clan_battle_id":1063,"release_month":9,"last_clan_battle_id":1061,"point_per_stamina":1,"cost_group_id":1,"cost_group_id_s":2,"map_bgm":"bgm_M97","resource_id":2,"start_time":"2023/09/26 05:00:00","end_time":"2023/10/27 04:59:59"}
     ]
 }
