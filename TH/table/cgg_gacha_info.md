@@ -1,0 +1,2 @@
+|gacha_type|cgg_id|gacha_name|gacha_description|cost_currency_num|gacha_intro|
+| --- | --- | --- | --- | --- | --- |

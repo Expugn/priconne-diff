@@ -1,0 +1,2 @@
+|completion_id|completion_emblem_id|gacha_type|completion_num|secret_goods_id_1|secret_goods_id_2|secret_goods_id_3|description|receive_description|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |

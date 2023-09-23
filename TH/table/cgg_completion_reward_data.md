@@ -1,0 +1,2 @@
+|id|completion_id|reward_type|reward_id|reward_num|
+| --- | --- | --- | --- | --- |

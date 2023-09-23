@@ -142,6 +142,7 @@
         {"id":1006701,"odds_file":"1006720101","name":"เมโมรี่พีซของซาเร็น","icon_type":99002,"description":""},
         {"id":1006702,"odds_file":"1006720102","name":"เมโมรี่พีซของมาฮิรุ","icon_type":99002,"description":""},
         {"id":1006801,"odds_file":"1006820101","name":"เมโมรี่พีซของทามากิ (ชุดช่าง)","icon_type":99002,"description":""},
-        {"id":1006802,"odds_file":"1006820102","name":"เมโมรี่พีซของอาโออิ","icon_type":99002,"description":""}
+        {"id":1006802,"odds_file":"1006820102","name":"เมโมรี่พีซของอาโออิ","icon_type":99002,"description":""},
+        {"id":1006902,"odds_file":"1006920102","name":"เมโมรี่พีซของคายะ","icon_type":99002,"description":""}
     ]
 }

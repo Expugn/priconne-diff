@@ -4538,6 +4538,8 @@
         {"id":5099,"unit_id":116801,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"หอมจังเมี้ยว~\\nชวนให้ท้องร้อง\\nเลยเมี้ยว~","insert_word_type":0},
         {"id":5100,"unit_id":116801,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"ฮ้าว~...\\nอยากห่อตัวแบบนี้\\nไม่ไปไหนแล้วเมี้ยว...","insert_word_type":0},
         {"id":5102,"unit_id":116801,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"การค้าขายคือสงคราม\\nต้องกินเยอะๆ\\nทำงานเยอะๆ เมี้ยว!","insert_word_type":0},
-        {"id":5103,"unit_id":116801,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"อืมๆ รวมสูตร\\nทำไทยากิ...\\nเอามาใช้ได้เมี้ยว...","insert_word_type":0}
+        {"id":5103,"unit_id":116801,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"อืมๆ รวมสูตร\\nทำไทยากิ...\\nเอามาใช้ได้เมี้ยว...","insert_word_type":0},
+        {"id":5105,"unit_id":102101,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ก่อนเล่นละคร\\nถ้าได้เห็นรอยยิ้ม\\nของพี่จ๋า ใจจะสงบ\\nมากๆ เลยค่า...♪","insert_word_type":0},
+        {"id":5106,"unit_id":102101,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"อยากให้พี่จ๋า\\nเฝ้ามองอีกเยอะๆ เลย...\\nเพราะฉะนั้นฉัน...\\nอยากแข็งแกร่งขึ้นค่ะ...!","insert_word_type":0}
     ]
 }

@@ -1,0 +1,2 @@
+|id|gacha_type|lineup_id|goods_id|goods_num|
+| --- | --- | --- | --- | --- |

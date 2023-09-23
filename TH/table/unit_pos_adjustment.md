@@ -1,0 +1,2 @@
+|unit_id|id_1|id_2|home_1_pos_x|home_1_pos_y|home_1_depth|home_2_pos_x|home_2_pos_y|home_2_depth|profile_1_pos_x|profile_1_pos_y|profile_1_depth|profile_1_scale|profile_2_pos_x|profile_2_pos_y|profile_2_depth|profile_2_scale|actual_id1|actual_1_pos_x|actual_1_pos_y|actual_1_depth|actual_id2|actual_2_pos_x|actual_2_pos_y|actual_2_depth|skip_position_x|friend_pos_x|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
