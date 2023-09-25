@@ -104,6 +104,8 @@
         {"id":125,"area_id":10119,"condition_type":3,"condition_id":5092004,"target_type":2,"bg_after_change_id":501551},
         {"id":126,"area_id":10118,"condition_type":3,"condition_id":5118002,"target_type":2,"bg_after_change_id":500133},
         {"id":127,"area_id":10118,"condition_type":3,"condition_id":5118003,"target_type":2,"bg_after_change_id":500810},
-        {"id":128,"area_id":10118,"condition_type":3,"condition_id":5118007,"target_type":2,"bg_after_change_id":500133}
+        {"id":128,"area_id":10118,"condition_type":3,"condition_id":5118007,"target_type":2,"bg_after_change_id":500133},
+        {"id":129,"area_id":20040,"condition_type":3,"condition_id":5072004,"target_type":2,"bg_after_change_id":501364},
+        {"id":130,"area_id":20040,"condition_type":3,"condition_id":5072006,"target_type":2,"bg_after_change_id":501365}
     ]
 }
