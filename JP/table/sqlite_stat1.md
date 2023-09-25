@@ -14,7 +14,7 @@
 |tower_area_data||51|
 |dsb_story_data|dsb_story_data_0_original_event_id|9 9|
 |prizegacha_sp_detail||5|
-|gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|624 3|
+|gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|625 3|
 |clan_battle_archive_clan_rank||14|
 |clan_cost_group||6|
 |asm_4_choice_data||900|
@@ -22,7 +22,7 @@
 |tower_ex_quest_data|tower_ex_quest_data_0_floor_num|51 1|
 |event_navi_comment_condition||1784|
 |sekai_boss_mode||12|
-|prizegacha_data||109|
+|prizegacha_data||110|
 |clan_battle_last_attack_reward||3|
 |secret_dungeon_emblem_mission||35|
 |space_battle_data||1|
@@ -176,7 +176,7 @@
 |tme_map_data|tme_map_data_0_event_id|12 12|
 |nyx_drama_data||10|
 |login_bonus_message_data|login_bonus_message_data_0_login_bonus_id|572 72|
-|skill_action||13054|
+|skill_action||13060|
 |caravan_map_object|caravan_map_object_0_season_id|353 177|
 |broadcast_schedule||6|
 |taq_data||1229|
@@ -229,7 +229,7 @@
 |goldset_data||70|
 |dungeon_special_battle|dungeon_special_battle_0_quest_id|3 3|
 |dungeon_special_battle|dungeon_special_battle_0_quest_id_1_mode|3 3 1|
-|event_story_data|event_story_data_0_value|70 1|
+|event_story_data|event_story_data_0_value|71 1|
 |quest_data|quest_data_0_area_id|1164 8|
 |taq_kanji_list||1006|
 |legion_effective_unit|legion_effective_unit_0_legion_boss_id|76 19|
@@ -361,20 +361,20 @@
 |srt_reward||1|
 |tower_schedule|tower_schedule_0_opening_story_id|51 1|
 |hatsune_relay_data||48|
-|gacha_data|gacha_data_0_exchange_id|885 4|
+|gacha_data|gacha_data_0_exchange_id|888 4|
 |secret_dungeon_enemy_info|sqlite_autoindex_secret_dungeon_enemy_info_1|35 5 1|
-|custom_mypage|custom_mypage_0_still_group_id|228 228|
+|custom_mypage|custom_mypage_0_still_group_id|229 229|
 |room_item_detail|room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2|566 566 566|
 |room_item_detail|room_item_detail_0_lvup_trigger_type_1_lvup_trigger_id|566 283 283|
 |room_item_detail|sqlite_autoindex_room_item_detail_1|566 2 1|
-|ex_equipment_data||187|
+|ex_equipment_data||189|
 |sjr_proper_feature||30|
 |shiori_description|shiori_description_0_type|29 1|
 |hatsune_quest_area|hatsune_quest_area_0_event_id|323 3|
-|login_bonus_detail|login_bonus_detail_0_login_bonus_id_1_count|320 10 1|
+|login_bonus_detail|login_bonus_detail_0_login_bonus_id_1_count|328 10 1|
 |redeem_unit|redeem_unit_0_unit_id|6 3|
 |growth_parameter_unique||2|
-|unit_introduction|unit_introduction_0_gacha_id|274 1|
+|unit_introduction|unit_introduction_0_gacha_id|275 1|
 |content_map_data||5|
 |quest_condition_data||1190|
 |ex_equipment_category||19|
@@ -486,9 +486,9 @@
 |sekai_top_story_data|sekai_top_story_data_0_sekai_id|4 4|
 |actual_unit_background||233|
 |special_still||2|
-|login_bonus_data||38|
-|story_character_mask||904|
-|skill_data||4784|
+|login_bonus_data||39|
+|story_character_mask||906|
+|skill_data||4786|
 |beginner_chara_e_ticket_data|sqlite_autoindex_beginner_chara_e_ticket_data_1|1 1 1|
 |item_data||919|
 |sjr_parameter_evaluation||4|
@@ -500,7 +500,7 @@
 |sd_navi_comment||14|
 |worldmap|worldmap_0_map_type|5 2|
 |enemy_ignore_skill_rf||182|
-|banner||302|
+|banner||303|
 |caravan_dice_reward_period||1|
 |byway_quest_data|byway_quest_data_0_area_id|26 7|
 |tdf_top_offset||5|
@@ -549,8 +549,8 @@
 |hatsune_limit_chara||10|
 |hatsune_quiz_reward||8|
 |hatsune_daily_mission_data||247|
-|hatsune_schedule|hatsune_schedule_0_original_event_id|127 3|
-|hatsune_schedule|hatsune_schedule_0_series_event_id|127 16|
+|hatsune_schedule|hatsune_schedule_0_original_event_id|128 3|
+|hatsune_schedule|hatsune_schedule_0_series_event_id|128 16|
 |unit_ex_equipment_slot||242|
 |exceed_level_unit|exceed_level_unit_0_unit_id|241 1|
 |exceed_level_unit|sqlite_autoindex_exceed_level_unit_1|241 1 1|
@@ -624,7 +624,7 @@
 |sre_boss_data|sqlite_autoindex_sre_boss_data_1|7 1 1|
 |legion_special_battle||3|
 |lsv_story_script|lsv_story_script_0_story_id|436 30|
-|custom_mypage_group||17|
+|custom_mypage_group||18|
 |clanprofile_content||35|
 |caravan_buff_disp|caravan_buff_disp_0_type_1_effect_id|22 11 2|
 |sjr_proper_evaluation||3|
