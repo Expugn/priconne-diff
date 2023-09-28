@@ -118,6 +118,7 @@
         {"gacha_id":10117,"event_id":10117,"gacha_name":"交出寶物！透明怪盜雙人組","item_type":2,"item_id":61162,"cost":1,"repeat_step":6},
         {"gacha_id":10118,"event_id":10118,"gacha_name":"Connect‧With‧Blue　直至少女前往天際","item_type":2,"item_id":61172,"cost":1,"repeat_step":6},
         {"gacha_id":10119,"event_id":10119,"gacha_name":" Episode of Pirate　海盜島上被詛咒的遺寶","item_type":2,"item_id":61182,"cost":1,"repeat_step":6},
+        {"gacha_id":10120,"event_id":10120,"gacha_name":"吸血鬼傳聞錄　黑夜與美麗的饗宴","item_type":2,"item_id":61192,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"吸血鬼獵人 with伊莉亞","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
