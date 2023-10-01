@@ -1,5 +1,9 @@
 {
     "bmy_navi_comment": [
-
+        {"comment_id":58001,"where_type":58,"character_id":126301,"face_type":1,"voice_id":101,"pos_x":-375,"pos_y":0,"change_face_time":10.11,"change_face_type":5,"original_event_id":10120},
+        {"comment_id":58002,"where_type":58,"character_id":126301,"face_type":1,"voice_id":102,"pos_x":-375,"pos_y":0,"change_face_time":4.53,"change_face_type":2,"original_event_id":10120},
+        {"comment_id":58003,"where_type":58,"character_id":126301,"face_type":5,"voice_id":103,"pos_x":-375,"pos_y":0,"change_face_time":0,"change_face_type":5,"original_event_id":10120},
+        {"comment_id":58004,"where_type":58,"character_id":126301,"face_type":2,"voice_id":104,"pos_x":-375,"pos_y":0,"change_face_time":5.32,"change_face_type":1,"original_event_id":10120},
+        {"comment_id":58005,"where_type":58,"character_id":126301,"face_type":6,"voice_id":105,"pos_x":-375,"pos_y":0,"change_face_time":4.4,"change_face_type":5,"original_event_id":10120}
     ]
 }
