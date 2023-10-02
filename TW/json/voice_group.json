@@ -356,6 +356,7 @@
         {"group_id":30197,"group_id_comment":"靜流（黑暗）（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":320001001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30198,"group_id_comment":"可可蘿（遊俠）（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":325301001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30199,"group_id_comment":"栞（遊俠）（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":325401001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
-        {"group_id":30200,"group_id_comment":"莉莉（墮落）（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":325801001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
+        {"group_id":30200,"group_id_comment":"莉莉（墮落）（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":325801001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":30201,"group_id_comment":"伊莉亞（祭服）（花凜對話用）","group_unit_id_01":118501001,"group_unit_id_02":326201001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
     ]
 }
