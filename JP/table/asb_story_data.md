@@ -1,0 +1,2 @@
+|sub_story_id|original_event_id|title|contents_type|page_num|condition_quest_id|condition_boss_id|condition_sub_story_id|read_condition_time|reward_type|reward_id|reward_count|emblem_id|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

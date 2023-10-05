@@ -155,7 +155,7 @@
 |hatsune_map||14|
 |stamp||89|
 |dear_story_data|dear_story_data_0_value|29 1|
-|colosseum_score||9|
+|colosseum_score||18|
 |caravan_gacha_block_lineup||1|
 |pct_result|pct_result_0_character_id|4 2|
 |nop_drama_script|nop_drama_script_0_drama_id|2293 26|
@@ -254,7 +254,7 @@
 |story_data||313|
 |campaign_mission_data|campaign_mission_data_0_campaign_id_1_type|16 16 8|
 |campaign_mission_data|campaign_mission_data_0_campaign_id|16 16|
-|colosseum_mission_reward_data|colosseum_mission_reward_data_0_mission_reward_id|26 1|
+|colosseum_mission_reward_data|colosseum_mission_reward_data_0_mission_reward_id|52 1|
 |caravan_schedule|caravan_schedule_0_coin_id|2 1|
 |tdf_quest_data||76|
 |legion_mission_data|legion_mission_data_0_category_id|29 6|
@@ -279,7 +279,7 @@
 |ex_equipment_recycle_reward||4|
 |ex_equipment_enhance_data|ex_equipment_enhance_data_0_rarity|17 5|
 |ex_equipment_enhance_data|sqlite_autoindex_ex_equipment_enhance_data_1|17 5 1|
-|colosseum_schedule_data||1|
+|colosseum_schedule_data||2|
 |asm_archive_completion_reward|asm_archive_completion_reward_0_emblem_id|3 1|
 |cgg_gacha_info|cgg_gacha_info_0_cgg_id|3 3|
 |travel_decrease_time_cost||36|
@@ -465,8 +465,8 @@
 |arena_daily_rank_reward||15|
 |stationary_mission_data||1912|
 |unique_equipment_enhance_data|sqlite_autoindex_unique_equipment_enhance_data_1|295 148 1|
-|colosseum_mission_data|colosseum_mission_data_0_schedule_id_1_difficulty|26 26 7|
-|colosseum_enhance_data|colosseum_enhance_data_0_enhance_id|60 10|
+|colosseum_mission_data|colosseum_mission_data_0_schedule_id_1_difficulty|52 26 7|
+|colosseum_enhance_data|colosseum_enhance_data_0_enhance_id|80 10|
 |sre_extermination_reward||8|
 |travel_top_event_pos_detail||15|
 |pkb_batter_condition||9|
@@ -556,7 +556,7 @@
 |exceed_level_unit|sqlite_autoindex_exceed_level_unit_1|242 1 1|
 |story_bulk_skip||1|
 |dodge_tp_recovery||45|
-|content_release_data||48|
+|content_release_data||49|
 |miroku_special_battle|sqlite_autoindex_miroku_special_battle_1|3 3 1|
 |hatsune_special_mission_data||869|
 |recover_stamina||40|
@@ -634,7 +634,7 @@
 |sekai_boss_fix_reward||10|
 |chara_fortune_schedule||11|
 |mypage_frame|mypage_frame_0_group_id|5 1|
-|colosseum_quest_data||9|
+|colosseum_quest_data||18|
 |caravan_goal_bonus|caravan_goal_bonus_0_season_id|26 13|
 |wac_mural_data|wac_mural_data_0_mural_group_id|147 11|
 |wac_mural_data|sqlite_autoindex_wac_mural_data_1|147 11 1|
