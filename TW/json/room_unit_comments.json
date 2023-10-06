@@ -6502,6 +6502,8 @@
         {"id":7310,"unit_id":126201,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"很有品味的香氣。\\n妾身的古城裡\\n也想擺一個。","insert_word_type":0},
         {"id":7311,"unit_id":126201,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"很棒的溫度……\\n完全不同於\\n可恨的太陽。","insert_word_type":0},
         {"id":7313,"unit_id":126201,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"做為調味的參考，\\n再吃一個就好……\\n好吃得讓人停不了……","insert_word_type":0},
-        {"id":7314,"unit_id":126201,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"上頭記載了\\n吸血鬼的缺點嗎……\\n嗯，\\n來看一看提神吧。","insert_word_type":0}
+        {"id":7314,"unit_id":126201,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"上頭記載了\\n吸血鬼的缺點嗎……\\n嗯，\\n來看一看提神吧。","insert_word_type":0},
+        {"id":7316,"unit_id":100801,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"即使我\\n就這樣繼續變美，\\n相信他也一定會願意\\n陪在我身旁的！","insert_word_type":0},
+        {"id":7317,"unit_id":100801,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"你再靠近一點啊。\\n我的身邊可是\\n專為你而留的\\n特等席。","insert_word_type":0}
     ]
 }
