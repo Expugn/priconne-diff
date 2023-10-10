@@ -171,3 +171,7 @@
 |171|Inori SOS!! Time Travel Dragons|1:10|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Seize The Day!>Arrange-\n\nความยาว / 01:10\nทำนอง   / YUKI HONDA (Arte Refact)\nเรียบเรียง / TAKAAKI NAKAGAWA|bgm_M467|bgm_M467_juke|
 |172|Burst Time Rabe|2:12|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 02:12\nทำนอง   / SHUUHEI SEKINE (Cygames)\nเรียบเรียง / SHUUHEI SEKINE (Cygames)|bgm_M470|bgm_M470_juke|
 |173|Seize the Day!|1:34|0:52|เพลงตัวละคร\n\nความยาว / 01:34\nขับร้อง   / คายะ (MAKOTO KOICHI)\n           โฮมาเระ (SAORI ONISHI)\n           อิโนริ (AKANE FUJITA)\nเนื้อเพลง / NOMURA IKUMI (Cygames)\nทำนอง   / YUKI HONDA (Arte Refact)\nเรียบเรียง / YASUSHI KAWAI (Arte Refact)|bgm_M485|bgm_M485|
+|174|Ishindenshin! Aoi Toy Friends|1:46|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Botchi no Tame no Tomodachi Koshinkyoku>Arrange-\n\nความยาว / 01:46\nทำนอง   / YAMAMOTO MAOKI (TRYTONELABO)\nเรียบเรียง / SHIMO TOMOKO|bgm_M478|bgm_M478_Lofi_juke|
+|175|Kyukyoku Ganguou Mega Toy King|2:35|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 02:35\nทำนอง   / TADA AKIFUMI\nเรียบเรียง / TADA AKIFUMI|bgm_M481|bgm_M481_juke|
+|176|Botchi no Tame no Tomodachi Koshinkyoku|1:34|1:01|เพลงตัวละคร\n\nความยาว / 01:34\nขับร้อง   / อาโออิ (KANA HANAZAWA)\nเนื้อเพลง /  YAMAMOTO MAOKI (TRYTONELABO)\nทำนอง   / YAMAMOTO MAOKI (TRYTONELABO)\nเรียบเรียง / YAMAMOTO MAOKI (TRYTONELABO)|bgm_M494|bgm_M494|
+|177|Sajin Mau Naka de|1:07|0:00|SHIMO TOMOKO\n\nความยาว / 01:07\nทำนอง   / NAKAMURA HIROSHI\nเรียบเรียง / NAKAMURA HIROSHI|bgm_M483|bgm_M483_E46_juke|

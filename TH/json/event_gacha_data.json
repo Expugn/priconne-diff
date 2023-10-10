@@ -33,6 +33,8 @@
         {"gacha_id":10032,"event_id":10032,"gacha_name":"รีรัน ทวิงเคิลไครซิสรับปีใหม่!","item_type":2,"item_id":60312,"cost":1,"repeat_step":5},
         {"gacha_id":10033,"event_id":10033,"gacha_name":"สาวน้อยเวทมนตร์ เธอทั้งสองคือมิสตี้ & เพียวรี่","item_type":2,"item_id":60322,"cost":1,"repeat_step":5},
         {"gacha_id":10034,"event_id":10034,"gacha_name":"รีรัน แบทเทิล ออฟ วาเลนไทน์! สวีตแบทเทิลประชันความรัก","item_type":2,"item_id":60332,"cost":1,"repeat_step":5},
+        {"gacha_id":10035,"event_id":10035,"gacha_name":"สตาร์ไลท์ปริ้นเซส Re:M@STER!","item_type":2,"item_id":60342,"cost":1,"repeat_step":5},
+        {"gacha_id":10036,"event_id":10036,"gacha_name":"สตาร์ไลท์ปริ้นเซส Re:M@STER!","item_type":2,"item_id":60342,"cost":1,"repeat_step":5},
         {"gacha_id":10037,"event_id":10037,"gacha_name":"รีรัน ยอดนักสืบแห่งเมืองหลวง ผู้ตามล่าแห่งความเศร้าโศก (สตอล์กเกอร์)","item_type":2,"item_id":60362,"cost":1,"repeat_step":5},
         {"gacha_id":10038,"event_id":10038,"gacha_name":"นางฟ้าประทานทุนกับเด็กหญิงนอกคอกแห่งวิทยาลัยเซนต์","item_type":2,"item_id":60372,"cost":1,"repeat_step":5},
         {"gacha_id":10039,"event_id":10039,"gacha_name":"รีรัน สองบุปผาที่เบ่งบาน ณ แอสทรูม","item_type":2,"item_id":60382,"cost":1,"repeat_step":5},

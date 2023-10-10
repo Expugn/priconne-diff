@@ -171,3 +171,7 @@
 |171|Inori SOS!! Time Travel Dragons|28||2023-09-07 11:00:00||-1|1000|171|Inori SOS!! Time Travel Dragons||||
 |172|Burst Time Rabe|28||2023-09-07 11:00:00||-1|1000|172|Burst Time Rabe||||
 |173|Seize the Day!|28||2023-09-07 11:00:00||-1|1500|173|Seize the Day!||||
+|174|Ishindenshin! Aoi Toy Friends|28||2023-10-10 11:00:00||-1|1000|174|Ishindenshin! Aoi Toy Friends||||
+|175|Kyukyoku Ganguou Mega Toy King|28||2023-10-10 11:00:00||-1|1000|175|Kyukyoku Ganguou Mega Toy King||||
+|176|Botchi no Tame no Tomodachi Koshinkyoku|28||2023-10-10 11:00:00||-1|1500|176|Botchi no Tame no Tomodachi Koshinkyoku||||
+|177|Sajin Mau Naka de|28||2023-10-10 11:00:00||-1|1000|177|Sajin Mau Naka de||||
