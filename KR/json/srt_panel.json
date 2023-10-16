@@ -620,7 +620,7 @@
         {"reading_id":3009301,"reading":"드림","read_type":2,"panel_id":10093,"detail_text":"「꿈」의 영어 읽기. 베개를 베고 꿈속으로 출발~!","version":2},
         {"reading_id":3009400,"reading":"패션지","read_type":2,"panel_id":10094,"detail_text":"패션에 관한 기사가 실린 잡지.","version":2},
         {"reading_id":3009401,"reading":"스즈나가 실린 잡지","read_type":3,"panel_id":10094,"detail_text":"스즈나가 표지와 권두 특집으로 등장한다! 특전 브로마이드를 위해서는 예약이 필수!","version":2},
-        {"reading_id":3009402,"reading":"인기","read_type":2,"panel_id":10094,"detail_text":"스즈나가 표지로 등장하면 인기가 많아 금방 품절될지 모르니 서점으로 빠르게 달려가자.","version":1},
+        {"reading_id":3009402,"reading":"인기","read_type":2,"panel_id":10094,"detail_text":"스즈나가 표지로 등장하면 인기가 많아 금방 품절될지 모르니 서점으로 빠르게 달려가자.","version":2},
         {"reading_id":3009403,"reading":"트렌드","read_type":2,"panel_id":10094,"detail_text":"올해는 어떤 패션이 유행할까?","version":2},
         {"reading_id":3009500,"reading":"소고","read_type":1,"panel_id":10095,"detail_text":"두드리면 높은 소리가 나는 작은 북.","version":2},
         {"reading_id":3009501,"reading":"타악기","read_type":2,"panel_id":10095,"detail_text":"치고, 문지르고, 흔드는 등으로 소리를 내는 악기의 총칭.","version":2},

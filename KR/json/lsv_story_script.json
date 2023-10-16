@@ -435,6 +435,8 @@
         {"id":100981525,"story_id":1009815,"seq_num":25,"type":1,"line_num":10,"start_pos":0,"end_pos":300,"seek_time":1.984,"sheet_name":"0","cue_name":"0","command":0,"command_param":0},
         {"id":100981526,"story_id":1009815,"seq_num":26,"type":4,"line_num":0,"start_pos":0,"end_pos":0,"seek_time":0,"sheet_name":"0","cue_name":"0","command":1,"command_param":3},
         {"id":100981527,"story_id":1009815,"seq_num":27,"type":2,"line_num":0,"start_pos":0,"end_pos":0,"seek_time":0,"sheet_name":"vo_lsv","cue_name":"vo_lsv_1506","command":0,"command_param":0},
-        {"id":100981528,"story_id":1009815,"seq_num":28,"type":1,"line_num":12,"start_pos":0,"end_pos":327,"seek_time":2.1,"sheet_name":"0","cue_name":"0","command":0,"command_param":0}
+        {"id":100981528,"story_id":1009815,"seq_num":28,"type":1,"line_num":11,"start_pos":0,"end_pos":235,"seek_time":1.9,"sheet_name":"0","cue_name":"0","command":0,"command_param":0},
+        {"id":100981529,"story_id":1009815,"seq_num":29,"type":4,"line_num":0,"start_pos":0,"end_pos":0,"seek_time":0,"sheet_name":"0","cue_name":"0","command":1,"command_param":2},
+        {"id":100981530,"story_id":1009815,"seq_num":30,"type":1,"line_num":12,"start_pos":0,"end_pos":130,"seek_time":1,"sheet_name":"0","cue_name":"0","command":0,"command_param":0}
     ]
 }
