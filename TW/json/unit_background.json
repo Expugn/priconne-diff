@@ -220,6 +220,7 @@
         {"unit_id":125701,"unit_name":"花凜（鍊金術師）","bg_id":500371,"bg_name":"蘭德索爾_公務機關","position":0,"face_type":2},
         {"unit_id":125801,"unit_name":"莉莉（墮落）","bg_id":501670,"bg_name":"吉歐‧提格尼亞_街道_白天","position":0,"face_type":2},
         {"unit_id":126201,"unit_name":"伊莉亞（祭服）","bg_id":501372,"bg_name":"瀑布潭_晚上","position":0,"face_type":20},
+        {"unit_id":126301,"unit_name":"雪（祭服）","bg_id":500040,"bg_name":"蘭德索爾 公會小屋","position":0,"face_type":4},
         {"unit_id":180101,"unit_name":"日和（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"優衣（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":4},
         {"unit_id":180301,"unit_name":"怜（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":3},
