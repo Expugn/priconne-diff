@@ -250,6 +250,8 @@
         {"id":1011901,"odds_file":"1011920101","name":"霞的記憶碎片","icon_type":99002,"description":""},
         {"id":1011902,"odds_file":"1011920102","name":"忍的記憶碎片","icon_type":99002,"description":""},
         {"id":1012001,"odds_file":"1012020101","name":"伊莉亞的記憶碎片","icon_type":99002,"description":""},
-        {"id":1012002,"odds_file":"1012020102","name":"雪的記憶碎片","icon_type":99002,"description":""}
+        {"id":1012002,"odds_file":"1012020102","name":"雪的記憶碎片","icon_type":99002,"description":""},
+        {"id":1012101,"odds_file":"1012120101","name":"碧（露營）的記憶碎片","icon_type":99002,"description":""},
+        {"id":1012102,"odds_file":"1012120102","name":"優花梨的記憶碎片","icon_type":99002,"description":""}
     ]
 }
