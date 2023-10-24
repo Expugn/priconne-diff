@@ -149,6 +149,7 @@
         {"unit_id":116901,"unit_name":"มิฟุยุ (ชุดช่าง)","bg_id":501340,"bg_name":"โรงงานของเล่น","position":0,"face_type":2},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
+        {"unit_id":180301,"unit_name":"เรย์ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":3},
         {"unit_id":180401,"unit_name":"เปโกรีน (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
         {"unit_id":180501,"unit_name":"คกโคโระ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180601,"unit_name":"แคล (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":18}

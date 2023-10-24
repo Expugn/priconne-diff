@@ -695,7 +695,7 @@
         {"reading_id":3012202,"reading":"อาร์เมอร์","start_chara":"อ","end_chara":"ร","is_over":0,"read_type":2,"panel_id":10122,"detail_text":"คำเรียกภาษาอังกฤษของ <ชุดเกราะ>","version":2},
         {"reading_id":3012203,"reading":"เครื่องป้องกัน","start_chara":"ค","end_chara":"น","is_over":0,"read_type":2,"panel_id":10122,"detail_text":"อุปกรณ์สำหรับปกป้องร่างกาย","version":2},
         {"reading_id":3012204,"reading":"ชุดเกราะอัศวินแห่งวังหลวง","start_chara":"ช","end_chara":"ง","is_over":0,"read_type":3,"panel_id":10122,"detail_text":"ชุดเกราะของอัศวินแห่งวังหลวงอันทรงเกียรติ มาปกป้องความปลอดภัยของแลนด์โซลกันเถอะ","version":2},
-        {"reading_id":3012205,"reading":"ลิฟวิ่งเมล","start_chara":"ล","end_chara":"ล","is_over":0,"read_type":3,"panel_id":10122,"detail_text":"มอนสเตอร์ลึกลับที่กินโลหะและถืออาวุธ","version":2},
+        {"reading_id":3012205,"reading":"ลิฟวิงเมล","start_chara":"ล","end_chara":"ล","is_over":0,"read_type":3,"panel_id":10122,"detail_text":"มอนสเตอร์ลึกลับที่กินโลหะและถืออาวุธ","version":2},
         {"reading_id":3012300,"reading":"กุญแจ","start_chara":"ก","end_chara":"จ","is_over":0,"read_type":1,"panel_id":10123,"detail_text":"เครื่องมือสำหรับล็อคและเปิดล็อค ถ้าทำหายจะลำบาก","version":2},
         {"reading_id":3012301,"reading":"คีย์","start_chara":"ค","end_chara":"ย","is_over":0,"read_type":2,"panel_id":10123,"detail_text":"คำเรียกภาษาอังกฤษของ <กุญแจ>","version":2},
         {"reading_id":3012302,"reading":"มาสเตอร์คีย์","start_chara":"ม","end_chara":"ย","is_over":0,"read_type":2,"panel_id":10123,"detail_text":"กุญแจที่สามารถเปิดล็อคได้ทั้งหมดที่เกี่ยวข้อง","version":2},

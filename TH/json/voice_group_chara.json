@@ -2,7 +2,7 @@
     "voice_group_chara": [
         {"group_unit_id":100101001,"group_unit_id_comment":"ทวิงเคิลวิช (ฮิโยริ)","unit_id_01":100101,"unit_id_02":108701,"unit_id_03":180101,"unit_id_04":0,"unit_id_05":0,"unit_id_06":0,"unit_id_07":0,"unit_id_08":0,"unit_id_09":0,"unit_id_10":0},
         {"group_unit_id":100201001,"group_unit_id_comment":"ทวิงเคิลวิช (ยุย)","unit_id_01":100201,"unit_id_02":108801,"unit_id_03":180201,"unit_id_04":115601,"unit_id_05":0,"unit_id_06":0,"unit_id_07":0,"unit_id_08":0,"unit_id_09":0,"unit_id_10":0},
-        {"group_unit_id":100301001,"group_unit_id_comment":"ทวิงเคิลวิช (เรย์)","unit_id_01":100301,"unit_id_02":108901,"unit_id_03":114001,"unit_id_04":0,"unit_id_05":0,"unit_id_06":0,"unit_id_07":0,"unit_id_08":0,"unit_id_09":0,"unit_id_10":0},
+        {"group_unit_id":100301001,"group_unit_id_comment":"ทวิงเคิลวิช (เรย์)","unit_id_01":100301,"unit_id_02":108901,"unit_id_03":114001,"unit_id_04":180301,"unit_id_05":0,"unit_id_06":0,"unit_id_07":0,"unit_id_08":0,"unit_id_09":0,"unit_id_10":0},
         {"group_unit_id":100401001,"group_unit_id_comment":"ลิตเติ้ลริริคัล (มิโซงิ)","unit_id_01":100401,"unit_id_02":111201,"unit_id_03":0,"unit_id_04":0,"unit_id_05":0,"unit_id_06":0,"unit_id_07":0,"unit_id_08":0,"unit_id_09":0,"unit_id_10":0},
         {"group_unit_id":100501001,"group_unit_id_comment":"Nightmare (มัทสึริ)","unit_id_01":100501,"unit_id_02":114101,"unit_id_03":0,"unit_id_04":0,"unit_id_05":0,"unit_id_06":0,"unit_id_07":0,"unit_id_08":0,"unit_id_09":0,"unit_id_10":0},
         {"group_unit_id":100601001,"group_unit_id_comment":"เดียโบลอส (อาคาริ)","unit_id_01":100601,"unit_id_02":113701,"unit_id_03":0,"unit_id_04":0,"unit_id_05":0,"unit_id_06":0,"unit_id_07":0,"unit_id_08":0,"unit_id_09":0,"unit_id_10":0},
