@@ -14,7 +14,7 @@
 |tower_area_data||51|
 |dsb_story_data|dsb_story_data_0_original_event_id|9 9|
 |prizegacha_sp_detail||5|
-|gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|633 3|
+|gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|634 3|
 |clan_battle_archive_clan_rank||14|
 |clan_cost_group||6|
 |asm_4_choice_data||900|
@@ -22,7 +22,7 @@
 |tower_ex_quest_data|tower_ex_quest_data_0_floor_num|51 1|
 |event_navi_comment_condition||1823|
 |sekai_boss_mode||12|
-|prizegacha_data||112|
+|prizegacha_data||113|
 |clan_battle_last_attack_reward||3|
 |secret_dungeon_emblem_mission||40|
 |space_battle_data||1|
@@ -40,7 +40,7 @@
 |omp_story_data|omp_story_data_0_event_id|15 8|
 |shiori_stationary_mission_data||1060|
 |hatsune_special_enemy||373|
-|campaign_freegacha||32|
+|campaign_freegacha||33|
 |room_item_announcement||1|
 |caravan_dish||16|
 |wac_drama_script|wac_drama_script_0_drama_id|17968 15|
@@ -272,7 +272,7 @@
 |ub_auto_data||19|
 |ttk_score||4|
 |sekai_unlock_story_condition||5|
-|campaign_freegacha_data||119|
+|campaign_freegacha_data||121|
 |birthday_login_bonus_data||210|
 |campaign_mission_category|campaign_mission_category_0_campaign_id_1_type|2 2 1|
 |campaign_mission_reward_data|campaign_mission_reward_data_0_campaign_mission_reward_id|12 2|
@@ -361,7 +361,7 @@
 |srt_reward||1|
 |tower_schedule|tower_schedule_0_opening_story_id|51 1|
 |hatsune_relay_data||48|
-|gacha_data|gacha_data_0_exchange_id|902 4|
+|gacha_data|gacha_data_0_exchange_id|905 4|
 |secret_dungeon_enemy_info|sqlite_autoindex_secret_dungeon_enemy_info_1|40 5 1|
 |custom_mypage|custom_mypage_0_still_group_id|229 229|
 |room_item_detail|room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2|566 566 566|
@@ -374,7 +374,7 @@
 |login_bonus_detail|login_bonus_detail_0_login_bonus_id_1_count|328 10 1|
 |redeem_unit|redeem_unit_0_unit_id|6 3|
 |growth_parameter_unique||2|
-|unit_introduction|unit_introduction_0_gacha_id|279 1|
+|unit_introduction|unit_introduction_0_gacha_id|280 1|
 |content_map_data||5|
 |quest_condition_data||1193|
 |ex_equipment_category||19|
@@ -500,7 +500,7 @@
 |sd_navi_comment||14|
 |worldmap|worldmap_0_map_type|5 2|
 |enemy_ignore_skill_rf||182|
-|banner||308|
+|banner||309|
 |caravan_dice_reward_period||1|
 |byway_quest_data|byway_quest_data_0_area_id|26 7|
 |tdf_top_offset||5|
