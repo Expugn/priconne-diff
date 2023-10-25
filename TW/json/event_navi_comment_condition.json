@@ -1590,6 +1590,21 @@
         {"comment_id":20039121,"condition_type_1":4,"condition_value_1":5070001,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
         {"comment_id":20039122,"condition_type_1":3,"condition_value_1":5070001,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
         {"comment_id":20039123,"condition_type_1":4,"condition_value_1":5070001,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
-        {"comment_id":20039124,"condition_type_1":3,"condition_value_1":5070001,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0}
+        {"comment_id":20039124,"condition_type_1":3,"condition_value_1":5070001,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041101,"condition_type_1":4,"condition_value_1":5074001,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041102,"condition_type_1":3,"condition_value_1":5074001,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041103,"condition_type_1":3,"condition_value_1":5074002,"condition_type_2":4,"condition_value_2":5074003,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041104,"condition_type_1":3,"condition_value_1":5074003,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041105,"condition_type_1":3,"condition_value_1":5074001,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041106,"condition_type_1":3,"condition_value_1":5074003,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041107,"condition_type_1":3,"condition_value_1":5074001,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041108,"condition_type_1":3,"condition_value_1":5074003,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041109,"condition_type_1":4,"condition_value_1":5074001,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041110,"condition_type_1":3,"condition_value_1":5074001,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041111,"condition_type_1":3,"condition_value_1":5074006,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041112,"condition_type_1":3,"condition_value_1":5074006,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041113,"condition_type_1":3,"condition_value_1":5074006,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041114,"condition_type_1":3,"condition_value_1":5074003,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0},
+        {"comment_id":20041115,"condition_type_1":3,"condition_value_1":5074003,"condition_type_2":0,"condition_value_2":0,"condition_type_3":0,"condition_value_3":0}
     ]
 }
