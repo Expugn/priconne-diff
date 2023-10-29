@@ -124,7 +124,7 @@
 |pct_gaming_motion||8|
 |pct_evaluation||5|
 |event_top_adv|event_top_adv_0_event_id_1_type|2244 15 5|
-|event_gacha_data|event_gacha_data_0_event_id|121 1|
+|event_gacha_data|event_gacha_data_0_event_id|122 1|
 |shiori_unlock_unit_condition|shiori_unlock_unit_condition_0_condition_mission_id|23 1|
 |shiori_unlock_unit_condition|shiori_unlock_unit_condition_0_unit_id_1_event_id|23 1 1|
 |hatsune_bg_change_data|hatsune_bg_change_data_0_target_type_1_area_id|109 55 2|
@@ -207,7 +207,7 @@
 |goldset_data||70|
 |dungeon_special_battle|dungeon_special_battle_0_quest_id|3 3|
 |dungeon_special_battle|dungeon_special_battle_0_quest_id_1_mode|3 3 1|
-|event_story_data|event_story_data_0_value|67 1|
+|event_story_data|event_story_data_0_value|68 1|
 |quest_data|quest_data_0_area_id|1137 8|
 |taq_kanji_list||1068|
 |legion_effective_unit|legion_effective_unit_0_legion_boss_id|76 19|
@@ -499,8 +499,8 @@
 |hatsune_limit_chara||10|
 |hatsune_quiz_reward||8|
 |hatsune_daily_mission_data||235|
-|hatsune_schedule|hatsune_schedule_0_original_event_id|121 3|
-|hatsune_schedule|hatsune_schedule_0_series_event_id|121 16|
+|hatsune_schedule|hatsune_schedule_0_original_event_id|122 3|
+|hatsune_schedule|hatsune_schedule_0_series_event_id|122 16|
 |unit_ex_equipment_slot||232|
 |exceed_level_unit|exceed_level_unit_0_unit_id|231 1|
 |exceed_level_unit|sqlite_autoindex_exceed_level_unit_1|231 1 1|
