@@ -1,0 +1,2 @@
+|extra_effect_id|content_type|target_value_1|target_value_2|set_id|exec_timing_1|exec_timing_2|exec_timing_3|exec_timing_4|exec_timing_5|enemy_id_1|enemy_id_2|enemy_id_3|enemy_id_4|enemy_id_5|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
