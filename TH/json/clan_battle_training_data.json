@@ -9,6 +9,11 @@
         {"id":7,"training_id":1039,"mode":0,"phase":2,"map_data_id":157},
         {"id":8,"training_id":1039,"mode":0,"phase":3,"map_data_id":158},
         {"id":9,"training_id":1039,"mode":0,"phase":4,"map_data_id":159},
-        {"id":10,"training_id":1039,"mode":0,"phase":5,"map_data_id":160}
+        {"id":10,"training_id":1039,"mode":0,"phase":5,"map_data_id":160},
+        {"id":11,"training_id":1040,"mode":0,"phase":1,"map_data_id":162},
+        {"id":12,"training_id":1040,"mode":0,"phase":2,"map_data_id":163},
+        {"id":13,"training_id":1040,"mode":0,"phase":3,"map_data_id":164},
+        {"id":14,"training_id":1040,"mode":0,"phase":4,"map_data_id":165},
+        {"id":15,"training_id":1040,"mode":0,"phase":5,"map_data_id":166}
     ]
 }

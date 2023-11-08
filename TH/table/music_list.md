@@ -175,3 +175,6 @@
 |175|Kyukyoku Ganguou Mega Toy King|28||2023-10-10 11:00:00||-1|1000|175|Kyukyoku Ganguou Mega Toy King||||
 |176|Botchi no Tame no Tomodachi Koshinkyoku|28||2023-10-10 11:00:00||-1|1500|176|Botchi no Tame no Tomodachi Koshinkyoku||||
 |177|Sajin Mau Naka de|28||2023-10-10 11:00:00||-1|1000|177|Sajin Mau Naka de||||
+|178|Endless Summer Produce: Manatsu no Futarijime Paradise|28||2023-11-08 11:00:00||-1|1000|178|Endless Summer Produce: Manatsu no Futarijime Paradise||||
+|179|Natsuyasumi no Shukudai|28||2023-11-08 11:00:00||-1|1000|179|Natsuyasumi no Shukudai||||
+|180|Only Only You|28||2023-11-08 11:00:00||-1|1500|180|Only Only You||||
