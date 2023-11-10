@@ -1,5 +1,5 @@
 {
     "caravan_gacha_block_lineup": [
-
+        {"group_id":10001,"normal_gacha_odds":10001,"normal_gacha_cost":0,"rare_gacha_odds":20001,"rare_gacha_cost":1500,"premium_gacha_odds":30001,"premium_gacha_cost":3000}
     ]
 }

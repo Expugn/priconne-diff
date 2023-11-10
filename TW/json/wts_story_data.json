@@ -1,5 +1,11 @@
 {
     "wts_story_data": [
-
+        {"sub_story_id":5122061,"repeat_story_id":5122061,"original_event_id":10122,"title":"碧的祕密","condition_quest_id":10122107,"reward_type":8,"reward_id":91002,"reward_count":50},
+        {"sub_story_id":5122062,"repeat_story_id":5122062,"original_event_id":10122,"title":"宮子的祕密","condition_quest_id":0,"reward_type":8,"reward_id":91002,"reward_count":50},
+        {"sub_story_id":5122063,"repeat_story_id":5122063,"original_event_id":10122,"title":"伊緒的祕密","condition_quest_id":0,"reward_type":8,"reward_id":91002,"reward_count":50},
+        {"sub_story_id":5122064,"repeat_story_id":5122064,"original_event_id":10122,"title":"美冬的祕密","condition_quest_id":0,"reward_type":8,"reward_id":91002,"reward_count":50},
+        {"sub_story_id":5122065,"repeat_story_id":5122065,"original_event_id":10122,"title":"真陽的祕密","condition_quest_id":0,"reward_type":8,"reward_id":91002,"reward_count":50},
+        {"sub_story_id":5122066,"repeat_story_id":5122066,"original_event_id":10122,"title":"和正的祕密","condition_quest_id":0,"reward_type":8,"reward_id":91002,"reward_count":50},
+        {"sub_story_id":5122067,"repeat_story_id":5122067,"original_event_id":10122,"title":"惠理子的祕密","condition_quest_id":0,"reward_type":8,"reward_id":91002,"reward_count":50}
     ]
 }

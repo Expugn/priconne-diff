@@ -1884,7 +1884,7 @@
         {"command_id":1009812037,"drama_id":1009812,"command_type":91,"param_01":"0","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":1009812038,"drama_id":1009812,"command_type":3,"param_01":"103611","param_02":"lsv_talk_normal_sad","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":1009812039,"drama_id":1009812,"command_type":21,"param_01":"vo_lsv","param_02":"vo_lsv_1221","param_03":"0","param_04":"0","param_05":"","param_06":"","param_07":"","param_08":""},
-        {"command_id":1009812040,"drama_id":1009812,"command_type":11,"param_01":"103611","param_02":"寫說是秘密……\\n但答案已經畫出來了吧？","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0"},
+        {"command_id":1009812040,"drama_id":1009812,"command_type":11,"param_01":"103611","param_02":"寫說是祕密……\\n但答案已經畫出來了吧？","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0"},
         {"command_id":1009812041,"drama_id":1009812,"command_type":91,"param_01":"0","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":1009812042,"drama_id":1009812,"command_type":3,"param_01":"103611","param_02":"lsv_idle_normal_sad","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":1009812043,"drama_id":1009812,"command_type":3,"param_01":"102011","param_02":"lsv_talk_sad","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},

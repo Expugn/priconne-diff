@@ -17,6 +17,7 @@
         {"system_id":119,"team_level":1,"story_id":0,"quest_id":11009003,"dialog":"主線冒險9-3（NORMAL）通關後解放"},
         {"system_id":124,"team_level":1,"story_id":0,"quest_id":11003001,"dialog":"主線冒險3-1（NORMAL）通關後解放"},
         {"system_id":125,"team_level":1,"story_id":0,"quest_id":0,"dialog":"閱覽露娜之塔序幕劇情後解放"},
+        {"system_id":127,"team_level":999,"story_id":0,"quest_id":11010001,"dialog":"メインクエスト10-1（NORMAL）クリアで解放"},
         {"system_id":201,"team_level":1,"story_id":0,"quest_id":0,"dialog":""},
         {"system_id":202,"team_level":1,"story_id":0,"quest_id":11004006,"dialog":"主線冒險4-6（NORMAL）通關後解放"},
         {"system_id":203,"team_level":1,"story_id":0,"quest_id":11008015,"dialog":"主線冒險8-15（NORMAL）通關後解放"},

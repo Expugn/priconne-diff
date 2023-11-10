@@ -1,5 +1,28 @@
 {
     "caravan_treasure": [
-
+        {"id":53001,"name":"未鑑定的平凡寶物","new_line_name":"未鑑定的\\n平凡寶物","rarity":1,"value":200,"reset_value":100,"appraise_flag":1,"description":"內容不明的神祕寶物。拿至公會管理協會辦事處，可以請花凜協助鑑定。鑑定完後，有時候稀有度會上升。"},
+        {"id":53002,"name":"未鑑定的貴重寶物","new_line_name":"未鑑定的\\n貴重寶物","rarity":2,"value":400,"reset_value":200,"appraise_flag":1,"description":"內容不明的神祕寶物。拿至公會管理協會辦事處，可以請花凜協助鑑定。鑑定完後，有時候稀有度會上升。"},
+        {"id":53003,"name":"未鑑定的頂級寶物","new_line_name":"未鑑定的\\n頂級寶物","rarity":3,"value":800,"reset_value":400,"appraise_flag":1,"description":"內容不明的神祕寶物。拿至公會管理協會辦事處，可以請花凜協助鑑定。"},
+        {"id":53004,"name":"平凡寶石","new_line_name":"平凡寶石","rarity":1,"value":200,"reset_value":100,"appraise_flag":0,"description":"平凡寶物。拿至公會管理協會辦事處，可換取低額巡遊幣。"},
+        {"id":53005,"name":"貴重寶石","new_line_name":"貴重寶石","rarity":2,"value":400,"reset_value":200,"appraise_flag":0,"description":"稀有寶物。拿至公會管理協會辦事處，可換取巡遊幣。"},
+        {"id":53006,"name":"頂級寶石","new_line_name":"頂級寶石","rarity":3,"value":800,"reset_value":400,"appraise_flag":0,"description":"非常稀有寶物。拿至公會管理協會辦事處，可換取高額巡遊幣。"},
+        {"id":53007,"name":"平凡金屬塊","new_line_name":"平凡金屬塊","rarity":1,"value":200,"reset_value":100,"appraise_flag":0,"description":"平凡寶物。拿至公會管理協會辦事處，可換取低額巡遊幣。"},
+        {"id":53008,"name":"貴重金屬塊","new_line_name":"貴重金屬塊","rarity":2,"value":400,"reset_value":200,"appraise_flag":0,"description":"稀有寶物。拿至公會管理協會辦事處，可換取巡遊幣。"},
+        {"id":53009,"name":"頂級金屬塊","new_line_name":"頂級金屬塊","rarity":3,"value":800,"reset_value":400,"appraise_flag":0,"description":"非常稀有寶物。拿至公會管理協會辦事處，可換取高額巡遊幣。"},
+        {"id":53010,"name":"平凡卷軸","new_line_name":"平凡卷軸","rarity":1,"value":200,"reset_value":100,"appraise_flag":0,"description":"平凡寶物。拿至公會管理協會辦事處，可換取低額巡遊幣。"},
+        {"id":53011,"name":"貴重卷軸","new_line_name":"貴重卷軸","rarity":2,"value":400,"reset_value":200,"appraise_flag":0,"description":"稀有寶物。拿至公會管理協會辦事處，可換取巡遊幣。"},
+        {"id":53012,"name":"頂級卷軸","new_line_name":"頂級卷軸","rarity":3,"value":800,"reset_value":400,"appraise_flag":0,"description":"非常稀有寶物。拿至公會管理協會辦事處，可換取高額巡遊幣。"},
+        {"id":53013,"name":"平凡皇冠","new_line_name":"平凡皇冠","rarity":1,"value":200,"reset_value":100,"appraise_flag":0,"description":"平凡寶物。拿至公會管理協會辦事處，可換取低額巡遊幣。"},
+        {"id":53014,"name":"貴重皇冠","new_line_name":"貴重皇冠","rarity":2,"value":400,"reset_value":200,"appraise_flag":0,"description":"稀有寶物。拿至公會管理協會辦事處，可換取巡遊幣。"},
+        {"id":53015,"name":"頂級皇冠","new_line_name":"頂級皇冠","rarity":3,"value":800,"reset_value":400,"appraise_flag":0,"description":"非常稀有寶物。拿至公會管理協會辦事處，可換取高額巡遊幣。"},
+        {"id":53016,"name":"平凡符文","new_line_name":"平凡符文","rarity":1,"value":200,"reset_value":100,"appraise_flag":0,"description":"平凡寶物。拿至公會管理協會辦事處，可換取低額巡遊幣。"},
+        {"id":53017,"name":"貴重符文","new_line_name":"貴重符文","rarity":2,"value":400,"reset_value":200,"appraise_flag":0,"description":"稀有寶物。拿至公會管理協會辦事處，可換取巡遊幣。"},
+        {"id":53018,"name":"頂級符文","new_line_name":"頂級符文","rarity":3,"value":800,"reset_value":400,"appraise_flag":0,"description":"非常稀有寶物。拿至公會管理協會辦事處，可換取高額巡遊幣。"},
+        {"id":53019,"name":"平凡王冠","new_line_name":"平凡王冠","rarity":1,"value":200,"reset_value":100,"appraise_flag":0,"description":"平凡寶物。拿至公會管理協會辦事處，可換取低額巡遊幣。"},
+        {"id":53020,"name":"貴重王冠","new_line_name":"貴重王冠","rarity":2,"value":400,"reset_value":200,"appraise_flag":0,"description":"稀有寶物。拿至公會管理協會辦事處，可換取巡遊幣。"},
+        {"id":53021,"name":"頂級王冠","new_line_name":"頂級王冠","rarity":3,"value":800,"reset_value":400,"appraise_flag":0,"description":"非常稀有寶物。拿至公會管理協會辦事處，可換取高額巡遊幣。"},
+        {"id":53022,"name":"平凡古遺物","new_line_name":"平凡古遺物","rarity":1,"value":200,"reset_value":100,"appraise_flag":0,"description":"平凡寶物。拿至公會管理協會辦事處，可換取低額巡遊幣。"},
+        {"id":53023,"name":"貴重古遺物","new_line_name":"貴重古遺物","rarity":2,"value":400,"reset_value":200,"appraise_flag":0,"description":"稀有寶物。拿至公會管理協會辦事處，可換取巡遊幣。"},
+        {"id":53024,"name":"頂級古遺物","new_line_name":"頂級古遺物","rarity":3,"value":800,"reset_value":400,"appraise_flag":0,"description":"非常稀有寶物。拿至公會管理協會辦事處，可換取高額巡遊幣。"}
     ]
 }

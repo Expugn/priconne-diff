@@ -1,5 +1,18 @@
 {
     "caravan_buff_disp": [
-
+        {"id":1,"type":1,"effect_id":52001,"category":1,"icon_id":1,"description":"【料理】骰子增加成為兩個","count_from":0,"count_to":0},
+        {"id":2,"type":1,"effect_id":52002,"category":1,"icon_id":1,"description":"【料理】骰子只會丟出「1」","count_from":0,"count_to":0},
+        {"id":3,"type":1,"effect_id":52002,"category":3,"icon_id":2,"description":"【料理】跳過下次的回合數計算","count_from":0,"count_to":0},
+        {"id":4,"type":1,"effect_id":52004,"category":1,"icon_id":1,"description":"【料理】骰子只會丟出「4」","count_from":0,"count_to":0},
+        {"id":5,"type":1,"effect_id":52006,"category":1,"icon_id":1,"description":"【料理】骰子只會丟出\\n「4・5・6」","count_from":0,"count_to":0},
+        {"id":6,"type":1,"effect_id":52007,"category":1,"icon_id":1,"description":"【料理】骰子第1次只會丟出「3」，第2次只會丟出「6」","count_from":0,"count_to":0},
+        {"id":7,"type":1,"effect_id":52003,"category":1,"icon_id":1,"description":"【料理】骰子只會丟出「5」","count_from":0,"count_to":0},
+        {"id":8,"type":1,"effect_id":52008,"category":2,"icon_id":7,"description":"【料理】里程格所獲得的里程將提升200%","count_from":0,"count_to":0},
+        {"id":9,"type":2,"effect_id":4,"category":3,"icon_id":2,"description":"【事件】跳過下次的回合數計算","count_from":0,"count_to":0},
+        {"id":10,"type":2,"effect_id":5,"category":2,"icon_id":3,"description":"【事件】里程格所獲得的里程將提升100%","count_from":0,"count_to":0},
+        {"id":11,"type":2,"effect_id":6,"category":2,"icon_id":5,"description":"【事件】小遊戲所獲得的里程將提升100%","count_from":0,"count_to":0},
+        {"id":12,"type":2,"effect_id":7,"category":3,"icon_id":4,"description":"【事件】里程商店的所有商品折價20%以上","count_from":0,"count_to":0},
+        {"id":13,"type":1,"effect_id":52009,"category":1,"icon_id":1,"description":"【料理】骰子第1次只會丟出「8」，第2次只會丟出「1」","count_from":0,"count_to":0},
+        {"id":14,"type":1,"effect_id":52010,"category":2,"icon_id":6,"description":"【料理】「里程格」「寶物格」\\n「商店格」的RANK提升1個","count_from":0,"count_to":0}
     ]
 }

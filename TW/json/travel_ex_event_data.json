@@ -1,7 +1,7 @@
 {
     "travel_ex_event_data": [
         {"still_id":8000000,"title":"肚子餓了就無法進行冒險！","disp_order":1},
-        {"still_id":8000001,"title":"夜晚是秘密的女孩談心時間","disp_order":2},
+        {"still_id":8000001,"title":"夜晚是祕密的女孩談心時間","disp_order":2},
         {"still_id":8000002,"title":"小小冒險！","disp_order":3},
         {"still_id":8000003,"title":"在露營地吃早餐","disp_order":4},
         {"still_id":8000004,"title":"混沌要通過了，把路讓開！","disp_order":5},
@@ -16,6 +16,8 @@
         {"still_id":8000013,"title":"五人五種的午睡景象","disp_order":14},
         {"still_id":8000014,"title":"船頭醉醺醺，船行下瀑布","disp_order":15},
         {"still_id":8000015,"title":"翱翔天際的龍人幫派","disp_order":16},
-        {"still_id":8000016,"title":"慈樂之音☆自然演唱會！","disp_order":17}
+        {"still_id":8000016,"title":"慈樂之音☆自然演唱會！","disp_order":17},
+        {"still_id":8000017,"title":"在旅途上前進與許多想說的話","disp_order":18},
+        {"still_id":8000018,"title":"唱一首搖籃曲","disp_order":19}
     ]
 }

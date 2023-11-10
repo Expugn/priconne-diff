@@ -252,6 +252,9 @@
         {"id":1012001,"odds_file":"1012020101","name":"伊莉亞的記憶碎片","icon_type":99002,"description":""},
         {"id":1012002,"odds_file":"1012020102","name":"雪的記憶碎片","icon_type":99002,"description":""},
         {"id":1012101,"odds_file":"1012120101","name":"碧（露營）的記憶碎片","icon_type":99002,"description":""},
-        {"id":1012102,"odds_file":"1012120102","name":"優花梨的記憶碎片","icon_type":99002,"description":""}
+        {"id":1012102,"odds_file":"1012120102","name":"優花梨的記憶碎片","icon_type":99002,"description":""},
+        {"id":1012201,"odds_file":"1012220101","name":"秋乃（夏日）的記憶碎片","icon_type":99002,"description":""},
+        {"id":1012202,"odds_file":"1012220102","name":"美冬的記憶碎片","icon_type":99002,"description":""},
+        {"id":1012203,"odds_file":"box_rank_12-20","name":"隨機裝備箱","icon_type":99002,"description":"能夠獲得隨機的裝備。"}
     ]
 }

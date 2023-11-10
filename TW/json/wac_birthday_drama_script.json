@@ -3056,7 +3056,7 @@
         {"command_id":23214075,"drama_id":23214,"command_type":3,"param_01":"102311","param_02":"wac_birthday_idle_smile","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":23214076,"drama_id":23214,"command_type":3,"param_01":"102511","param_02":"wac_birthday_talk_sad","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":23214077,"drama_id":23214,"command_type":21,"param_01":"vo_wac_23214","param_02":"vo_wac_23214_003","param_03":"0","param_04":"0","param_05":"","param_06":"","param_07":"","param_08":""},
-        {"command_id":23214078,"drama_id":23214,"command_type":11,"param_01":"102511","param_02":"小綾音，那是秘密……！\\n嗚嗚，製作途中我也犯了不少錯，\\n明明是在為大小姐的重要日子做準備，\\n真對不起……","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
+        {"command_id":23214078,"drama_id":23214,"command_type":11,"param_01":"102511","param_02":"小綾音，那是祕密……！\\n嗚嗚，製作途中我也犯了不少錯，\\n明明是在為大小姐的重要日子做準備，\\n真對不起……","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
         {"command_id":23214079,"drama_id":23214,"command_type":91,"param_01":"0","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":23214080,"drama_id":23214,"command_type":3,"param_01":"102811","param_02":"wac_birthday_talk_smile","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":23214081,"drama_id":23214,"command_type":3,"param_01":"102511","param_02":"wac_birthday_idle_wish","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
