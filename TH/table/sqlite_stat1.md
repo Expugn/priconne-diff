@@ -7,7 +7,7 @@
 |emblem_mission_data||630|
 |shiori_mission_reward_data|shiori_mission_reward_data_0_mission_reward_id|777 2|
 |shiori_item||17|
-|campaign_schedule||768|
+|campaign_schedule||777|
 |tower_ex_quest_data|tower_ex_quest_data_0_floor_num|35 1|
 |event_navi_comment_condition||357|
 |prizegacha_data||39|

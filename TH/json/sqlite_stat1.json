@@ -7,7 +7,7 @@
         {"tbl":"emblem_mission_data","idx":null,"stat":"630"},
         {"tbl":"shiori_mission_reward_data","idx":"shiori_mission_reward_data_0_mission_reward_id","stat":"777 2"},
         {"tbl":"shiori_item","idx":null,"stat":"17"},
-        {"tbl":"campaign_schedule","idx":null,"stat":"768"},
+        {"tbl":"campaign_schedule","idx":null,"stat":"777"},
         {"tbl":"tower_ex_quest_data","idx":"tower_ex_quest_data_0_floor_num","stat":"35 1"},
         {"tbl":"event_navi_comment_condition","idx":null,"stat":"357"},
         {"tbl":"prizegacha_data","idx":null,"stat":"39"},
