@@ -306,6 +306,12 @@
         {"music_id":304,"list_name":"バンディ・シスターズ","font_size":20,"pre_shop_start":"","shop_start":"2023-10-15 15:00:00","shop_end":"","story_id":2202001,"cost_item_num":1000,"sort":304,"kana":"ばんでぃしすたーず","ios_url":"","android_url":"","dmm_url":""},
         {"music_id":305,"list_name":"夢幻のマリッジ・シム","font_size":20,"pre_shop_start":"","shop_start":"2023-10-15 15:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":305,"kana":"むげんのまりっじしむ","ios_url":"","android_url":"","dmm_url":""},
         {"music_id":306,"list_name":"魔物が！！","font_size":20,"pre_shop_start":"","shop_start":"2023-10-15 15:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":306,"kana":"まものが","ios_url":"","android_url":"","dmm_url":""},
-        {"music_id":307,"list_name":"新天地の強敵","font_size":20,"pre_shop_start":"","shop_start":"2023-10-15 15:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":307,"kana":"しんてんちのきょうてき","ios_url":"","android_url":"","dmm_url":""}
+        {"music_id":307,"list_name":"新天地の強敵","font_size":20,"pre_shop_start":"","shop_start":"2023-10-15 15:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":307,"kana":"しんてんちのきょうてき","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":308,"list_name":"クリミナル ルーキー　天使たちのパラドクス","font_size":20,"pre_shop_start":"","shop_start":"2023-11-15 15:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":308,"kana":"くりみなるるーきーてんしたちのぱらどくす","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":309,"list_name":"最終クエストです★","font_size":20,"pre_shop_start":"","shop_start":"2023-11-15 15:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":309,"kana":"さいしゅうくえすとです","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":310,"list_name":"イリドロータス","font_size":20,"pre_shop_start":"","shop_start":"2023-11-15 15:00:00","shop_end":"","story_id":-1,"cost_item_num":1500,"sort":310,"kana":"いりどろーたす","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":311,"list_name":"旅と成長（と反省）の記録","font_size":20,"pre_shop_start":"","shop_start":"2023-11-15 15:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":311,"kana":"たびとせいちょうとはんせいのきろく","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":312,"list_name":"アルターメイデン","font_size":20,"pre_shop_start":"","shop_start":"2023-11-15 15:00:00","shop_end":"","story_id":2201001,"cost_item_num":1000,"sort":312,"kana":"あるたーめいでん","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":313,"list_name":"アドベンチャー","font_size":20,"pre_shop_start":"","shop_start":"2023-11-15 15:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":313,"kana":"あどべんちゃー","ios_url":"","android_url":"","dmm_url":""}
     ]
 }

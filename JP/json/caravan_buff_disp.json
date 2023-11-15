@@ -22,6 +22,7 @@
         {"id":20,"type":1,"effect_id":52014,"category":1,"icon_id":1,"description":"【料理】次回移動時に1マス分多く進める。","count_from":2,"count_to":2},
         {"id":21,"type":1,"effect_id":52015,"category":1,"icon_id":1,"description":"【料理】ダイスが2個に増える","count_from":0,"count_to":0},
         {"id":22,"type":1,"effect_id":52015,"category":1,"icon_id":1,"description":"【料理】次回移動時に1マス分多く進める。","count_from":0,"count_to":0},
-        {"id":23,"type":1,"effect_id":52016,"category":1,"icon_id":1,"description":"【料理】ダイスの目が必ず「6」になる","count_from":0,"count_to":0}
+        {"id":23,"type":1,"effect_id":52016,"category":1,"icon_id":1,"description":"【料理】ダイスの目が必ず「6」になる","count_from":0,"count_to":0},
+        {"id":24,"type":1,"effect_id":52017,"category":1,"icon_id":9,"description":"【料理】移動系カテゴリーの料理が食べられなくなる。","count_from":0,"count_to":0}
     ]
 }
