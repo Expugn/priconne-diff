@@ -13,6 +13,7 @@
         {"id":11,"type":2,"effect_id":6,"category":2,"icon_id":5,"description":"【事件】小遊戲所獲得的里程將提升100%","count_from":0,"count_to":0},
         {"id":12,"type":2,"effect_id":7,"category":3,"icon_id":4,"description":"【事件】里程商店的所有商品折價20%以上","count_from":0,"count_to":0},
         {"id":13,"type":1,"effect_id":52009,"category":1,"icon_id":1,"description":"【料理】骰子第1次只會丟出「8」，第2次只會丟出「1」","count_from":0,"count_to":0},
-        {"id":14,"type":1,"effect_id":52010,"category":2,"icon_id":6,"description":"【料理】「里程格」「寶物格」\\n「商店格」的RANK提升1個","count_from":0,"count_to":0}
+        {"id":14,"type":1,"effect_id":52010,"category":2,"icon_id":6,"description":"【料理】「里程格」「寶物格」\\n「商店格」的RANK提升1個","count_from":0,"count_to":0},
+        {"id":15,"type":1,"effect_id":52011,"category":1,"icon_id":1,"description":"【料理】骰子第1次只會丟出「2」，第2次只會丟出「7」","count_from":0,"count_to":0}
     ]
 }

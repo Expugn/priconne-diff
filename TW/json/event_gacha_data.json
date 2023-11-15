@@ -121,6 +121,7 @@
         {"gacha_id":10120,"event_id":10120,"gacha_name":"吸血鬼傳聞錄　黑夜與美麗的饗宴","item_type":2,"item_id":61192,"cost":1,"repeat_step":6},
         {"gacha_id":10121,"event_id":10121,"gacha_name":"Enjoy＆Refresh！　天差地遠的女孩露營","item_type":2,"item_id":61202,"cost":1,"repeat_step":6},
         {"gacha_id":10122,"event_id":10122,"gacha_name":"大間的排光海水大作戰　祕密主義者與禁斷之海","item_type":2,"item_id":61212,"cost":1,"repeat_step":6},
+        {"gacha_id":10123,"event_id":10123,"gacha_name":"破曉之星的夏日遊戲　\\n於夏海閃耀的三份心意","item_type":2,"item_id":61222,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"吸血鬼獵人 with伊莉亞","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
