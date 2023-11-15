@@ -195,6 +195,9 @@
         {"music_id":193,"list_name":"VSレイジレギオン　ランファとの戦い","font_size":20,"pre_shop_start":"","shop_start":"2023/09/15 11:00:00","shop_end":"","story_id":2109007,"cost_item_num":1000,"sort":193,"kana":"ぶいえすれいじれぎおんらんふぁとのたたかい","ios_url":"","android_url":"","dmm_url":""},
         {"music_id":194,"list_name":"ハロウィンセイバーズ?スクランブル！　もふもふ捕獲大作戦","font_size":20,"pre_shop_start":"","shop_start":"2023/10/13 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":194,"kana":"はろうぃんせいばーずすくらんぶるもふもふほかくだいさくせん","ios_url":"","android_url":"","dmm_url":""},
         {"music_id":195,"list_name":"哀暴のわたあめちゃん","font_size":20,"pre_shop_start":"","shop_start":"2023/10/13 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":195,"kana":"あいぼうのわたあめちゃん","ios_url":"","android_url":"","dmm_url":""},
-        {"music_id":196,"list_name":"Halloween Monster Jam ！！！","font_size":20,"pre_shop_start":"","shop_start":"2023/10/13 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1500,"sort":196,"kana":"はろうぃんもんすたーじゃむ","ios_url":"","android_url":"","dmm_url":""}
+        {"music_id":196,"list_name":"Halloween Monster Jam ！！！","font_size":20,"pre_shop_start":"","shop_start":"2023/10/13 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1500,"sort":196,"kana":"はろうぃんもんすたーじゃむ","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":197,"list_name":"魔法少女外伝　マジカル★ノワールズ！","font_size":20,"pre_shop_start":"","shop_start":"2023/11/15 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":197,"kana":"まほうしょうじょがいでんまじかるのわーるず","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":198,"list_name":"アンチビースト・トリニティ","font_size":20,"pre_shop_start":"","shop_start":"2023/11/15 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":198,"kana":"あんちびーすととりにてぃ","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":199,"list_name":"GREEDY LOVE","font_size":20,"pre_shop_start":"","shop_start":"2023/11/15 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1500,"sort":199,"kana":"ぐりーでぃらぶ","ios_url":"","android_url":"","dmm_url":""}
     ]
 }

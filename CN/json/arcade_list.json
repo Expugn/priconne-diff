@@ -6,6 +6,7 @@
         {"arcade_id":1004,"title":"大激战！词语接龙 龙人竞赛","start_time":"2021-11-01 11:00:00","price":10000,"sheet_id":"bgm_M277","cue_id":"bgm_M277_juke","where_type":1005,"banner_start_time":"2030/12/31 15:00","banner_end_time":"2030/12/31 15:00","description":"白热化战斗！\\n龙族据点流\\n一对一脑力单词连珠！"},
         {"arcade_id":1005,"title":"吱吱危机！\\n守护芝士大作战！","start_time":"2022-05-31 11:00:00","price":10000,"sheet_id":"bgm_M355_Lofi","cue_id":"bgm_M355_Lofi_juke","where_type":1006,"banner_start_time":"2030/12/31 15:00","banner_end_time":"2030/12/31 15:00","description":"你能保护好奶酪吗！？\\n考验你的爆发力\\n反射神经系休闲游戏！"},
         {"arcade_id":1006,"title":"美里的猛训击球道！\\n全垒打大训练","start_time":"2022-08-15 11:00:00","price":10000,"sheet_id":"bgm_M393","cue_id":"bgm_M393","where_type":1007,"banner_start_time":"2030/12/31 15:00","banner_end_time":"2030/12/31 15:00","description":"目标是成为全垒打击球手！\\n关键在于把握击球时机的\\n体育动作游戏！"},
-        {"arcade_id":1007,"title":"慈乐之音夏日演出\\n演出会场 周边区","start_time":"2023-08-31 11:00:00","price":10000,"sheet_id":"bgm_M500","cue_id":"bgm_M500","where_type":1008,"banner_start_time":"2030/12/31 15:00","banner_end_time":"2030/12/31 15:00","description":"慈乐之音粉丝欣喜若狂！\\n获得演出应援周边，\\n成为「慈乐之音狂热粉」吧！"}
+        {"arcade_id":1007,"title":"慈乐之音夏日演出\\n演出会场 周边区","start_time":"2023-08-31 11:00:00","price":10000,"sheet_id":"bgm_M500","cue_id":"bgm_M500","where_type":1008,"banner_start_time":"2030/12/31 15:00","banner_end_time":"2030/12/31 15:00","description":"慈乐之音粉丝欣喜若狂！\\n获得演出应援周边，\\n成为「慈乐之音狂热粉」吧！"},
+        {"arcade_id":1008,"title":"宫子厨房　通往究极的道路","start_time":"2023-11-30 11:00:00","price":10000,"sheet_id":"bgm_M540","cue_id":"bgm_M540","where_type":1009,"banner_start_time":"2030/12/31 15:00","banner_end_time":"2030/12/31 15:00","description":"开始烹饪！\\n和宫子一起做布丁、吃布丁，\\n钻研布丁吧！"}
     ]
 }
