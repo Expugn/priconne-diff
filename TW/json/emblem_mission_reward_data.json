@@ -1124,6 +1124,10 @@
         {"id":1240,"mission_reward_id":56011764,"reward_type":15,"reward_id":10201764,"reward_num":1,"icon_type":1003},
         {"id":1241,"mission_reward_id":56011764,"reward_type":8,"reward_id":91002,"reward_num":50,"icon_type":0},
         {"id":1242,"mission_reward_id":56011765,"reward_type":15,"reward_id":10201765,"reward_num":1,"icon_type":1003},
-        {"id":1243,"mission_reward_id":56011765,"reward_type":8,"reward_id":91002,"reward_num":100,"icon_type":0}
+        {"id":1243,"mission_reward_id":56011765,"reward_type":8,"reward_id":91002,"reward_num":100,"icon_type":0},
+        {"id":1244,"mission_reward_id":56011766,"reward_type":15,"reward_id":10201766,"reward_num":1,"icon_type":1001},
+        {"id":1245,"mission_reward_id":56011767,"reward_type":15,"reward_id":10201767,"reward_num":1,"icon_type":1002},
+        {"id":1246,"mission_reward_id":56011768,"reward_type":15,"reward_id":10201768,"reward_num":1,"icon_type":1003},
+        {"id":1247,"mission_reward_id":56011768,"reward_type":8,"reward_id":91002,"reward_num":50,"icon_type":0}
     ]
 }
