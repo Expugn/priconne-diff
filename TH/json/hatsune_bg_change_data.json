@@ -22,6 +22,8 @@
         {"id":22,"area_id":10071,"condition_type":3,"condition_id":5044001,"target_type":2,"bg_after_change_id":501031},
         {"id":23,"area_id":10068,"condition_type":3,"condition_id":5068001,"target_type":2,"bg_after_change_id":501341},
         {"id":24,"area_id":10070,"condition_type":3,"condition_id":5070004,"target_type":2,"bg_after_change_id":501353},
-        {"id":25,"area_id":10070,"condition_type":3,"condition_id":5070005,"target_type":2,"bg_after_change_id":500016}
+        {"id":25,"area_id":10070,"condition_type":3,"condition_id":5070005,"target_type":2,"bg_after_change_id":500016},
+        {"id":26,"area_id":10072,"condition_type":3,"condition_id":5072004,"target_type":2,"bg_after_change_id":501364},
+        {"id":27,"area_id":10072,"condition_type":3,"condition_id":5072006,"target_type":2,"bg_after_change_id":501365}
     ]
 }

@@ -1,5 +1,9 @@
 {
     "cgg_completion_data": [
-
+        {"completion_id":101,"completion_emblem_id":0,"gacha_type":2,"completion_num":16,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"ได้รับสินค้า [คอลเลกชันพรีเมี่ยม] ครบทุกแบบ","receive_description":"สะสมสินค้าคอลเลกชันพรีเมี่ยมครบทุกชนิดแล้ว!"},
+        {"completion_id":102,"completion_emblem_id":0,"gacha_type":1,"completion_num":23,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"ได้รับสินค้า [คอลเลกชันสแตนดาร์ด] ครบทุกแบบ","receive_description":"สะสมสินค้าคอลเลกชันสแตนดาร์ดครบทุกชนิดแล้ว!"},
+        {"completion_id":103,"completion_emblem_id":0,"gacha_type":3,"completion_num":21,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"ได้รับสินค้า [คอลเลกชันเฟส] ครบทุกแบบ","receive_description":"สะสมสินค้าคอลเลกชันเฟสครบทุกชนิดแล้ว!"},
+        {"completion_id":201,"completion_emblem_id":11001146,"gacha_type":0,"completion_num":30,"secret_goods_id_1":0,"secret_goods_id_2":0,"secret_goods_id_3":0,"description":"ได้รับสินค้าครบ 50%","receive_description":"สะสมสินค้าให้ถึง 50%\\nเพื่อรับฉายา <[FFBB00,CE4F00] คาร์มิน่าฮาโกะโอชิ [-]>"},
+        {"completion_id":202,"completion_emblem_id":11001147,"gacha_type":0,"completion_num":60,"secret_goods_id_1":10101,"secret_goods_id_2":10102,"secret_goods_id_3":10103,"description":"ได้รับสินค้าครบทุกแบบ","receive_description":"สะสมสินค้าให้ครบทุกแบบ\\nเพื่อรับฉายา <[FFBB00,CE4F00]คาร์มิน่าคามิโอชิ[-]>"}
     ]
 }
