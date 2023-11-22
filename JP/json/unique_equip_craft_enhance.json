@@ -1,6 +1,8 @@
 {
     "unique_equip_craft_enhance": [
         {"equipment_id":130162,"consume_group_id":4},
+        {"equipment_id":130332,"consume_group_id":9},
+        {"equipment_id":130582,"consume_group_id":10},
         {"equipment_id":130602,"consume_group_id":5},
         {"equipment_id":130772,"consume_group_id":1},
         {"equipment_id":130792,"consume_group_id":2},
