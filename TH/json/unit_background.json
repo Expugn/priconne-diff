@@ -149,6 +149,7 @@
         {"unit_id":116901,"unit_name":"มิฟุยุ (ชุดช่าง)","bg_id":501340,"bg_name":"โรงงานของเล่น","position":0,"face_type":2},
         {"unit_id":117001,"unit_name":"เอริโกะ (ฤดูร้อน)","bg_id":500160,"bg_name":"ชายฝั่งมัลเจ้น","position":0,"face_type":4},
         {"unit_id":117101,"unit_name":"ชิซึรุ (ฤดูร้อน)","bg_id":500160,"bg_name":"ชายฝั่งมัลเจ้น","position":0,"face_type":4},
+        {"unit_id":117201,"unit_name":"โนโซมิ (ฤดูร้อน)","bg_id":501363,"bg_name":"สถานที่จัดงานซัมเมอร์เฟส","position":0,"face_type":4},
         {"unit_id":117401,"unit_name":"สึมุกิ (ฤดูร้อน)","bg_id":501363,"bg_name":"สถานที่จัดงานซัมเมอร์เฟส","position":0,"face_type":4},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
