@@ -774,6 +774,8 @@
         {"chara_id":127512,"offset":-45,"size":630,"softness":60},
         {"chara_id":127611,"offset":-35,"size":700,"softness":65},
         {"chara_id":127612,"offset":-35,"size":700,"softness":65},
+        {"chara_id":127911,"offset":-40,"size":630,"softness":75},
+        {"chara_id":128011,"offset":-145,"size":600,"softness":60},
         {"chara_id":161199,"offset":0,"size":800,"softness":50},
         {"chara_id":161499,"offset":0,"size":800,"softness":50},
         {"chara_id":170111,"offset":30,"size":835,"softness":70},
