@@ -122,6 +122,9 @@
         {"boss_id":2004003,"event_id":20040,"condition_quest_id":0,"condition_boss_id":2004002,"release_quest_id":0,"release_boss_id":0},
         {"boss_id":2004101,"event_id":20041,"condition_quest_id":20041115,"condition_boss_id":0,"release_quest_id":20041201,"release_boss_id":2004102},
         {"boss_id":2004102,"event_id":20041,"condition_quest_id":0,"condition_boss_id":2004101,"release_quest_id":0,"release_boss_id":2004103},
-        {"boss_id":2004103,"event_id":20041,"condition_quest_id":0,"condition_boss_id":2004102,"release_quest_id":0,"release_boss_id":0}
+        {"boss_id":2004103,"event_id":20041,"condition_quest_id":0,"condition_boss_id":2004102,"release_quest_id":0,"release_boss_id":0},
+        {"boss_id":2004201,"event_id":20042,"condition_quest_id":20042115,"condition_boss_id":0,"release_quest_id":20042201,"release_boss_id":2004202},
+        {"boss_id":2004202,"event_id":20042,"condition_quest_id":0,"condition_boss_id":2004201,"release_quest_id":0,"release_boss_id":2004203},
+        {"boss_id":2004203,"event_id":20042,"condition_quest_id":0,"condition_boss_id":2004202,"release_quest_id":0,"release_boss_id":0}
     ]
 }
