@@ -1,5 +1,11 @@
 {
     "extra_effect_target_range": [
-
+        {"target_id":1,"set_id":61013201,"group_id":6101321},
+        {"target_id":2,"set_id":61013201,"group_id":6101322},
+        {"target_id":3,"set_id":61013201,"group_id":6101323},
+        {"target_id":4,"set_id":61013201,"group_id":6101324},
+        {"target_id":5,"set_id":61013201,"group_id":6101325},
+        {"target_id":6,"set_id":61013201,"group_id":6101326},
+        {"target_id":7,"set_id":61013201,"group_id":6101327}
     ]
 }

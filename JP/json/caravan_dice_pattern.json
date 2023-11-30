@@ -1,0 +1,10 @@
+{
+    "caravan_dice_pattern": [
+        {"dice_odds":11511,"pattern":103},
+        {"dice_odds":11512,"pattern":106},
+        {"dice_odds":11521,"pattern":102},
+        {"dice_odds":11522,"pattern":107},
+        {"dice_odds":100901,"pattern":108},
+        {"dice_odds":100902,"pattern":101}
+    ]
+}

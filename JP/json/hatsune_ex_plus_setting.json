@@ -1,5 +1,5 @@
 {
     "hatsune_ex_plus_setting": [
-
+        {"id":1,"limit_challenge_count":10}
     ]
 }

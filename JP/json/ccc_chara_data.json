@@ -1,0 +1,7 @@
+{
+    "ccc_chara_data": [
+        {"ccc_chara_id":1,"unit_id":105801,"start_time":"2023/06/30 12:00","end_time":"2030/04/01 14:59"},
+        {"ccc_chara_id":2,"unit_id":105901,"start_time":"2023/06/30 12:00","end_time":"2030/04/01 14:59"},
+        {"ccc_chara_id":3,"unit_id":106001,"start_time":"2023/06/30 12:00","end_time":"2030/04/01 14:59"}
+    ]
+}
