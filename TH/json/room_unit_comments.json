@@ -4682,6 +4682,8 @@
         {"id":5262,"unit_id":117401,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"ต้องบำรุงร่างกาย\\nให้ดี เพื่อไม่ให้\\nเป็นลมแดด!","insert_word_type":0},
         {"id":5263,"unit_id":117401,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"เทรนด์ต่อไปคือ...\\nฮึมๆ มาแบบนี้\\nจริงๆ ด้วยสินะคะ...","insert_word_type":0},
         {"id":5265,"unit_id":117401,"trigger":3,"voice_id":10,"beloved_step":1,"time":0,"face_id":1,"description":"ทั้งดีไซน์\\nและผิวสัมผัส\\nยอดเยี่ยมเลยนะคะ♪","insert_word_type":0},
-        {"id":5266,"unit_id":117401,"trigger":3,"voice_id":11,"beloved_step":1,"time":0,"face_id":1,"description":"น่าจะใช้เป็นจุดถ่ายรูป\\nในฤดูร้อนได้นะคะ\\nรีบคิดชุดเลยดีกว่า...","insert_word_type":0}
+        {"id":5266,"unit_id":117401,"trigger":3,"voice_id":11,"beloved_step":1,"time":0,"face_id":1,"description":"น่าจะใช้เป็นจุดถ่ายรูป\\nในฤดูร้อนได้นะคะ\\nรีบคิดชุดเลยดีกว่า...","insert_word_type":0},
+        {"id":5267,"unit_id":104001,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"แฮะๆ...♪\\nโชคดีจริงๆ ที่มีหัวหน้ากลุ่ม\\nเป็นเพื่อนคนแรก","insert_word_type":0},
+        {"id":5268,"unit_id":104001,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"อ๊ะ หัวหน้ากลุ่ม!\\nกิจกรรมของกลุ่ม BB วันนี้\\nน่ะค่ะ...เราสองคนมา\\nกระโดดเชือกกันไหมคะ!","insert_word_type":0}
     ]
 }

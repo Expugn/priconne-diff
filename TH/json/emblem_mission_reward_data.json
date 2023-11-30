@@ -747,6 +747,8 @@
         {"id":875,"mission_reward_id":56011511,"reward_type":15,"reward_id":10201511,"reward_num":1,"icon_type":1001},
         {"id":876,"mission_reward_id":56011512,"reward_type":15,"reward_id":10201512,"reward_num":1,"icon_type":1002},
         {"id":877,"mission_reward_id":56011513,"reward_type":15,"reward_id":10201513,"reward_num":1,"icon_type":1003},
-        {"id":878,"mission_reward_id":56011513,"reward_type":8,"reward_id":91002,"reward_num":50,"icon_type":0}
+        {"id":878,"mission_reward_id":56011513,"reward_type":8,"reward_id":91002,"reward_num":50,"icon_type":0},
+        {"id":879,"mission_reward_id":56011514,"reward_type":15,"reward_id":10201514,"reward_num":1,"icon_type":1003},
+        {"id":880,"mission_reward_id":56011514,"reward_type":8,"reward_id":91002,"reward_num":100,"icon_type":0}
     ]
 }
