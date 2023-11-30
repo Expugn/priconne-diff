@@ -33,6 +33,7 @@
         {"login_bonus_id":9101103,"name":"璃乃「生日劇情」","login_bonus_type":9,"start_time":"2023/08/25 05:00:00","end_time":"2023/08/26 04:59:59","adv_id":19214},
         {"login_bonus_id":9101201,"name":"初音「生日劇情」","login_bonus_type":9,"start_time":"2021/12/24 05:00:00","end_time":"2021/12/25 04:59:59","adv_id":1012500},
         {"login_bonus_id":9101202,"name":"初音「生日劇情」","login_bonus_type":9,"start_time":"2022/12/24 05:00:00","end_time":"2022/12/25 04:59:59","adv_id":1012501},
+        {"login_bonus_id":9101203,"name":"初音「生日劇情」","login_bonus_type":9,"start_time":"2023/12/24 05:00:00","end_time":"2023/12/25 04:59:59","adv_id":31314},
         {"login_bonus_id":9101301,"name":"七七香「生日劇情」","login_bonus_type":9,"start_time":"2021/08/21 05:00:00","end_time":"2021/08/22 04:59:59","adv_id":1013500},
         {"login_bonus_id":9101302,"name":"七七香「生日劇情」","login_bonus_type":9,"start_time":"2022/08/21 05:00:00","end_time":"2022/08/22 04:59:59","adv_id":1013501},
         {"login_bonus_id":9101303,"name":"七七香「生日劇情」","login_bonus_type":9,"start_time":"2023/08/21 05:00:00","end_time":"2023/08/22 04:59:59","adv_id":18814},
@@ -62,6 +63,7 @@
         {"login_bonus_id":9102303,"name":"綾音「生日劇情」","login_bonus_type":9,"start_time":"2023/05/10 05:00:00","end_time":"2023/05/11 04:59:59","adv_id":8514},
         {"login_bonus_id":9102501,"name":"鈴莓「生日劇情」","login_bonus_type":9,"start_time":"2021/12/12 05:00:00","end_time":"2021/12/13 04:59:59","adv_id":1025500},
         {"login_bonus_id":9102502,"name":"鈴莓「生日劇情」","login_bonus_type":9,"start_time":"2022/12/12 05:00:00","end_time":"2022/12/13 04:59:59","adv_id":1025501},
+        {"login_bonus_id":9102503,"name":"鈴莓「生日劇情」","login_bonus_type":9,"start_time":"2023/12/12 05:00:00","end_time":"2023/12/13 04:59:59","adv_id":30114},
         {"login_bonus_id":9102601,"name":"鈴「生日劇情」","login_bonus_type":9,"start_time":"2022/01/01 05:00:00","end_time":"2022/01/02 04:59:59","adv_id":1026500},
         {"login_bonus_id":9102602,"name":"鈴「生日劇情」","login_bonus_type":9,"start_time":"2023/01/01 05:00:00","end_time":"2023/01/02 04:59:59","adv_id":1026501},
         {"login_bonus_id":9102701,"name":"惠理子「生日劇情」","login_bonus_type":9,"start_time":"2021/07/30 05:00:00","end_time":"2021/07/31 04:59:59","adv_id":1027500},
@@ -77,6 +79,7 @@
         {"login_bonus_id":9103003,"name":"妮諾「生日劇情」","login_bonus_type":9,"start_time":"2023/08/31 05:00:00","end_time":"2023/09/01 04:59:59","adv_id":19814},
         {"login_bonus_id":9103101,"name":"忍「生日劇情」","login_bonus_type":9,"start_time":"2021/12/22 05:00:00","end_time":"2021/12/23 04:59:59","adv_id":1031500},
         {"login_bonus_id":9103102,"name":"忍「生日劇情」","login_bonus_type":9,"start_time":"2022/12/22 05:00:00","end_time":"2022/12/23 04:59:59","adv_id":1031501},
+        {"login_bonus_id":9103103,"name":"忍「生日劇情」","login_bonus_type":9,"start_time":"2023/12/22 05:00:00","end_time":"2023/12/23 04:59:59","adv_id":31114},
         {"login_bonus_id":9103201,"name":"秋乃「生日劇情」","login_bonus_type":9,"start_time":"2022/03/12 05:00:00","end_time":"2022/03/13 04:59:59","adv_id":1032500},
         {"login_bonus_id":9103202,"name":"秋乃「生日劇情」","login_bonus_type":9,"start_time":"2023/03/12 05:00:00","end_time":"2023/03/13 04:59:59","adv_id":1032501},
         {"login_bonus_id":9103301,"name":"真陽「生日劇情」","login_bonus_type":9,"start_time":"2022/03/03 05:00:00","end_time":"2022/03/04 04:59:59","adv_id":1033500},
@@ -152,6 +155,7 @@
         {"login_bonus_id":9106301,"name":"亞里莎「生日劇情」","login_bonus_type":9,"start_time":"2021/06/17 05:00:00","end_time":"2021/06/18 04:59:59","adv_id":1063500},
         {"login_bonus_id":9106302,"name":"亞里莎「生日劇情」","login_bonus_type":9,"start_time":"2022/06/17 05:00:00","end_time":"2022/06/18 04:59:59","adv_id":1063501},
         {"login_bonus_id":9106303,"name":"亞里莎「生日劇情」","login_bonus_type":9,"start_time":"2023/06/17 05:00:00","end_time":"2023/06/18 04:59:59","adv_id":12314},
+        {"login_bonus_id":9106403,"name":"雪菲「生日劇情」","login_bonus_type":9,"start_time":"2023/12/14 05:00:00","end_time":"2023/12/15 04:59:59","adv_id":30314},
         {"login_bonus_id":9106501,"name":"嘉夜「生日劇情」","login_bonus_type":9,"start_time":"2021/06/25 05:00:00","end_time":"2021/06/26 04:59:59","adv_id":1065500},
         {"login_bonus_id":9106502,"name":"嘉夜「生日劇情」","login_bonus_type":9,"start_time":"2022/06/25 05:00:00","end_time":"2022/06/26 04:59:59","adv_id":1065501},
         {"login_bonus_id":9106503,"name":"嘉夜「生日劇情」","login_bonus_type":9,"start_time":"2023/06/25 05:00:00","end_time":"2023/06/26 04:59:59","adv_id":13114},
@@ -167,6 +171,7 @@
         {"login_bonus_id":9107102,"name":"克莉絲提娜「生日劇情」","login_bonus_type":9,"start_time":"2023/02/07 05:00:00","end_time":"2023/02/08 04:59:59","adv_id":1071501},
         {"login_bonus_id":9109201,"name":"安「生日劇情」","login_bonus_type":9,"start_time":"2021/12/01 05:00:00","end_time":"2021/12/02 04:59:59","adv_id":1092500},
         {"login_bonus_id":9109202,"name":"安「生日劇情」","login_bonus_type":9,"start_time":"2022/12/01 05:00:00","end_time":"2022/12/02 04:59:59","adv_id":1092501},
+        {"login_bonus_id":9109203,"name":"安「生日劇情」","login_bonus_type":9,"start_time":"2023/12/01 05:00:00","end_time":"2023/12/02 04:59:59","adv_id":29014},
         {"login_bonus_id":9109301,"name":"露「生日劇情」","login_bonus_type":9,"start_time":"2022/02/04 05:00:00","end_time":"2022/02/05 04:59:59","adv_id":1093500},
         {"login_bonus_id":9109302,"name":"露「生日劇情」","login_bonus_type":9,"start_time":"2023/02/04 05:00:00","end_time":"2023/02/05 04:59:59","adv_id":1093501},
         {"login_bonus_id":9109401,"name":"古蕾婭「生日劇情」","login_bonus_type":9,"start_time":"2021/11/03 05:00:00","end_time":"2021/11/04 04:59:59","adv_id":1094500},
@@ -185,6 +190,7 @@
         {"login_bonus_id":9112601,"name":"未央（NGs）「生日劇情」","login_bonus_type":9,"start_time":"2021/12/01 05:00:00","end_time":"2021/12/02 04:59:59","adv_id":1126500},
         {"login_bonus_id":9118002,"name":"克蕾琪塔「生日劇情」","login_bonus_type":9,"start_time":"2022/09/19 05:00:00","end_time":"2022/09/20 04:59:59","adv_id":1180501},
         {"login_bonus_id":9118003,"name":"克蕾琪塔「生日劇情」","login_bonus_type":9,"start_time":"2023/09/19 05:00:00","end_time":"2023/09/20 04:59:59","adv_id":21714},
+        {"login_bonus_id":9118103,"name":"蘭法「生日劇情」","login_bonus_type":9,"start_time":"2023/12/28 05:00:00","end_time":"2023/12/29 04:59:59","adv_id":31714},
         {"login_bonus_id":9118503,"name":"花凜「生日劇情」","login_bonus_type":9,"start_time":"2023/09/12 05:00:00","end_time":"2023/09/13 04:59:59","adv_id":21014}
     ]
 }
