@@ -4213,7 +4213,7 @@
         {"command_id":30314092,"drama_id":30314,"command_type":3,"param_01":"105911","param_02":"wac_birthday_idle_smile","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":30314093,"drama_id":30314,"command_type":3,"param_01":"106411","param_02":"wac_birthday_shefy_talk_wish","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":30314094,"drama_id":30314,"command_type":21,"param_01":"vo_wac_30314","param_02":"vo_wac_30314_006","param_03":"0","param_04":"0","param_05":"","param_06":"","param_07":"","param_08":""},
-        {"command_id":30314095,"drama_id":30314,"command_type":11,"param_01":"106411","param_02":"……응.\\n다시 한번, 정말로 고마워.\\n나, 모두와 만나서 다행이야\\n오늘 일……절대로 잊지 않을게♪","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
+        {"command_id":30314095,"drama_id":30314,"command_type":11,"param_01":"106411","param_02":"……응.\\n다시 한번, 정말로 고마워.\\n나, 모두와 만나서 다행이야\\n오늘 일…… 절대로 잊지 않을게♪","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
         {"command_id":30314096,"drama_id":30314,"command_type":91,"param_01":"0","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":30314097,"drama_id":30314,"command_type":22,"param_01":"0","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":31114001,"drama_id":31114,"command_type":25,"param_01":"bgm_M321","param_02":"bgm_M321_2C","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},

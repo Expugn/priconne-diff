@@ -5173,7 +5173,7 @@
         {"unit_id":123801,"promotion_level":23,"equip_slot_1":108101,"equip_slot_2":107103,"equip_slot_3":107283,"equip_slot_4":107282,"equip_slot_5":107553,"equip_slot_6":107552},
         {"unit_id":123801,"promotion_level":24,"equip_slot_1":108102,"equip_slot_2":108101,"equip_slot_3":108401,"equip_slot_4":107283,"equip_slot_5":108551,"equip_slot_6":107553},
         {"unit_id":123801,"promotion_level":25,"equip_slot_1":108103,"equip_slot_2":108102,"equip_slot_3":108282,"equip_slot_4":108401,"equip_slot_5":108552,"equip_slot_6":108551},
-        {"unit_id":123801,"promotion_level":26,"equip_slot_1":999999,"equip_slot_2":108103,"equip_slot_3":999999,"equip_slot_4":108282,"equip_slot_5":108553,"equip_slot_6":108552},
+        {"unit_id":123801,"promotion_level":26,"equip_slot_1":999999,"equip_slot_2":108103,"equip_slot_3":108283,"equip_slot_4":108282,"equip_slot_5":108553,"equip_slot_6":108552},
         {"unit_id":123901,"promotion_level":1,"equip_slot_1":101071,"equip_slot_2":101281,"equip_slot_3":101281,"equip_slot_4":101401,"equip_slot_5":101581,"equip_slot_6":101581},
         {"unit_id":123901,"promotion_level":2,"equip_slot_1":102101,"equip_slot_2":102071,"equip_slot_3":102311,"equip_slot_4":102493,"equip_slot_5":101581,"equip_slot_6":101581},
         {"unit_id":123901,"promotion_level":3,"equip_slot_1":103071,"equip_slot_2":102432,"equip_slot_3":102282,"equip_slot_4":102401,"equip_slot_5":102581,"equip_slot_6":102581},
