@@ -257,6 +257,8 @@
         {"id":1012202,"odds_file":"1012220102","name":"美冬的記憶碎片","icon_type":99002,"description":""},
         {"id":1012203,"odds_file":"box_rank_12-20","name":"隨機裝備箱","icon_type":99002,"description":"能夠獲得隨機的裝備。"},
         {"id":1012301,"odds_file":"1012320101","name":"日和（夏日）的記憶碎片","icon_type":99002,"description":""},
-        {"id":1012302,"odds_file":"1012320102","name":"優衣的記憶碎片","icon_type":99002,"description":""}
+        {"id":1012302,"odds_file":"1012320102","name":"優衣的記憶碎片","icon_type":99002,"description":""},
+        {"id":1012401,"odds_file":"1012420101","name":"空花（夏日）的記憶碎片","icon_type":99002,"description":""},
+        {"id":1012402,"odds_file":"1012420102","name":"忍的記憶碎片","icon_type":99002,"description":""}
     ]
 }
