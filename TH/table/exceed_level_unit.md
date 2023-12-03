@@ -1,0 +1,2 @@
+|id|unit_id|exceed_stage|exceed_item_id|item_id_1|reward_type_1|consume_num_1|item_id_2|reward_type_2|consume_num_2|item_id_3|reward_type_3|consume_num_3|item_id_4|reward_type_4|consume_num_4|item_id_5|reward_type_5|consume_num_5|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

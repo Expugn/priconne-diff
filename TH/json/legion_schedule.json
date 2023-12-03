@@ -1,5 +1,5 @@
 {
     "legion_schedule": [
-
+        {"id":1,"teaser_time":"2023/12/09 10:00:00","start_time":"2023/12/11 12:00:00","end_time":"2023/12/18 11:59:59","count_start_time":"2023/12/17 11:59:59","close_time":"2024/01/06 11:59:59","story_id":2109006,"close_story_condition_id":2109007,"close_story_id":2109008,"top_bgm":"bgm_M501","top_bg":""}
     ]
 }
