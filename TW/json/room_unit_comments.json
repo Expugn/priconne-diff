@@ -6670,6 +6670,8 @@
         {"id":7500,"unit_id":127001,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"空花的嘴裡\\n塞滿滿的……♪\\n停不下來……！","insert_word_type":0},
         {"id":7501,"unit_id":127001,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"讀書會讓心\\n平靜下來呢……！\\n嘻嘻嘻……\\n平靜下來……","insert_word_type":0},
         {"id":7503,"unit_id":127001,"trigger":3,"voice_id":10,"beloved_step":1,"time":0,"face_id":1,"description":"坐起來好舒服……♪\\n啊……普通地\\n享受起來了……","insert_word_type":0},
-        {"id":7504,"unit_id":127001,"trigger":3,"voice_id":11,"beloved_step":1,"time":0,"face_id":1,"description":"這是……\\n能刺激妄想的\\n觸感……！","insert_word_type":0}
+        {"id":7504,"unit_id":127001,"trigger":3,"voice_id":11,"beloved_step":1,"time":0,"face_id":1,"description":"這是……\\n能刺激妄想的\\n觸感……！","insert_word_type":0},
+        {"id":7505,"unit_id":100501,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"我要配合\\n成長的自己，\\n研究更帥氣的\\n姿勢！","insert_word_type":0},
+        {"id":7506,"unit_id":100501,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"今後也要一起\\n以最棒的英雄\\n為目標喔♪","insert_word_type":0}
     ]
 }
