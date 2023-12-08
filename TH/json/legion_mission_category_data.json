@@ -1,5 +1,9 @@
 {
     "legion_mission_category_data": [
-
+        {"category_id":1000,"name":"ทั่วไป"},
+        {"category_id":1005,"name":"มิโซระ"},
+        {"category_id":1006,"name":"รันฟา"},
+        {"category_id":1007,"name":"อาโซลด์"},
+        {"category_id":1008,"name":"คาริสะ"}
     ]
 }

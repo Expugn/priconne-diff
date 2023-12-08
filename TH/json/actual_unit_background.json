@@ -143,6 +143,7 @@
         {"unit_id":117031,"unit_name":"คุราอิชิ เอริโกะ","bg_id":510250,"face_type":2},
         {"unit_id":117131,"unit_name":"โฮชิโนะ ชิซึรุ","bg_id":510250,"face_type":4},
         {"unit_id":117231,"unit_name":"ซากุไร โนโซมิ","bg_id":510240,"face_type":9},
+        {"unit_id":117331,"unit_name":"มิสุมิ จิกะ","bg_id":510300,"face_type":4},
         {"unit_id":117431,"unit_name":"มายุมิยะ สึมุกิ","bg_id":510250,"face_type":4},
         {"unit_id":180131,"unit_name":"ฮารุซากิ ฮิโยริ","bg_id":510121,"face_type":4},
         {"unit_id":180231,"unit_name":"คุซาโนะ ยุย","bg_id":510350,"face_type":2},

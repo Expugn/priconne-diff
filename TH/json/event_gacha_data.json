@@ -68,6 +68,7 @@
         {"gacha_id":10070,"event_id":10070,"gacha_name":"เอนด์เลสซัมเมอร์โปรดิวซ์ สวรรค์กลางฤดูร้อนของเราสองคน","item_type":2,"item_id":60692,"cost":1,"repeat_step":6},
         {"gacha_id":10071,"event_id":10071,"gacha_name":"รีรัน ลำนำการเดินทางของนักดาบวันทานาบาตะ รักฤดูร้อนบนทางช้างเผือก","item_type":2,"item_id":60702,"cost":1,"repeat_step":5},
         {"gacha_id":10072,"event_id":10072,"gacha_name":"คาร์มิน่าซัมเมอร์ไลฟ์ โปรดรออีกสักครู่! ","item_type":2,"item_id":60712,"cost":1,"repeat_step":6},
+        {"gacha_id":10073,"event_id":10073,"gacha_name":"รีรัน มิซาโตะซัมเมอร์เยล! ทีมเบสบอลสู่ฝันในฤดูร้อน","item_type":2,"item_id":60722,"cost":1,"repeat_step":5},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"แลกตราพิชิตแวมไพร์ฮันเตอร์ with อิลิยา","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }

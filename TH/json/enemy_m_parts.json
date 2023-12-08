@@ -111,6 +111,14 @@
         {"enemy_id":401406604,"name":"ไทรร็อกเกอร์ สเตจ 1 Single Mode","child_enemy_parameter_1":401406605,"child_enemy_parameter_2":401406606,"child_enemy_parameter_3":401406607,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
         {"enemy_id":401406704,"name":"ไทรร็อกเกอร์ สเตจ 2 Single Mode","child_enemy_parameter_1":401406705,"child_enemy_parameter_2":401406706,"child_enemy_parameter_3":401406707,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
         {"enemy_id":401406804,"name":"ไทรร็อกเกอร์ สเตจ 3 Single Mode","child_enemy_parameter_1":401406805,"child_enemy_parameter_2":401406806,"child_enemy_parameter_3":401406807,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
+        {"enemy_id":401407105,"name":"โอลลีออน สเตจ 1","child_enemy_parameter_1":401407106,"child_enemy_parameter_2":401407107,"child_enemy_parameter_3":401407108,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
+        {"enemy_id":401407205,"name":"โอลลีออน สเตจ 2","child_enemy_parameter_1":401407206,"child_enemy_parameter_2":401407207,"child_enemy_parameter_3":401407208,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
+        {"enemy_id":401407305,"name":"โอลลีออน สเตจ 3","child_enemy_parameter_1":401407306,"child_enemy_parameter_2":401407307,"child_enemy_parameter_3":401407308,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
+        {"enemy_id":401407405,"name":"โอลลีออน สเตจ 4","child_enemy_parameter_1":401407406,"child_enemy_parameter_2":401407407,"child_enemy_parameter_3":401407408,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
+        {"enemy_id":401407505,"name":"โอลลีออน สเตจ 5","child_enemy_parameter_1":401407506,"child_enemy_parameter_2":401407507,"child_enemy_parameter_3":401407508,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
+        {"enemy_id":401407605,"name":"โอลลีออน สเตจ 1 Single Mode","child_enemy_parameter_1":401407606,"child_enemy_parameter_2":401407607,"child_enemy_parameter_3":401407608,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
+        {"enemy_id":401407705,"name":"โอลลีออน สเตจ 2 Single Mode","child_enemy_parameter_1":401407706,"child_enemy_parameter_2":401407707,"child_enemy_parameter_3":401407708,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
+        {"enemy_id":401407805,"name":"โอลลีออน สเตจ 3 Single Mode","child_enemy_parameter_1":401407806,"child_enemy_parameter_2":401407807,"child_enemy_parameter_3":401407808,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
         {"enemy_id":501010601,"name":"ราธส์ดราก้อน","child_enemy_parameter_1":501010602,"child_enemy_parameter_2":501010603,"child_enemy_parameter_3":501010604,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
         {"enemy_id":501010701,"name":"รูปปั้นผู้พิทักษ์จันทราดำ","child_enemy_parameter_1":501010702,"child_enemy_parameter_2":501010703,"child_enemy_parameter_3":501010704,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
         {"enemy_id":501010705,"name":"รูปปั้นผู้พิทักษ์ตะวันขาว","child_enemy_parameter_1":501010706,"child_enemy_parameter_2":501010707,"child_enemy_parameter_3":501010708,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
@@ -139,6 +147,10 @@
         {"enemy_id":610066402,"name":"เบิสท์ ไทม์ราเบ SP2","child_enemy_parameter_1":610066421,"child_enemy_parameter_2":610066422,"child_enemy_parameter_3":610066423,"child_enemy_parameter_4":610066424,"child_enemy_parameter_5":0},
         {"enemy_id":610066403,"name":"เบิสท์ ไทม์ราเบ SP3","child_enemy_parameter_1":610066431,"child_enemy_parameter_2":610066432,"child_enemy_parameter_3":610066433,"child_enemy_parameter_4":610066434,"child_enemy_parameter_5":0},
         {"enemy_id":800100203,"name":"โรโบริมะ2020MODE3","child_enemy_parameter_1":800100212,"child_enemy_parameter_2":800100213,"child_enemy_parameter_3":800100214,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
-        {"enemy_id":801100213,"name":"ไคเซอร์เซอร์แวนท์ (มัลติ)","child_enemy_parameter_1":801100223,"child_enemy_parameter_2":801100233,"child_enemy_parameter_3":801100243,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0}
+        {"enemy_id":801100213,"name":"ไคเซอร์เซอร์แวนท์ (มัลติ)","child_enemy_parameter_1":801100223,"child_enemy_parameter_2":801100233,"child_enemy_parameter_3":801100243,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
+        {"enemy_id":802100210,"name":"รันฟา","child_enemy_parameter_1":802100211,"child_enemy_parameter_2":802100212,"child_enemy_parameter_3":0,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
+        {"enemy_id":802100230,"name":"คาริสะ","child_enemy_parameter_1":802100231,"child_enemy_parameter_2":802100232,"child_enemy_parameter_3":802100233,"child_enemy_parameter_4":802100234,"child_enemy_parameter_5":0},
+        {"enemy_id":802100241,"name":"รันฟา","child_enemy_parameter_1":802100242,"child_enemy_parameter_2":802100243,"child_enemy_parameter_3":0,"child_enemy_parameter_4":0,"child_enemy_parameter_5":0},
+        {"enemy_id":802100245,"name":"คาริสะ","child_enemy_parameter_1":802100246,"child_enemy_parameter_2":802100247,"child_enemy_parameter_3":802100248,"child_enemy_parameter_4":802100249,"child_enemy_parameter_5":0}
     ]
 }

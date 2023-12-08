@@ -39,6 +39,7 @@
         {"level_group_id":37,"team_level_from":191,"team_level_to":195},
         {"level_group_id":38,"team_level_from":196,"team_level_to":200},
         {"level_group_id":39,"team_level_from":201,"team_level_to":205},
-        {"level_group_id":40,"team_level_from":206,"team_level_to":-1}
+        {"level_group_id":40,"team_level_from":206,"team_level_to":208},
+        {"level_group_id":41,"team_level_from":209,"team_level_to":-1}
     ]
 }

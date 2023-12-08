@@ -3,6 +3,6 @@
         {"course_id":1,"name":"ทวีปแอสแทร์","map_id":1,"sheet_id":"bgm_M61","que_id":"bgm_M61_00","start_area_id":11001,"end_area_id":11017},
         {"course_id":2,"name":"แผนที่ดันเจี้ยน","map_id":1,"sheet_id":"bgm_M61","que_id":"bgm_M61","start_area_id":4001,"end_area_id":4004},
         {"course_id":3,"name":"แผนที่กิจกรรม","map_id":1,"sheet_id":"","que_id":"","start_area_id":7001,"end_area_id":7008},
-        {"course_id":4,"name":"เกาะเอลพิส","map_id":2,"sheet_id":"bgm_M179","que_id":"bgm_M179_00","start_area_id":11018,"end_area_id":11048}
+        {"course_id":4,"name":"เกาะเอลพิส","map_id":2,"sheet_id":"bgm_M179","que_id":"bgm_M179_00","start_area_id":11018,"end_area_id":11049}
     ]
 }

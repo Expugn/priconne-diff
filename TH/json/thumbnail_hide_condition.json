@@ -1,5 +1,6 @@
 {
     "thumbnail_hide_condition": [
-
+        {"story_group_id":2015,"hide_story_id_from":2015007,"hide_story_id_to":0,"unlock_condition_story_id":0},
+        {"story_group_id":2109,"hide_story_id_from":2109007,"hide_story_id_to":0,"unlock_condition_story_id":2109007}
     ]
 }
