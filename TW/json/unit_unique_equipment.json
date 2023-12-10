@@ -188,6 +188,9 @@
         {"unit_id":122301,"equip_slot":1,"equip_id":132231},
         {"unit_id":122401,"equip_slot":1,"equip_id":132241},
         {"unit_id":122501,"equip_slot":1,"equip_id":132251},
-        {"unit_id":122601,"equip_slot":1,"equip_id":132261}
+        {"unit_id":122601,"equip_slot":1,"equip_id":132261},
+        {"unit_id":122701,"equip_slot":1,"equip_id":132271},
+        {"unit_id":122801,"equip_slot":1,"equip_id":132281},
+        {"unit_id":122901,"equip_slot":1,"equip_id":132291}
     ]
 }

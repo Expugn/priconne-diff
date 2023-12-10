@@ -10,17 +10,17 @@
 |emblem_mission_data||910|
 |shiori_mission_reward_data|shiori_mission_reward_data_0_mission_reward_id|1932 2|
 |shiori_item||42|
-|campaign_schedule||1578|
+|campaign_schedule||1579|
 |tower_area_data||50|
 |dsb_story_data|dsb_story_data_0_original_event_id|9 9|
 |prizegacha_sp_detail||5|
-|gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|624 3|
+|gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|625 3|
 |clan_battle_archive_clan_rank||14|
 |clan_cost_group||6|
 |tower_ex_quest_data|tower_ex_quest_data_0_floor_num|50 1|
 |event_navi_comment_condition||1681|
 |sekai_boss_mode||12|
-|prizegacha_data||103|
+|prizegacha_data||104|
 |clan_battle_last_attack_reward||3|
 |secret_dungeon_emblem_mission||35|
 |space_battle_data||1|
@@ -160,7 +160,7 @@
 |tme_map_data|tme_map_data_0_event_id|12 12|
 |nyx_drama_data||10|
 |login_bonus_message_data|login_bonus_message_data_0_login_bonus_id|500 72|
-|skill_action||12670|
+|skill_action||12689|
 |sjr_emblem||2|
 |ttk_enemy||8|
 |clan_grade||10|
@@ -339,7 +339,7 @@
 |srt_reward||15|
 |tower_schedule|tower_schedule_0_opening_story_id|50 1|
 |hatsune_relay_data||48|
-|gacha_data|gacha_data_0_exchange_id|862 4|
+|gacha_data|gacha_data_0_exchange_id|865 4|
 |secret_dungeon_enemy_info|sqlite_autoindex_secret_dungeon_enemy_info_1|35 5 1|
 |custom_mypage|custom_mypage_0_still_group_id|23 23|
 |room_item_detail|room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2|546 546 546|
@@ -352,7 +352,7 @@
 |login_bonus_detail|login_bonus_detail_0_login_bonus_id_1_count|386 11 1|
 |redeem_unit|redeem_unit_0_unit_id|6 3|
 |growth_parameter_unique||2|
-|unit_introduction|unit_introduction_0_gacha_id|260 1|
+|unit_introduction|unit_introduction_0_gacha_id|261 1|
 |content_map_data||5|
 |quest_condition_data||1169|
 |mission_condition_data|mission_condition_data_0_condition_group_id|11 2|
@@ -393,7 +393,7 @@
 |skill_cost||287|
 |season_pack|season_pack_0_pack_type|60 9|
 |season_pack|season_pack_0_mission_id|60 5|
-|unique_equipment_data||189|
+|unique_equipment_data||192|
 |sre_schedule||1|
 |sjr_feature_group||7|
 |srt_action|sqlite_autoindex_srt_action_1|47 1|
@@ -461,7 +461,7 @@
 |special_still||2|
 |login_bonus_data||43|
 |story_character_mask||904|
-|skill_data||4698|
+|skill_data||4701|
 |item_data||899|
 |sjr_parameter_evaluation||4|
 |taq_completion_rewards||3|
@@ -472,7 +472,7 @@
 |sd_navi_comment||13|
 |worldmap|worldmap_0_map_type|5 2|
 |enemy_ignore_skill_rf||177|
-|banner||287|
+|banner||288|
 |caravan_dice_reward_period||1|
 |byway_quest_data|byway_quest_data_0_area_id|19 7|
 |tdf_top_offset||5|
@@ -497,7 +497,7 @@
 |grand_arena_max_rank_reward||79|
 |sp_lose_voice_group|sqlite_autoindex_sp_lose_voice_group_1|23 1 1|
 |training_quest_data||30|
-|unique_equip_enhance_rate|unique_equip_enhance_rate_0_equipment_id|259 2|
+|unique_equip_enhance_rate|unique_equip_enhance_rate_0_equipment_id|262 2|
 |trial_battle_reward_data||25|
 |travel_ex_event_data||21|
 |hatsune_diary_script|hatsune_diary_script_0_diary_id|427 31|
@@ -612,12 +612,12 @@
 |birthday_login_bonus_drama_script|birthday_login_bonus_drama_script_0_drama_id|3897 58|
 |promotion_bonus|promotion_bonus_0_unit_id|474 2|
 |promotion_bonus|sqlite_autoindex_promotion_bonus_1|474 2 1|
-|unit_unique_equipment|unit_unique_equipment_0_unit_id|189 1|
-|unit_unique_equipment|sqlite_autoindex_unit_unique_equipment_1|189 1 1|
+|unit_unique_equipment|unit_unique_equipment_0_unit_id|192 1|
+|unit_unique_equipment|sqlite_autoindex_unit_unique_equipment_1|192 1 1|
 |spskill_lv_initialize_data||34|
 |daily_mission_data||93|
 |ex_equipment_rankup_data|sqlite_autoindex_ex_equipment_rankup_data_1|5 2 1|
-|unique_equipment_craft||189|
+|unique_equipment_craft||192|
 |legion_boss_enemy_setting||4|
 |hatsune_emblem_mission_reward|hatsune_emblem_mission_reward_0_reward_id|472 2|
 |hatsune_emblem_mission_reward|hatsune_emblem_mission_reward_0_mission_reward_id|472 2|
@@ -634,5 +634,5 @@
 |unit_skill_data_rf|unit_skill_data_rf_0_rf_skill_id|74 1|
 |unit_skill_data_rf|unit_skill_data_rf_0_skill_id|74 1|
 |enemy_parameter||16047|
-|unique_equipment_rankup|unique_equipment_rankup_0_equip_id|3780 20|
-|unique_equipment_rankup|sqlite_autoindex_unique_equipment_rankup_1|3780 20 1|
+|unique_equipment_rankup|unique_equipment_rankup_0_equip_id|3840 20|
+|unique_equipment_rankup|sqlite_autoindex_unique_equipment_rankup_1|3840 20 1|
