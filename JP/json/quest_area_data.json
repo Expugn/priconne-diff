@@ -129,6 +129,7 @@
         {"area_id":12064,"area_name":"64.アパレーユ街道・東側","area_display_name":"64.アパレーユ\\n　　　　　街道・東側","map_type":103,"sheet_id":"bgm_MC001","que_id":"bgm_MC001","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":12065,"area_name":"65.キャッスル・オブ・パルフェ　城下町","area_display_name":"65.キャッスル・オブ・パルフェ\\n　　　　　　城下町","map_type":103,"sheet_id":"bgm_MC001","que_id":"bgm_MC001","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":12066,"area_name":"66.ラモリール平原","area_display_name":"66.ラモリール平原","map_type":103,"sheet_id":"bgm_MC001","que_id":"bgm_MC001","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},
+        {"area_id":12067,"area_name":"67.渦炎密林","area_display_name":"67.渦炎密林","map_type":104,"sheet_id":"bgm_MC079","que_id":"bgm_MC079","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":13018,"area_name":"18.ファエトン原野・北部","area_display_name":"18.ファエトン\\n　　　　　原野・北部","map_type":102,"sheet_id":"bgm_M179","que_id":"bgm_M179","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:00"},
         {"area_id":13019,"area_name":"19.ファエトン原野・南部","area_display_name":"19.ファエトン\\n　　　　　原野・南部","map_type":102,"sheet_id":"bgm_M179","que_id":"bgm_M179","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":13020,"area_name":"20.カスタリア樹林・西部","area_display_name":"20.カスタリア\\n　　　　　樹林・西部","map_type":102,"sheet_id":"bgm_M180","que_id":"bgm_M180","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},

@@ -386,6 +386,12 @@
         {"enemy_id":610132701,"event_id":10132,"mode":1,"enemy_point":1,"initial_position":-220,"order":0},
         {"enemy_id":610132702,"event_id":10132,"mode":1,"enemy_point":1,"initial_position":-140,"order":0},
         {"enemy_id":610132703,"event_id":10132,"mode":1,"enemy_point":1,"initial_position":-60,"order":0},
-        {"enemy_id":610132704,"event_id":10132,"mode":1,"enemy_point":1,"initial_position":0,"order":0}
+        {"enemy_id":610132704,"event_id":10132,"mode":1,"enemy_point":1,"initial_position":0,"order":0},
+        {"enemy_id":610133501,"event_id":10133,"mode":2,"enemy_point":0,"initial_position":-180,"order":0},
+        {"enemy_id":610133502,"event_id":10133,"mode":2,"enemy_point":0,"initial_position":-145,"order":0},
+        {"enemy_id":610133503,"event_id":10133,"mode":2,"enemy_point":0,"initial_position":80,"order":0},
+        {"enemy_id":610133601,"event_id":10133,"mode":2,"enemy_point":1,"initial_position":150,"order":0},
+        {"enemy_id":610133602,"event_id":10133,"mode":2,"enemy_point":1,"initial_position":-50,"order":0},
+        {"enemy_id":610133603,"event_id":10133,"mode":2,"enemy_point":1,"initial_position":-300,"order":0}
     ]
 }

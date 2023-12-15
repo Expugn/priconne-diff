@@ -1,5 +1,5 @@
 {
     "caravan_rival": [
-
+        {"rival_id":10001,"name":"バンディシャーク号","dice_odds":400001,"unit_id_1":130001,"unit_id_2":130101,"unit_id_3":130201,"bgm_sheet_id":"bgm_MC104","bgm_que_id":"bgm_MC104"}
     ]
 }

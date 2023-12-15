@@ -1,2 +1,3 @@
 |rival_minigame_id|rival_id|title|
 | --- | --- | --- |
+|1|10001|フルーツキャッチ|

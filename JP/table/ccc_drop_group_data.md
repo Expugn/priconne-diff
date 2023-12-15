@@ -1,2 +1,4 @@
 |drop_group_id|object_id_1|object_num_1|drop_type_1|object_id_2|object_num_2|drop_type_2|object_id_3|object_num_3|drop_type_3|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|1|100|6|2|101|4|2|0|0|0|
+|2|100|6|2|101|10|2|200|1|1|

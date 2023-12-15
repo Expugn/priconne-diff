@@ -1,2 +1,3 @@
 |rival_id|name|dice_odds|unit_id_1|unit_id_2|unit_id_3|bgm_sheet_id|bgm_que_id|
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|10001|バンディシャーク号|400001|130001|130101|130201|bgm_MC104|bgm_MC104|
