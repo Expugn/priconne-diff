@@ -198,6 +198,10 @@
         {"music_id":196,"list_name":"Halloween Monster Jam ！！！","font_size":20,"pre_shop_start":"","shop_start":"2023/10/13 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1500,"sort":196,"kana":"はろうぃんもんすたーじゃむ","ios_url":"","android_url":"","dmm_url":""},
         {"music_id":197,"list_name":"魔法少女外伝　マジカル★ノワールズ！","font_size":20,"pre_shop_start":"","shop_start":"2023/11/15 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":197,"kana":"まほうしょうじょがいでんまじかるのわーるず","ios_url":"","android_url":"","dmm_url":""},
         {"music_id":198,"list_name":"アンチビースト・トリニティ","font_size":20,"pre_shop_start":"","shop_start":"2023/11/15 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":198,"kana":"あんちびーすととりにてぃ","ios_url":"","android_url":"","dmm_url":""},
-        {"music_id":199,"list_name":"GREEDY LOVE","font_size":20,"pre_shop_start":"","shop_start":"2023/11/15 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1500,"sort":199,"kana":"ぐりーでぃらぶ","ios_url":"","android_url":"","dmm_url":""}
+        {"music_id":199,"list_name":"GREEDY LOVE","font_size":20,"pre_shop_start":"","shop_start":"2023/11/15 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1500,"sort":199,"kana":"ぐりーでぃらぶ","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":200,"list_name":"メリープリンクリスマス！　空舞う少女とまごころのお菓子","font_size":20,"pre_shop_start":"","shop_start":"2023/11/30 11:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":200,"kana":"めりーぷりんくりすますそらまうしょうじょとまごころのおかし","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":201,"list_name":"ひとりぼっちの聖夜の妖精","font_size":20,"pre_shop_start":"","shop_start":"2023/12/15 10:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":201,"kana":"ひとりぼっちのせいやのようせい","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":202,"list_name":"ミヤコ's キッチン　究極への道","font_size":20,"pre_shop_start":"","shop_start":"2023/12/15 10:00:00","shop_end":"","story_id":-1,"cost_item_num":1000,"sort":202,"kana":"みやこずきっちんきゅうきょくへのみち","ios_url":"","android_url":"","dmm_url":""},
+        {"music_id":203,"list_name":"ぷりん・あ・ら・くりすますなの！","font_size":20,"pre_shop_start":"","shop_start":"2023/12/15 10:00:00","shop_end":"","story_id":-1,"cost_item_num":1500,"sort":203,"kana":"ぷりんあらくりすますなの","ios_url":"","android_url":"","dmm_url":""}
     ]
 }

@@ -180,6 +180,8 @@
         {"id":228,"login_bonus_id":80005,"count":13,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":500367},
         {"id":229,"login_bonus_id":80005,"count":14,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":500367},
         {"id":230,"login_bonus_id":80005,"count":15,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":500367},
+        {"id":231,"login_bonus_id":70006,"count":1,"reward_type":8,"reward_id":91002,"reward_num":500,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":0},
+        {"id":232,"login_bonus_id":70006,"count":2,"reward_type":8,"reward_id":91002,"reward_num":500,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":0},
         {"id":1001,"login_bonus_id":48001,"count":1,"reward_type":8,"reward_id":91002,"reward_num":300,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":0},
         {"id":1002,"login_bonus_id":48001,"count":2,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":0},
         {"id":1003,"login_bonus_id":48001,"count":3,"reward_type":8,"reward_id":91002,"reward_num":100,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":0},

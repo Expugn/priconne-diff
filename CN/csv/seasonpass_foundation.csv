@@ -1,2 +1,2 @@
 season_id,name,key_jewel_id,advance_jewel_id,final_jewel_id,extra_level,per_level_point,level_max,weekly_point,level_price,point_change_type,reward_id,proportion,start_time,limit_time,end_time
-"10003","女神祭","209","210","211","20","200","100","3000","150","12","94002","500","2023/01/17 11:00:00","2023/03/31 04:59:59","2023/04/10 04:59:59"
+"10004","女神祭","100040","100041","100042","20","200","100","3000","150","12","94002","500","2023/12/15 10:00:00","2024/02/29 04:59:59","2024/03/10 04:59:59"
