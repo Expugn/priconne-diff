@@ -5987,7 +5987,7 @@
         {"id":6711,"unit_id":123901,"trigger":2,"voice_id":3,"beloved_step":1,"time":3,"face_id":1,"description":"순찰 후에는\\n양치에 숙제에…\\n아주 바쁘지 말임다, 밤엔!","insert_word_type":0},
         {"id":6713,"unit_id":123901,"trigger":3,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"이렇게나 편하게 지낼 수\\n있다니…\\n평화롭다는 증거네요~","insert_word_type":0},
         {"id":6714,"unit_id":123901,"trigger":3,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"귀, 귀여워…♪\\n자, 저랑 악수…\\n아니, 안아주십쇼♪","insert_word_type":0},
-        {"id":6715,"unit_id":123901,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"부드러운 냄새임다…♪\\n이만큼 모두를 감싸 안을 수 있게\\n되고 싶슴다~","insert_word_type":0},
+        {"id":6715,"unit_id":123901,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"부드러운 냄새임다…♪\\n이만큼 모두를 감싸\\n안을 수 있게\\n되고 싶슴다~","insert_word_type":0},
         {"id":6716,"unit_id":123901,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"에취! 으~…\\n좀 싸늘하네요\\n따뜻하게 데우는 검다~♪","insert_word_type":0},
         {"id":6718,"unit_id":123901,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"특훈을 한 만큼\\n잔뜩 먹는 검다!\\n거대해질 검다!","insert_word_type":0},
         {"id":6719,"unit_id":123901,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"언젠가 저의\\n비밀 도감이 나오거나\\n해서… 아니 아니 아니","insert_word_type":0},
