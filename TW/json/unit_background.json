@@ -227,6 +227,7 @@
         {"unit_id":126801,"unit_name":"優花梨（夏日）","bg_id":500280,"bg_name":"無人島","position":0,"face_type":4},
         {"unit_id":126901,"unit_name":"蘭法（夏日）","bg_id":501030,"bg_name":"祈願海岸","position":0,"face_type":2},
         {"unit_id":127001,"unit_name":"空花（夏日）","bg_id":500160,"bg_name":"瑪爾傑海岸_白天","position":0,"face_type":4},
+        {"unit_id":127101,"unit_name":"忍（夏日）","bg_id":500162,"bg_name":"瑪爾傑海岸_夜晚","position":0,"face_type":4},
         {"unit_id":180101,"unit_name":"日和（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"優衣（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":4},
         {"unit_id":180301,"unit_name":"怜（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":3},

@@ -1,6 +1,6 @@
 {
     "lsv_story_data": [
-        {"sub_story_id":1009801,"original_event_id":10098,"title":"小繆快快長大日記之一","time_condition":"2022/12/01 16:00:00","condition_quest_id":10098103,"read_event_story_id":0,"read_condition":0},
+        {"sub_story_id":1009801,"original_event_id":10098,"title":"小繆快快長大日記之一","time_condition":"2022/12/01 16:00:00","condition_quest_id":10125103,"read_event_story_id":0,"read_condition":0},
         {"sub_story_id":1009802,"original_event_id":10098,"title":"小繆快快長大日記之二","time_condition":"2022/12/01 16:00:00","condition_quest_id":0,"read_event_story_id":5098001,"read_condition":1009801},
         {"sub_story_id":1009803,"original_event_id":10098,"title":"小繆快快長大日記之三","time_condition":"2022/12/02 05:00:00","condition_quest_id":0,"read_event_story_id":5098002,"read_condition":1009802},
         {"sub_story_id":1009804,"original_event_id":10098,"title":"小繆快快長大日記之四","time_condition":"2022/12/03 05:00:00","condition_quest_id":0,"read_event_story_id":5098002,"read_condition":1009803},
