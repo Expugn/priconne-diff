@@ -265,7 +265,7 @@
 |unit_mypage_pos||36|
 |thumbnail_hide_condition||2|
 |tower_story_detail||114|
-|story_detail||1367|
+|story_detail||1369|
 |enemy_m_parts||152|
 |resist_data||47|
 |music_content||182|
