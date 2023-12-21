@@ -10,7 +10,7 @@
 |emblem_mission_data||956|
 |shiori_mission_reward_data|shiori_mission_reward_data_0_mission_reward_id|2224 2|
 |shiori_item||48|
-|campaign_schedule||2021|
+|campaign_schedule||2040|
 |ccc_drop_group_data||2|
 |tower_area_data||52|
 |dsb_story_data|dsb_story_data_0_original_event_id|9 9|
@@ -41,7 +41,7 @@
 |omp_story_data|omp_story_data_0_event_id|15 8|
 |shiori_stationary_mission_data||1133|
 |hatsune_special_enemy||393|
-|campaign_freegacha||33|
+|campaign_freegacha||34|
 |room_item_announcement||1|
 |caravan_dish||20|
 |wac_drama_script|wac_drama_script_0_drama_id|17968 15|
@@ -283,7 +283,7 @@
 |ub_auto_data||19|
 |ttk_score||4|
 |sekai_unlock_story_condition||5|
-|campaign_freegacha_data||122|
+|campaign_freegacha_data||123|
 |birthday_login_bonus_data||210|
 |campaign_mission_category|campaign_mission_category_0_campaign_id_1_type|2 2 1|
 |campaign_mission_reward_data|campaign_mission_reward_data_0_campaign_mission_reward_id|12 2|
@@ -671,7 +671,7 @@
 |unit_unique_equipment|sqlite_autoindex_unit_unique_equipment_1|214 1 1|
 |spskill_lv_initialize_data||37|
 |cooperation_quest_data||6|
-|daily_mission_data||103|
+|daily_mission_data||107|
 |ex_equipment_rankup_data|sqlite_autoindex_ex_equipment_rankup_data_1|5 2 1|
 |unique_equipment_craft||204|
 |asm_reaction_data|asm_reaction_data_0_unit_id_1_reaction_type|524 262 8|
