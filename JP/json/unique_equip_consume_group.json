@@ -11,6 +11,9 @@
         {"group_id":8,"index_in_group":1,"item_id":32050},
         {"group_id":9,"index_in_group":1,"item_id":32033},
         {"group_id":10,"index_in_group":1,"item_id":32058},
-        {"group_id":10,"index_in_group":2,"item_id":32075}
+        {"group_id":10,"index_in_group":2,"item_id":32075},
+        {"group_id":11,"index_in_group":1,"item_id":32042},
+        {"group_id":12,"index_in_group":1,"item_id":32021},
+        {"group_id":13,"index_in_group":1,"item_id":32023}
     ]
 }

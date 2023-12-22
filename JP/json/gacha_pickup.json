@@ -41,6 +41,11 @@
         {"id":8,"priority":2,"reward_type":1,"reward_id":108301,"name":"ミサキ（ハロウィン）"},
         {"id":8,"priority":3,"reward_type":1,"reward_id":111101,"name":"キョウカ（ハロウィン）"},
         {"id":8,"priority":4,"reward_type":1,"reward_id":113901,"name":"ツムギ（ハロウィン）"},
-        {"id":8,"priority":5,"reward_type":1,"reward_id":117701,"name":"カオリ（ハロウィン）"}
+        {"id":8,"priority":5,"reward_type":1,"reward_id":117701,"name":"カオリ（ハロウィン）"},
+        {"id":9,"priority":1,"reward_type":1,"reward_id":108401,"name":"チカ（クリスマス）"},
+        {"id":9,"priority":2,"reward_type":1,"reward_id":108601,"name":"アヤネ（クリスマス）"},
+        {"id":9,"priority":3,"reward_type":1,"reward_id":111501,"name":"クリスティーナ（クリスマス）"},
+        {"id":9,"priority":4,"reward_type":1,"reward_id":114401,"name":"アキノ（クリスマス）"},
+        {"id":9,"priority":5,"reward_type":1,"reward_id":119901,"name":"ミヤコ（クリスマス）"}
     ]
 }

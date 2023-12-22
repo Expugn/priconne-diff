@@ -9,6 +9,9 @@
         {"equipment_id":130802,"consume_group_id":3},
         {"equipment_id":130812,"consume_group_id":6},
         {"equipment_id":130822,"consume_group_id":7},
-        {"equipment_id":130832,"consume_group_id":8}
+        {"equipment_id":130832,"consume_group_id":8},
+        {"equipment_id":130842,"consume_group_id":11},
+        {"equipment_id":130852,"consume_group_id":12},
+        {"equipment_id":130862,"consume_group_id":13}
     ]
 }
