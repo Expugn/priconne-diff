@@ -28,6 +28,10 @@
         {"id":5,"priority":1,"reward_type":1,"reward_id":107501,"name":"貪吃佩可（夏日）"},
         {"id":5,"priority":2,"reward_type":1,"reward_id":107801,"name":"凱留（夏日）"},
         {"id":5,"priority":3,"reward_type":1,"reward_id":110301,"name":"咲戀（夏日）"},
-        {"id":5,"priority":4,"reward_type":1,"reward_id":110001,"name":"鈴奈（夏日）"}
+        {"id":5,"priority":4,"reward_type":1,"reward_id":110001,"name":"鈴奈（夏日）"},
+        {"id":6,"priority":1,"reward_type":1,"reward_id":107701,"name":"鈴莓（夏日）"},
+        {"id":6,"priority":2,"reward_type":1,"reward_id":107901,"name":"珠希（夏日）"},
+        {"id":6,"priority":3,"reward_type":1,"reward_id":110601,"name":"真步（夏日）"},
+        {"id":6,"priority":4,"reward_type":1,"reward_id":110401,"name":"真琴（夏日）"}
     ]
 }
