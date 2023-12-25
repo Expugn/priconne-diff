@@ -1,1 +1,2 @@
 unit_id,id_1,id_2,home_1_pos_x,home_1_pos_y,home_1_depth,home_2_pos_x,home_2_pos_y,home_2_depth,profile_1_pos_x,profile_1_pos_y,profile_1_depth,profile_1_scale,profile_2_pos_x,profile_2_pos_y,profile_2_depth,profile_2_scale,actual_id1,actual_1_pos_x,actual_1_pos_y,actual_1_depth,actual_id2,actual_2_pos_x,actual_2_pos_y,actual_2_depth,skip_position_x,friend_pos_x
+"180701","118301","118401","-167","0","1","167","0","0","-110","35","1","0.9","110","35","0","0.9","118331","-150","0","1","118431","150","0","0","50","-64"

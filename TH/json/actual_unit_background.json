@@ -150,6 +150,7 @@
         {"unit_id":180331,"unit_name":"ชิโจ เรย์","bg_id":510100,"face_type":2},
         {"unit_id":180431,"unit_name":"ยูสเทียน่า-ฟอน-แอสแทร์","bg_id":510350,"face_type":4},
         {"unit_id":180531,"unit_name":"นัทสึเมะ โคโคโระ","bg_id":510100,"face_type":2},
-        {"unit_id":180631,"unit_name":"โมโมจิ คิรุยะ","bg_id":510351,"face_type":2}
+        {"unit_id":180631,"unit_name":"โมโมจิ คิรุยะ","bg_id":510351,"face_type":2},
+        {"unit_id":180731,"unit_name":"คาชิวาซากิ ชิโอริ & คาชิวาซากิ ฮาสึเนะ","bg_id":510070,"face_type":2}
     ]
 }

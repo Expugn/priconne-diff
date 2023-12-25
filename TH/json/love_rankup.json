@@ -1,5 +1,11 @@
 {
     "love_rankup": [
-
+        {"unit_id":180701,"love_rank":2,"effect_unit_id":118401},
+        {"unit_id":180701,"love_rank":3,"effect_unit_id":118301},
+        {"unit_id":180701,"love_rank":4,"effect_unit_id":118401},
+        {"unit_id":180701,"love_rank":5,"effect_unit_id":118401},
+        {"unit_id":180701,"love_rank":6,"effect_unit_id":118301},
+        {"unit_id":180701,"love_rank":7,"effect_unit_id":118401},
+        {"unit_id":180701,"love_rank":8,"effect_unit_id":118301}
     ]
 }

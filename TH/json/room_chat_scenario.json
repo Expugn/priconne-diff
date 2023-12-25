@@ -276,6 +276,21 @@
         {"id":25,"scenario_idx":1,"unit_pos_no":1,"delay":0,"affect_type":2,"anime_id":44,"icon_id":0},
         {"id":26,"scenario_idx":1,"unit_pos_no":1,"delay":0,"affect_type":2,"anime_id":45,"icon_id":0},
         {"id":27,"scenario_idx":1,"unit_pos_no":1,"delay":0,"affect_type":2,"anime_id":46,"icon_id":0},
-        {"id":28,"scenario_idx":1,"unit_pos_no":1,"delay":0,"affect_type":2,"anime_id":47,"icon_id":0}
+        {"id":28,"scenario_idx":1,"unit_pos_no":1,"delay":0,"affect_type":2,"anime_id":47,"icon_id":0},
+        {"id":29,"scenario_idx":1,"unit_pos_no":1,"delay":0,"affect_type":2,"anime_id":14,"icon_id":0},
+        {"id":30,"scenario_idx":1,"unit_pos_no":1,"delay":0,"affect_type":1,"anime_id":15,"icon_id":0},
+        {"id":30,"scenario_idx":2,"unit_pos_no":2,"delay":0,"affect_type":1,"anime_id":8,"icon_id":0},
+        {"id":30,"scenario_idx":3,"unit_pos_no":1,"delay":0,"affect_type":1,"anime_id":10,"icon_id":13},
+        {"id":30,"scenario_idx":4,"unit_pos_no":2,"delay":0,"affect_type":1,"anime_id":10,"icon_id":13},
+        {"id":30,"scenario_idx":5,"unit_pos_no":2,"delay":0,"affect_type":1,"anime_id":12,"icon_id":9},
+        {"id":30,"scenario_idx":6,"unit_pos_no":1,"delay":0,"affect_type":1,"anime_id":72,"icon_id":6},
+        {"id":30,"scenario_idx":7,"unit_pos_no":1,"delay":0,"affect_type":2,"anime_id":2,"icon_id":8},
+        {"id":30,"scenario_idx":8,"unit_pos_no":1,"delay":0,"affect_type":2,"anime_id":13,"icon_id":0},
+        {"id":31,"scenario_idx":1,"unit_pos_no":1,"delay":0,"affect_type":1,"anime_id":4,"icon_id":8},
+        {"id":31,"scenario_idx":2,"unit_pos_no":2,"delay":0,"affect_type":1,"anime_id":1,"icon_id":0},
+        {"id":31,"scenario_idx":3,"unit_pos_no":1,"delay":0,"affect_type":1,"anime_id":10,"icon_id":6},
+        {"id":31,"scenario_idx":4,"unit_pos_no":2,"delay":0,"affect_type":1,"anime_id":4,"icon_id":0},
+        {"id":31,"scenario_idx":5,"unit_pos_no":1,"delay":0,"affect_type":1,"anime_id":9,"icon_id":7},
+        {"id":31,"scenario_idx":6,"unit_pos_no":2,"delay":0,"affect_type":1,"anime_id":1,"icon_id":0}
     ]
 }

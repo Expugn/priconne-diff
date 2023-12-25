@@ -156,6 +156,7 @@
         {"unit_id":180301,"sp_motion":1},
         {"unit_id":180401,"sp_motion":1},
         {"unit_id":180501,"sp_motion":1},
-        {"unit_id":180601,"sp_motion":1}
+        {"unit_id":180601,"sp_motion":1},
+        {"unit_id":180701,"sp_motion":1}
     ]
 }
