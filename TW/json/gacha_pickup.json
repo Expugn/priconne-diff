@@ -32,6 +32,10 @@
         {"id":6,"priority":1,"reward_type":1,"reward_id":107701,"name":"鈴莓（夏日）"},
         {"id":6,"priority":2,"reward_type":1,"reward_id":107901,"name":"珠希（夏日）"},
         {"id":6,"priority":3,"reward_type":1,"reward_id":110601,"name":"真步（夏日）"},
-        {"id":6,"priority":4,"reward_type":1,"reward_id":110401,"name":"真琴（夏日）"}
+        {"id":6,"priority":4,"reward_type":1,"reward_id":110401,"name":"真琴（夏日）"},
+        {"id":7,"priority":1,"reward_type":1,"reward_id":117201,"name":"望（夏日）"},
+        {"id":7,"priority":2,"reward_type":1,"reward_id":117001,"name":"惠理子（夏日）"},
+        {"id":7,"priority":3,"reward_type":1,"reward_id":113101,"name":"流夏（夏日）"},
+        {"id":7,"priority":4,"reward_type":1,"reward_id":113401,"name":"初音（夏日）"}
     ]
 }
