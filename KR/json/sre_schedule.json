@@ -1,5 +1,5 @@
 {
     "sre_schedule": [
-        {"sre_id":3,"name":"종염의 엘리시온","teaser_time":"2024/01/14 15:00:00","start_time":"2024/01/15 15:00:00","end_time":"2024/01/22 14:59:59","count_start_time":"2024/01/21 14:59:59","close_time":"2024/02/08 14:59:59","story_id":2000002,"close_story_condition_id":9000003,"close_story_id":2116006,"top_bgm":"bgm_M643","top_bg":""}
+        {"sre_id":3,"name":"종염의 엘리시온","teaser_time":"2024/01/14 15:00:00","start_time":"2024/01/15 16:00:00","end_time":"2024/01/22 15:59:59","count_start_time":"2024/01/21 15:59:59","close_time":"2024/02/08 15:59:59","story_id":2000002,"close_story_condition_id":9000003,"close_story_id":2116006,"top_bgm":"bgm_M643","top_bg":""}
     ]
 }

@@ -1,14 +1,14 @@
 {
     "xeh_story_data": [
-        {"sub_story_id":5106601,"original_event_id":10106,"title":"성야의 유령×흡혈귀","reward_type":8,"reward_id":91002,"reward_count":45},
+        {"sub_story_id":5106601,"original_event_id":10106,"title":"크리스마스이브의 유령×흡혈귀","reward_type":8,"reward_id":91002,"reward_count":45},
         {"sub_story_id":5106602,"original_event_id":10106,"title":"작은 산타의 선물","reward_type":8,"reward_id":91002,"reward_count":45},
-        {"sub_story_id":5106603,"original_event_id":10106,"title":"아아 아름다운 크리스마스","reward_type":8,"reward_id":91002,"reward_count":45},
+        {"sub_story_id":5106603,"original_event_id":10106,"title":"아아… 아름다운 크리스마스","reward_type":8,"reward_id":91002,"reward_count":45},
         {"sub_story_id":5106604,"original_event_id":10106,"title":"빛나라! 크리스마스 라이브","reward_type":8,"reward_id":91002,"reward_count":45},
-        {"sub_story_id":5106605,"original_event_id":10106,"title":"엔젤 점괘에 주의","reward_type":8,"reward_id":91002,"reward_count":45},
+        {"sub_story_id":5106605,"original_event_id":10106,"title":"엔젤 점술에는 주의","reward_type":8,"reward_id":91002,"reward_count":45},
         {"sub_story_id":5106606,"original_event_id":10106,"title":"산타와 복슬복슬 순록","reward_type":8,"reward_id":91002,"reward_count":45},
         {"sub_story_id":5106607,"original_event_id":10106,"title":"누나의 사랑만 있으면","reward_type":8,"reward_id":91002,"reward_count":45},
         {"sub_story_id":5106608,"original_event_id":10106,"title":"솔직해지지 못하는 크리스마스","reward_type":8,"reward_id":91002,"reward_count":45},
         {"sub_story_id":5106609,"original_event_id":10106,"title":"노려라! 새로운 사업!","reward_type":8,"reward_id":91002,"reward_count":45},
-        {"sub_story_id":5106610,"original_event_id":10106,"title":"깨끗한 마음의 크리스마스","reward_type":8,"reward_id":91002,"reward_count":45}
+        {"sub_story_id":5106610,"original_event_id":10106,"title":"맑은 마음의 크리스마스","reward_type":8,"reward_id":91002,"reward_count":45}
     ]
 }
