@@ -1,7 +1,6 @@
 {
     "dear_setting": [
         {"event_id":10053,"system_name":"信赖度","tutorial_quest_id":10053102,"tutorial_chara_index":1,"tutorial_story_id":6017101},
-        {"event_id":10056,"system_name":"信赖度","tutorial_quest_id":10056103,"tutorial_chara_index":1,"tutorial_story_id":6056101},
         {"event_id":10061,"system_name":"信赖度","tutorial_quest_id":10061106,"tutorial_chara_index":1,"tutorial_story_id":6061101},
         {"event_id":10065,"system_name":"信赖度","tutorial_quest_id":10065103,"tutorial_chara_index":1,"tutorial_story_id":6038101},
         {"event_id":10066,"system_name":"信赖度","tutorial_quest_id":10066108,"tutorial_chara_index":1,"tutorial_story_id":6066101},
@@ -15,6 +14,7 @@
         {"event_id":10078,"system_name":"信赖度","tutorial_quest_id":10078114,"tutorial_chara_index":1,"tutorial_story_id":6078101},
         {"event_id":10079,"system_name":"信赖度","tutorial_quest_id":10079103,"tutorial_chara_index":1,"tutorial_story_id":6052101},
         {"event_id":10081,"system_name":"信赖度","tutorial_quest_id":10081103,"tutorial_chara_index":1,"tutorial_story_id":6054101},
+        {"event_id":10083,"system_name":"信赖度","tutorial_quest_id":10083103,"tutorial_chara_index":1,"tutorial_story_id":6056101},
         {"event_id":10088,"system_name":"信赖度","tutorial_quest_id":10088106,"tutorial_chara_index":1,"tutorial_story_id":6088201},
         {"event_id":10090,"system_name":"信赖度","tutorial_quest_id":10090104,"tutorial_chara_index":1,"tutorial_story_id":6090101},
         {"event_id":10094,"system_name":"信赖度","tutorial_quest_id":10094102,"tutorial_chara_index":1,"tutorial_story_id":6094101},
