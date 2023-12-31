@@ -31,6 +31,13 @@
         {"unit_id":181001,"love_rank":5,"effect_unit_id":124401},
         {"unit_id":181001,"love_rank":6,"effect_unit_id":124301},
         {"unit_id":181001,"love_rank":7,"effect_unit_id":124401},
-        {"unit_id":181001,"love_rank":8,"effect_unit_id":124301}
+        {"unit_id":181001,"love_rank":8,"effect_unit_id":124301},
+        {"unit_id":181101,"love_rank":2,"effect_unit_id":128201},
+        {"unit_id":181101,"love_rank":3,"effect_unit_id":128101},
+        {"unit_id":181101,"love_rank":4,"effect_unit_id":128201},
+        {"unit_id":181101,"love_rank":5,"effect_unit_id":128201},
+        {"unit_id":181101,"love_rank":6,"effect_unit_id":128101},
+        {"unit_id":181101,"love_rank":7,"effect_unit_id":128201},
+        {"unit_id":181101,"love_rank":8,"effect_unit_id":128101}
     ]
 }

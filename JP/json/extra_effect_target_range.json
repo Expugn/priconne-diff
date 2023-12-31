@@ -6,6 +6,11 @@
         {"target_id":4,"set_id":61013201,"group_id":6101324},
         {"target_id":5,"set_id":61013201,"group_id":6101325},
         {"target_id":6,"set_id":61013201,"group_id":6101326},
-        {"target_id":7,"set_id":61013201,"group_id":6101327}
+        {"target_id":7,"set_id":61013201,"group_id":6101327},
+        {"target_id":8,"set_id":61013401,"group_id":6101341},
+        {"target_id":9,"set_id":61013401,"group_id":6101342},
+        {"target_id":10,"set_id":61013401,"group_id":6101343},
+        {"target_id":11,"set_id":61013401,"group_id":6101344},
+        {"target_id":12,"set_id":61013401,"group_id":6101345}
     ]
 }
