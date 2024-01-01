@@ -4774,6 +4774,8 @@
         {"id":5367,"unit_id":117501,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"กลิ่นหอมทำให้รู้สึกสงบจัง\\nฉันลองเอาไปใช้\\nในห้องตรวจดูดีไหมนะ","insert_word_type":0},
         {"id":5368,"unit_id":117501,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"ถ้าตัวเย็นอาจจะป่วยได้นะ\\nทำตัวให้อุ่น\\nและดูแลสุขภาพให้ดีเถอะ","insert_word_type":0},
         {"id":5370,"unit_id":117501,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"อร่อยจัง♪\\nเป็นรสชาติที่\\nเหมาะจะเอาไป\\nพร้อมการวิจัยเลยล่ะ","insert_word_type":0},
-        {"id":5371,"unit_id":117501,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"การแพทย์พัฒนาอย่าง\\nรวดเร็ว...ถึงเป็นหมอเถื่อน\\nฉันก็ต้องหมั่นอ่าน\\nวิทยานิพนธ์ใหม่ล่าสุดไว้","insert_word_type":0}
+        {"id":5371,"unit_id":117501,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"การแพทย์พัฒนาอย่าง\\nรวดเร็ว...ถึงเป็นหมอเถื่อน\\nฉันก็ต้องหมั่นอ่าน\\nวิทยานิพนธ์ใหม่ล่าสุดไว้","insert_word_type":0},
+        {"id":5425,"unit_id":105701,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ถ้าเพื่อพวกพ้อง\\nฉันมั่นใจว่าจะ...แข็งแกร่งขึ้น\\nได้ทุกเมื่อ","insert_word_type":0},
+        {"id":5426,"unit_id":105701,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ปริ้นเซสฟอร์ม?\\nมีคนที่มีพลัง\\nแบบเดียวกับฉันเหรอ?\\nอยากเจอจังเลย~!","insert_word_type":0}
     ]
 }
