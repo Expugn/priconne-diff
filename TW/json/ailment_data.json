@@ -46,6 +46,7 @@
         {"ailment_id":44,"ailment_action":99,"ailment_detail_1":2,"ailment_name":"加速領域"},
         {"ailment_id":45,"ailment_action":99,"ailment_detail_1":1,"ailment_name":"緩速領域"},
         {"ailment_id":46,"ailment_action":49,"ailment_detail_1":20,"ailment_name":"消除增益（指定）"},
-        {"ailment_id":47,"ailment_action":101,"ailment_detail_1":5,"ailment_name":"擊打烙印（攻擊命中）"}
+        {"ailment_id":47,"ailment_action":101,"ailment_detail_1":5,"ailment_name":"擊打烙印（攻擊命中）"},
+        {"ailment_id":48,"ailment_action":79,"ailment_detail_1":10,"ailment_name":"行動時界雷傷害"}
     ]
 }

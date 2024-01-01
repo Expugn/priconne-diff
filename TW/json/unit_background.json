@@ -222,6 +222,7 @@
         {"unit_id":126201,"unit_name":"伊莉亞（祭服）","bg_id":501372,"bg_name":"瀑布潭_晚上","position":0,"face_type":20},
         {"unit_id":126301,"unit_name":"雪（祭服）","bg_id":500040,"bg_name":"蘭德索爾 公會小屋","position":0,"face_type":4},
         {"unit_id":126401,"unit_name":"克蘿茜","bg_id":501660,"bg_name":"吉歐‧提格尼亞_平原_白天","position":0,"face_type":4},
+        {"unit_id":126501,"unit_name":"萊拉耶爾","bg_id":501720,"bg_name":"吉歐‧提格尼亞_芭菲之城_王座之廳_白天","position":0,"face_type":4},
         {"unit_id":126601,"unit_name":"似似花（夏日）","bg_id":500692,"bg_name":"海邊的店_夜晚","position":0,"face_type":2},
         {"unit_id":126701,"unit_name":"秋乃（夏日）","bg_id":501030,"bg_name":"祈願海岸","position":0,"face_type":4},
         {"unit_id":126801,"unit_name":"優花梨（夏日）","bg_id":500280,"bg_name":"無人島","position":0,"face_type":4},

@@ -1,5 +1,28 @@
 {
     "asm_memory_gauge": [
-
+        {"gauge_id":1,"trigger_score":2500,"completion_detail":"取得累積分數2500分","unlock_story_id":5126700,"reward_type":12,"reward_id":94002,"reward_count":50000},
+        {"gauge_id":1,"trigger_score":5000,"completion_detail":"取得累積分數5000分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":50000},
+        {"gauge_id":1,"trigger_score":7500,"completion_detail":"取得累積分數7500分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":50000},
+        {"gauge_id":1,"trigger_score":10000,"completion_detail":"取得累積分數10000分","unlock_story_id":5126701,"reward_type":7,"reward_id":2839,"reward_count":1},
+        {"gauge_id":1,"trigger_score":12500,"completion_detail":"取得累積分數12500分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":80000},
+        {"gauge_id":1,"trigger_score":15000,"completion_detail":"取得累積分數15000分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":80000},
+        {"gauge_id":1,"trigger_score":17500,"completion_detail":"取得累積分數17500分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":80000},
+        {"gauge_id":1,"trigger_score":20000,"completion_detail":"取得累積分數20000分","unlock_story_id":5126702,"reward_type":8,"reward_id":91002,"reward_count":25},
+        {"gauge_id":1,"trigger_score":22500,"completion_detail":"取得累積分數22500分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":100000},
+        {"gauge_id":1,"trigger_score":25000,"completion_detail":"取得累積分數25000分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":100000},
+        {"gauge_id":1,"trigger_score":27500,"completion_detail":"取得累積分數27500分","unlock_story_id":0,"reward_type":8,"reward_id":91002,"reward_count":100},
+        {"gauge_id":1,"trigger_score":30000,"completion_detail":"取得累積分數30000分","unlock_story_id":5126703,"reward_type":15,"reward_id":11001262,"reward_count":1},
+        {"gauge_id":2,"trigger_score":2500,"completion_detail":"取得累積分數2500分","unlock_story_id":5126710,"reward_type":12,"reward_id":94002,"reward_count":50000},
+        {"gauge_id":2,"trigger_score":5000,"completion_detail":"取得累積分數5000分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":50000},
+        {"gauge_id":2,"trigger_score":7500,"completion_detail":"取得累積分數7500分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":50000},
+        {"gauge_id":2,"trigger_score":10000,"completion_detail":"取得累積分數10000分","unlock_story_id":5126711,"reward_type":7,"reward_id":2840,"reward_count":1},
+        {"gauge_id":2,"trigger_score":12500,"completion_detail":"取得累積分數12500分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":80000},
+        {"gauge_id":2,"trigger_score":15000,"completion_detail":"取得累積分數15000分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":80000},
+        {"gauge_id":2,"trigger_score":17500,"completion_detail":"取得累積分數17500分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":80000},
+        {"gauge_id":2,"trigger_score":20000,"completion_detail":"取得累積分數20000分","unlock_story_id":5126712,"reward_type":8,"reward_id":91002,"reward_count":25},
+        {"gauge_id":2,"trigger_score":22500,"completion_detail":"取得累積分數22500分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":100000},
+        {"gauge_id":2,"trigger_score":25000,"completion_detail":"取得累積分數25000分","unlock_story_id":0,"reward_type":12,"reward_id":94002,"reward_count":100000},
+        {"gauge_id":2,"trigger_score":27500,"completion_detail":"取得累積分數27500分","unlock_story_id":0,"reward_type":8,"reward_id":91002,"reward_count":100},
+        {"gauge_id":2,"trigger_score":30000,"completion_detail":"取得累積分數30000分","unlock_story_id":5126713,"reward_type":15,"reward_id":11001263,"reward_count":1}
     ]
 }
