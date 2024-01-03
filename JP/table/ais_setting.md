@@ -1,0 +1,2 @@
+|id|first_op_sub_story_id|first_op_release_condition_story_id|later_op_sub_story_id|later_op_release_condition_quest_id|later_op_release_condition_boss_id|last_sub_story_id|
+| --- | --- | --- | --- | --- | --- | --- |
