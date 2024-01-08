@@ -2,6 +2,7 @@
     "birthday_login_bonus_data": [
         {"login_bonus_id":9100101,"name":"ฮิโยริ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-08-27 5:00:00","end_time":"2023-08-28 4:59:59","adv_id":1001500},
         {"login_bonus_id":9100201,"name":"ยุย [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-04-05 5:00:00","end_time":"2023-04-06 4:59:59","adv_id":1002500},
+        {"login_bonus_id":9100301,"name":"เรย์ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-01-12 5:00:00","end_time":"2024-01-13 4:59:59","adv_id":1003500},
         {"login_bonus_id":9100401,"name":"มิโซงิ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-08-10 5:00:00","end_time":"2023-08-11 4:59:59","adv_id":1004500},
         {"login_bonus_id":9100501,"name":"มัทสึริ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-11-25 5:00:00","end_time":"2023-11-26 4:59:59","adv_id":1005500},
         {"login_bonus_id":9100601,"name":"โยริ & อาคาริ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-11-22 5:00:00","end_time":"2023-11-23 4:59:59","adv_id":1006500},
