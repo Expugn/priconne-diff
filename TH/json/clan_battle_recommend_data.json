@@ -6,8 +6,8 @@
         {"level_id":4,"recommend_group":2,"level_from":101,"level_to":120,"atack_party_count":2,"magic_party_count":2},
         {"level_id":5,"recommend_group":2,"level_from":121,"level_to":140,"atack_party_count":2,"magic_party_count":2},
         {"level_id":6,"recommend_group":2,"level_from":141,"level_to":160,"atack_party_count":2,"magic_party_count":2},
-        {"level_id":7,"recommend_group":3,"level_from":169,"level_to":188,"atack_party_count":2,"magic_party_count":2},
-        {"level_id":8,"recommend_group":3,"level_from":189,"level_to":198,"atack_party_count":2,"magic_party_count":2},
-        {"level_id":9,"recommend_group":3,"level_from":199,"level_to":208,"atack_party_count":2,"magic_party_count":2}
+        {"level_id":7,"recommend_group":3,"level_from":172,"level_to":191,"atack_party_count":2,"magic_party_count":2},
+        {"level_id":8,"recommend_group":3,"level_from":192,"level_to":201,"atack_party_count":2,"magic_party_count":2},
+        {"level_id":9,"recommend_group":3,"level_from":202,"level_to":211,"atack_party_count":2,"magic_party_count":2}
     ]
 }
