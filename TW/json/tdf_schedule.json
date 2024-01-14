@@ -1,6 +1,7 @@
 {
     "tdf_schedule": [
         {"schedule_id":1001,"count_start_time":"2023/07/11 15:59:59","recovery_disable_time":"2023/07/12","start_time":"2023/07/07 16:00:00","end_time":"2023/07/12 15:59:59","ex_quest_id":74001999},
-        {"schedule_id":1002,"count_start_time":"2023/10/13 15:59:59","recovery_disable_time":"2023/10/14","start_time":"2023/10/09 16:00:00","end_time":"2023/10/14 15:59:59","ex_quest_id":74001999}
+        {"schedule_id":1002,"count_start_time":"2023/10/13 15:59:59","recovery_disable_time":"2023/10/14","start_time":"2023/10/09 16:00:00","end_time":"2023/10/14 15:59:59","ex_quest_id":74001999},
+        {"schedule_id":1003,"count_start_time":"2024/01/09 15:59:59","recovery_disable_time":"2024/01/10","start_time":"2024/01/05 16:00:00","end_time":"2024/01/10 15:59:59","ex_quest_id":74001999}
     ]
 }
