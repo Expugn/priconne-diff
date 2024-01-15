@@ -125,6 +125,7 @@
         {"gacha_id":10124,"event_id":10124,"gacha_name":"戰慄幽奇海岸　～夏日度假村驚悚怪談～","item_type":2,"item_id":61232,"cost":1,"repeat_step":6},
         {"gacha_id":10125,"event_id":10125,"gacha_name":"小小夏日回憶錄　在海邊發現的小小幸福","item_type":2,"item_id":61242,"cost":1,"repeat_step":6},
         {"gacha_id":10126,"event_id":10126,"gacha_name":"魔法師的青春時日　魔法學園與奇蹟之鐘","item_type":2,"item_id":61252,"cost":1,"repeat_step":6},
+        {"gacha_id":10127,"event_id":10127,"gacha_name":"真步真步的神奇旅程！　旅行的少女與邊境的大樹","item_type":2,"item_id":61262,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"吸血鬼獵人 with伊莉亞","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
