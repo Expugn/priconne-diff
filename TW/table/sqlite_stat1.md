@@ -10,7 +10,7 @@
 |emblem_mission_data||920|
 |shiori_mission_reward_data|shiori_mission_reward_data_0_mission_reward_id|1981 2|
 |shiori_item||43|
-|campaign_schedule||1625|
+|campaign_schedule||1627|
 |tower_area_data||50|
 |dsb_story_data|dsb_story_data_0_original_event_id|9 9|
 |prizegacha_sp_detail||5|
@@ -40,7 +40,7 @@
 |hatsune_special_enemy||360|
 |campaign_freegacha||32|
 |room_item_announcement||2|
-|caravan_dish||13|
+|caravan_dish||15|
 |wac_drama_script|wac_drama_script_0_drama_id|17968 15|
 |tw_treasure_item||20|
 |ttk_story|ttk_story_0_ttk_score|5 1|
@@ -130,8 +130,8 @@
 |grand_arena_max_season_rank_reward||118|
 |dear_story_detail|dear_story_detail_0_story_group_id|577 20|
 |dear_story_detail|dear_story_detail_0_story_group_id_1_chara_index|577 20 8|
-|caravan_effect_setting|caravan_effect_setting_0_scene_type_1_effect_type|26 4 2|
-|caravan_effect_setting|caravan_effect_setting_0_scene_type|26 4|
+|caravan_effect_setting|caravan_effect_setting_0_scene_type_1_effect_type|27 4 2|
+|caravan_effect_setting|caravan_effect_setting_0_scene_type|27 4|
 |tdf_battle_effect|tdf_battle_effect_0_quest_id|137 3|
 |taq_unit||72|
 |cgg_goods_data||63|
@@ -161,7 +161,7 @@
 |nyx_drama_data||10|
 |login_bonus_message_data|login_bonus_message_data_0_login_bonus_id|500 72|
 |skill_action||12957|
-|caravan_map|caravan_map_0_season_id|319 319|
+|caravan_map|caravan_map_0_season_id|653 327|
 |kaiser_quest_data||5|
 |dear_setting||29|
 |event_wave_group_data||4518|
@@ -176,7 +176,7 @@
 |voice_group_chara||299|
 |unit_motion_list||242|
 |lv_quest_reward_data|sqlite_autoindex_lv_quest_reward_data_1|83 11 1 1|
-|caravan_map_object|caravan_map_object_0_season_id|180 180|
+|caravan_map_object|caravan_map_object_0_season_id|353 177|
 |taq_data||1229|
 |legion_battle_bonus|legion_battle_bonus_0_type_1_legion_boss_id|124 62 16|
 |legion_battle_bonus|legion_battle_bonus_0_type|124 62|
@@ -251,7 +251,7 @@
 |story_data||308|
 |campaign_mission_data|campaign_mission_data_0_campaign_id_1_type|16 16 8|
 |campaign_mission_data|campaign_mission_data_0_campaign_id|16 16|
-|caravan_schedule|caravan_schedule_0_coin_id|1 1|
+|caravan_schedule|caravan_schedule_0_coin_id|2 1|
 |tdf_quest_data||76|
 |legion_mission_data|legion_mission_data_0_category_id|29 6|
 |mme_story_data|mme_story_data_0_original_event_id|17 9|
@@ -306,7 +306,7 @@
 |secret_dungeon_quest_data|secret_dungeon_quest_data_0_dungeon_area_id_1_difficulty|350 50 10|
 |secret_dungeon_quest_data|secret_dungeon_quest_data_0_dungeon_area_id_1_floor_num|350 50 5|
 |room_skin_color||4|
-|caravan_navi_comment|caravan_navi_comment_0_season_id|4 4|
+|caravan_navi_comment|caravan_navi_comment_0_season_id|8 4|
 |sre_battle_bonus|sre_battle_bonus_0_sre_id_1_type|197 197 66|
 |sre_battle_bonus|sre_battle_bonus_0_sre_id_1_sre_boss_id|197 197 29|
 |sre_battle_bonus|sre_battle_bonus_0_type_1_sre_boss_id|197 66 10|
@@ -324,6 +324,7 @@
 |room_character_skin_color||249|
 |quest_defeat_notice||6|
 |profile_frame||11|
+|caravan_exclude_count_block||1|
 |sre_enemy_parameter||61|
 |ttk_reward|ttk_reward_0_ttk_score|15 1|
 |ttk_drama|ttk_drama_0_drama_id|62 11|
@@ -478,7 +479,7 @@
 |login_bonus_data||44|
 |story_character_mask||923|
 |skill_data||4775|
-|item_data||912|
+|item_data||915|
 |sjr_parameter_evaluation||4|
 |taq_completion_rewards||3|
 |taq_genre||6|
@@ -503,7 +504,7 @@
 |skip_boss_data||232|
 |character_love_rankup_text||42|
 |caravan_treasure|caravan_treasure_0_rarity_1_appraise_flag|24 8 4|
-|caravan_map_layout||319|
+|caravan_map_layout||653|
 |miroku_boss_data||1|
 |sre_effect||2|
 |sjr_rail|sjr_rail_0_rail_id|6594 13|
@@ -565,6 +566,7 @@
 |ailment_data||48|
 |return_specialfes_banner||22|
 |event_bg_data||1|
+|caravan_dish_reward||4|
 |ccc_chara||3|
 |tdf_phase_data|sqlite_autoindex_tdf_phase_data_1|15 5 1|
 |sjr_drama_script|sjr_drama_script_0_drama_id|223 10|
@@ -578,7 +580,7 @@
 |mission_category_icon||37|
 |equipment_craft||488|
 |caravan_event_effect||7|
-|caravan_coin_shop_lineup|caravan_coin_shop_lineup_0_season_id|20 20|
+|caravan_coin_shop_lineup|caravan_coin_shop_lineup_0_season_id|39 20|
 |app_icon||83|
 |sjr_name_former||131|
 |wac_birthday_drama_script|wac_birthday_drama_script_0_drama_id|5994 83|
@@ -610,14 +612,14 @@
 |lsv_story_script|lsv_story_script_0_story_id|436 30|
 |custom_mypage_group||7|
 |clanprofile_content||35|
-|caravan_buff_disp|caravan_buff_disp_0_type_1_effect_id|17 9 2|
+|caravan_buff_disp|caravan_buff_disp_0_type_1_effect_id|22 11 2|
 |sjr_proper_evaluation||3|
 |taq_necessary_word||157|
 |travel_quest_result||6|
 |sekai_boss_fix_reward||10|
 |chara_fortune_schedule||9|
 |mypage_frame|mypage_frame_0_group_id|5 1|
-|caravan_goal_bonus|caravan_goal_bonus_0_season_id|13 13|
+|caravan_goal_bonus|caravan_goal_bonus_0_season_id|26 13|
 |wac_mural_data|wac_mural_data_0_mural_group_id|122 11|
 |wac_mural_data|sqlite_autoindex_wac_mural_data_1|122 11 1|
 |arena_defence_reward||1|

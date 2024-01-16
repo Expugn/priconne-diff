@@ -1,5 +1,5 @@
 {
     "caravan_exclude_count_block": [
-
+        {"exclude_group_id":1,"block_type_1":2,"block_type_2":0,"block_type_3":0}
     ]
 }
