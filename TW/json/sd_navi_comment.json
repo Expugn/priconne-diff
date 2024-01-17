@@ -12,6 +12,7 @@
         {"comment_id":1008001,"where_type":1008,"character_id":190801,"motion_type":6,"description":"使用慈樂之音代幣\\n來獲得加油道具吧！\\n代幣可以用盧幣來交換喔。\\n","voice_id":0,"start_time":"2022-01-03 16:00:00","end_time":"2030-04-01 14:00:00"},
         {"comment_id":1009001,"where_type":1009,"character_id":190801,"motion_type":13,"description":"試著在布丁筆記本中確認\\n吃掉的布丁吧！\\n布丁的材料可以使用\\n盧幣購買喔。","voice_id":0,"start_time":"2022-04-25 16:00:00","end_time":"2030-04-01 14:00:00"},
         {"comment_id":1010001,"where_type":1010,"character_id":190801,"motion_type":4,"description":"小隊一起來挑戰謎題看看吧！\\n看是要單獨試試自己的實力，還是要和多\\n位夥伴一起遊玩，請選擇\\n喜歡的模式吧♪","voice_id":0,"start_time":"2022-08-01 16:00:00","end_time":"2030-04-01 14:00:00"},
-        {"comment_id":1011001,"where_type":1011,"character_id":190801,"motion_type":6,"description":"在3個回合內盡情奔馳，\\n以綜合排名第１名為目標吧！\\n各參加角色與GP的特徵，\\n也是值得注目喔♪","voice_id":0,"start_time":"2022-11-25 16:00:00","end_time":"2030-04-01 14:00:00"}
+        {"comment_id":1011001,"where_type":1011,"character_id":190801,"motion_type":6,"description":"在3個回合內盡情奔馳，\\n以綜合排名第１名為目標吧！\\n各參加角色與GP的特徵，\\n也是值得注目喔♪","voice_id":0,"start_time":"2022-11-25 16:00:00","end_time":"2030-04-01 14:00:00"},
+        {"comment_id":1012001,"where_type":1012,"character_id":190801,"motion_type":6,"description":"跟凱留同學、鈴奈同學一起\\n用猜謎來學習吧！\\n放學後兩個人單獨待在教室……\\n總覺得很令人怦然心動呢♪","voice_id":0,"start_time":"2024-01-17 16:00:00","end_time":"2030-04-01 14:00:00"}
     ]
 }
