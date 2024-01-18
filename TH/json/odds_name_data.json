@@ -156,6 +156,9 @@
         {"id":1007401,"odds_file":"1007420101","name":"เมโมรี่พีซของนิน่อน (โอเอโดะ)","icon_type":99002,"description":""},
         {"id":1007402,"odds_file":"1007420102","name":"เมโมรี่พีซของมิสึกิ","icon_type":99002,"description":""},
         {"id":1007501,"odds_file":"1007520101","name":"เมโมรี่พีซของสึซึนะ","icon_type":99002,"description":""},
-        {"id":1007502,"odds_file":"1007520102","name":"เมโมรี่พีซของนานากะ","icon_type":99002,"description":""}
+        {"id":1007502,"odds_file":"1007520102","name":"เมโมรี่พีซของนานากะ","icon_type":99002,"description":""},
+        {"id":1007601,"odds_file":"1007620101","name":"เมโมรี่พีซของนิน่อน (ฮาโลวีน)","icon_type":99002,"description":""},
+        {"id":1007602,"odds_file":"1007620102","name":"เมโมรี่พีซของจุน","icon_type":99002,"description":""},
+        {"id":1007603,"odds_file":"box_rank_5-13","name":"กล่องสุ่มอุปกรณ์","icon_type":99002,"description":"กล่องที่สามารถสุ่มรับอุปกรณ์ได้"}
     ]
 }

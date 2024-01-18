@@ -834,6 +834,12 @@
         {"id":946,"campaign_category":84,"value":1500,"system_id":109,"icon_image":80,"start_time":"2024/01/18 05:00:00","end_time":"2024/01/24 05:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0},
         {"id":947,"campaign_category":85,"value":1500,"system_id":112,"icon_image":80,"start_time":"2024/01/18 05:00:00","end_time":"2024/01/24 05:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0},
         {"id":948,"campaign_category":351,"value":1500,"system_id":8004,"icon_image":80,"start_time":"2024/01/18 05:00:00","end_time":"2024/01/24 05:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0},
-        {"id":949,"campaign_category":352,"value":1500,"system_id":8005,"icon_image":80,"start_time":"2024/01/18 05:00:00","end_time":"2024/01/24 05:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0}
+        {"id":949,"campaign_category":352,"value":1500,"system_id":8005,"icon_image":80,"start_time":"2024/01/18 05:00:00","end_time":"2024/01/24 05:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0},
+        {"id":950,"campaign_category":37,"value":2000,"system_id":109,"icon_image":30,"start_time":"2024/01/19 12:00:00","end_time":"2024/01/26 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0},
+        {"id":951,"campaign_category":38,"value":2000,"system_id":112,"icon_image":30,"start_time":"2024/01/19 12:00:00","end_time":"2024/01/26 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0},
+        {"id":952,"campaign_category":31,"value":2000,"system_id":101,"icon_image":30,"start_time":"2024/01/19 12:00:00","end_time":"2024/01/26 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0},
+        {"id":953,"campaign_category":41,"value":2000,"system_id":101,"icon_image":40,"start_time":"2024/01/19 12:00:00","end_time":"2024/01/26 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0},
+        {"id":954,"campaign_category":34,"value":2000,"system_id":103,"icon_image":30,"start_time":"2024/01/19 12:00:00","end_time":"2024/01/31 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0},
+        {"id":955,"campaign_category":44,"value":2000,"system_id":103,"icon_image":40,"start_time":"2024/01/19 12:00:00","end_time":"2024/01/31 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0}
     ]
 }
