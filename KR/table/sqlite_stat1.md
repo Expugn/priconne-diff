@@ -148,7 +148,7 @@
 |sekai_add_times_data||12|
 |clan_battle_s_map_data|clan_battle_s_map_data_0_clan_battle_id|214 4|
 |unit_unique_equip||168|
-|story_detail|story_detail_0_unlock_quest_id|1817 6|
+|story_detail|story_detail_0_unlock_quest_id|1819 6|
 |content_map_data||5|
 |sjr_ub_data||30|
 |legion_schedule||1|

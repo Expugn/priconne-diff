@@ -148,7 +148,7 @@
         {"tbl":"sekai_add_times_data","idx":null,"stat":"12"},
         {"tbl":"clan_battle_s_map_data","idx":"clan_battle_s_map_data_0_clan_battle_id","stat":"214 4"},
         {"tbl":"unit_unique_equip","idx":null,"stat":"168"},
-        {"tbl":"story_detail","idx":"story_detail_0_unlock_quest_id","stat":"1817 6"},
+        {"tbl":"story_detail","idx":"story_detail_0_unlock_quest_id","stat":"1819 6"},
         {"tbl":"content_map_data","idx":null,"stat":"5"},
         {"tbl":"sjr_ub_data","idx":null,"stat":"30"},
         {"tbl":"legion_schedule","idx":null,"stat":"1"},
