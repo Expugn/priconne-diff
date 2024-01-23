@@ -308,6 +308,7 @@
         {"story_group_id":9002,"story_type":4,"value":0,"title":"3rd Anniversary","thumbnail_id":0,"disp_order":0,"start_time":"2021/07/17 05:00:00","end_time":"2030/12/17 14:59:59","order":6,"condition_free_flag":0,"gojuon_order":40211},
         {"story_group_id":9004,"story_type":4,"value":0,"title":"4th Anniversary","thumbnail_id":0,"disp_order":0,"start_time":"2022/07/16 05:00:00","end_time":"2030/12/17 14:59:59","order":6,"condition_free_flag":0,"gojuon_order":40211},
         {"story_group_id":9005,"story_type":4,"value":0,"title":"4.5th Anniversary","thumbnail_id":0,"disp_order":0,"start_time":"2023/01/06 05:00:00","end_time":"2030/12/17 14:59:59","order":6,"condition_free_flag":0,"gojuon_order":40211},
-        {"story_group_id":9006,"story_type":4,"value":0,"title":"5th Anniversary","thumbnail_id":0,"disp_order":0,"start_time":"2023/07/17 05:00:00","end_time":"2030/12/17 14:59:59","order":6,"condition_free_flag":0,"gojuon_order":40211}
+        {"story_group_id":9006,"story_type":4,"value":0,"title":"5th Anniversary","thumbnail_id":0,"disp_order":0,"start_time":"2023/07/17 05:00:00","end_time":"2030/12/17 14:59:59","order":6,"condition_free_flag":0,"gojuon_order":40211},
+        {"story_group_id":9007,"story_type":4,"value":0,"title":"5.5 Year Anniversary","thumbnail_id":0,"disp_order":0,"start_time":"2024/01/24 05:00:00","end_time":"2030/12/17 14:59:59","order":6,"condition_free_flag":0,"gojuon_order":40211}
     ]
 }
