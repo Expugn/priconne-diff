@@ -1,0 +1,2 @@
+|dungeon_area_id|teaser_time|start_time|count_start_time|end_time|close_time|
+| --- | --- | --- | --- | --- | --- |

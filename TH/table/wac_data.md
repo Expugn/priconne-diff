@@ -1,0 +1,2 @@
+|wac_id|date_id|unlock_time|pre_drama_id|post_drama_id|idle_drama_id|bg_id|effect_id|mural_group_id|mural_offset_x|birthday_login_bonus_id|unit_id_1|unit_id_2|draw_end_to_center|unit_search_id|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

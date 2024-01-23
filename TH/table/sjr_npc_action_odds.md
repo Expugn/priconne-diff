@@ -1,0 +1,2 @@
+|id|action_odds_id|distance|angle|rate|
+| --- | --- | --- | --- | --- |

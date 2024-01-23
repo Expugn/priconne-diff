@@ -1,0 +1,2 @@
+|quest_id|category_id|difficulty|battle_name|detail_bg_id|detail_bg_position|detail_boss_bg_size|detail_boss_bg_height|result_boss_position_y|limit_time|background|wave_group_id|wave_bgm_sheet_id|wave_bgm_que_id|clear_reward_group|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -1,0 +1,2 @@
+|mural_group_id|date_id|parts_id|pos_x|pos_y|depth|width|height|
+| --- | --- | --- | --- | --- | --- | --- | --- |

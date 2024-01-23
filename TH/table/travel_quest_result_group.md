@@ -1,0 +1,2 @@
+|id|situation_group_id|situation_id|
+| --- | --- | --- |

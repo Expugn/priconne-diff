@@ -1,0 +1,2 @@
+|gacha_id|rarity|disp_rarity|
+| --- | --- | --- |

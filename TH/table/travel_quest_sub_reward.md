@@ -1,0 +1,2 @@
+|id|travel_quest_id|reward_type|reward_id|disp_order|
+| --- | --- | --- | --- | --- |

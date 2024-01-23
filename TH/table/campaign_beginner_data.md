@@ -1,0 +1,2 @@
+|beginner_id|id_from|id_to|
+| --- | --- | --- |

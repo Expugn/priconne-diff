@@ -1,0 +1,2 @@
+|category_id|category_name|icon_id|label_type_1|label_type_2|label_type_3|description|description_detail|
+| --- | --- | --- | --- | --- | --- | --- | --- |

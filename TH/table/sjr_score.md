@@ -1,0 +1,2 @@
+|round|type|first_score|second_score|third_score|time_score|action_score|normal_bonus|hard_bonus|extra_bonus|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

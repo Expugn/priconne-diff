@@ -1,0 +1,2 @@
+|travel_area_id|travel_area_name|condition_team_lv|bg_id|top_icon_id|top_icon_x|top_icon_y|start_time|end_time|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |

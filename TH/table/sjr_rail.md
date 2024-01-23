@@ -1,0 +1,2 @@
+|id|rail_id|gimmick_id|gimmick_pos|
+| --- | --- | --- | --- |

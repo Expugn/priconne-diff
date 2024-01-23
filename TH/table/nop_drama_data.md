@@ -1,0 +1,2 @@
+|id|stage_id|position_id_1|position_id_2|position_id_3|col_size_x|col_size_y|col_pos_y|talk_pos_x|talk_pos_y|idle_drama_id|talk_drama_id|event_drama_id|create_back_drama_id|create_front_drama_id|sub_story_id|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

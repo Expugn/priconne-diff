@@ -1,0 +1,2 @@
+|rarity|enhance_level|needed_mana|needed_point|total_point|rankup_level|
+| --- | --- | --- | --- | --- | --- |

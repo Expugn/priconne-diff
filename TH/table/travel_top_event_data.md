@@ -1,0 +1,2 @@
+|top_event_id|drama_type|pattern|zoom_offset_x|zoom_offset_y|pre_drama_id|main_drama_id|branch_id_1|branch_id_2|branch_id_3|branch_id_4|branch_id_5|chest_id|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

@@ -1,0 +1,2 @@
+|situation_id|drama_id|
+| --- | --- |

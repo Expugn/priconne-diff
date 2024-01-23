@@ -1,0 +1,2 @@
+|unit_id|slot_category_1|slot_category_2|slot_category_3|
+| --- | --- | --- | --- |

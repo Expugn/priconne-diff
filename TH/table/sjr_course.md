@@ -1,0 +1,2 @@
+|course_id|type|difficulty_level|feature|length|peek_pos|time|rail_1|rail_2|rail_3|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

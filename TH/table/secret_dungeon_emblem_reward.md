@@ -1,0 +1,2 @@
+|id|mission_reward_id|reward_type|reward_id|reward_num|icon_type|
+| --- | --- | --- | --- | --- | --- |

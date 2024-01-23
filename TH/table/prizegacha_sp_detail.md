@@ -1,0 +1,2 @@
+|disp_rarity|effect_id|name|
+| --- | --- | --- |

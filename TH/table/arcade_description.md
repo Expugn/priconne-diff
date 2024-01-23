@@ -1,0 +1,2 @@
+|id|arcade_id|type|image_id|description|
+| --- | --- | --- | --- | --- |

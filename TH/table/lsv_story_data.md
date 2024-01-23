@@ -1,0 +1,2 @@
+|sub_story_id|original_event_id|title|time_condition|condition_quest_id|read_event_story_id|read_condition|
+| --- | --- | --- | --- | --- | --- | --- |
