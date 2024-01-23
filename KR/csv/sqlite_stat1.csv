@@ -223,7 +223,7 @@ tbl,idx,stat
 "travel_top_event_data","sqlite_autoindex_travel_top_event_data_1","18 1 1"
 "hatsune_diary_script","hatsune_diary_script_0_diary_id","427 31"
 "gift_message","","142"
-"skill_action","","10930"
+"skill_action","","10932"
 "ex_equipment_recycle_reward","","4"
 "sre_enemy_parameter","","61"
 "sre_effective_unit","sre_effective_unit_0_sre_boss_id_1_sre_id","209 30 30"

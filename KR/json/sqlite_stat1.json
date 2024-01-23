@@ -224,7 +224,7 @@
         {"tbl":"travel_top_event_data","idx":"sqlite_autoindex_travel_top_event_data_1","stat":"18 1 1"},
         {"tbl":"hatsune_diary_script","idx":"hatsune_diary_script_0_diary_id","stat":"427 31"},
         {"tbl":"gift_message","idx":null,"stat":"142"},
-        {"tbl":"skill_action","idx":null,"stat":"10930"},
+        {"tbl":"skill_action","idx":null,"stat":"10932"},
         {"tbl":"ex_equipment_recycle_reward","idx":null,"stat":"4"},
         {"tbl":"sre_enemy_parameter","idx":null,"stat":"61"},
         {"tbl":"sre_effective_unit","idx":"sre_effective_unit_0_sre_boss_id_1_sre_id","stat":"209 30 30"},
