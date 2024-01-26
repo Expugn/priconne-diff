@@ -14,14 +14,14 @@
 |tower_area_data||50|
 |dsb_story_data|dsb_story_data_0_original_event_id|9 9|
 |prizegacha_sp_detail||5|
-|gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|660 3|
+|gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|661 3|
 |clan_battle_archive_clan_rank||14|
 |clan_cost_group||6|
 |asm_4_choice_data||900|
 |tower_ex_quest_data|tower_ex_quest_data_0_floor_num|50 1|
 |event_navi_comment_condition||1784|
 |sekai_boss_mode||12|
-|prizegacha_data||109|
+|prizegacha_data||110|
 |clan_battle_last_attack_reward||3|
 |secret_dungeon_emblem_mission||35|
 |space_battle_data||1|
@@ -353,7 +353,7 @@
 |srt_reward||15|
 |tower_schedule|tower_schedule_0_opening_story_id|50 1|
 |hatsune_relay_data||48|
-|gacha_data|gacha_data_0_exchange_id|893 4|
+|gacha_data|gacha_data_0_exchange_id|896 4|
 |secret_dungeon_enemy_info|sqlite_autoindex_secret_dungeon_enemy_info_1|35 5 1|
 |custom_mypage|custom_mypage_0_still_group_id|24 24|
 |room_item_detail|room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2|552 552 552|
@@ -366,7 +366,7 @@
 |login_bonus_detail|login_bonus_detail_0_login_bonus_id_1_count|402 11 1|
 |redeem_unit|redeem_unit_0_unit_id|6 3|
 |growth_parameter_unique||2|
-|unit_introduction|unit_introduction_0_gacha_id|269 1|
+|unit_introduction|unit_introduction_0_gacha_id|270 1|
 |content_map_data||5|
 |quest_condition_data||1189|
 |mission_condition_data|mission_condition_data_0_condition_group_id|11 2|
@@ -489,7 +489,7 @@
 |sd_navi_comment||14|
 |worldmap|worldmap_0_map_type|5 2|
 |enemy_ignore_skill_rf||177|
-|banner||297|
+|banner||298|
 |caravan_dice_reward_period||1|
 |byway_quest_data|byway_quest_data_0_area_id|26 7|
 |tdf_top_offset||5|
