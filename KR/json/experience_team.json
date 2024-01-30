@@ -256,6 +256,24 @@
         {"team_level":254,"total_exp":830359,"max_stamina":312,"over_limit_stamina":999,"recover_stamina_count":30},
         {"team_level":255,"total_exp":834784,"max_stamina":313,"over_limit_stamina":999,"recover_stamina_count":30},
         {"team_level":256,"total_exp":839209,"max_stamina":314,"over_limit_stamina":999,"recover_stamina_count":30},
-        {"team_level":257,"total_exp":843634,"max_stamina":315,"over_limit_stamina":999,"recover_stamina_count":30}
+        {"team_level":257,"total_exp":843634,"max_stamina":315,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":258,"total_exp":848059,"max_stamina":316,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":259,"total_exp":852484,"max_stamina":317,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":260,"total_exp":856909,"max_stamina":318,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":261,"total_exp":861334,"max_stamina":319,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":262,"total_exp":865759,"max_stamina":320,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":263,"total_exp":870184,"max_stamina":321,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":264,"total_exp":874609,"max_stamina":322,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":265,"total_exp":879034,"max_stamina":323,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":266,"total_exp":883459,"max_stamina":324,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":267,"total_exp":887884,"max_stamina":325,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":268,"total_exp":892309,"max_stamina":326,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":269,"total_exp":896734,"max_stamina":327,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":270,"total_exp":901159,"max_stamina":328,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":271,"total_exp":905584,"max_stamina":329,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":272,"total_exp":910009,"max_stamina":330,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":273,"total_exp":914434,"max_stamina":331,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":274,"total_exp":918859,"max_stamina":332,"over_limit_stamina":999,"recover_stamina_count":30},
+        {"team_level":275,"total_exp":923284,"max_stamina":333,"over_limit_stamina":999,"recover_stamina_count":30}
     ]
 }

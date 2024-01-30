@@ -95,9 +95,9 @@
         {"still_id":9000092,"group_id":20001,"still_group_id":0,"still_name":"3주년 기념 커스텀 마이 페이지 1","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
         {"still_id":9000093,"group_id":20001,"still_group_id":0,"still_name":"3주년 기념 커스텀 마이 페이지 2","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
         {"still_id":9000094,"group_id":20001,"still_group_id":0,"still_name":"3주년 기념 커스텀 마이 페이지 3","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
-        {"still_id":9000095,"group_id":20002,"still_group_id":0,"still_name":"공식 아트웍스 Vol.3 발매 기념 아이템1","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
-        {"still_id":9000096,"group_id":20002,"still_group_id":0,"still_name":"공식 아트웍스 Vol.3 발매 기념 아이템2","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
-        {"still_id":9000097,"group_id":20002,"still_group_id":0,"still_name":"공식 아트웍스 Vol.3 발매 기념 아이템3","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000095,"group_id":20002,"still_group_id":0,"still_name":"공식 아트웍스 Vol.1 발매 기념 커스텀 마이 페이지","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000096,"group_id":20002,"still_group_id":0,"still_name":"공식 아트웍스 Vol.2 발매 기념 커스텀 마이 페이지","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000097,"group_id":20002,"still_group_id":0,"still_name":"공식 아트웍스 Vol.3 발매 기념 커스텀 마이 페이지","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
         {"still_id":9000098,"group_id":20003,"still_group_id":0,"still_name":"3.5주년 기념 커스텀 마이 페이지 1","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
         {"still_id":9000099,"group_id":20003,"still_group_id":0,"still_name":"3.5주년 기념 커스텀 마이 페이지 2","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
         {"still_id":9000100,"group_id":30001,"still_group_id":0,"still_name":"미야코's 키친 궁극으로의 길","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
@@ -220,6 +220,13 @@
         {"still_id":9000218,"group_id":40001,"still_group_id":0,"still_name":"할로윈 파티","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
         {"still_id":9000219,"group_id":40001,"still_group_id":0,"still_name":"가을 하면......","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
         {"still_id":9000220,"group_id":40001,"still_group_id":0,"still_name":"Wish a Merry Xmas","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
-        {"still_id":9000221,"group_id":40001,"still_group_id":0,"still_name":"새해의 한때","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1}
+        {"still_id":9000221,"group_id":40001,"still_group_id":0,"still_name":"새해의 한때","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000222,"group_id":30001,"still_group_id":0,"still_name":"추억의 조각모음 커스텀 마이 페이지","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000223,"group_id":40002,"still_group_id":0,"still_name":"로손 콜라보 기념 커스텀 마이 페이지","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000224,"group_id":40001,"still_group_id":0,"still_name":"Valentine's Day","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000225,"group_id":20006,"still_group_id":0,"still_name":"5주년 기념 커스텀 마이 페이지","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000226,"group_id":40001,"still_group_id":0,"still_name":"그리고 다시, 찾아온 봄","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000227,"group_id":30001,"still_group_id":0,"still_name":"북의 장인 포스터","vertical_still_flg":0,"scroll_direction":0,"mypage_type":1},
+        {"still_id":9000228,"group_id":40001,"still_group_id":0,"still_name":"추억의 궤적","vertical_still_flg":0,"scroll_direction":0,"mypage_type":2}
     ]
 }

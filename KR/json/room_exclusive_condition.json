@@ -1,5 +1,6 @@
 {
     "room_exclusive_condition": [
-        {"id":10000001,"unit_id":118501,"room_item_id":1,"notification":"카린과 카린의 책상은 동시에 배치할 수 없습니다."}
+        {"id":10000001,"unit_id":118501,"room_item_id":1,"notification":"카린과 카린의 책상은 동시에 배치할 수 없습니다."},
+        {"id":10000002,"unit_id":125701,"room_item_id":1,"notification":"카린과 카린의 책상은 동시에 배치할 수 없습니다."}
     ]
 }

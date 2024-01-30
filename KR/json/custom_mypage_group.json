@@ -13,7 +13,9 @@
         {"group_id":20003,"group_name":"프린세스 커넥트! Re:Dive 3.5주년 기념"},
         {"group_id":20004,"group_name":"프린세스 커넥트! Re:Dive 4주년 기념"},
         {"group_id":20005,"group_name":"프린세스 커넥트! Re:Dive 4.5주년 기념"},
-        {"group_id":30001,"group_name":"미니 게임"},
-        {"group_id":40001,"group_name":"모두의 캘린더"}
+        {"group_id":20006,"group_name":"프린세스 커넥트! Re:Dive 5주년 기념"},
+        {"group_id":30001,"group_name":"미니 게임・미니 콘텐츠"},
+        {"group_id":40001,"group_name":"모두의 캘린더"},
+        {"group_id":40002,"group_name":"로손 콜라보 기념"}
     ]
 }

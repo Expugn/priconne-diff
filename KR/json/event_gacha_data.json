@@ -107,6 +107,20 @@
         {"gacha_id":10106,"event_id":10106,"gacha_name":"해피 해프닝 행복의 쌍둥이 천사와 성야의 선물","item_type":2,"item_id":61052,"cost":1,"repeat_step":6},
         {"gacha_id":10107,"event_id":10107,"gacha_name":"메리 푸딩 크리스마스! 하늘을 나는 소녀와 정성 담긴 과자","item_type":2,"item_id":61062,"cost":1,"repeat_step":6},
         {"gacha_id":10108,"event_id":10108,"gacha_name":"온천 수증기 망년기담 새해 첫날 해돋이에 잔을","item_type":2,"item_id":61072,"cost":1,"repeat_step":6},
+        {"gacha_id":10109,"event_id":10109,"gacha_name":"신춘 미식 메모리즈 셰피의 심부름 대작전!","item_type":2,"item_id":61082,"cost":1,"repeat_step":6},
+        {"gacha_id":10110,"event_id":10110,"gacha_name":"리버레이트 디 에덴 언젠가, 다시 만날 미래에서","item_type":2,"item_id":61092,"cost":1,"repeat_step":6},
+        {"gacha_id":10111,"event_id":10111,"gacha_name":"리버레이트 디 에덴 언젠가, 다시 만날 미래에서","item_type":2,"item_id":61102,"cost":1,"repeat_step":6},
+        {"gacha_id":10112,"event_id":10112,"gacha_name":"Re:member 내 소원이 이어가는 미래","item_type":2,"item_id":61112,"cost":1,"repeat_step":6},
+        {"gacha_id":10113,"event_id":10113,"gacha_name":"Re:member 내 소원이 이어가는 미래","item_type":2,"item_id":61122,"cost":1,"repeat_step":6},
+        {"gacha_id":10114,"event_id":10114,"gacha_name":"고양이와 막과자 찻집 카페 나슈카체에 어서 오세요","item_type":2,"item_id":61132,"cost":1,"repeat_step":6},
+        {"gacha_id":10115,"event_id":10115,"gacha_name":"스위트 타이니 스테이지! 신인 여배우와 리틀 레이디","item_type":2,"item_id":61142,"cost":1,"repeat_step":6},
+        {"gacha_id":10116,"event_id":10116,"gacha_name":"Dears 어서 와&다녀왔어의 약속","item_type":2,"item_id":61152,"cost":1,"repeat_step":6},
+        {"gacha_id":10117,"event_id":10117,"gacha_name":"보물 환영! 인비저블 스틸러즈","item_type":2,"item_id":61162,"cost":1,"repeat_step":6},
+        {"gacha_id":10118,"event_id":10118,"gacha_name":"커넥트 위드 블루 소녀가 하늘에 닿기까지","item_type":2,"item_id":61172,"cost":1,"repeat_step":6},
+        {"gacha_id":10119,"event_id":10119,"gacha_name":"에피소드 오브 파이러츠 해적섬의 저주받은 보물","item_type":2,"item_id":61182,"cost":1,"repeat_step":6},
+        {"gacha_id":10120,"event_id":10120,"gacha_name":"뱀파이어 포크로어 밤과 미의 향연","item_type":2,"item_id":61192,"cost":1,"repeat_step":6},
+        {"gacha_id":10121,"event_id":10121,"gacha_name":"엔조이＆리프레시! 울퉁불퉁 걸즈 캠프","item_type":2,"item_id":61202,"cost":1,"repeat_step":6},
+        {"gacha_id":10122,"event_id":10122,"gacha_name":"오마의 물 텅텅 대작전 비밀주의자와 금단의 바다","item_type":2,"item_id":61212,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"뱀파이어 헌터 with 이리야 토벌증 교환","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }

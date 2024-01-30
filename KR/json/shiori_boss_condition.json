@@ -104,6 +104,24 @@
         {"boss_id":2003403,"event_id":20034,"condition_quest_id":0,"condition_boss_id":2003402,"release_quest_id":0,"release_boss_id":0},
         {"boss_id":2003501,"event_id":20035,"condition_quest_id":20035115,"condition_boss_id":0,"release_quest_id":20035201,"release_boss_id":2003502},
         {"boss_id":2003502,"event_id":20035,"condition_quest_id":0,"condition_boss_id":2003501,"release_quest_id":0,"release_boss_id":2003503},
-        {"boss_id":2003503,"event_id":20035,"condition_quest_id":0,"condition_boss_id":2003502,"release_quest_id":0,"release_boss_id":0}
+        {"boss_id":2003503,"event_id":20035,"condition_quest_id":0,"condition_boss_id":2003502,"release_quest_id":0,"release_boss_id":0},
+        {"boss_id":2003601,"event_id":20036,"condition_quest_id":20036115,"condition_boss_id":0,"release_quest_id":20036201,"release_boss_id":2003602},
+        {"boss_id":2003602,"event_id":20036,"condition_quest_id":0,"condition_boss_id":2003601,"release_quest_id":0,"release_boss_id":2003603},
+        {"boss_id":2003603,"event_id":20036,"condition_quest_id":0,"condition_boss_id":2003602,"release_quest_id":0,"release_boss_id":0},
+        {"boss_id":2003701,"event_id":20037,"condition_quest_id":20037115,"condition_boss_id":0,"release_quest_id":20037201,"release_boss_id":2003702},
+        {"boss_id":2003702,"event_id":20037,"condition_quest_id":0,"condition_boss_id":2003701,"release_quest_id":0,"release_boss_id":2003703},
+        {"boss_id":2003703,"event_id":20037,"condition_quest_id":0,"condition_boss_id":2003702,"release_quest_id":0,"release_boss_id":0},
+        {"boss_id":2003801,"event_id":20038,"condition_quest_id":20038115,"condition_boss_id":0,"release_quest_id":20038201,"release_boss_id":2003802},
+        {"boss_id":2003802,"event_id":20038,"condition_quest_id":0,"condition_boss_id":2003801,"release_quest_id":0,"release_boss_id":2003803},
+        {"boss_id":2003803,"event_id":20038,"condition_quest_id":0,"condition_boss_id":2003802,"release_quest_id":0,"release_boss_id":0},
+        {"boss_id":2003901,"event_id":20039,"condition_quest_id":20039115,"condition_boss_id":0,"release_quest_id":20039201,"release_boss_id":2003902},
+        {"boss_id":2003902,"event_id":20039,"condition_quest_id":0,"condition_boss_id":2003901,"release_quest_id":0,"release_boss_id":2003903},
+        {"boss_id":2003903,"event_id":20039,"condition_quest_id":0,"condition_boss_id":2003902,"release_quest_id":0,"release_boss_id":0},
+        {"boss_id":2004001,"event_id":20040,"condition_quest_id":20040115,"condition_boss_id":0,"release_quest_id":20040201,"release_boss_id":2004002},
+        {"boss_id":2004002,"event_id":20040,"condition_quest_id":0,"condition_boss_id":2004001,"release_quest_id":0,"release_boss_id":2004003},
+        {"boss_id":2004003,"event_id":20040,"condition_quest_id":0,"condition_boss_id":2004002,"release_quest_id":0,"release_boss_id":0},
+        {"boss_id":2004101,"event_id":20041,"condition_quest_id":20041115,"condition_boss_id":0,"release_quest_id":20041201,"release_boss_id":2004102},
+        {"boss_id":2004102,"event_id":20041,"condition_quest_id":0,"condition_boss_id":2004101,"release_quest_id":0,"release_boss_id":2004103},
+        {"boss_id":2004103,"event_id":20041,"condition_quest_id":0,"condition_boss_id":2004102,"release_quest_id":0,"release_boss_id":0}
     ]
 }

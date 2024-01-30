@@ -1,5 +1,29 @@
 {
     "gacha_pickup": [
-
+        {"id":1,"priority":1,"reward_type":1,"reward_id":112001,"name":"캬루(새해)"},
+        {"id":1,"priority":2,"reward_type":1,"reward_id":111801,"name":"페코린느(새해)"},
+        {"id":1,"priority":3,"reward_type":1,"reward_id":111901,"name":"콧코로(새해)"},
+        {"id":1,"priority":4,"reward_type":1,"reward_id":115001,"name":"네네카(새해)"},
+        {"id":1,"priority":5,"reward_type":1,"reward_id":108801,"name":"유이(새해)"},
+        {"id":1,"priority":6,"reward_type":1,"reward_id":108701,"name":"히요리(새해)"},
+        {"id":2,"priority":1,"reward_type":1,"reward_id":116401,"name":"유니(성학제)"},
+        {"id":2,"priority":2,"reward_type":1,"reward_id":121301,"name":"쿠루미(무대)"},
+        {"id":2,"priority":3,"reward_type":1,"reward_id":121401,"name":"미사키(무대)"},
+        {"id":2,"priority":4,"reward_type":1,"reward_id":121601,"name":"이노리(괴도)"},
+        {"id":2,"priority":5,"reward_type":1,"reward_id":122001,"name":"시노부(해적)"},
+        {"id":2,"priority":6,"reward_type":1,"reward_id":121901,"name":"안나(해적)"},
+        {"id":2,"priority":7,"reward_type":1,"reward_id":122201,"name":"유카리(캠프)"},
+        {"id":2,"priority":8,"reward_type":1,"reward_id":122301,"name":"밤피"},
+        {"id":3,"priority":1,"reward_type":1,"reward_id":122601,"name":"유이(여름)"},
+        {"id":3,"priority":2,"reward_type":1,"reward_id":122701,"name":"쿄우카(여름)"},
+        {"id":3,"priority":3,"reward_type":1,"reward_id":123101,"name":"마호(탐험가)"},
+        {"id":3,"priority":4,"reward_type":1,"reward_id":123201,"name":"아야네(탐험가)"},
+        {"id":3,"priority":5,"reward_type":1,"reward_id":123701,"name":"나나카(할로윈)"},
+        {"id":3,"priority":6,"reward_type":1,"reward_id":123901,"name":"마츠리(와일드)"},
+        {"id":3,"priority":7,"reward_type":1,"reward_id":124201,"name":"쥰(크리스마스)"},
+        {"id":4,"priority":1,"reward_type":1,"reward_id":121001,"name":"페코린느(오버로드)"},
+        {"id":4,"priority":2,"reward_type":1,"reward_id":121101,"name":"캬루(오버로드)"},
+        {"id":4,"priority":3,"reward_type":1,"reward_id":115501,"name":"콧코로(의장복)"},
+        {"id":4,"priority":4,"reward_type":1,"reward_id":109101,"name":"시즈루(발렌타인)"}
     ]
 }

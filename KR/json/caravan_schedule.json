@@ -1,0 +1,5 @@
+{
+    "caravan_schedule": [
+        {"season_id":1,"start_block_id":10010001,"target_turn":16,"coin_id":96001,"bg_id":1,"bgm_sheet_id":"bgm_MC043","bgm_que_id":"bgm_MC043","start_time":"2024/07/31 15:00:00","end_time":"2024/10/15 14:59:59","shop_close_time":"2024/10/22 14:59:59"}
+    ]
+}

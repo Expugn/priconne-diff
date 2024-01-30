@@ -1,0 +1,6 @@
+{
+    "wts_navi_comment": [
+        {"comment_id":58001,"where_type":58,"character_id":126601,"face_type":1,"voice_id":101,"pos_x":-360,"pos_y":0,"change_face_time":8.63,"change_face_type":0,"original_event_id":10122},
+        {"comment_id":58002,"where_type":58,"character_id":126601,"face_type":1,"voice_id":102,"pos_x":-360,"pos_y":0,"change_face_time":4.37,"change_face_type":0,"original_event_id":10122}
+    ]
+}

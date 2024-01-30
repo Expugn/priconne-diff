@@ -43,6 +43,9 @@
         {"ailment_id":41,"ailment_action":49,"ailment_detail_1":3,"ailment_name":"버프 삭제"},
         {"ailment_id":42,"ailment_action":49,"ailment_detail_1":10,"ailment_name":"배리어 삭제"},
         {"ailment_id":43,"ailment_action":9,"ailment_detail_1":9,"ailment_name":"흑염"},
-        {"ailment_id":44,"ailment_action":99,"ailment_detail_1":2,"ailment_name":"헤이스트 필드"}
+        {"ailment_id":44,"ailment_action":99,"ailment_detail_1":2,"ailment_name":"헤이스트 필드"},
+        {"ailment_id":45,"ailment_action":99,"ailment_detail_1":1,"ailment_name":"슬로 필드"},
+        {"ailment_id":46,"ailment_action":49,"ailment_detail_1":20,"ailment_name":"버프 소거(지정)"},
+        {"ailment_id":47,"ailment_action":101,"ailment_detail_1":5,"ailment_name":"타격 각인(공격 히트)"}
     ]
 }
