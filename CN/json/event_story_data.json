@@ -35,8 +35,8 @@
         {"story_group_id":5052,"story_type":5,"value":10079,"title":"魔法提督Lovely★莫妮卡　\\nLet's Go！魔法的四重奏！","thumbnail_id":0,"disp_order":1,"start_time":"2022/10/25 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5054,"story_type":5,"value":10081,"title":"初次登场·香格里拉　圣夜的爱情游戏","thumbnail_id":0,"disp_order":1,"start_time":"2022/11/25 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5056,"story_type":5,"value":10083,"title":"新春美食公主！　孤注一掷的少女们","thumbnail_id":0,"disp_order":1,"start_time":"2022/12/26 15:00:00","end_time":"2099/12/31 23:59:59"},
-        {"story_group_id":5058,"story_type":5,"value":10058,"title":"情相连。心相系。","thumbnail_id":0,"disp_order":1,"start_time":"2023/01/25 15:00:00","end_time":"2099/12/31 23:59:59"},
-        {"story_group_id":5059,"story_type":5,"value":10059,"title":"情相连。心相系。","thumbnail_id":0,"disp_order":1,"start_time":"2023/01/25 15:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":5058,"story_type":5,"value":10086,"title":"情相连。心相系。","thumbnail_id":0,"disp_order":1,"start_time":"2024/02/05 15:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":5059,"story_type":5,"value":10087,"title":"情相连。心相系。","thumbnail_id":0,"disp_order":1,"start_time":"2024/02/05 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5061,"story_type":5,"value":10061,"title":"灰姑娘课程　璀璨的日子是苹果的滋味","thumbnail_id":0,"disp_order":1,"start_time":"2023/02/24 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5064,"story_type":5,"value":10064,"title":"钢铁圣女与神圣学院的问题儿童","thumbnail_id":0,"disp_order":1,"start_time":"2023/03/27 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5066,"story_type":5,"value":10066,"title":"祈梨SOS！！　时间旅行的龙族们","thumbnail_id":0,"disp_order":1,"start_time":"2023/04/25 15:00:00","end_time":"2099/12/31 23:59:59"},
@@ -48,6 +48,7 @@
         {"story_group_id":5078,"story_type":5,"value":10078,"title":"魔法少女外传　\\n黑暗魔法★三人组！","thumbnail_id":0,"disp_order":1,"start_time":"2023/10/26 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5080,"story_type":5,"value":10080,"title":"圣诞布丁快乐！　\\n飞舞的少女与饱含真情的点心","thumbnail_id":0,"disp_order":1,"start_time":"2023/11/26 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5082,"story_type":5,"value":10082,"title":"新春美食回忆录　\\n雪菲的跑腿大作战！","thumbnail_id":0,"disp_order":1,"start_time":"2023/12/25 15:00:00","end_time":"2099/12/31 23:59:59"},
-        {"story_group_id":5084,"story_type":5,"value":10084,"title":"Re:member　我的愿望所编织的未来","thumbnail_id":0,"disp_order":1,"start_time":"2024/01/26 15:00:00","end_time":"2099/12/31 23:59:59"}
+        {"story_group_id":5084,"story_type":5,"value":10084,"title":"Re:member　我的愿望所编织的未来","thumbnail_id":0,"disp_order":1,"start_time":"2024/01/26 15:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":5085,"story_type":5,"value":10085,"title":"Re:member　我的愿望所编织的未来","thumbnail_id":0,"disp_order":1,"start_time":"2024/01/26 15:00:00","end_time":"2099/12/31 23:59:59"}
     ]
 }
