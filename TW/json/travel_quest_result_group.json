@@ -31,6 +31,8 @@
         {"id":29,"situation_group_id":9,"situation_id":105},
         {"id":30,"situation_group_id":10,"situation_id":101},
         {"id":31,"situation_group_id":10,"situation_id":103},
-        {"id":32,"situation_group_id":10,"situation_id":105}
+        {"id":32,"situation_group_id":10,"situation_id":105},
+        {"id":33,"situation_group_id":11,"situation_id":107},
+        {"id":34,"situation_group_id":11,"situation_id":108}
     ]
 }

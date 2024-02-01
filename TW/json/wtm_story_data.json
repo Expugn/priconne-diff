@@ -1,5 +1,17 @@
 {
     "wtm_story_data": [
-
+        {"sub_story_id":5128071,"original_event_id":10128,"title":"只屬於兩人的時光","wtm_story_type":2,"condition_quest_id":10128107,"condition_sub_story_id_1":0,"condition_sub_story_id_2":0,"reward_type":8,"reward_id":91002,"reward_count":25,"emblem_id":0},
+        {"sub_story_id":5128072,"original_event_id":10128,"title":"新家的必備條件","wtm_story_type":2,"condition_quest_id":0,"condition_sub_story_id_1":5128071,"condition_sub_story_id_2":0,"reward_type":8,"reward_id":91002,"reward_count":25,"emblem_id":0},
+        {"sub_story_id":5128073,"original_event_id":10128,"title":"其實比誰都還要","wtm_story_type":2,"condition_quest_id":0,"condition_sub_story_id_1":5128072,"condition_sub_story_id_2":0,"reward_type":8,"reward_id":91002,"reward_count":25,"emblem_id":0},
+        {"sub_story_id":5128074,"original_event_id":10128,"title":"想要一家人\\n一起珍惜的事","wtm_story_type":2,"condition_quest_id":0,"condition_sub_story_id_1":5128073,"condition_sub_story_id_2":0,"reward_type":8,"reward_id":91002,"reward_count":25,"emblem_id":0},
+        {"sub_story_id":5128075,"original_event_id":10128,"title":"誓約的諾言","wtm_story_type":2,"condition_quest_id":0,"condition_sub_story_id_1":5128074,"condition_sub_story_id_2":0,"reward_type":8,"reward_id":91002,"reward_count":50,"emblem_id":0},
+        {"sub_story_id":5128081,"original_event_id":10128,"title":"染血的訂婚通知","wtm_story_type":3,"condition_quest_id":10128107,"condition_sub_story_id_1":0,"condition_sub_story_id_2":0,"reward_type":8,"reward_id":91002,"reward_count":25,"emblem_id":0},
+        {"sub_story_id":5128082,"original_event_id":10128,"title":"漂泊之人的尋家路","wtm_story_type":3,"condition_quest_id":0,"condition_sub_story_id_1":5128081,"condition_sub_story_id_2":0,"reward_type":8,"reward_id":91002,"reward_count":25,"emblem_id":0},
+        {"sub_story_id":5128083,"original_event_id":10128,"title":"珍愛時光","wtm_story_type":3,"condition_quest_id":0,"condition_sub_story_id_1":5128082,"condition_sub_story_id_2":0,"reward_type":8,"reward_id":91002,"reward_count":25,"emblem_id":0},
+        {"sub_story_id":5128084,"original_event_id":10128,"title":"東國的\\n家族文化","wtm_story_type":3,"condition_quest_id":0,"condition_sub_story_id_1":5128083,"condition_sub_story_id_2":0,"reward_type":8,"reward_id":91002,"reward_count":25,"emblem_id":0},
+        {"sub_story_id":5128085,"original_event_id":10128,"title":"傳達真誠的愛","wtm_story_type":3,"condition_quest_id":0,"condition_sub_story_id_1":5128084,"condition_sub_story_id_2":0,"reward_type":8,"reward_id":91002,"reward_count":50,"emblem_id":0},
+        {"sub_story_id":5128091,"original_event_id":10128,"title":"口頭約定是禍端","wtm_story_type":4,"condition_quest_id":0,"condition_sub_story_id_1":5128075,"condition_sub_story_id_2":5128085,"reward_type":0,"reward_id":0,"reward_count":0,"emblem_id":0},
+        {"sub_story_id":5128092,"original_event_id":10128,"title":"不容退讓的家庭味道","wtm_story_type":4,"condition_quest_id":0,"condition_sub_story_id_1":5128091,"condition_sub_story_id_2":0,"reward_type":0,"reward_id":0,"reward_count":0,"emblem_id":11001271},
+        {"sub_story_id":5128161,"original_event_id":10128,"title":"夢境說書人的邀請","wtm_story_type":1,"condition_quest_id":10128107,"condition_sub_story_id_1":0,"condition_sub_story_id_2":0,"reward_type":0,"reward_id":0,"reward_count":0,"emblem_id":0}
     ]
 }
