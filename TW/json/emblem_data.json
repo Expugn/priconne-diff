@@ -1103,6 +1103,9 @@
         {"emblem_id":11302002,"disp_oder":1302002,"type":13,"emblem_name":"老手冒險家","description_mission_id":51402002,"event_emblem":0,"start_time":"2023/03/01 16:00:00","end_time":"2030/01/01 23:59:59"},
         {"emblem_id":11302003,"disp_oder":1302003,"type":13,"emblem_name":"大師冒險家","description_mission_id":51402003,"event_emblem":0,"start_time":"2023/03/01 16:00:00","end_time":"2030/01/01 23:59:59"},
         {"emblem_id":11401001,"disp_oder":1401001,"type":14,"emblem_name":"由異次元歸來之人","description_mission_id":51501001,"event_emblem":0,"start_time":"2023/07/07 16:00:00","end_time":"2030/01/01 23:59:59"},
-        {"emblem_id":11401002,"disp_oder":1401002,"type":14,"emblem_name":"次元騎士","description_mission_id":51502001,"event_emblem":0,"start_time":"2023/07/07 16:00:00","end_time":"2030/01/01 23:59:59"}
+        {"emblem_id":11401002,"disp_oder":1401002,"type":14,"emblem_name":"次元騎士","description_mission_id":51502001,"event_emblem":0,"start_time":"2023/07/07 16:00:00","end_time":"2030/01/01 23:59:59"},
+        {"emblem_id":11601001,"disp_oder":1601001,"type":15,"emblem_name":"身經百戰的戰姬","description_mission_id":51601001,"event_emblem":0,"start_time":"2024/02/06 16:00:00","end_time":"2030/01/01 23:59:59"},
+        {"emblem_id":11601002,"disp_oder":1601002,"type":15,"emblem_name":"英勇無比的風雲姬","description_mission_id":51601002,"event_emblem":0,"start_time":"2024/02/06 16:00:00","end_time":"2030/01/01 23:59:59"},
+        {"emblem_id":11601003,"disp_oder":1601003,"type":15,"emblem_name":"天下無敵的無雙姬","description_mission_id":51601003,"event_emblem":0,"start_time":"2024/02/06 16:00:00","end_time":"2030/01/01 23:59:59"}
     ]
 }

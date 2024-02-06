@@ -751,6 +751,11 @@
         {"id":97520045,"item_id":97520,"reward_type":4,"reward_id":108253,"reward_count":1},
         {"id":97520046,"item_id":97520,"reward_type":4,"reward_id":108553,"reward_count":1},
         {"id":97520047,"item_id":97520,"reward_type":4,"reward_id":108583,"reward_count":1},
-        {"id":97520048,"item_id":97520,"reward_type":4,"reward_id":108613,"reward_count":1}
+        {"id":97520048,"item_id":97520,"reward_type":4,"reward_id":108613,"reward_count":1},
+        {"id":97520049,"item_id":97521,"reward_type":6,"reward_id":93001,"reward_count":1000},
+        {"id":97520050,"item_id":97521,"reward_type":2,"reward_id":90005,"reward_count":80},
+        {"id":97520051,"item_id":97521,"reward_type":4,"reward_id":140001,"reward_count":120},
+        {"id":97520052,"item_id":97521,"reward_type":2,"reward_id":23002,"reward_count":60},
+        {"id":97520053,"item_id":97521,"reward_type":2,"reward_id":24001,"reward_count":12}
     ]
 }
