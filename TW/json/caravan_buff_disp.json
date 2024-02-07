@@ -21,6 +21,7 @@
         {"id":19,"type":1,"effect_id":52005,"category":1,"icon_id":1,"description":"【料理】下次移動時，將多移動1格。","count_from":0,"count_to":0},
         {"id":20,"type":1,"effect_id":52014,"category":1,"icon_id":1,"description":"【料理】下次移動時，將多移動1格。","count_from":2,"count_to":2},
         {"id":21,"type":1,"effect_id":52015,"category":1,"icon_id":1,"description":"【料理】骰子增加成為兩個","count_from":0,"count_to":0},
-        {"id":22,"type":1,"effect_id":52015,"category":1,"icon_id":1,"description":"【料理】下次移動時，將多移動1格。","count_from":0,"count_to":0}
+        {"id":22,"type":1,"effect_id":52015,"category":1,"icon_id":1,"description":"【料理】下次移動時，將多移動1格。","count_from":0,"count_to":0},
+        {"id":23,"type":1,"effect_id":52016,"category":1,"icon_id":1,"description":"【料理】投擲的骰子一定會丟出「6」。","count_from":0,"count_to":0}
     ]
 }

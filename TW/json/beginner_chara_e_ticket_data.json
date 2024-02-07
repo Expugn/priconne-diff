@@ -1,5 +1,5 @@
 {
     "beginner_chara_e_ticket_data": [
-
+        {"beginner_id":1,"ticket_id":27012,"beginner_type":1,"jewel_store_id":633,"chara_e_ticket_id":27009,"beginner_limit_hour":240,"forced_exchange_hour":240,"start_time":"2024/02/07 16:00:00","end_time":"2024/08/01 15:59:59","icon_id":27011}
     ]
 }
