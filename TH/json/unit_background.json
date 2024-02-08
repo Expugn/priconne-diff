@@ -156,6 +156,7 @@
         {"unit_id":117601,"unit_name":"ยูกิ (โอเอโดะ)","bg_id":501380,"bg_name":"โอเอโดะ ห้องตรวจ กลางวัน","position":0,"face_type":4},
         {"unit_id":117701,"unit_name":"คาโอริ (ฮาโลวีน)","bg_id":505035,"bg_name":"แลนด์โซล ย่านการค้า คืนฮาโลวีน","position":0,"face_type":4},
         {"unit_id":117801,"unit_name":"นิน่อน (ฮาโลวีน)","bg_id":505035,"bg_name":"แลนด์โซล ย่านการค้า คืนฮาโลวีน","position":0,"face_type":4},
+        {"unit_id":117901,"unit_name":"สึซึนะ (ฮาโลวีน)","bg_id":505035,"bg_name":"แลนด์โซล ย่านการค้า คืนฮาโลวีน","position":0,"face_type":4},
         {"unit_id":118001,"unit_name":"เครดิตต้า","bg_id":501070,"bg_name":"แลนด์โซล พระราชวัง สำนักงาน","position":0,"face_type":4},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},

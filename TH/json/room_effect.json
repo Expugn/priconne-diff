@@ -21,6 +21,7 @@
         {"id":19,"reward_get":19,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
         {"id":20,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":10061,"stock":0},
         {"id":21,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
-        {"id":22,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0}
+        {"id":22,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":0},
+        {"id":23,"reward_get":0,"jukebox":0,"nebbia":0,"arcade":0,"vegetable":0,"poster":0,"stock":23}
     ]
 }
