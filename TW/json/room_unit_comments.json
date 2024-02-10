@@ -6786,6 +6786,8 @@
         {"id":7630,"unit_id":127501,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"每個地方的香氣\\n都各有其特色。\\n這股香氣……\\n感覺有點神祕？","insert_word_type":0},
         {"id":7631,"unit_id":127501,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"沙漠地區晚上會變冷，\\n事先準備好保暖措施，\\n會讓人比較放心……♪","insert_word_type":0},
         {"id":7633,"unit_id":127501,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"吃慣的口味，\\n為何可以讓人\\n如此放鬆下來呢……","insert_word_type":0},
-        {"id":7634,"unit_id":127501,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"由於該國很可能成為\\n今後的交易對象，\\n他們的文化\\n也得事先學習……","insert_word_type":0}
+        {"id":7634,"unit_id":127501,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"由於該國很可能成為\\n今後的交易對象，\\n他們的文化\\n也得事先學習……","insert_word_type":0},
+        {"id":7636,"unit_id":101401,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"犯人就在這群人當中！\\n這是我當上偵探，\\n最想說出口的台詞。","insert_word_type":0},
+        {"id":7637,"unit_id":101401,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"必須事先取得\\n助手先生的資訊……\\n因為我希望他所看到的，\\n一直都是理想中的我。","insert_word_type":0}
     ]
 }

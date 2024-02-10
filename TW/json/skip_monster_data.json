@@ -3716,6 +3716,7 @@
         {"quest_id":13063003,"area_id":13063,"quest_name":"阿帕雷尤街道‧西側 63-3","wave_group_id_1":103630301,"bg_skip_id":103193},
         {"quest_id":13064001,"area_id":13063,"quest_name":"阿帕雷尤街道‧東側 64-1","wave_group_id_1":103640101,"bg_skip_id":103193},
         {"quest_id":13064002,"area_id":13063,"quest_name":"阿帕雷尤街道‧東側 64-2","wave_group_id_1":103640201,"bg_skip_id":103193},
+        {"quest_id":13064003,"area_id":13063,"quest_name":"阿帕雷尤街道‧東側 64-3","wave_group_id_1":103640301,"bg_skip_id":103193},
         {"quest_id":18001001,"area_id":18001,"quest_name":"聖跡調查冒險Lv1","wave_group_id_1":108010108,"bg_skip_id":101331},
         {"quest_id":18001002,"area_id":18001,"quest_name":"聖跡調查冒險Lv2","wave_group_id_1":108010208,"bg_skip_id":101341},
         {"quest_id":18001003,"area_id":18001,"quest_name":"聖跡調查冒險Lv3","wave_group_id_1":108010308,"bg_skip_id":101341},
@@ -4733,6 +4734,7 @@
         {"quest_id":73470680,"area_id":47,"quest_name":"露娜之塔迴廊探索10月","wave_group_id_1":720033005,"bg_skip_id":102051},
         {"quest_id":73480690,"area_id":48,"quest_name":"露娜之塔探索迴廊12月","wave_group_id_1":720033005,"bg_skip_id":102051},
         {"quest_id":73490700,"area_id":49,"quest_name":"露娜之塔探索迴廊3月","wave_group_id_1":720033005,"bg_skip_id":102051},
-        {"quest_id":73500710,"area_id":50,"quest_name":"露娜之塔探索迴廊6月","wave_group_id_1":720033005,"bg_skip_id":102051}
+        {"quest_id":73500710,"area_id":50,"quest_name":"露娜之塔探索迴廊6月","wave_group_id_1":720033005,"bg_skip_id":102051},
+        {"quest_id":73510720,"area_id":51,"quest_name":"露娜之塔探索迴廊9月","wave_group_id_1":720033005,"bg_skip_id":102051}
     ]
 }
