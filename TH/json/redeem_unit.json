@@ -1,5 +1,6 @@
 {
     "redeem_unit": [
-
+        {"id":1185011,"unit_id":118501,"slot_id":1,"condition_category":5,"condition_id":-1,"consume_num":"3000"},
+        {"id":1185012,"unit_id":118501,"slot_id":2,"condition_category":3,"condition_id":94000,"consume_num":"500000000"}
     ]
 }

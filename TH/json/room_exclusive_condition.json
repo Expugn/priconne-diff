@@ -1,5 +1,5 @@
 {
     "room_exclusive_condition": [
-
+        {"id":10000001,"unit_id":118501,"room_item_id":1,"notification":"ไม่สามารถวาง [คาริน] และ [โต๊ะทำงานของคาริน] พร้อมกันได้"}
     ]
 }

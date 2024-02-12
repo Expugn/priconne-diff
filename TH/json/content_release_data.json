@@ -29,6 +29,7 @@
         {"system_id":503,"team_level":1,"story_id":0,"quest_id":11002002,"dialog":"เคลียร์เควสต์หลัก 2-2 (NORMAL)"},
         {"system_id":506,"team_level":1,"story_id":0,"quest_id":11003005,"dialog":"เคลียร์เควสต์หลัก 3-5 (NORMAL)"},
         {"system_id":509,"team_level":1,"story_id":0,"quest_id":11002003,"dialog":"เคลียร์เควสต์หลัก 2-3 (NORMAL)"},
+        {"system_id":510,"team_level":1,"story_id":0,"quest_id":11019001,"dialog":"เคลียร์เควสต์หลัก 19-1 (NORMAL)"},
         {"system_id":511,"team_level":999,"story_id":0,"quest_id":0,"dialog":""},
         {"system_id":601,"team_level":1,"story_id":0,"quest_id":11002001,"dialog":"เคลียร์เควสต์หลัก 2-1 (NORMAL)"},
         {"system_id":602,"team_level":1,"story_id":0,"quest_id":11007001,"dialog":"เคลียร์เควสต์หลัก 7-1 (NORMAL)"},
