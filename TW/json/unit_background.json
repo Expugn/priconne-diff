@@ -232,6 +232,7 @@
         {"unit_id":127201,"unit_name":"凱留（插班生）","bg_id":502030,"bg_name":"安布羅斯魔法學園_屋頂_白天","position":0,"face_type":2},
         {"unit_id":127301,"unit_name":"鈴奈（插班生）","bg_id":502030,"bg_name":"安布羅斯魔法學園_屋頂_白天","position":0,"face_type":4},
         {"unit_id":127501,"unit_name":"咲戀（薩拉薩利亞）","bg_id":502060,"bg_name":"沙漠之國的大馬路_白天","position":0,"face_type":2},
+        {"unit_id":127601,"unit_name":"流夏（薩拉薩利亞）","bg_id":501370,"bg_name":"瀑布潭_白天","position":0,"face_type":3},
         {"unit_id":180101,"unit_name":"日和（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"優衣（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":4},
         {"unit_id":180301,"unit_name":"怜（公主）","bg_id":500130,"bg_name":"埃斯特雷拉街道","position":0,"face_type":3},
