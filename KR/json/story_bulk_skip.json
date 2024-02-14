@@ -1,5 +1,5 @@
 {
     "story_bulk_skip": [
-        {"bulk_skip_id":1,"story_id_from":2001000,"story_id_to":2116008,"release_level":50,"start_time":"2024/03/14 15:00:00","balloon_sprite_name":"balloon_story_2nd_16_skip","label_sprite_name":"common_label_release_2_16_skip","button_sprite_name":"common_btn_2_16_skip"}
+        {"bulk_skip_id":1,"story_id_from":2001000,"story_id_to":2116099,"release_level":50,"start_time":"2024/03/14 15:00:00","balloon_sprite_name":"balloon_story_2nd_16_skip","label_sprite_name":"common_label_release_2_16_skip","button_sprite_name":"common_btn_2_16_skip"}
     ]
 }
