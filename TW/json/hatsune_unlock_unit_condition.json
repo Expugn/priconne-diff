@@ -70,6 +70,7 @@
         {"id":70,"unit_id":126701,"event_id":10122,"condition_mission_id":71122032,"top_description":"討伐NORMAL BOSS解放！","description_1":"[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]","description_2":"[3C404E]討伐NORMAL BOSS解放！"},
         {"id":71,"unit_id":122401,"event_id":10123,"condition_mission_id":71123032,"top_description":"討伐NORMAL BOSS解放！","description_1":"[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]","description_2":"[3C404E]討伐NORMAL BOSS解放！"},
         {"id":72,"unit_id":127001,"event_id":10124,"condition_mission_id":71124032,"top_description":"討伐NORMAL BOSS解放！","description_1":"[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]","description_2":"[3C404E]討伐NORMAL BOSS解放！"},
-        {"id":73,"unit_id":122801,"event_id":10125,"condition_mission_id":71125032,"top_description":"討伐NORMAL BOSS解放！","description_1":"[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]","description_2":"[3C404E]討伐NORMAL BOSS解放！"}
+        {"id":73,"unit_id":122801,"event_id":10125,"condition_mission_id":71125032,"top_description":"討伐NORMAL BOSS解放！","description_1":"[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]","description_2":"[3C404E]討伐NORMAL BOSS解放！"},
+        {"id":74,"unit_id":123501,"event_id":10129,"condition_mission_id":71129032,"top_description":"討伐NORMAL BOSS解放！","description_1":"[3C404E]進行活動、挑戰BOSS、\\n討伐NORMAL BOSS可解放限定角色！！[-]","description_2":"[3C404E]討伐NORMAL BOSS解放！"}
     ]
 }

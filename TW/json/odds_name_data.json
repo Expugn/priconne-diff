@@ -268,6 +268,8 @@
         {"id":1012702,"odds_file":"1012720102","name":"綾音的記憶碎片","icon_type":99002,"description":""},
         {"id":1012801,"odds_file":"1012820101","name":"流夏的記憶碎片","icon_type":99002,"description":""},
         {"id":1012802,"odds_file":"1012820102","name":"千歌的記憶碎片","icon_type":99002,"description":""},
-        {"id":1012803,"odds_file":"box_rank_13-21","name":"隨機裝備箱","icon_type":99002,"description":"能夠獲得隨機的裝備。"}
+        {"id":1012803,"odds_file":"box_rank_13-21","name":"隨機裝備箱","icon_type":99002,"description":"能夠獲得隨機的裝備。"},
+        {"id":1012901,"odds_file":"1012920101","name":"鈴（萬聖節）的記憶碎片","icon_type":99002,"description":""},
+        {"id":1012902,"odds_file":"1012920102","name":"七七香的記憶碎片","icon_type":99002,"description":""}
     ]
 }
