@@ -246,9 +246,9 @@
 |hatsune_bg_change_data|hatsune_bg_change_data_0_target_type_1_area_id|55 28 2|
 |gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|334 2|
 |campaign_schedule||1118|
-|unit_rarity|unit_rarity_0_unit_material_id|1117 6|
-|unit_rarity|unit_rarity_0_unit_id|1117 6|
-|unit_rarity|sqlite_autoindex_unit_rarity_1|1117 6 1|
+|unit_rarity|unit_rarity_0_unit_material_id|1119 6|
+|unit_rarity|unit_rarity_0_unit_id|1119 6|
+|unit_rarity|sqlite_autoindex_unit_rarity_1|1119 6 1|
 |enemy_parameter||12568|
 |legion_boss_enemy_setting||4|
 |legion_quest_data|legion_quest_data_0_map_type|5 3|
