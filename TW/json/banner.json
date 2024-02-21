@@ -247,6 +247,7 @@
         {"banner_id":10244,"type":1,"system_id":302,"gacha_id":0,"condition_id":0,"priority":9,"start_date":"2024/01/17 16:00:00","end_date":"2024/01/27 15:59:59","sub_banner_id_1":0,"is_show_room":0},
         {"banner_id":10245,"type":1,"system_id":302,"gacha_id":0,"condition_id":0,"priority":9,"start_date":"2024/01/27 16:00:00","end_date":"2024/02/01 15:59:59","sub_banner_id_1":0,"is_show_room":0},
         {"banner_id":10246,"type":1,"system_id":302,"gacha_id":0,"condition_id":0,"priority":9,"start_date":"2024/02/01 16:00:00","end_date":"2024/02/10 15:59:59","sub_banner_id_1":0,"is_show_room":0},
+        {"banner_id":10247,"type":1,"system_id":302,"gacha_id":0,"condition_id":0,"priority":9,"start_date":"2024/02/21 16:00:00","end_date":"2024/02/26 15:59:59","sub_banner_id_1":0,"is_show_room":0},
         {"banner_id":10248,"type":1,"system_id":302,"gacha_id":0,"condition_id":0,"priority":9,"start_date":"2024/02/13 16:00:00","end_date":"2024/02/21 15:59:59","sub_banner_id_1":0,"is_show_room":0},
         {"banner_id":19001,"type":1,"system_id":302,"gacha_id":0,"condition_id":0,"priority":1,"start_date":"2018/09/14 16:00:00","end_date":"2018/09/21 15:59:59","sub_banner_id_1":0,"is_show_room":0},
         {"banner_id":19002,"type":1,"system_id":302,"gacha_id":0,"condition_id":0,"priority":1,"start_date":"2018/09/21 16:00:00","end_date":"2018/10/09 15:59:59","sub_banner_id_1":0,"is_show_room":0},
