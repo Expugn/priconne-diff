@@ -1,5 +1,6 @@
 {
     "spskill_label_data": [
+        {"unit_id":106701,"normal_label_text":"ตอนปกติ","sp_label_text":"สกิลพิเศษ"},
         {"unit_id":115801,"normal_label_text":"ตอนปกติ","sp_label_text":"ขณะแปลงร่าง"},
         {"unit_id":118501,"normal_label_text":"ตอนปกติ","sp_label_text":"สกิลพิเศษ"}
     ]

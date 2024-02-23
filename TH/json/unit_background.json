@@ -60,7 +60,7 @@
         {"unit_id":106401,"unit_name":"เชฟี่","bg_id":500361,"bg_name":"กิลด์เฮ้าส์ เรือนเลิศรส","position":0,"face_type":2},
         {"unit_id":106501,"unit_name":"คายะ","bg_id":500833,"bg_name":"ป่าทึบ เต็นท์","position":0,"face_type":4},
         {"unit_id":106601,"unit_name":"อิโนริ","bg_id":500833,"bg_name":"ป่าทึบ เต็นท์","position":0,"face_type":4},
-        {"unit_id":106701,"unit_name":"โฮมาเระ","bg_id":500833,"bg_name":"ป่าทึบ เต็นท์","position":0,"face_type":2},
+        {"unit_id":106701,"unit_name":"โฮมาเระ","bg_id":501320,"bg_name":"ห้องของโฮมาเระ","position":0,"face_type":2},
         {"unit_id":106801,"unit_name":"โมซาคุจิ อากิระ","bg_id":500030,"bg_name":"แลนด์โซล ย่านการค้า","position":0,"face_type":18},
         {"unit_id":107001,"unit_name":"เนเนกะ","bg_id":500341,"bg_name":"ที่ตั้งกิลด์ลาบิรินธ์","position":0,"face_type":2},
         {"unit_id":107101,"unit_name":"คริสทีน่า มอร์แกน","bg_id":500090,"bg_name":"แลนด์โซล ทางเข้าพระราชวัง","position":0,"face_type":2},

@@ -213,6 +213,16 @@
         {"target_level":211,"cost":147070},
         {"target_level":212,"cost":147870},
         {"target_level":213,"cost":148670},
-        {"target_level":214,"cost":149470}
+        {"target_level":214,"cost":149470},
+        {"target_level":215,"cost":150270},
+        {"target_level":216,"cost":151070},
+        {"target_level":217,"cost":151870},
+        {"target_level":218,"cost":152670},
+        {"target_level":219,"cost":153470},
+        {"target_level":220,"cost":154270},
+        {"target_level":221,"cost":155070},
+        {"target_level":222,"cost":155870},
+        {"target_level":223,"cost":156670},
+        {"target_level":224,"cost":157470}
     ]
 }
