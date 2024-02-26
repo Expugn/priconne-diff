@@ -5,6 +5,9 @@
         {"group_id":3,"index_in_group":1,"item_id":32048},
         {"group_id":4,"index_in_group":1,"item_id":32016},
         {"group_id":5,"index_in_group":1,"item_id":32060},
-        {"group_id":5,"index_in_group":2,"item_id":32078}
+        {"group_id":5,"index_in_group":2,"item_id":32078},
+        {"group_id":6,"index_in_group":1,"item_id":32031},
+        {"group_id":7,"index_in_group":1,"item_id":32007},
+        {"group_id":8,"index_in_group":1,"item_id":32050}
     ]
 }

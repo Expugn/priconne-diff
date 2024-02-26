@@ -128,6 +128,7 @@
         {"gacha_id":10127,"event_id":10127,"gacha_name":"真步真步的神奇旅程！　旅行的少女與邊境的大樹","item_type":2,"item_id":61262,"cost":1,"repeat_step":6},
         {"gacha_id":10128,"event_id":10128,"gacha_name":"浪漫薩拉薩利亞　～沙漠的新娘與不可思議的神燈～","item_type":2,"item_id":61272,"cost":1,"repeat_step":6},
         {"gacha_id":10129,"event_id":10129,"gacha_name":"點讚！最愛！大集合！　至高祭典與少女祕密的本命任務","item_type":2,"item_id":61282,"cost":1,"repeat_step":6},
+        {"gacha_id":10130,"event_id":10130,"gacha_name":"Criminal Rookie　天使們的悖論","item_type":2,"item_id":61292,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"吸血鬼獵人 with伊莉亞","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
