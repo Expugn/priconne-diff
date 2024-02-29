@@ -7,6 +7,14 @@
         {"id":5,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":4007003,"time_from":"2021/04/01","time_to":"2021/04/01 23:59:59","skip_battle_time":"0","name":"배틀 오브 랜드솔"},
         {"id":6,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":4007004,"time_from":"2021/04/01","time_to":"2021/04/01 23:59:59","skip_battle_time":"0","name":"배틀 오브 랜드솔"},
         {"id":7,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":0,"time_from":"2021/04/01","time_to":"2021/04/01 23:59:59","skip_battle_time":"2021/04/02","name":"배틀 오브 랜드솔"},
-        {"id":8,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":4007005,"time_from":"2021/04/02","time_to":"2021/04/08 23:59:59","skip_battle_time":"0","name":"배틀 오브 랜드솔"}
+        {"id":8,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":4007005,"time_from":"2021/04/02","time_to":"2021/04/08 23:59:59","skip_battle_time":"0","name":"배틀 오브 랜드솔"},
+        {"id":100,"space_id":10002,"space_battle_id":0,"part_flag":1,"story_id":4007001,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"2024/04/02","name":"배틀 오브 랜드솔"},
+        {"id":101,"space_id":10002,"space_battle_id":1002001,"part_flag":0,"story_id":0,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"2024/04/02","name":"배틀 오브 랜드솔"},
+        {"id":102,"space_id":10002,"space_battle_id":0,"part_flag":2,"story_id":4007001,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"0","name":"배틀 오브 랜드솔"},
+        {"id":103,"space_id":10002,"space_battle_id":0,"part_flag":0,"story_id":4007002,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"0","name":"배틀 오브 랜드솔"},
+        {"id":104,"space_id":10002,"space_battle_id":0,"part_flag":0,"story_id":4007003,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"0","name":"배틀 오브 랜드솔"},
+        {"id":105,"space_id":10002,"space_battle_id":0,"part_flag":0,"story_id":4007004,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"0","name":"배틀 오브 랜드솔"},
+        {"id":106,"space_id":10002,"space_battle_id":0,"part_flag":0,"story_id":0,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"2024/04/02","name":"배틀 오브 랜드솔"},
+        {"id":107,"space_id":10002,"space_battle_id":0,"part_flag":0,"story_id":4007005,"time_from":"2024/04/02","time_to":"2024/04/08 23:59:59","skip_battle_time":"0","name":"배틀 오브 랜드솔"}
     ]
 }

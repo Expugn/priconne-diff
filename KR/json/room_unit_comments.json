@@ -6216,7 +6216,7 @@
         {"id":6972,"unit_id":124801,"trigger":2,"voice_id":2,"beloved_step":1,"time":2,"face_id":1,"description":"레슨도 열심히 받았고\\n아직 점심 때니까…\\n런치는 곱빼기로 먹어도\\n괜찮겠지!","insert_word_type":0},
         {"id":6973,"unit_id":124801,"trigger":2,"voice_id":3,"beloved_step":1,"time":3,"face_id":1,"description":"자기 전에 내일 일정을\\n확인해 둬야지!\\n어디 보자, 집합 장소는…","insert_word_type":0},
         {"id":6975,"unit_id":124801,"trigger":3,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"잠깐 쉰다는 게\\n길~게 쉬어 버리는 경우\\n있지 있지~","insert_word_type":0},
-        {"id":6976,"unit_id":124801,"trigger":3,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"노조밍의 열렬 허그♪\\n…이 부분만 들으면\\n특종이 되어버릴\\n지도? 농담이야~!","insert_word_type":0},
+        {"id":6976,"unit_id":124801,"trigger":3,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"노조밍의 열렬 허그♪\\n…이 부분만 들으면\\n특종이 되어버릴지도?\\n농담이야~!","insert_word_type":0},
         {"id":6977,"unit_id":124801,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"향기는 어쩐지\\n기억에 남지~\\n…나만 이래?\\n다들 똑같지?","insert_word_type":0},
         {"id":6978,"unit_id":124801,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"왠지 라이브의\\n열기가 생각나\\n버렸어…!\\n레슨 받아야지!","insert_word_type":0},
         {"id":6980,"unit_id":124801,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"배가 고프면\\n좋은 공연을\\n못 하는걸!\\n…음~ 맛있어~♪","insert_word_type":0},

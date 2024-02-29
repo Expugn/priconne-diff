@@ -141,6 +141,7 @@
         {"area_id":13032,"area_name":"32. 패시어 삼림ㆍ남부","area_display_name":"32 패시어\\n    삼림ㆍ남부","map_type":102,"sheet_id":"bgm_M339","que_id":"bgm_M339","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":13033,"area_name":"33. 패시어 삼림ㆍ동부","area_display_name":"33 패시어\\n    삼림ㆍ동부","map_type":102,"sheet_id":"bgm_M339","que_id":"bgm_M339","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":13034,"area_name":"34. 덱스티어 암애ㆍ서벽","area_display_name":"34 덱스티어\\n   암애ㆍ서벽","map_type":102,"sheet_id":"bgm_M374","que_id":"bgm_M374","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},
+        {"area_id":13035,"area_name":"35. 덱스티어 암애ㆍ동벽","area_display_name":"35 덱스티어\\n   암애ㆍ동벽","map_type":102,"sheet_id":"bgm_M374","que_id":"bgm_M374","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":18001,"area_name":"유적조사 퀘스트","area_display_name":"유적조사 퀘스트","map_type":0,"sheet_id":"","que_id":"","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},
         {"area_id":19001,"area_name":"신전조사 퀘스트","area_display_name":"신전조사 퀘스트","map_type":0,"sheet_id":"","que_id":"","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:00"},
         {"area_id":21001,"area_name":"마나 퀘스트","area_display_name":"마나 퀘스트","map_type":0,"sheet_id":"","que_id":"","start_time":"2015/12/17 15:00:00","end_time":"2030/12/17 14:59:59"},

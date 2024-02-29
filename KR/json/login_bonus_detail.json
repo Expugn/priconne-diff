@@ -300,10 +300,10 @@
         {"id":319,"login_bonus_id":20001,"count":10,"reward_type":2,"reward_id":24016,"reward_num":1,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":0},
         {"id":320,"login_bonus_id":20001,"count":10,"reward_type":2,"reward_id":23001,"reward_num":20,"character_id":0,"character_name":"","description":"","voice_id":0,"bg_id":0},
         {"id":321,"login_bonus_id":40011,"count":1,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":125801,"character_name":"리리","description":"이제 곧 여러분과\\n만날 수 있군요.\\n가슴이 두근거리네요……\\n","voice_id":1,"bg_id":0},
-        {"id":322,"login_bonus_id":40011,"count":2,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126001,"character_name":"크리아","description":"처음 뵙겠습니다, 크리아예요♪\\n여러분과 함께 모험하는 것을\\n무척 기대하고 있어요","voice_id":1,"bg_id":0},
-        {"id":323,"login_bonus_id":40011,"count":3,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126101,"character_name":"프레시아","description":"음~\\n이거, 줄게.\\n자","voice_id":1,"bg_id":0},
-        {"id":324,"login_bonus_id":40011,"count":4,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":125801,"character_name":"리리","description":"다시 한번……\\n【얼터 메이든】의\\n길드 마스터, 리리라고 합니다","voice_id":2,"bg_id":0},
-        {"id":325,"login_bonus_id":40011,"count":5,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126001,"character_name":"크리아","description":"안녕하세요, 오빠♪\\n【얼터 메이든】의\\n크리아예요","voice_id":2,"bg_id":0},
-        {"id":326,"login_bonus_id":40011,"count":6,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126101,"character_name":"프레시아","description":"오빠.\\n와 줘서 기뻐","voice_id":2,"bg_id":0}
+        {"id":322,"login_bonus_id":40011,"count":2,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126001,"character_name":"크리아","description":"처음 뵙겠습니다, 크리아예요♪\\n여러분과 함께 모험하는 것을\\n무척 기대하고 있어요. ","voice_id":1,"bg_id":0},
+        {"id":323,"login_bonus_id":40011,"count":3,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126101,"character_name":"프레시아","description":"음~\\n이거, 줄게.\\n자.","voice_id":1,"bg_id":0},
+        {"id":324,"login_bonus_id":40011,"count":4,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":125801,"character_name":"리리","description":"다시 한번……\\n【얼터 메이든】의\\n길드 마스터, 리리라고 합니다.","voice_id":2,"bg_id":0},
+        {"id":325,"login_bonus_id":40011,"count":5,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126001,"character_name":"크리아","description":"안녕하세요, 오빠♪\\n【얼터 메이든】의\\n크리아예요.","voice_id":2,"bg_id":0},
+        {"id":326,"login_bonus_id":40011,"count":6,"reward_type":2,"reward_id":24001,"reward_num":1,"character_id":126101,"character_name":"프레시아","description":"오빠.\\n와 줘서 기뻐.","voice_id":2,"bg_id":0}
     ]
 }
