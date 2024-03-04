@@ -4957,6 +4957,10 @@
         {"id":5629,"unit_id":119001,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"กลิ่นหอมที่ไม่ได้การ...\\nรู้สึกเหมือนในใจลึกๆ\\nเริ่มรุ่มร้อนขึ้นมาแล้วล่ะ...♪","insert_word_type":0},
         {"id":5630,"unit_id":119001,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"ว้าย♪\\nเหมือนความรักกำลังลุกโชย♪\\nเริ่มรู้สึกร้อนผ่าวขึ้นมา♪","insert_word_type":0},
         {"id":5632,"unit_id":119001,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"ไม่เลือกตามใจชอบ\\nเพื่อเป็นตัวอย่างที่ดี\\nให้กับนักเรียน","insert_word_type":0},
-        {"id":5633,"unit_id":119001,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"[รักต้องห้ามที่บานสะพรั่ง\\nในตึกเรียน]? น่าสงสัยจัง...\\nไม่สิ ไม่ได้!\\nแต่ว่า...ขอสักนิดนึง...","insert_word_type":0}
+        {"id":5633,"unit_id":119001,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"[รักต้องห้ามที่บานสะพรั่ง\\nในตึกเรียน]? น่าสงสัยจัง...\\nไม่สิ ไม่ได้!\\nแต่ว่า...ขอสักนิดนึง...","insert_word_type":0},
+        {"id":5635,"unit_id":106301,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ตอนที่เจอกันคราวหน้า\\nไปเจอกันที่นั่นด้วยกันอีกนะ...\\nแฮะๆ...!","insert_word_type":0},
+        {"id":5636,"unit_id":106301,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ไม่รู้ใช่ไหม\\nว่ามองหน้าด้านข้างอยู่...?\\n...แอบมอง","insert_word_type":0},
+        {"id":5637,"unit_id":105301,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ตัวเริ่มยืดขึ้นนิดนึงแล้วงั้นเหรอ!?\\nตะ ต้องไปรายงาน\\nให้หมอนั่นรู้แล้วล่ะ!","insert_word_type":0},
+        {"id":5638,"unit_id":105301,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ฉันก็จะทำงานหนักทุกวัน\\nเพื่อที่จะได้ยืน\\nข้างๆ นายนะ!","insert_word_type":0}
     ]
 }
