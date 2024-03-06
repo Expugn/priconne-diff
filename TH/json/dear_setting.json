@@ -1,7 +1,6 @@
 {
     "dear_setting": [
         {"event_id":10017,"system_name":"ระดับความเชื่อใจ","tutorial_quest_id":10017102,"tutorial_chara_index":1,"tutorial_story_id":6017101},
-        {"event_id":10052,"system_name":"ระดับความเชื่อใจ","tutorial_quest_id":10052103,"tutorial_chara_index":1,"tutorial_story_id":6052101},
         {"event_id":10054,"system_name":"ระดับความเชื่อใจ","tutorial_quest_id":10054103,"tutorial_chara_index":1,"tutorial_story_id":6054101},
         {"event_id":10056,"system_name":"ระดับความเชื่อใจ","tutorial_quest_id":10056103,"tutorial_chara_index":1,"tutorial_story_id":6056101},
         {"event_id":10060,"system_name":"ระดับความเชื่อใจ","tutorial_quest_id":10060103,"tutorial_chara_index":1,"tutorial_story_id":6033201},
@@ -16,6 +15,7 @@
         {"event_id":10076,"system_name":"ระดับความเชื่อใจ","tutorial_quest_id":10076105,"tutorial_chara_index":1,"tutorial_story_id":6076101},
         {"event_id":10077,"system_name":"ระดับความเชื่อใจ","tutorial_quest_id":10077103,"tutorial_chara_index":1,"tutorial_story_id":6050106},
         {"event_id":10078,"system_name":"ระดับความเชื่อใจ","tutorial_quest_id":10078114,"tutorial_chara_index":1,"tutorial_story_id":6078101},
+        {"event_id":10079,"system_name":"ระดับความเชื่อใจ","tutorial_quest_id":10079103,"tutorial_chara_index":1,"tutorial_story_id":6052101},
         {"event_id":20015,"system_name":"ระดับความเชื่อใจ","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
         {"event_id":20017,"system_name":"ระดับความเชื่อใจ","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},
         {"event_id":20018,"system_name":"ระดับความเชื่อใจ","tutorial_quest_id":0,"tutorial_chara_index":1,"tutorial_story_id":0},

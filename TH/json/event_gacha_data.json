@@ -74,6 +74,7 @@
         {"gacha_id":10076,"event_id":10076,"gacha_name":"ฮาโลวีนเซเวีย สแครมเบิล! กลยุทธ์จับตัวเจ้าปุกปุย","item_type":2,"item_id":60752,"cost":1,"repeat_step":6},
         {"gacha_id":10077,"event_id":10077,"gacha_name":"รีรัน จงกรีดร้อง! จงแผดเสียง! ฮาโลวีน โกสต์ เฟสติวัล","item_type":2,"item_id":60762,"cost":1,"repeat_step":5},
         {"gacha_id":10078,"event_id":10078,"gacha_name":"สาวน้อยเวทมนตร์ไกเด็น แมจิคัล★นัวร์!","item_type":2,"item_id":60772,"cost":1,"repeat_step":6},
+        {"gacha_id":10079,"event_id":10079,"gacha_name":"รีรัน ผู้บัญชาการเวทมนตร์ เลิฟลี่★โมนิก้า เลทส์โก! แมจิคัลควอเต็ต!","item_type":2,"item_id":60782,"cost":1,"repeat_step":5},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"แลกตราพิชิตแวมไพร์ฮันเตอร์ with อิลิยา","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }

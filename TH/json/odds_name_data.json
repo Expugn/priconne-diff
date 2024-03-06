@@ -161,6 +161,8 @@
         {"id":1007602,"odds_file":"1007620102","name":"เมโมรี่พีซของจุน","icon_type":99002,"description":""},
         {"id":1007603,"odds_file":"box_rank_5-13","name":"กล่องสุ่มอุปกรณ์","icon_type":99002,"description":"กล่องที่สามารถสุ่มรับอุปกรณ์ได้"},
         {"id":1007701,"odds_file":"1007720101","name":"เมโมรี่พีซของมัทสึริ (ฮาโลวีน)","icon_type":99002,"description":""},
-        {"id":1007702,"odds_file":"1007720102","name":"เมโมรี่พีซของสึมุกิ","icon_type":99002,"description":""}
+        {"id":1007702,"odds_file":"1007720102","name":"เมโมรี่พีซของสึมุกิ","icon_type":99002,"description":""},
+        {"id":1007901,"odds_file":"1007920101","name":"เมโมรี่พีซของคาสึมิ","icon_type":99002,"description":""},
+        {"id":1007902,"odds_file":"1007920102","name":"เมโมรี่พีซของโทโมะ","icon_type":99002,"description":""}
     ]
 }

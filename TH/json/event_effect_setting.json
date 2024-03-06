@@ -52,6 +52,9 @@
         {"event_id":10078,"type":4,"value":80002},
         {"event_id":20020,"type":1,"value":91101},
         {"event_id":20020,"type":2,"value":91101},
-        {"event_id":20020,"type":3,"value":91101}
+        {"event_id":20020,"type":3,"value":91101},
+        {"event_id":10079,"type":1,"value":10052},
+        {"event_id":10079,"type":2,"value":10052},
+        {"event_id":10079,"type":3,"value":10052}
     ]
 }
