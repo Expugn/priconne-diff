@@ -194,3 +194,6 @@
 |194|Halloween Saviors Scramble! Mofumofu Hokaku Daisakusen|28||2024-02-08 11:00:00||-1|1000|194|Halloween Saviors Scramble! Mofumofu Hokaku Daisakusen||||
 |195|Aibou no Wataamechan|28||2024-02-08 11:00:00||-1|1000|195|Aibou no Wataamechan||||
 |196|Halloween Monster Jam!!!|28||2024-02-08 11:00:00||-1|1500|196|Halloween Monster Jam!!!||||
+|197|Maho Shojo Gaiden: Magical★Noires!|28||2024-03-11 11:00:00||-1|1000|197|Maho Shojo Gaiden: Magical★Noires!||||
+|198|Antibeast Trinity|28||2024-03-11 11:00:00||-1|1000|198|Antibeast Trinity||||
+|199|GREEDY LOVE|28||2024-03-11 11:00:00||-1|1500|199|GREEDY LOVE||||
