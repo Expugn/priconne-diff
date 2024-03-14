@@ -17522,7 +17522,7 @@
         {"command_id":39912006,"drama_id":39912,"command_type":32,"param_01":"44","param_02":"1","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":39912007,"drama_id":39912,"command_type":32,"param_01":"11","param_02":"0","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":39912008,"drama_id":39912,"command_type":21,"param_01":"vo_wac_230320","param_02":"vo_wac_230320_000","param_03":"0","param_04":"0","param_05":"","param_06":"","param_07":"","param_08":""},
-        {"command_id":39912009,"drama_id":39912,"command_type":11,"param_01":"100911","param_02":"어떤 전설일지라도 끝은 존재한다……\\시구르드여, 우리의 운명을\\n견고한 방벽에 새기는 작업도\\n종막까지 얼마 남지 않은 듯하군.","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
+        {"command_id":39912009,"drama_id":39912,"command_type":11,"param_01":"100911","param_02":"어떤 전설일지라도 끝은 존재한다……\\n시구르드여, 우리의 운명을\\n견고한 방벽에 새기는 작업도\\n종막까지 얼마 남지 않은 듯하군.","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
         {"command_id":39912010,"drama_id":39912,"command_type":91,"param_01":"0","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":39912011,"drama_id":39912,"command_type":3,"param_01":"100911","param_02":"wac_talk_sad_loop_shy","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":39912012,"drama_id":39912,"command_type":21,"param_01":"vo_wac_230320","param_02":"vo_wac_230320_001","param_03":"0","param_04":"0","param_05":"","param_06":"","param_07":"","param_08":""},
