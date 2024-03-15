@@ -27,7 +27,7 @@
         {"story_group_id":5036,"story_type":5,"value":10063,"title":"星光公主　Re:M@STER！","thumbnail_id":0,"disp_order":1,"start_time":"2022/02/25 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5038,"story_type":5,"value":20023,"title":"恩赐的财团与神圣学院的问题儿童","thumbnail_id":0,"disp_order":1,"start_time":"2022/03/26 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5040,"story_type":5,"value":20024,"title":"牧场里的四农士　贫穷农场奋斗记！","thumbnail_id":0,"disp_order":1,"start_time":"2022/04/24 15:00:00","end_time":"2099/12/31 23:59:59"},
-        {"story_group_id":5042,"story_type":5,"value":10069,"title":"不可思议之国的璃乃　小小爱丽丝与希望的绘本","thumbnail_id":0,"disp_order":1,"start_time":"2022/05/26 15:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":5042,"story_type":5,"value":20025,"title":"不可思议之国的璃乃　小小爱丽丝与希望的绘本","thumbnail_id":0,"disp_order":1,"start_time":"2022/05/26 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5044,"story_type":5,"value":10071,"title":"七夕剑客旅情谭　天际川流夏之恋","thumbnail_id":0,"disp_order":1,"start_time":"2022/06/24 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5046,"story_type":5,"value":10073,"title":"美里的夏日应援！　追梦的盛夏棒球队","thumbnail_id":0,"disp_order":1,"start_time":"2022/07/26 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5048,"story_type":5,"value":10075,"title":"快乐变身 双生天使","thumbnail_id":0,"disp_order":1,"start_time":"2022/08/25 15:00:00","end_time":"2099/12/31 23:59:59"},
@@ -50,6 +50,7 @@
         {"story_group_id":5082,"story_type":5,"value":10082,"title":"新春美食回忆录　\\n雪菲的跑腿大作战！","thumbnail_id":0,"disp_order":1,"start_time":"2023/12/25 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5084,"story_type":5,"value":10084,"title":"Re:member　我的愿望所编织的未来","thumbnail_id":0,"disp_order":1,"start_time":"2024/01/26 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5085,"story_type":5,"value":10085,"title":"Re:member　我的愿望所编织的未来","thumbnail_id":0,"disp_order":1,"start_time":"2024/01/26 15:00:00","end_time":"2099/12/31 23:59:59"},
-        {"story_group_id":5088,"story_type":5,"value":10088,"title":"Sweet tiny stage！　\\n新人女演员与小小淑女","thumbnail_id":0,"disp_order":1,"start_time":"2024/2/26 15:00:00","end_time":"2099/12/31 23:59:59"}
+        {"story_group_id":5088,"story_type":5,"value":10088,"title":"Sweet tiny stage！　\\n新人女演员与小小淑女","thumbnail_id":0,"disp_order":1,"start_time":"2024/2/26 15:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":5090,"story_type":5,"value":10090,"title":"交出宝物！　神出鬼没的怪盗","thumbnail_id":0,"disp_order":1,"start_time":"2024/3/24 15:00:00","end_time":"2099/12/31 23:59:59"}
     ]
 }
