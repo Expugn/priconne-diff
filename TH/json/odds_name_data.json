@@ -163,6 +163,8 @@
         {"id":1007701,"odds_file":"1007720101","name":"เมโมรี่พีซของมัทสึริ (ฮาโลวีน)","icon_type":99002,"description":""},
         {"id":1007702,"odds_file":"1007720102","name":"เมโมรี่พีซของสึมุกิ","icon_type":99002,"description":""},
         {"id":1007901,"odds_file":"1007920101","name":"เมโมรี่พีซของคาสึมิ","icon_type":99002,"description":""},
-        {"id":1007902,"odds_file":"1007920102","name":"เมโมรี่พีซของโทโมะ","icon_type":99002,"description":""}
+        {"id":1007902,"odds_file":"1007920102","name":"เมโมรี่พีซของโทโมะ","icon_type":99002,"description":""},
+        {"id":1008001,"odds_file":"1008020101","name":"เมโมรี่พีซของมาฮิรุ (คริสต์มาส)","icon_type":99002,"description":""},
+        {"id":1008002,"odds_file":"1008020102","name":"เมโมรี่พีซของอาคาริ","icon_type":99002,"description":""}
     ]
 }
