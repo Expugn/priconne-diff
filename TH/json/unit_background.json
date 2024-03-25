@@ -162,6 +162,7 @@
         {"unit_id":119001,"unit_name":"อิโอะ (นัวร์)","bg_id":501450,"bg_name":"ฐานลับของนัวร์","position":0,"face_type":4},
         {"unit_id":119101,"unit_name":"คูกะ (นัวร์)","bg_id":501450,"bg_name":"ฐานลับของนัวร์","position":0,"face_type":4},
         {"unit_id":119201,"unit_name":"มาฮิรุ (คริสต์มาส)","bg_id":500863,"bg_name":"ฟาร์มปศุสัตว์ หิมะ กลางวัน","position":0,"face_type":4},
+        {"unit_id":119901,"unit_name":"มิยาโกะ (คริสต์มาส)","bg_id":500038,"bg_name":"แลนด์โซล ย่านการค้า คริสต์มาส","position":0,"face_type":4},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
         {"unit_id":180301,"unit_name":"เรย์ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":3},

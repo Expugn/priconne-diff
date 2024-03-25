@@ -156,6 +156,7 @@
         {"unit_id":119031,"unit_name":"ฮาเซคุระ อิโอะ","bg_id":510090,"face_type":2},
         {"unit_id":119131,"unit_name":"โทมิ คูกะ","bg_id":510150,"face_type":4},
         {"unit_id":119231,"unit_name":"โนโตะ มาฮิรุ","bg_id":510303,"face_type":4},
+        {"unit_id":119931,"unit_name":"อิซึโมะ มิยาโกะ","bg_id":510091,"face_type":4},
         {"unit_id":180131,"unit_name":"ฮารุซากิ ฮิโยริ","bg_id":510121,"face_type":4},
         {"unit_id":180231,"unit_name":"คุซาโนะ ยุย","bg_id":510350,"face_type":2},
         {"unit_id":180331,"unit_name":"ชิโจ เรย์","bg_id":510100,"face_type":2},
