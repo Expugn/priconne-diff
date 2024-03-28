@@ -1,5 +1,6 @@
 {
     "travel_area_data": [
-        {"travel_area_id":11001,"travel_area_name":"1 유피테르 밀림","condition_team_lv":1,"bg_id":500170,"top_icon_id":11001,"top_icon_x":220,"top_icon_y":-80,"start_time":"2023/11/30 15:00:00","end_time":"2030/12/17 14:59:00"}
+        {"travel_area_id":11001,"travel_area_name":"1 유피테르 밀림","condition_team_lv":1,"bg_id":500170,"top_icon_id":11001,"top_icon_x":220,"top_icon_y":-80,"start_time":"2023/11/30 15:00:00","end_time":"2030/12/17 14:59:00"},
+        {"travel_area_id":11002,"travel_area_name":"2 머큐리아 만 어귀","condition_team_lv":1,"bg_id":500160,"top_icon_id":11002,"top_icon_x":520,"top_icon_y":-150,"start_time":"2024/03/28 15:00:00","end_time":"2030/12/17 14:59:00"}
     ]
 }
