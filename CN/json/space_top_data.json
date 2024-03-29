@@ -1,12 +1,12 @@
 {
     "space_top_data": [
-        {"id":1,"space_id":1002,"space_battle_id":0,"part_flag":1,"story_id":4007001,"time_from":"2020/04/01","time_to":"2020/04/01 23:59:59","skip_battle_time":"2020/04/02","name":"バトル オブ ランドソル"},
-        {"id":2,"space_id":1002,"space_battle_id":1002001,"part_flag":0,"story_id":0,"time_from":"2020/04/01","time_to":"2020/04/01 23:59:59","skip_battle_time":"2020/04/02","name":"バトル オブ ランドソル"},
-        {"id":3,"space_id":1002,"space_battle_id":0,"part_flag":2,"story_id":4007001,"time_from":"2020/04/01","time_to":"2020/04/01 23:59:59","skip_battle_time":"0","name":"バトル オブ ランドソル"},
-        {"id":4,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":4007002,"time_from":"2020/04/01","time_to":"2020/04/01 23:59:59","skip_battle_time":"0","name":"バトル オブ ランドソル"},
-        {"id":5,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":4007003,"time_from":"2020/04/01","time_to":"2020/04/01 23:59:59","skip_battle_time":"0","name":"バトル オブ ランドソル"},
-        {"id":6,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":4007004,"time_from":"2020/04/01","time_to":"2020/04/01 23:59:59","skip_battle_time":"0","name":"バトル オブ ランドソル"},
-        {"id":7,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":0,"time_from":"2020/04/01","time_to":"2020/04/01 23:59:59","skip_battle_time":"2020/04/02","name":"バトル オブ ランドソル"},
-        {"id":8,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":4007005,"time_from":"2020/04/02","time_to":"2020/04/08 23:59:59","skip_battle_time":"0","name":"バトル オブ ランドソル"}
+        {"id":1,"space_id":1002,"space_battle_id":0,"part_flag":1,"story_id":4007001,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"2024/04/02","name":"兰德索尔之战"},
+        {"id":2,"space_id":1002,"space_battle_id":1002001,"part_flag":0,"story_id":0,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"2024/04/02","name":"兰德索尔之战"},
+        {"id":3,"space_id":1002,"space_battle_id":0,"part_flag":2,"story_id":4007001,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"0","name":"兰德索尔之战"},
+        {"id":4,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":4007002,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"0","name":"兰德索尔之战"},
+        {"id":5,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":4007003,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"0","name":"兰德索尔之战"},
+        {"id":6,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":4007004,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"0","name":"兰德索尔之战"},
+        {"id":7,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":0,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"2024/04/02","name":"兰德索尔之战"},
+        {"id":8,"space_id":1002,"space_battle_id":0,"part_flag":0,"story_id":4007005,"time_from":"2024/04/01","time_to":"2024/04/01 23:59:59","skip_battle_time":"0","name":"兰德索尔之战"}
     ]
 }
