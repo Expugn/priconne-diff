@@ -107,7 +107,7 @@
 |clan_battle_2_map_data|clan_battle_2_map_data_0_clan_battle_id|232 5|
 |love_rankup|love_rankup_0_unit_id|25 7|
 |love_rankup|sqlite_autoindex_love_rankup_1|25 7 1|
-|story_data||243|
+|story_data||244|
 |taq_game_setting||1|
 |kaiser_special_battle||3|
 |pkb_pitcher_ball_type|pkb_pitcher_ball_type_0_pitcher_id|17 5|
@@ -157,7 +157,7 @@
 |sekai_add_times_data||12|
 |clan_battle_s_map_data|clan_battle_s_map_data_0_clan_battle_id|186 4|
 |unit_unique_equip||145|
-|story_detail||1603|
+|story_detail||1607|
 |content_map_data||5|
 |odds_name_data||197|
 |hatsune_series_gacha_reference||1|
@@ -445,7 +445,7 @@
 |grand_arena_defence_reward||1|
 |chara_fortune_schedule||9|
 |unit_mypage_pos||36|
-|unlock_unit_condition||187|
+|unlock_unit_condition||188|
 |daily_mission_data||418|
 |equipment_donation||9|
 |equipment_data||834|
