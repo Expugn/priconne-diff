@@ -76,6 +76,7 @@
         {"gacha_id":10078,"event_id":10078,"gacha_name":"สาวน้อยเวทมนตร์ไกเด็น แมจิคัล★นัวร์!","item_type":2,"item_id":60772,"cost":1,"repeat_step":6},
         {"gacha_id":10079,"event_id":10079,"gacha_name":"รีรัน ผู้บัญชาการเวทมนตร์ เลิฟลี่★โมนิก้า เลทส์โก! แมจิคัลควอเต็ต!","item_type":2,"item_id":60782,"cost":1,"repeat_step":5},
         {"gacha_id":10080,"event_id":10080,"gacha_name":"เมอร์รี่พุดดิ้งคริสต์มาส! สาวน้อยผู้บินได้กับขนมหวานแห่งหัวใจ","item_type":2,"item_id":60792,"cost":1,"repeat_step":6},
+        {"gacha_id":10081,"event_id":10081,"gacha_name":"รีรัน เดบูตองต์แชงกรีล่า เกมรักในคืนศักดิ์สิทธิ์","item_type":2,"item_id":60802,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"แลกตราพิชิตแวมไพร์ฮันเตอร์ with อิลิยา","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
