@@ -156,7 +156,7 @@
         {"tbl":"goldset_data","idx":null,"stat":"70"},
         {"tbl":"sekai_add_times_data","idx":null,"stat":"12"},
         {"tbl":"clan_battle_s_map_data","idx":"clan_battle_s_map_data_0_clan_battle_id","stat":"186 4"},
-        {"tbl":"unit_unique_equip","idx":null,"stat":"145"},
+        {"tbl":"unit_unique_equip","idx":null,"stat":"147"},
         {"tbl":"story_detail","idx":null,"stat":"1607"},
         {"tbl":"content_map_data","idx":null,"stat":"5"},
         {"tbl":"odds_name_data","idx":null,"stat":"197"},
