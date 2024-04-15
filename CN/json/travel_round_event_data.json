@@ -1,0 +1,7 @@
+{
+    "travel_round_event_data": [
+        {"round_event_id":1,"round":1,"pos_id":15,"transition_drama_id":1001,"main_drama_id":2001,"left_door_pre_drama_id":2101,"right_door_pre_drama_id":2201,"event_icon_id":1001,"travel_treasure_box_type":3},
+        {"round_event_id":1,"round":2,"pos_id":15,"transition_drama_id":1101,"main_drama_id":2001,"left_door_pre_drama_id":2101,"right_door_pre_drama_id":2201,"event_icon_id":1001,"travel_treasure_box_type":3},
+        {"round_event_id":1,"round":3,"pos_id":15,"transition_drama_id":1101,"main_drama_id":2001,"left_door_pre_drama_id":2101,"right_door_pre_drama_id":2201,"event_icon_id":1001,"travel_treasure_box_type":6}
+    ]
+}

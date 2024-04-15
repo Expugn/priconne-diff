@@ -1,0 +1,26 @@
+{
+    "caravan_buff_disp": [
+        {"id":1,"type":1,"effect_id":52001,"category":1,"icon_id":1,"description":"【料理】骰子增加至两个","count_from":0,"count_to":0},
+        {"id":2,"type":1,"effect_id":52002,"category":1,"icon_id":1,"description":"【料理】投掷骰子的结果必定是“1”","count_from":0,"count_to":0},
+        {"id":3,"type":1,"effect_id":52002,"category":3,"icon_id":2,"description":"【料理】跳过对下一个回合的计数","count_from":0,"count_to":0},
+        {"id":4,"type":1,"effect_id":52004,"category":1,"icon_id":1,"description":"【料理】投掷骰子的结果必定是“4”","count_from":0,"count_to":0},
+        {"id":5,"type":1,"effect_id":52006,"category":1,"icon_id":1,"description":"【料理】投掷骰子的结果\\n会是“4、5、6”其中的一个","count_from":0,"count_to":0},
+        {"id":6,"type":1,"effect_id":52007,"category":1,"icon_id":1,"description":"【料理】第一次投掷骰子的结果必定是“3”，第二次必定是“6”","count_from":0,"count_to":0},
+        {"id":7,"type":1,"effect_id":52003,"category":1,"icon_id":1,"description":"【料理】投掷骰子的结果必定是“5”","count_from":0,"count_to":0},
+        {"id":8,"type":1,"effect_id":52008,"category":2,"icon_id":7,"description":"【料理】里程格子获得的里程提升200%","count_from":0,"count_to":0},
+        {"id":9,"type":2,"effect_id":4,"category":3,"icon_id":2,"description":"【事件】跳过对下一个回合的计数","count_from":0,"count_to":0},
+        {"id":10,"type":2,"effect_id":5,"category":2,"icon_id":3,"description":"【事件】里程格子获得的里程提升100%","count_from":0,"count_to":0},
+        {"id":11,"type":2,"effect_id":6,"category":2,"icon_id":5,"description":"【事件】小游戏里活得的里程提升100%","count_from":0,"count_to":0},
+        {"id":12,"type":2,"effect_id":7,"category":3,"icon_id":4,"description":"【事件】里程商店里所有商品均有20%以上的折扣","count_from":0,"count_to":0},
+        {"id":13,"type":1,"effect_id":52009,"category":1,"icon_id":1,"description":"【料理】第一次投掷骰子的结果必定是“8”，第二次必定是“1”","count_from":0,"count_to":0},
+        {"id":14,"type":1,"effect_id":52010,"category":2,"icon_id":6,"description":"【料理】“里程格子”、“宝\\n藏格子”、“商店格子”上升一个品级","count_from":0,"count_to":0},
+        {"id":15,"type":1,"effect_id":52011,"category":1,"icon_id":1,"description":"【料理】第一次投掷骰子的结果必定是“2”，第二次必定是“7”","count_from":0,"count_to":0},
+        {"id":16,"type":1,"effect_id":52012,"category":1,"icon_id":1,"description":"【料理】投掷骰子的结果\\n会是“1、2、3”其中的一个","count_from":0,"count_to":0},
+        {"id":17,"type":1,"effect_id":52012,"category":3,"icon_id":2,"description":"【料理】跳过对下一个回合的计数","count_from":0,"count_to":0},
+        {"id":18,"type":1,"effect_id":52014,"category":1,"icon_id":8,"description":"【料理】移动时会跳过里程格子。","count_from":0,"count_to":0},
+        {"id":19,"type":1,"effect_id":52005,"category":1,"icon_id":1,"description":"【料理】下次移动时会多走一个格子。","count_from":0,"count_to":0},
+        {"id":20,"type":1,"effect_id":52014,"category":1,"icon_id":1,"description":"【料理】下次移动时会多走一个格子。","count_from":2,"count_to":2},
+        {"id":21,"type":1,"effect_id":52015,"category":1,"icon_id":1,"description":"【料理】骰子增加至两个","count_from":0,"count_to":0},
+        {"id":22,"type":1,"effect_id":52015,"category":1,"icon_id":1,"description":"【料理】下次移动时会多走一个格子。","count_from":0,"count_to":0}
+    ]
+}

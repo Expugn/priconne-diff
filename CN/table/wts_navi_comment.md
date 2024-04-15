@@ -1,0 +1,4 @@
+|comment_id|where_type|character_id|face_type|voice_id|pos_x|pos_y|change_face_time|change_face_type|original_event_id|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|58001|58|126601|1|101|-360|0|8.63|0|10122|
+|58002|58|126601|1|102|-360|0|4.37|0|10122|

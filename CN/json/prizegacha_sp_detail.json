@@ -3,6 +3,7 @@
         {"disp_rarity":101,"effect_id":101,"name":"佩可莉姆奖"},
         {"disp_rarity":102,"effect_id":102,"name":"可可萝奖"},
         {"disp_rarity":103,"effect_id":103,"name":"凯露奖"},
-        {"disp_rarity":104,"effect_id":104,"name":"雪菲奖"}
+        {"disp_rarity":104,"effect_id":104,"name":"雪菲奖"},
+        {"disp_rarity":105,"effect_id":105,"name":"爱梅斯奖"}
     ]
 }

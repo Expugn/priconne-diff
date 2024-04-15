@@ -1,9 +1,9 @@
 {
     "legion_mission_category_data": [
         {"category_id":1000,"name":"共通"},
-        {"category_id":1005,"name":"美空"},
-        {"category_id":1006,"name":"兰法"},
-        {"category_id":1007,"name":"阿索尔德"},
-        {"category_id":1008,"name":"卡利萨"}
+        {"category_id":1005,"name":"ミソラ"},
+        {"category_id":1006,"name":"ランファ"},
+        {"category_id":1007,"name":"アゾールド"},
+        {"category_id":1008,"name":"カリザ"}
     ]
 }

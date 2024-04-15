@@ -99,8 +99,6 @@
         {"restriction_group_id":1004,"unit_id":109901},
         {"restriction_group_id":1004,"unit_id":109801},
         {"restriction_group_id":1001,"unit_id":106501},
-        {"restriction_group_id":1003,"unit_id":111401},
-        {"restriction_group_id":1004,"unit_id":170101},
-        {"restriction_group_id":1004,"unit_id":170201}
+        {"restriction_group_id":1003,"unit_id":111401}
     ]
 }

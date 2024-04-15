@@ -1,0 +1,2 @@
+|schedule_id|start_time|count_start_time|end_time|close_time|calc_start|result_start|
+| --- | --- | --- | --- | --- | --- | --- |

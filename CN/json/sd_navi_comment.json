@@ -11,6 +11,8 @@
         {"comment_id":1007001,"where_type":1007,"character_id":190801,"motion_type":4,"description":"和美里还有各位部员\\n一起进行击球特训吧！\\n看准时机把球打回去吧，\\n目标是全垒打","voice_id":0,"start_time":"2022-08-15 11:00:00","end_time":"2099-12-31 23:59:59"},
         {"comment_id":1008001,"where_type":1008,"character_id":190801,"motion_type":6,"description":"使用慈乐之音奖章，\\n获取应援周边吧！\\n可以使用金币\\n来兑换奖章哦。\\n","voice_id":0,"start_time":"2020-01-01 0:00:00","end_time":"2099-12-31 23:59:59"},
         {"comment_id":1009001,"where_type":1009,"character_id":190801,"motion_type":13,"description":"吃过的布丁就在\\n布丁笔记中确认吧！\\n布丁的材料\\n可以用金币来购买。","voice_id":0,"start_time":"2020-01-01 0:00:00","end_time":"2099-12-31 23:59:59"},
-        {"comment_id":1010001,"where_type":1010,"character_id":190801,"motion_type":4,"description":"通过团队合作来挑战谜题吧！\\n是要单独测试自己的实力，\\n还是要和伙伴们组队\\n游玩，请选择喜欢的模式吧♪","voice_id":0,"start_time":"2020-01-01 0:00:00","end_time":"2099-12-31 23:59:59"}
+        {"comment_id":1010001,"where_type":1010,"character_id":190801,"motion_type":4,"description":"通过团队合作来挑战谜题吧！\\n是要单独测试自己的实力，\\n还是要和伙伴们组队\\n游玩，请选择喜欢的模式吧♪","voice_id":0,"start_time":"2020-01-01 0:00:00","end_time":"2099-12-31 23:59:59"},
+        {"comment_id":1011001,"where_type":1011,"character_id":190801,"motion_type":6,"description":"突破三轮比赛，\\n以综合第一名为目标加油吧！\\n要多多关注参赛者们\\n以及GP的特征♪","voice_id":0,"start_time":"2022-07-18 15:00:00","end_time":"2030-04-01 14:00:00"},
+        {"comment_id":1012001,"where_type":1012,"character_id":190801,"motion_type":6,"description":"和凯露小姐还有铃奈小姐\\n一起用猜谜来学习吧！\\n在放学后的教室里两人独处……\\n让人有些心跳加速呢♪","voice_id":0,"start_time":"2023-09-18 15:00:00","end_time":"2030-04-01 14:00:00"}
     ]
 }

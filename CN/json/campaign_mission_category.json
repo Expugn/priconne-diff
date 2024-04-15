@@ -1,8 +1,6 @@
 {
     "campaign_mission_category": [
         {"id":1,"campaign_id":1,"type":9,"lv_from":2,"lv_to":40},
-        {"id":2,"campaign_id":1,"type":10,"lv_from":2,"lv_to":999},
-        {"id":3,"campaign_id":2,"type":9,"lv_from":2,"lv_to":40},
-        {"id":4,"campaign_id":2,"type":10,"lv_from":2,"lv_to":999}
+        {"id":2,"campaign_id":1,"type":10,"lv_from":2,"lv_to":999}
     ]
 }

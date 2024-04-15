@@ -28,6 +28,11 @@
         {"promotion_level":8,"equipment_enhance_level":2,"needed_point":160,"total_point":260},
         {"promotion_level":8,"equipment_enhance_level":3,"needed_point":280,"total_point":540},
         {"promotion_level":8,"equipment_enhance_level":4,"needed_point":480,"total_point":1020},
-        {"promotion_level":8,"equipment_enhance_level":5,"needed_point":780,"total_point":1800}
+        {"promotion_level":8,"equipment_enhance_level":5,"needed_point":780,"total_point":1800},
+        {"promotion_level":9,"equipment_enhance_level":1,"needed_point":100,"total_point":100},
+        {"promotion_level":9,"equipment_enhance_level":2,"needed_point":160,"total_point":260},
+        {"promotion_level":9,"equipment_enhance_level":3,"needed_point":280,"total_point":540},
+        {"promotion_level":9,"equipment_enhance_level":4,"needed_point":480,"total_point":1020},
+        {"promotion_level":9,"equipment_enhance_level":5,"needed_point":780,"total_point":1800}
     ]
 }

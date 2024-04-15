@@ -1,0 +1,11 @@
+{
+    "sjr_feature_group": [
+        {"feature_id":1,"group_id":4},
+        {"feature_id":2,"group_id":3},
+        {"feature_id":3,"group_id":3},
+        {"feature_id":4,"group_id":2},
+        {"feature_id":5,"group_id":2},
+        {"feature_id":6,"group_id":1},
+        {"feature_id":7,"group_id":1}
+    ]
+}

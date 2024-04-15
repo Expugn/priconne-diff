@@ -32,13 +32,21 @@
         {"ailment_id":30,"ailment_action":8,"ailment_detail_1":11,"ailment_name":"时间停止"},
         {"ailment_id":31,"ailment_action":76,"ailment_detail_1":-1,"ailment_name":"生命值回复量减少"},
         {"ailment_id":32,"ailment_action":78,"ailment_detail_1":-1,"ailment_name":"弱体伤害上升"},
-        {"ailment_id":33,"ailment_action":79,"ailment_detail_1":-1,"ailment_name":"行动时造成中毒伤害"},
+        {"ailment_id":33,"ailment_action":79,"ailment_detail_1":1,"ailment_name":"行动时造成中毒伤害"},
         {"ailment_id":34,"ailment_action":8,"ailment_detail_1":14,"ailment_name":"眩晕（其他栏）"},
         {"ailment_id":35,"ailment_action":9,"ailment_detail_1":7,"ailment_name":"毒（其他栏）"},
         {"ailment_id":36,"ailment_action":9,"ailment_detail_1":8,"ailment_name":"诅咒（其他栏）"},
         {"ailment_id":37,"ailment_action":11,"ailment_detail_1":2,"ailment_name":"混乱（其他栏）"},
         {"ailment_id":38,"ailment_action":8,"ailment_detail_1":13,"ailment_name":"结晶化"},
         {"ailment_id":39,"ailment_action":83,"ailment_detail_1":1,"ailment_name":"减速（可以叠加）"},
-        {"ailment_id":40,"ailment_action":83,"ailment_detail_1":2,"ailment_name":"加速（可以叠加）"}
+        {"ailment_id":40,"ailment_action":83,"ailment_detail_1":2,"ailment_name":"加速（可以叠加）"},
+        {"ailment_id":41,"ailment_action":49,"ailment_detail_1":3,"ailment_name":"消除增益"},
+        {"ailment_id":42,"ailment_action":49,"ailment_detail_1":10,"ailment_name":"消除屏障"},
+        {"ailment_id":43,"ailment_action":9,"ailment_detail_1":9,"ailment_name":"黑炎"},
+        {"ailment_id":44,"ailment_action":99,"ailment_detail_1":2,"ailment_name":"加速领域"},
+        {"ailment_id":45,"ailment_action":99,"ailment_detail_1":1,"ailment_name":"减速领域"},
+        {"ailment_id":46,"ailment_action":49,"ailment_detail_1":20,"ailment_name":"消除增益（指定）"},
+        {"ailment_id":47,"ailment_action":101,"ailment_detail_1":5,"ailment_name":"殴打印记（攻击命中）"},
+        {"ailment_id":48,"ailment_action":79,"ailment_detail_1":10,"ailment_name":"行动时雷霆圣界伤害"}
     ]
 }

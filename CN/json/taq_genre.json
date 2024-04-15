@@ -1,10 +1,10 @@
 {
     "taq_genre": [
-        {"genre_id":1,"genre_name":"バトル・スポーツ"},
-        {"genre_id":2,"genre_name":"ことば・物語"},
-        {"genre_id":3,"genre_name":"カルチャー・雑学"},
-        {"genre_id":4,"genre_name":"サイエンス・地理・数学"},
-        {"genre_id":5,"genre_name":"グルメ・ライフ"},
-        {"genre_id":6,"genre_name":"人・生き物"}
+        {"genre_id":1,"genre_name":"战斗、体育"},
+        {"genre_id":2,"genre_name":"语言、故事"},
+        {"genre_id":3,"genre_name":"文化、杂学"},
+        {"genre_id":4,"genre_name":"科学、地理、数学"},
+        {"genre_id":5,"genre_name":"美食、生活"},
+        {"genre_id":6,"genre_name":"人、生物"}
     ]
 }

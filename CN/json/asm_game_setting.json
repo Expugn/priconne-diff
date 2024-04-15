@@ -1,0 +1,5 @@
+{
+    "asm_game_setting": [
+        {"id":1,"lottery_rate":0.25,"normal_limit_time":20,"normal_quiz_num":10,"concentration_limit_time":99,"concentration_quiz_limit_num":99,"incorrect_answer_penalty_time":5,"help_use_count_normal":4,"help_use_count_hard":3,"help_use_count_veryhard":2,"limit_score":9999999,"unlock_concentration_mode_score_1":30000,"unlock_concentration_mode_score_2":30000}
+    ]
+}

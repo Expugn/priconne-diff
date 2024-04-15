@@ -1,9 +1,9 @@
 {
     "trial_battle_category": [
-        {"category_id":1,"category_name":"ガーゴイル","icon_id":1,"label_type_1":101,"label_type_2":0,"label_type_3":0,"description":"剛力なる鳥像","description_detail":"高い物理攻撃力を宿し、強力な範囲攻撃を行うよう\\nプログラムされたボスが現れる。"},
-        {"category_id":2,"category_name":"マグスガーゴイル","icon_id":2,"label_type_1":102,"label_type_2":0,"label_type_3":0,"description":"魔業なる鳥像","description_detail":"高い魔法攻撃力を宿し、強力な範囲攻撃を行うよう\\nプログラムされたボスが現れる。"},
-        {"category_id":3,"category_name":"ガードガーゴイル","icon_id":3,"label_type_1":103,"label_type_2":0,"label_type_3":0,"description":"堅固なる鳥像","description_detail":"防御力アップスキルで高い耐久力を誇り、相手の攻撃\\nを凌ぐようプログラムされたボスが現れる。"},
-        {"category_id":4,"category_name":"ガーゴイル・バースト","icon_id":4,"label_type_1":101,"label_type_2":202,"label_type_3":0,"description":"剛力の浮石を従えし鳥像","description_detail":"高い物理攻撃力を宿し、強力な範囲攻撃を行うよう\\nプログラムされたマルチターゲットのボスが現れる。"},
-        {"category_id":5,"category_name":"ガーゴイル・マギ","icon_id":5,"label_type_1":102,"label_type_2":202,"label_type_3":0,"description":"魔業の浮石を従えし鳥像","description_detail":"高い魔法攻撃力を宿し、強力な範囲攻撃を行うよう\\nプログラムされたマルチターゲットのボスが現れる。"}
+        {"category_id":1,"category_name":"滴水嘴兽","icon_id":1,"label_type_1":101,"label_type_2":0,"label_type_3":0,"description":"刚力鸟像","description_detail":"该首领怪物具备高物理攻击力，\\n可发动强大的范围攻击。"},
+        {"category_id":2,"category_name":"法师滴水嘴兽","icon_id":2,"label_type_1":102,"label_type_2":0,"label_type_3":0,"description":"魔业鸟像","description_detail":"该首领怪物具备高魔法攻击力，\\n可发动强大的范围攻击。"},
+        {"category_id":3,"category_name":"持盾滴水嘴兽","icon_id":3,"label_type_1":103,"label_type_2":0,"label_type_3":0,"description":"坚固鸟像","description_detail":"该首领怪物具备防御力提升技能，\\n可通过极高的耐久力来抵挡敌人的攻击。"},
+        {"category_id":4,"category_name":"滴水嘴兽·炸裂","icon_id":4,"label_type_1":101,"label_type_2":202,"label_type_3":0,"description":"携有刚力浮石的鸟像","description_detail":"该首领怪物具备高物理攻击力，可发动强大的\\n范围攻击，有多个受击判定目标。"},
+        {"category_id":5,"category_name":"滴水嘴兽·魔能","icon_id":5,"label_type_1":102,"label_type_2":202,"label_type_3":0,"description":"携有魔业浮石的鸟像","description_detail":"该首领怪物具备高魔法攻击力，可发动强大的\\n范围攻击，有多个受击判定目标。"}
     ]
 }

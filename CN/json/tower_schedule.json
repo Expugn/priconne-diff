@@ -42,6 +42,7 @@
         {"tower_schedule_id":1040,"max_tower_area_id":40,"opening_story_id":7021003,"count_start_time":"2023/12/20 23:59:59","recovery_disable_time":"2023/12/21 5:00:00","start_time":"2023/12/16 12:00:00","end_time":"2023/12/21 23:59:59"},
         {"tower_schedule_id":1041,"max_tower_area_id":41,"opening_story_id":7022000,"count_start_time":"2024/01/21 23:59:59","recovery_disable_time":"2024/01/22 5:00:00","start_time":"2024/01/17 12:00:00","end_time":"2024/01/22 23:59:59"},
         {"tower_schedule_id":1042,"max_tower_area_id":42,"opening_story_id":7022003,"count_start_time":"2024/02/21 23:59:59","recovery_disable_time":"2024/02/22 5:00:00","start_time":"2024/02/17 12:00:00","end_time":"2024/02/22 23:59:59"},
-        {"tower_schedule_id":1043,"max_tower_area_id":43,"opening_story_id":7023000,"count_start_time":"2024/03/21 23:59:59","recovery_disable_time":"2024/03/22 5:00:00","start_time":"2024/03/17 12:00:00","end_time":"2024/03/22 23:59:59"}
+        {"tower_schedule_id":1043,"max_tower_area_id":43,"opening_story_id":7023000,"count_start_time":"2024/03/21 23:59:59","recovery_disable_time":"2024/03/22 5:00:00","start_time":"2024/03/17 12:00:00","end_time":"2024/03/22 23:59:59"},
+        {"tower_schedule_id":1044,"max_tower_area_id":44,"opening_story_id":7023003,"count_start_time":"2024/04/21 23:59:59","recovery_disable_time":"2024/04/22 5:00:00","start_time":"2024/04/17 12:00:00","end_time":"2024/04/22 23:59:59"}
     ]
 }
