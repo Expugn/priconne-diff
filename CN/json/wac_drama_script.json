@@ -103,7 +103,7 @@
         {"command_id":112095,"drama_id":112,"command_type":3,"param_01":"118511","param_02":"wac_215_karin_idle_normal","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":112096,"drama_id":112,"command_type":3,"param_01":"105811","param_02":"wac_215_peko_talk_wish","param_03":"0","param_04":"wac_215_peko_talk_wish_loop","param_05":"1","param_06":"0.2","param_07":"0.2","param_08":""},
         {"command_id":112097,"drama_id":112,"command_type":21,"param_01":"vo_wac_220215","param_02":"vo_wac_220215_017","param_03":"0","param_04":"0","param_05":"","param_06":"","param_07":"","param_08":""},
-        {"command_id":112098,"drama_id":112,"command_type":11,"param_01":"105811","param_02":"好！\\n那我就画魔物料理——\\nそれじゃあわたしは、魔物料理の絵を――","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
+        {"command_id":112098,"drama_id":112,"command_type":11,"param_01":"105811","param_02":"好！\\n那我就画魔物料理——","param_03":"10","param_04":"1","param_05":"1","param_06":"0","param_07":"0","param_08":"0.5"},
         {"command_id":112099,"drama_id":112,"command_type":91,"param_01":"112098","param_02":"","param_03":"","param_04":"","param_05":"","param_06":"","param_07":"","param_08":""},
         {"command_id":112100,"drama_id":112,"command_type":3,"param_01":"105811","param_02":"wac_215_peko_idle_wish","param_03":"1","param_04":"","param_05":"","param_06":"0.2","param_07":"","param_08":""},
         {"command_id":112101,"drama_id":112,"command_type":3,"param_01":"106011","param_02":"wac_215_kyaru_talk_anger","param_03":"0","param_04":"wac_215_talk_arm_crossed_loop","param_05":"1","param_06":"0.2","param_07":"0.2","param_08":""},
