@@ -43,6 +43,7 @@
         {"id":46,"unit_id":117801,"event_id":10076,"condition_mission_id":71076032,"top_description":"ปลดล็อกเมื่อล้มบอส\\nNORMAL ได้!","description_1":"[3C404E]เล่นกิจกรรมและต่อสู้กับ BOSS!\\nล้ม BOSS เพื่อปลดล็อกตัวละครพิเศษ!![-]","description_2":"[3C404E]ล้ม BOSS NORMAL เพื่อปลดล็อก!"},
         {"id":47,"unit_id":114101,"event_id":10077,"condition_mission_id":71077031,"top_description":"ปลดล็อกเมื่อล้มบอส\\nNORMAL ได้!","description_1":"[3C404E]เล่นกิจกรรมและต่อสู้กับ BOSS!\\nล้ม BOSS เพื่อปลดล็อกตัวละครพิเศษ!![-]","description_2":"[3C404E]ล้ม BOSS NORMAL เพื่อปลดล็อก!"},
         {"id":48,"unit_id":119201,"event_id":10080,"condition_mission_id":71080032,"top_description":"ปลดล็อกเมื่อล้มบอส\\nNORMAL ได้!","description_1":"[3C404E]เล่นกิจกรรมและต่อสู้กับ BOSS!\\nล้ม BOSS เพื่อปลดล็อกตัวละครพิเศษ!![-]","description_2":"[3C404E]ล้ม BOSS NORMAL เพื่อปลดล็อก!"},
-        {"id":49,"unit_id":114601,"event_id":10081,"condition_mission_id":71081033,"top_description":"ปลดล็อกเมื่อล้มบอส\\nNORMAL ได้!","description_1":"[3C404E]เล่นกิจกรรมและต่อสู้กับ BOSS!\\nล้ม BOSS เพื่อปลดล็อกตัวละครพิเศษ!![-]","description_2":"[3C404E]ล้ม BOSS NORMAL เพื่อปลดล็อก!"}
+        {"id":49,"unit_id":114601,"event_id":10081,"condition_mission_id":71081033,"top_description":"ปลดล็อกเมื่อล้มบอส\\nNORMAL ได้!","description_1":"[3C404E]เล่นกิจกรรมและต่อสู้กับ BOSS!\\nล้ม BOSS เพื่อปลดล็อกตัวละครพิเศษ!![-]","description_2":"[3C404E]ล้ม BOSS NORMAL เพื่อปลดล็อก!"},
+        {"id":50,"unit_id":120801,"event_id":10082,"condition_mission_id":71082032,"top_description":"ปลดล็อกเมื่อล้มบอส\\nNORMAL ได้!","description_1":"[3C404E]เล่นกิจกรรมและต่อสู้กับ BOSS!\\nล้ม BOSS เพื่อปลดล็อกตัวละครพิเศษ!![-]","description_2":"[3C404E]ล้ม BOSS NORMAL เพื่อปลดล็อก!"}
     ]
 }
