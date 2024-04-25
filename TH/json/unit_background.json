@@ -164,6 +164,7 @@
         {"unit_id":119201,"unit_name":"มาฮิรุ (คริสต์มาส)","bg_id":500863,"bg_name":"ฟาร์มปศุสัตว์ หิมะ กลางวัน","position":0,"face_type":4},
         {"unit_id":119301,"unit_name":"ริโนะ (คริสต์มาส)","bg_id":500036,"bg_name":"แลนด์โซล ย่านการค้า คริสต์มาส","position":0,"face_type":4},
         {"unit_id":119901,"unit_name":"มิยาโกะ (คริสต์มาส)","bg_id":500038,"bg_name":"แลนด์โซล ย่านการค้า คริสต์มาส","position":0,"face_type":4},
+        {"unit_id":120701,"unit_name":"เชฟี่ (ปีใหม่)","bg_id":501480,"bg_name":"เรือนเลิศรส กิลด์เฮ้าส์ ด้านนอก ปีใหม่","position":0,"face_type":2},
         {"unit_id":120801,"unit_name":"รุกะ (ปีใหม่)","bg_id":500560,"bg_name":"ทางเดินสู่ศาลเจ้า กลางวัน","position":0,"face_type":3},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
@@ -171,6 +172,7 @@
         {"unit_id":180401,"unit_name":"เปโกรีน (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
         {"unit_id":180501,"unit_name":"คกโคโระ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180601,"unit_name":"แคล (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":18},
-        {"unit_id":180701,"unit_name":"ฮาสึเนะ & ชิโอริ","bg_id":501370,"bg_name":"แอ่งน้ำตก กลางวัน","position":0,"face_type":2}
+        {"unit_id":180701,"unit_name":"ฮาสึเนะ & ชิโอริ","bg_id":501370,"bg_name":"แอ่งน้ำตก กลางวัน","position":0,"face_type":2},
+        {"unit_id":180801,"unit_name":"มิโซงิ & มิมิ & เคียวกะ","bg_id":500194,"bg_name":"ป่าเอลฟ์ ฐานลับ","position":0,"face_type":2}
     ]
 }

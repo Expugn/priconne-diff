@@ -158,6 +158,7 @@
         {"unit_id":119231,"unit_name":"โนโตะ มาฮิรุ","bg_id":510303,"face_type":4},
         {"unit_id":119331,"unit_name":"อิโนะซากิ ริโนะ","bg_id":510392,"face_type":9},
         {"unit_id":119931,"unit_name":"อิซึโมะ มิยาโกะ","bg_id":510091,"face_type":4},
+        {"unit_id":120731,"unit_name":"อากาโตะ ชิฟุนะ","bg_id":510130,"face_type":2},
         {"unit_id":120831,"unit_name":"ทาจิอาราอิ รุกะ","bg_id":510303,"face_type":2},
         {"unit_id":180131,"unit_name":"ฮารุซากิ ฮิโยริ","bg_id":510121,"face_type":4},
         {"unit_id":180231,"unit_name":"คุซาโนะ ยุย","bg_id":510350,"face_type":2},
@@ -165,6 +166,7 @@
         {"unit_id":180431,"unit_name":"ยูสเทียน่า-ฟอน-แอสแทร์","bg_id":510350,"face_type":4},
         {"unit_id":180531,"unit_name":"นัทสึเมะ โคโคโระ","bg_id":510100,"face_type":2},
         {"unit_id":180631,"unit_name":"โมโมจิ คิรุยะ","bg_id":510351,"face_type":2},
-        {"unit_id":180731,"unit_name":"คาชิวาซากิ ชิโอริ & คาชิวาซากิ ฮาสึเนะ","bg_id":510070,"face_type":2}
+        {"unit_id":180731,"unit_name":"คาชิวาซากิ ชิโอริ & คาชิวาซากิ ฮาสึเนะ","bg_id":510070,"face_type":2},
+        {"unit_id":180831,"unit_name":"โฮดากะ มิโซงิ & อาคาเนะ มิมิ & ฮิคาวะ เคียวกะ","bg_id":510400,"face_type":2}
     ]
 }

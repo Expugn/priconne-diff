@@ -115,6 +115,12 @@
         {"group_id":20119,"group_id_comment":"เครดิตต้า&เปโกรีน","group_unit_id_01":118001001,"group_unit_id_02":105801001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":20121,"group_id_comment":"โฮมาเระ&เชฟี่","group_unit_id_01":106701001,"group_unit_id_02":106401001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":20122,"group_id_comment":"โฮมาเระ&ลาบิริสต้า","group_unit_id_01":106701001,"group_unit_id_02":106801001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":20123,"group_id_comment":"มิโซงิมิมิเคียวกะ&เปโกรีน","group_unit_id_01":180801001,"group_unit_id_02":105801001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":20124,"group_id_comment":"มิโซงิมิมิเคียวกะ&คกโคโระ","group_unit_id_01":180801001,"group_unit_id_02":105901001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":20125,"group_id_comment":"มิโซงิมิมิเคียวกะ&แคล","group_unit_id_01":180801001,"group_unit_id_02":106001001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":20126,"group_id_comment":"มิโซงิมิมิเคียวกะ&เชฟี่","group_unit_id_01":180801001,"group_unit_id_02":106401001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":20127,"group_id_comment":"มิโซงิมิมิเคียวกะ&คุรุมิ","group_unit_id_01":180801001,"group_unit_id_02":102101001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":20128,"group_id_comment":"มิโซงิมิมิเคียวกะ&อายาเนะ","group_unit_id_01":180801001,"group_unit_id_02":102301001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30001,"group_id_comment":"ฮิโยริ (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":300101001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30002,"group_id_comment":"ยุย (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":300201001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30003,"group_id_comment":"เรย์ (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":300301001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
@@ -270,6 +276,8 @@
         {"group_id":30153,"group_id_comment":"มิยาโกะ (คริสต์มาส) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":319901001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30154,"group_id_comment":"มาฮิรุ (คริสต์มาส) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":319201001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30155,"group_id_comment":"ริโนะ (คริสต์มาส) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":319301001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
-        {"group_id":30156,"group_id_comment":"รุกะ (ปีใหม่) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":320801001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
+        {"group_id":30156,"group_id_comment":"รุกะ (ปีใหม่) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":320801001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":30157,"group_id_comment":"มิโซงิมิมิเคียวกะ (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":380801001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":30158,"group_id_comment":"เชฟี่ (ปีใหม่) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":320701001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
     ]
 }
