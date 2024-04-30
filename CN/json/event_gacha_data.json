@@ -90,6 +90,7 @@
         {"gacha_id":10089,"event_id":10089,"gacha_name":"灰姑娘课程　璀璨的日子是苹果的滋味","item_type":2,"item_id":60882,"cost":1,"repeat_step":6},
         {"gacha_id":10090,"event_id":10090,"gacha_name":"交出宝物！　神出鬼没的怪盗","item_type":2,"item_id":60892,"cost":1,"repeat_step":6},
         {"gacha_id":10091,"event_id":10091,"gacha_name":"钢铁圣女与神圣学院的问题儿童","item_type":2,"item_id":60902,"cost":1,"repeat_step":6},
+        {"gacha_id":10092,"event_id":10092,"gacha_name":"海盗逸话　海盗岛被诅咒的遗宝","item_type":2,"item_id":60912,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"吸血鬼猎人with伊莉亚讨伐证交换","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
