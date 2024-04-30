@@ -6376,7 +6376,7 @@
         {"id":7154,"unit_id":125301,"trigger":3,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"이쪽입니다만\\n멍멍이\\n주인님도 마음에 드신\\n모양입니다","insert_word_type":0},
         {"id":7155,"unit_id":125301,"trigger":3,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"멍멍이\\n주인님에게도, 이런\\n장난감을 줘야\\n할까요…?","insert_word_type":0},
         {"id":7156,"unit_id":125301,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"기분 좋은 향입니다\\n다음은 자연 유래의\\n향료도 시험해 보겠습니다","insert_word_type":0},
-        {"id":7157,"unit_id":125301,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"몸을 따뜻하게 하는 것은\\n야영할 때 등에\\n매우 중요한 일\\n이네요","insert_word_type":0},
+        {"id":7157,"unit_id":125301,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"몸을 따뜻하게 하는 것은\\n야영할 때 등에\\n매우 중요한 일이네요","insert_word_type":0},
         {"id":7159,"unit_id":125301,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"먹을 수 있을 때 먹어\\n두는 것도, 대자연에서는\\n중요합니다","insert_word_type":0},
         {"id":7160,"unit_id":125301,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"더 지식을 쌓아\\n자연의 힘을 활용할 수\\n있도록 하겠습니다","insert_word_type":0},
         {"id":7162,"unit_id":100901,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"이번 「명풍전기」도\\n상당히 잘 써졌다\\n후훗, 시구르드도\\n기뻐해 주려나?","insert_word_type":0},
