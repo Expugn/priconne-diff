@@ -5167,6 +5167,8 @@
         {"id":5869,"unit_id":120701,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"...หืม\\nนี่คือกลิ่นดอกบ๊วยเหรอ?\\n...หอมจังเลยเนอะ","insert_word_type":0},
         {"id":5870,"unit_id":120701,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"ไม่ใช่แคลหรอก...\\nแต่อยากอยู่\\nรอบๆ แบบนี้เนอะ...","insert_word_type":0},
         {"id":5872,"unit_id":120701,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"ง่ำ ง่ำ...♪\\nวันปีใหม่ทั้งที\\nต้องดื่มด่ำให้เต็มที่สิ♪","insert_word_type":0},
-        {"id":5873,"unit_id":120701,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"...อื้ม อื้ม\\nวิธีการมัดโอบิ\\nมีเยอะขนาดนี้เลยเหรอเนี่ย...","insert_word_type":0}
+        {"id":5873,"unit_id":120701,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"...อื้ม อื้ม\\nวิธีการมัดโอบิ\\nมีเยอะขนาดนี้เลยเหรอเนี่ย...","insert_word_type":0},
+        {"id":5875,"unit_id":104201,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"บทเพลงที่ดีที่สุดที่ฉันใน\\nตอนนี้ร้องได้... ถ้าส่งไป\\nถึงคนๆ นั้นได้ก็คงจะดีสินะ","insert_word_type":0},
+        {"id":5876,"unit_id":104201,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"คือว่า ช่วยฟัง...\\nเพลงนี้หน่อยได้ไหมคะ?\\nเป็นเพลงพิเศษ\\nที่เป็นของขวัญให้คุณค่ะ","insert_word_type":0}
     ]
 }
