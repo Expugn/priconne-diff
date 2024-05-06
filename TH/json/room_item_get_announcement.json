@@ -7,6 +7,7 @@
         {"id":5,"room_item_id":2806,"start_date":"2023/04/06 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
         {"id":6,"room_item_id":2808,"start_date":"2023/06/22 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
         {"id":7,"room_item_id":2809,"start_date":"2023/09/24 12:00","end_date":"2030/12/31 23:59:59","get_date":"","room_announcement_name":""},
-        {"id":8,"room_item_id":2814,"start_date":"2023/11/24 12:00","end_date":"2030/12/31 23:59:59","get_date":"2023/11/24 12:00","room_announcement_name":""}
+        {"id":8,"room_item_id":2814,"start_date":"2023/11/24 12:00","end_date":"2030/12/31 23:59:59","get_date":"2023/11/24 12:00","room_announcement_name":""},
+        {"id":9,"room_item_id":2804,"start_date":"2024/05/13 12:00","end_date":"2030/12/31 23:59:59","get_date":"2024/05/13 12:00","room_announcement_name":"โปสเตอร์โปรโมทภูมิภาคโอมะ\\n[การตกปลาทูนนุสปีใหม่]"}
     ]
 }
