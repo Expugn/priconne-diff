@@ -1,7 +1,7 @@
 {
     "nyx_phase_data": [
-        {"story_phase":1,"phase_title":"รายงานนำเสนอหลักสูตรพิเศษ","condition_quest_id":10065105,"condition_quest_boss":0},
-        {"story_phase":2,"phase_title":"บันทึกกิจกรรมกลุ่มกองทุนเมอร์คิวเรียส","condition_quest_id":10065111,"condition_quest_boss":0},
-        {"story_phase":3,"phase_title":"สมุดบันทึกของยูนิ","condition_quest_id":10065115,"condition_quest_boss":1006501}
+        {"story_phase":1,"phase_title":"รายงานนำเสนอหลักสูตรพิเศษ","condition_quest_id":20023105,"condition_quest_boss":0},
+        {"story_phase":2,"phase_title":"บันทึกกิจกรรมกลุ่มกองทุนเมอร์คิวเรียส","condition_quest_id":20023111,"condition_quest_boss":0},
+        {"story_phase":3,"phase_title":"สมุดบันทึกของยูนิ","condition_quest_id":20023115,"condition_quest_boss":2002301}
     ]
 }

@@ -166,6 +166,7 @@
         {"unit_id":119901,"unit_name":"มิยาโกะ (คริสต์มาส)","bg_id":500038,"bg_name":"แลนด์โซล ย่านการค้า คริสต์มาส","position":0,"face_type":4},
         {"unit_id":120701,"unit_name":"เชฟี่ (ปีใหม่)","bg_id":501480,"bg_name":"เรือนเลิศรส กิลด์เฮ้าส์ ด้านนอก ปีใหม่","position":0,"face_type":2},
         {"unit_id":120801,"unit_name":"รุกะ (ปีใหม่)","bg_id":500560,"bg_name":"ทางเดินสู่ศาลเจ้า กลางวัน","position":0,"face_type":3},
+        {"unit_id":120901,"unit_name":"อิลิยา (ปีใหม่)","bg_id":500260,"bg_name":"ปราสาทโบราณ","position":0,"face_type":4},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
         {"unit_id":180301,"unit_name":"เรย์ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":3},

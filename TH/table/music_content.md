@@ -201,3 +201,6 @@
 |201|Hitoribocchi no Seiya no Yousei|1:56|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 01:56\nทำนอง   / HASEBE SHOU (Cygames)\nเรียบเรียง / HASEBE SHOU (Cygames)|bgm_M539|bgm_M539_juke|
 |202|Miyako's Kitchen: Kyukyoku e no Michi|2:05|0:00|มินิเกม\n-<Pudding `a la Christmas nano!>Arrange-\n\nความยาว / 02:05\nทำนอง   / TSUBOTA SHUNHEI (TRYTONELABO)\nเรียบเรียง / SEKINE SHUUHEI (Cygames)|bgm_M540|bgm_M540_juke|
 |203|Pudding `a la Christmas nano!|1:37|0:57|เพลงตัวละคร\n\nความยาว / 01:37\nขับร้อง   / มิยาโกะ (SORA AMAMIYA)\nเนื้อเพลง / YAMAMOTO MAOKI (TRYTONELABO)\nทำนอง   / TSUBOTA SHUNHEI (TRYTONELABO)\nเรียบเรียง / TSUBOTA SHUNHEI (TRYTONELABO)|bgm_M550|bgm_M550|
+|204|Shinshun Bishoku Memories: Sheffy no Otsukai Daisakusen!|1:04|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Ice Wings>Arrange-\n\nความยาว / 01:04\nทำนอง   / AJURIKA\nเรียบเรียง / HATADA HIROTAKA (Cygames)|bgm_M543|bgm_M543_juke|
+|205|Jagyushin Moomon|1:59|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 01:59\nทำนอง   / TSUKAGOSHI REN\nเรียบเรียง / TSUKAGOSHI REN|bgm_M546|bgm_M546_juke|
+|206|Ice Wings|1:36|1:05|เพลงตัวละคร\n\nความยาว / 01:36\nขับร้อง   / เชฟี่ (REINA KONDOU)\nเนื้อเพลง / AJURIKA\nทำนอง   / AJURIKA\nเรียบเรียง / AJURIKA|bgm_M551|bgm_M551|
