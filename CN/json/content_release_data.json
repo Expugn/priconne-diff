@@ -44,6 +44,7 @@
         {"system_id":904,"team_level":1,"story_id":0,"quest_id":11002009,"dialog":"通关主线关卡2-9（普通难度）后解锁"},
         {"system_id":905,"team_level":1,"story_id":0,"quest_id":11002009,"dialog":"通关主线关卡2-9（普通难度）后解锁"},
         {"system_id":906,"team_level":1,"story_id":0,"quest_id":0,"dialog":""},
+        {"system_id":909,"team_level":1,"story_id":0,"quest_id":11003006,"dialog":"通关主线关卡3-6（普通难度）后解锁"},
         {"system_id":910,"team_level":1,"story_id":0,"quest_id":11008001,"dialog":"主线关卡8-1（普通）后解锁"},
         {"system_id":1001,"team_level":1,"story_id":0,"quest_id":11018001,"dialog":"主线关卡18-1\\n（普通）后解锁"},
         {"system_id":8001,"team_level":1,"story_id":0,"quest_id":11003002,"dialog":"通关主线关卡3-2（普通难度）后解锁"}
