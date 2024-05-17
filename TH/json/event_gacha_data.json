@@ -79,6 +79,7 @@
         {"gacha_id":10081,"event_id":10081,"gacha_name":"รีรัน เดบูตองต์แชงกรีล่า เกมรักในคืนศักดิ์สิทธิ์","item_type":2,"item_id":60802,"cost":1,"repeat_step":6},
         {"gacha_id":10082,"event_id":10082,"gacha_name":"กรูเมต์เมโมรี่ปีใหม่ ปฏิบัติการครั้งใหญ่ของเชฟี่!","item_type":2,"item_id":60812,"cost":1,"repeat_step":6},
         {"gacha_id":10083,"event_id":10083,"gacha_name":"รีรัน กรูเมต์ปริ้นเซสปีใหม่! การเดิมพันของเหล่าหญิงสาว","item_type":2,"item_id":60822,"cost":1,"repeat_step":6},
+        {"gacha_id":10084,"event_id":10084,"gacha_name":"Re:member อนาคตที่ถักทอด้วยความปรารถนาของผม","item_type":2,"item_id":60832,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"แลกตราพิชิตแวมไพร์ฮันเตอร์ with อิลิยา","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }

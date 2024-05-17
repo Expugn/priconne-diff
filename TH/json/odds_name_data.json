@@ -172,6 +172,8 @@
         {"id":1008202,"odds_file":"1008220102","name":"เมโมรี่พีซของอิลิยา","icon_type":99002,"description":""},
         {"id":1008203,"odds_file":"box_rank_6-14","name":"กล่องสุ่มอุปกรณ์","icon_type":99002,"description":"กล่องที่สามารถสุ่มรับอุปกรณ์ได้"},
         {"id":1008301,"odds_file":"1008320101","name":"เมโมรี่พีซของมุอิมิ (ปีใหม่)","icon_type":99002,"description":""},
-        {"id":1008302,"odds_file":"1008320102","name":"เมโมรี่พีซของแคล","icon_type":99002,"description":""}
+        {"id":1008302,"odds_file":"1008320102","name":"เมโมรี่พีซของแคล","icon_type":99002,"description":""},
+        {"id":1008401,"odds_file":"1008620101","name":"เมโมรี่พีซของคกโคโระ","icon_type":99002,"description":""},
+        {"id":1008402,"odds_file":"1008620102","name":"เมโมรี่พีซของแคล","icon_type":99002,"description":""}
     ]
 }
