@@ -80,6 +80,9 @@
         {"gacha_id":10082,"event_id":10082,"gacha_name":"กรูเมต์เมโมรี่ปีใหม่ ปฏิบัติการครั้งใหญ่ของเชฟี่!","item_type":2,"item_id":60812,"cost":1,"repeat_step":6},
         {"gacha_id":10083,"event_id":10083,"gacha_name":"รีรัน กรูเมต์ปริ้นเซสปีใหม่! การเดิมพันของเหล่าหญิงสาว","item_type":2,"item_id":60822,"cost":1,"repeat_step":6},
         {"gacha_id":10084,"event_id":10084,"gacha_name":"Re:member อนาคตที่ถักทอด้วยความปรารถนาของผม","item_type":2,"item_id":60832,"cost":1,"repeat_step":6},
+        {"gacha_id":10085,"event_id":10085,"gacha_name":"Re:member อนาคตที่ถักทอด้วยความปรารถนาของผม","item_type":2,"item_id":60842,"cost":1,"repeat_step":6},
+        {"gacha_id":10086,"event_id":10086,"gacha_name":"รีรัน เชื่อมสายใย ผูกดวงใจ","item_type":2,"item_id":60852,"cost":1,"repeat_step":6},
+        {"gacha_id":10087,"event_id":10087,"gacha_name":"รีรัน เชื่อมสายใย ผูกดวงใจ","item_type":2,"item_id":60852,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"แลกตราพิชิตแวมไพร์ฮันเตอร์ with อิลิยา","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }

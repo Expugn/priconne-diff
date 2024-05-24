@@ -161,6 +161,8 @@
         {"unit_id":120731,"unit_name":"อากาโตะ ชิฟุนะ","bg_id":510130,"face_type":2},
         {"unit_id":120831,"unit_name":"ทาจิอาราอิ รุกะ","bg_id":510303,"face_type":2},
         {"unit_id":120931,"unit_name":"อิลิยา-ออร์นสไตน์","bg_id":510202,"face_type":4},
+        {"unit_id":121031,"unit_name":"ยูสเทียน่า-ฟอน-แอสแทร์","bg_id":510360,"face_type":4},
+        {"unit_id":121231,"unit_name":"โมซาคุจิ อากิระ","bg_id":510121,"face_type":2},
         {"unit_id":180131,"unit_name":"ฮารุซากิ ฮิโยริ","bg_id":510121,"face_type":4},
         {"unit_id":180231,"unit_name":"คุซาโนะ ยุย","bg_id":510350,"face_type":2},
         {"unit_id":180331,"unit_name":"ชิโจ เรย์","bg_id":510100,"face_type":2},

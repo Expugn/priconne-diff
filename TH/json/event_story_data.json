@@ -33,8 +33,8 @@
         {"story_group_id":5052,"story_type":5,"value":10079,"title":"ผู้บัญชาการเวทมนตร์ เลิฟลี่★โมนิก้า เลทส์โก! แมจิคัลควอเต็ต!","thumbnail_id":0,"disp_order":1,"start_time":"2023/02/28 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5054,"story_type":5,"value":10081,"title":"เดบูตองต์แชงกรีล่า เกมรักในคืนศักดิ์สิทธิ์","thumbnail_id":0,"disp_order":1,"start_time":"2023/03/21 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5056,"story_type":5,"value":10083,"title":"กรูเมต์ปริ้นเซสปีใหม่! การเดิมพันของเหล่าหญิงสาว","thumbnail_id":0,"disp_order":1,"start_time":"2023/04/21 10:00:00","end_time":"2030/04/24 14:59:59"},
-        {"story_group_id":5058,"story_type":5,"value":10058,"title":"เชื่อมสายใย ผูกดวงใจ","thumbnail_id":0,"disp_order":1,"start_time":"2023/05/22 10:00:00","end_time":"2030/04/24 14:59:59"},
-        {"story_group_id":5059,"story_type":5,"value":10059,"title":"เชื่อมสายใย ผูกดวงใจ","thumbnail_id":0,"disp_order":1,"start_time":"2023/05/22 10:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5058,"story_type":5,"value":10086,"title":"เชื่อมสายใย ผูกดวงใจ","thumbnail_id":0,"disp_order":1,"start_time":"2023/05/22 10:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5059,"story_type":5,"value":10087,"title":"เชื่อมสายใย ผูกดวงใจ","thumbnail_id":0,"disp_order":1,"start_time":"2023/05/22 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5061,"story_type":5,"value":10061,"title":"บทเรียนซินเดอเรลล่า วันที่สวยงามรสชาติเหมือนแอปเปิล","thumbnail_id":0,"disp_order":1,"start_time":"2023/06/19 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5064,"story_type":5,"value":10064,"title":"นักบุญหญิงเหล็กกับเด็กหญิงนอกคอกแห่งวิทยาลัยเซนต์","thumbnail_id":0,"disp_order":1,"start_time":"2023/07/21 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5066,"story_type":5,"value":10066,"title":"อิโนริ SOS!! ไทม์ทราเวลดราก้อนส์","thumbnail_id":0,"disp_order":1,"start_time":"2023/08/20 10:00:00","end_time":"2030/04/24 14:59:59"},
@@ -46,6 +46,7 @@
         {"story_group_id":5078,"story_type":5,"value":10078,"title":"สาวน้อยเวทมนตร์ไกเด็น แมจิคัล★นัวร์!","thumbnail_id":0,"disp_order":1,"start_time":"2024/02/21 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5080,"story_type":5,"value":10080,"title":"เมอร์รี่พุดดิ้งคริสต์มาส! สาวน้อยผู้บินได้กับขนมหวานแห่งหัวใจ","thumbnail_id":0,"disp_order":1,"start_time":"2024/03/22 10:00:00","end_time":"2030/04/24 14:59:59"},
         {"story_group_id":5082,"story_type":5,"value":10082,"title":"กรูเมต์เมโมรี่ปีใหม่ ปฏิบัติการครั้งใหญ่ของเชฟี่!","thumbnail_id":0,"disp_order":1,"start_time":"2024/04/22 10:00:00","end_time":"2030/04/24 14:59:59"},
-        {"story_group_id":5084,"story_type":5,"value":10084,"title":"Re:member อนาคตที่ถักทอด้วยความปรารถนาของผม","thumbnail_id":0,"disp_order":1,"start_time":"2024/05/23 10:00:00","end_time":"2030/04/24 14:59:59"}
+        {"story_group_id":5084,"story_type":5,"value":10084,"title":"Re:member อนาคตที่ถักทอด้วยความปรารถนาของผม","thumbnail_id":0,"disp_order":1,"start_time":"2024/05/23 10:00:00","end_time":"2030/04/24 14:59:59"},
+        {"story_group_id":5085,"story_type":5,"value":10085,"title":"Re:member อนาคตที่ถักทอด้วยความปรารถนาของผม","thumbnail_id":0,"disp_order":1,"start_time":"2024/05/23 10:00:00","end_time":"2030/04/24 14:59:59"}
     ]
 }

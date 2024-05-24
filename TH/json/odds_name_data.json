@@ -174,6 +174,8 @@
         {"id":1008301,"odds_file":"1008320101","name":"เมโมรี่พีซของมุอิมิ (ปีใหม่)","icon_type":99002,"description":""},
         {"id":1008302,"odds_file":"1008320102","name":"เมโมรี่พีซของแคล","icon_type":99002,"description":""},
         {"id":1008401,"odds_file":"1008620101","name":"เมโมรี่พีซของคกโคโระ","icon_type":99002,"description":""},
-        {"id":1008402,"odds_file":"1008620102","name":"เมโมรี่พีซของแคล","icon_type":99002,"description":""}
+        {"id":1008402,"odds_file":"1008620102","name":"เมโมรี่พีซของแคล","icon_type":99002,"description":""},
+        {"id":1008601,"odds_file":"1008620101","name":"เมโมรี่พีซของยุย (ชุดพิธีการ)","icon_type":99002,"description":""},
+        {"id":1008602,"odds_file":"1008620102","name":"เมโมรี่พีซของเรย์","icon_type":99002,"description":""}
     ]
 }
