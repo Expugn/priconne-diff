@@ -11,9 +11,9 @@ const output = process.argv[3]; // e.g. "./JP"
 
 download(input).then(() => {
     check_directory(output);
-    check_directory(`${output}/csv`);
-    check_directory(`${output}/table`);
-    check_directory(`${output}/json`);
+    check_directory(`${output}/csv`, output.includes("JP"));
+    check_directory(`${output}/table`, output.includes("JP"));
+    check_directory(`${output}/json`, output.includes("JP"));
 
     // get tables
     const db = new sqlite3.Database(input);
@@ -90,11 +90,28 @@ function download(file_name) {
     });
 }
 
-function check_directory(directory) {
+function check_directory(directory, do_clean = false) {
     if (!directory) {
         return;
     }
     if (!fs.existsSync(directory)) {
         fs.mkdirSync(directory);
+    }
+
+    if (do_clean) {
+        clean(directory);
+    }
+
+    function clean(dir) {
+        const files = fs.readdirSync(dir);
+        for (const file of files) {
+            if (fs.statSync(path.join(dir, file)).isDirectory()) {
+                clean(path.join(dir, file));
+                fs.rmdirSync(path.join(dir, file));
+            }
+            else {
+                fs.unlinkSync(path.join(dir, file));
+            }
+        }
     }
 }

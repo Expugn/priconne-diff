@@ -2,3 +2,5 @@
 .DS_Store
 Thumbs.db
 *.db
+table-locator.cjs
+/JP/10052900_fix
