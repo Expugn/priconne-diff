@@ -1,6 +1,7 @@
 const fs = require('fs');
 const sqlite3 = require('sqlite3').verbose();
 const https = require('https');
+const path = require('path');
 
 if (process.argv.length < 4) {
     console.log("not enough args");
