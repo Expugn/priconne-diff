@@ -169,6 +169,7 @@
         {"unit_id":120801,"unit_name":"รุกะ (ปีใหม่)","bg_id":500560,"bg_name":"ทางเดินสู่ศาลเจ้า กลางวัน","position":0,"face_type":3},
         {"unit_id":120901,"unit_name":"อิลิยา (ปีใหม่)","bg_id":500260,"bg_name":"ปราสาทโบราณ","position":0,"face_type":4},
         {"unit_id":121001,"unit_name":"เปโกรีน (โอเวอร์โหลด)","bg_id":500361,"bg_name":"กิลด์เฮ้าส์ เรือนเลิศรส","position":0,"face_type":3},
+        {"unit_id":121101,"unit_name":"แคล (โอเวอร์โหลด)","bg_id":500361,"bg_name":"กิลด์เฮ้าส์ เรือนเลิศรส","position":0,"face_type":2},
         {"unit_id":121201,"unit_name":"ลาบิริสต้า (โอเวอร์โหลด)","bg_id":500341,"bg_name":"ที่ตั้งกิลด์ลาบิรินธ์","position":0,"face_type":3},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},

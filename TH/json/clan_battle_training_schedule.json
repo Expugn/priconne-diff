@@ -8,6 +8,7 @@
         {"training_id":1043,"clan_battle_id":1043,"battle_start_time":"2024/02/16 12:00:00","battle_end_time":"2024/02/23 23:59:59","interval_start_time":"2024/02/24 00:00:00","interval_end_time":"2024/03/17 11:59:59"},
         {"training_id":1044,"clan_battle_id":1044,"battle_start_time":"2024/03/17 12:00:00","battle_end_time":"2024/03/24 23:59:59","interval_start_time":"2024/03/25 00:00:00","interval_end_time":"2024/04/17 11:59:59"},
         {"training_id":1045,"clan_battle_id":1045,"battle_start_time":"2024/04/17 12:00:00","battle_end_time":"2024/04/24 23:59:59","interval_start_time":"2024/04/25 00:00:00","interval_end_time":"2024/05/18 11:59:59"},
-        {"training_id":1046,"clan_battle_id":1046,"battle_start_time":"2024/05/18 12:00:00","battle_end_time":"2024/05/25 23:59:59","interval_start_time":"2024/05/26 00:00:00","interval_end_time":"2024/06/15 11:59:59"}
+        {"training_id":1046,"clan_battle_id":1046,"battle_start_time":"2024/05/18 12:00:00","battle_end_time":"2024/05/25 23:59:59","interval_start_time":"2024/05/26 00:00:00","interval_end_time":"2024/06/15 11:59:59"},
+        {"training_id":1047,"clan_battle_id":1047,"battle_start_time":"2024/06/15 12:00:00","battle_end_time":"2024/06/22 23:59:59","interval_start_time":"2024/06/23 00:00:00","interval_end_time":"2024/07/16 11:59:59"}
     ]
 }

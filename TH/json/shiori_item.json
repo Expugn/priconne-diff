@@ -22,6 +22,7 @@
         {"event_id":20020,"unit_material_id_1":31116,"unit_material_id_2":31044},
         {"event_id":20021,"unit_material_id_1":31121,"unit_material_id_2":31021},
         {"event_id":20022,"unit_material_id_1":31123,"unit_material_id_2":31049},
-        {"event_id":20023,"unit_material_id_1":31107,"unit_material_id_2":31046}
+        {"event_id":20023,"unit_material_id_1":31107,"unit_material_id_2":31046},
+        {"event_id":20024,"unit_material_id_1":31028,"unit_material_id_2":31033}
     ]
 }

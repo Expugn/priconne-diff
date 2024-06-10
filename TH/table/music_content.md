@@ -112,7 +112,7 @@
 |110|Kamitaru Mono tono Kessen|2:45|0:00|ศึกสุดท้ายที่เมืองหลวง บอสแบทเทิล\n-<Lost Princess> <Shinnaru Koutei>Arrange-\n\nความยาว / 02:45\nทำนอง   / TANAKA KOUHEI, NISHIKI YASUNORI\nเรียบเรียง / HIGASHIOHJI KENTA|bgm_M299|bgm_M299_juke|
 |111|Gekisou! Landsol Guild Race|1:08|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<SAI*KOU Start dash>Arrange-\n\nความยาว / 01:08\nทำนอง   / OKUI KOUSUKE\nเรียบเรียง / IREI KAN (Cygames)|bgm_M294|bgm_M294_juke|
 |112|Yamagamisama|2:00|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 02:00\nทำนอง   / NAGATO CHIHARU (Cygames)\nเรียบเรียง / NAGATO CHIHARU (Cygames)|bgm_M297|bgm_M297_juke|
-|113|SAI*KOU Start dash|1:25|1:00|เพลงตัวละคร\n\nความยาว / 01:25\nขับร้อง   / เปโกรีน (MAO)\n           แคล (TACHIBANA RIKA)\n           คกโคโระ (ITOU MIKU)\n           สึซึเมะ (YUUKI AOI)\nเนื้อเพลง / KOCHO\nทำนอง   / OKUI KOUSUKE\nเรียบเรียง / OKUI KOUSUKE|bgm_M327|bgm_M327|
+|113|SAI*KOU Start dash|1:25|1:00|เพลงตัวละคร\n\nความยาว / 01:25\nขับร้อง   / เปโกรีน (M.A.O)\n           แคล (TACHIBANA RIKA)\n           คกโคโระ (ITOU MIKU)\n           สึซึเมะ (YUUKI AOI)\nเนื้อเพลง / KOCHO\nทำนอง   / OKUI KOUSUKE\nเรียบเรียง / OKUI KOUSUKE|bgm_M327|bgm_M327|
 |114|Taikai wo Nozonde|1:25|0:00|เควสต์หลัก\n\nความยาว / 01:25\nทำนอง   / NAGATO CHIHARU (Cygames)\nเรียบเรียง / NAGATO CHIHARU (Cygames)|bgm_M293|bgm_M293_juke|
 |115|Mahou Shoujo Futari wa Misty & Purely|1:06|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Komorebi Montage>Arrange-\n\nความยาว / 01:06\nทำนอง   / WATANABE CHERU\nเรียบเรียง / KATOU YOSHIHISA (Cygames)|bgm_M316|bgm_M316_juke|
 |116|Anti Beast|1:28|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 01:28\nทำนอง   / NAKAMURA HIROSHI\nเรียบเรียง / NAKAMURA HIROSHI|bgm_M319|bgm_M319_juke|
@@ -122,8 +122,8 @@
 |122|Nakayoshi X|2:43|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 02:43\nทำนอง   / KATOU YOSHIHISA (Cygames)\nเรียบเรียง / KATOU YOSHIHISA (Cygames)|bgm_M346|bgm_M346_juke|
 |123|Seishun Spinner|1:20|0:51|เพลงตัวละคร\n\nความยาว / 01:20\nขับร้อง   / จิเอรุ (AYANE SAKURA)\n           คุโรเอะ (TANEZAKI ATSUMI)\n           ยูนิ (KOHARA KONOMI)\nเนื้อเพลง / MIZUNO GENKI\nทำนอง   / MUTSUKI SHUUHEI\nเรียบเรียง / MUTSUKI SHUUHEI|bgm_M359|bgm_M359|
 |124|Mitsurin no Kage ni Matsu wa|2:00|0:00|เควสต์หลัก\n\nความยาว / 02:00\nทำนอง   / KATOU YOSHIHISA (Cygames)\nเรียบเรียง / KATOU YOSHIHISA (Cygames)|bgm_M339|bgm_M339_juke|
-|125|Mirage Game|1:52|1:09|เพลงตัวละคร\n\nความยาว / 01:52\nขับร้อง   / เปโกรีน (MAO)\n           คกโคโระ (ITO MIKU)\n           แคล (TACHIBANA RIKA)\n           ยุย (TANEDA RISA)\n           ฮิโยริ (TOUYAMA NAO)\n           เรย์ (HAYAMI SAORI)\n           เชฟี่ (KONDOU REINA)\nเนื้อเพลง / SHIHORI\nทำนอง   / TANAKA KOUHEI\nเรียบเรียง / HIGASHIOHJI KENTA|bgm_M370|bgm_M370|
-|126|Yes! Precious Harmony!|1:48|0:52|เพลงตัวละคร\n\nความยาว / 01:48\nขับร้อง   / เปโกรีน (MAO)\n           คกโคโระ (ITO MIKU)\n           แคล (TACHIBANA RIKA)\nเนื้อเพลง / TAKAO SOUNOSUKE\nทำนอง   / TAKAO SOUNOSUKE\nเรียบเรียง / NARA YUUKI|bgm_M371|bgm_M371|
+|125|Mirage Game|1:52|1:09|เพลงตัวละคร\n\nความยาว / 01:52\nขับร้อง   / เปโกรีน (M.A.O)\n           คกโคโระ (ITO MIKU)\n           แคล (TACHIBANA RIKA)\n           ยุย (TANEDA RISA)\n           ฮิโยริ (TOUYAMA NAO)\n           เรย์ (HAYAMI SAORI)\n           เชฟี่ (KONDOU REINA)\nเนื้อเพลง / SHIHORI\nทำนอง   / TANAKA KOUHEI\nเรียบเรียง / HIGASHIOHJI KENTA|bgm_M370|bgm_M370|
+|126|Yes! Precious Harmony!|1:48|0:52|เพลงตัวละคร\n\nความยาว / 01:48\nขับร้อง   / เปโกรีน (M.A.O)\n           คกโคโระ (ITO MIKU)\n           แคล (TACHIBANA RIKA)\nเนื้อเพลง / TAKAO SOUNOSUKE\nทำนอง   / TAKAO SOUNOSUKE\nเรียบเรียง / NARA YUUKI|bgm_M371|bgm_M371|
 |127|Chu Chu Panic! Cheese Omamori Daisakusen!|0:45|0:00|มินิเกม\n-<Heartful Place>Arrange-\n\nความยาว / 00:45\nทำนอง   / ONO TAKAMITSU\nเรียบเรียง / SAWASHITA AOI|bgm_M355_Lofi|bgm_M355_Lofi_juke|
 |128|Makiba no Yonnoushi Binbou Bokujou Funtouki!|1:00|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Heartful Place>Arrange-\n\nความยาว / 01:00\nทำนอง   / ONO TAKAMITSU\nเรียบเรียง / ASADA MISAKI (Cygames)|bgm_M351|bgm_M351_juke|
 |129|Shinobi no Touryou Hanzou|1:56|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 01:56\nทำนอง   / NAGATO CHIHARU (Cygames)\nเรียบเรียง / NAGATO CHIHARU (Cygames)|bgm_M354|bgm_M354_juke|
@@ -204,3 +204,8 @@
 |204|Shinshun Bishoku Memories: Sheffy no Otsukai Daisakusen!|1:04|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Ice Wings>Arrange-\n\nความยาว / 01:04\nทำนอง   / AJURIKA\nเรียบเรียง / HATADA HIROTAKA (Cygames)|bgm_M543|bgm_M543_juke|
 |205|Jagyushin Moomon|1:59|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 01:59\nทำนอง   / TSUKAGOSHI REN\nเรียบเรียง / TSUKAGOSHI REN|bgm_M546|bgm_M546_juke|
 |206|Ice Wings|1:36|1:05|เพลงตัวละคร\n\nความยาว / 01:36\nขับร้อง   / เชฟี่ (REINA KONDOU)\nเนื้อเพลง / AJURIKA\nทำนอง   / AJURIKA\nเรียบเรียง / AJURIKA|bgm_M551|bgm_M551|
+|207|Tegakari o Sagashite|1:25|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Asymmetric World>Arrange-\n\nความยาว / 01:25\nทำนอง   / ITO TSUBASA\nเรียบเรียง / SEKINE SHUUHEI (Cygames)|bgm_M552|bgm_M552_juke|
+|208|Minna ga Sugosu Sekai e|1:10|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Asymmetric World>Arrange-\n\nความยาว / 01:10\nทำนอง   / ITO TSUBASA\nเรียบเรียง / NAKAMACHI TOMOHIRO|bgm_M553|bgm_M553_juke|
+|209|Overload Force|2:08|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 02:08\nทำนอง   / IREI KAN (Cygames)\nเรียบเรียง / IREI KAN (Cygames)|bgm_M559|bgm_M559_juke|
+|210|Asymmetric World|1:35|0:46|เพลงตัวละคร\n\nความยาว / 01:35\nขับร้อง   / เปโกรีน (M.A.O)\n           แคล (RIKA TACHIBANA)\nเนื้อเพลง / SENA WATARU\nทำนอง   / ITO TSUBASA\nเรียบเรียง / ITO TSUBASA|bgm_M572|bgm_M572|
+|211|Minna no Omoi|3:27|0:00|เนื้อเรื่องกิจกรรมย่อย\n-<Asymmetric World>Arrange-\n\nความยาว / 03:27\nทำนอง   / ITO TSUBASA\nเรียบเรียง / TAKAAKI NAKAGAWA|bgm_M558|bgm_M558_juke|
