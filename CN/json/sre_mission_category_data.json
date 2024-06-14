@@ -1,8 +1,8 @@
 {
     "sre_mission_category_data": [
         {"category_id":1000,"name":"共通"},
-        {"category_id":1001,"name":"フェーズ1"},
-        {"category_id":1002,"name":"フェーズ2"},
-        {"category_id":1003,"name":"フェーズ3"}
+        {"category_id":1001,"name":"阶段1"},
+        {"category_id":1002,"name":"阶段2"},
+        {"category_id":1003,"name":"阶段3"}
     ]
 }

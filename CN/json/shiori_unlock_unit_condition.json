@@ -16,14 +16,14 @@
         {"id":29,"unit_id":113001,"event_id":20025,"condition_mission_id":72025021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
         {"id":30,"unit_id":113201,"event_id":20026,"condition_mission_id":72026021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
         {"id":31,"unit_id":113501,"event_id":20027,"condition_mission_id":72027021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
-        {"id":32,"unit_id":114101,"event_id":20029,"condition_mission_id":72029021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
-        {"id":33,"unit_id":114601,"event_id":20031,"condition_mission_id":72031021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
-        {"id":34,"unit_id":114701,"event_id":20032,"condition_mission_id":72032021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
-        {"id":35,"unit_id":115601,"event_id":20033,"condition_mission_id":72033021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
-        {"id":36,"unit_id":115801,"event_id":20035,"condition_mission_id":72035021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
-        {"id":37,"unit_id":116801,"event_id":20038,"condition_mission_id":72038021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
-        {"id":38,"unit_id":117401,"event_id":20040,"condition_mission_id":72040021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
-        {"id":39,"unit_id":117801,"event_id":20042,"condition_mission_id":72042021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
-        {"id":40,"unit_id":119201,"event_id":20044,"condition_mission_id":72044021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"}
+        {"id":32,"unit_id":114101,"event_id":20029,"condition_mission_id":72029021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
+        {"id":33,"unit_id":114601,"event_id":20031,"condition_mission_id":72031021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
+        {"id":34,"unit_id":114701,"event_id":20032,"condition_mission_id":72032021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
+        {"id":35,"unit_id":115601,"event_id":20033,"condition_mission_id":72033021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
+        {"id":36,"unit_id":115801,"event_id":20035,"condition_mission_id":72035021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
+        {"id":37,"unit_id":116801,"event_id":20038,"condition_mission_id":72038021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
+        {"id":38,"unit_id":117401,"event_id":20040,"condition_mission_id":72040021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
+        {"id":39,"unit_id":117801,"event_id":20042,"condition_mission_id":72042021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"},
+        {"id":40,"unit_id":119201,"event_id":20044,"condition_mission_id":72044021,"top_description":"去讨伐普通难度首领进行解锁吧！","description_1":"[3C404E]推进关卡，挑战首领！\\n讨伐普通首领，\\n可解锁限定角色！[-]","description_2":"[3C404E]去讨伐普通难度首领进行解锁吧！"}
     ]
 }
