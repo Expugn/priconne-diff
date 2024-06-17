@@ -6490,7 +6490,7 @@
         {"id":7283,"unit_id":125601,"trigger":3,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"나에게도 휴식은\\n필요해!\\n릴랙스~\\n릴랙스~♪","insert_word_type":0},
         {"id":7284,"unit_id":125601,"trigger":3,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"내 봉제인형도\\n만들어서 팔까…\\n수선비도 단숨에\\n모일지 몰라!","insert_word_type":0},
         {"id":7285,"unit_id":125601,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"좋은 향기네!\\n동국의 향과\\n무척 비슷해","insert_word_type":0},
-        {"id":7286,"unit_id":125601,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"하아… 따뜻해…\\n그렇지, 이 불에\\n치즈라도 구워\\n볼까","insert_word_type":0},
+        {"id":7286,"unit_id":125601,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"하아… 따뜻해…\\n그렇지, 이 불에\\n치즈라도 구워 볼까","insert_word_type":0},
         {"id":7288,"unit_id":125601,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"으~음, 이 맛…\\n동국이 생각나\\n어디, 하나 더\\n먹어 볼까!","insert_word_type":0},
         {"id":7289,"unit_id":125601,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"이거 랜드솔의\\n가이드북이네!\\n고맙게 잘\\n볼게!","insert_word_type":0},
         {"id":7291,"unit_id":126201,"trigger":1,"voice_id":1,"beloved_step":1,"time":0,"face_id":1,"description":"설마, 이 몸이\\n이런 옷차림을\\n할 날이 올 줄이야…\\n감회가 깊구나","insert_word_type":0},
