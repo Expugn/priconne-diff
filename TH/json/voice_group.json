@@ -285,6 +285,7 @@
         {"group_id":30160,"group_id_comment":"เปโกรีน (โอเวอร์โหลด) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":321001001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30161,"group_id_comment":"ลาบิริสต้า (โอเวอร์โหลด) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":321201001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30162,"group_id_comment":"ยูนิ (งานโรงเรียน) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":316401001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
-        {"group_id":30163,"group_id_comment":"แคล (โอเวอร์โหลด) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":321101001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
+        {"group_id":30163,"group_id_comment":"แคล (โอเวอร์โหลด) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":321101001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":30164,"group_id_comment":"คุรุมิ (สเตจ) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":321301001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
     ]
 }
