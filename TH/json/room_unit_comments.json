@@ -5323,6 +5323,12 @@
         {"id":6046,"unit_id":121301,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"กลิ่นหอมวิเศษจัง...\\nใช้จินตนาการนี้\\nประยุกต์\\nเข้ากับการแสดงได้ไหมนะ...?","insert_word_type":0},
         {"id":6047,"unit_id":121301,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"ฉันก็อยาก\\nทำให้ทุกคน\\nอบอุ่นหัวใจ\\nด้วยการแสดงจังเลยนะ...♪","insert_word_type":0},
         {"id":6049,"unit_id":121301,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"เพราะยืนอยู่บนเวทีแล้ว\\nต้องระมัดระวัง\\nอย่ากินเยอะเกิน\\nแต่...อร่อยจังเลยน้า♪","insert_word_type":0},
-        {"id":6050,"unit_id":121301,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"เรื่องนี้ สนุกจังเลย...\\nน่าจะใช้อ้างอิง\\nในการเขียนบทละครได้...♪","insert_word_type":0}
+        {"id":6050,"unit_id":121301,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"เรื่องนี้ สนุกจังเลย...\\nน่าจะใช้อ้างอิง\\nในการเขียนบทละครได้...♪","insert_word_type":0},
+        {"id":6052,"unit_id":107501,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"แฮะๆ...♪ พระอาทิตย์ตกดิน\\nที่ดูด้วยกันสองคน...\\nสวยจังเลยนะคะ...","insert_word_type":0},
+        {"id":6053,"unit_id":107501,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"กำลังจะไป\\nซ้อมว่ายน้ำเหรอคะ?\\nเดี๋ยวฉันไปเป็นเพื่อนค่ะ♪","insert_word_type":0},
+        {"id":6054,"unit_id":107601,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"การนำทางให้นายท่าน\\nทำให้ได้เดินทางไปในพื้นที่\\nที่ฉันไม่รู้จักค่ะ","insert_word_type":0},
+        {"id":6055,"unit_id":107601,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ถ้าอยู่กับนายท่านล่ะก็\\nฉันสามารถตั้งเป้าไปยังที่\\nที่ลึกกว่าท้องทะเลและที่\\nที่สูงกว่าท้องฟ้า ได้ค่ะ","insert_word_type":0},
+        {"id":6056,"unit_id":107801,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ไปทะเลไกลๆ ในฤดูร้อน\\nสองคนกับหมอนั่น...เอ่อ\\nคิดอะไร\\nของฉันเนี่ย!","insert_word_type":0},
+        {"id":6057,"unit_id":107801,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ที่ฉันได้ใช้ช่วงเวลา\\nอย่างสนุกสนาน\\nก็เพราะมีนายอยู่ด้วยไงล่ะ\\nฉะ ฉันขอบคุณนะ","insert_word_type":0}
     ]
 }

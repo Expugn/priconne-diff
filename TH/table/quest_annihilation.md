@@ -2,3 +2,4 @@
 | --- | --- | --- | --- | --- |
 |104|31006005|501|0|se_btl_tower_timeup|
 |104|31007005|501|0|se_btl_tower_timeup|
+|104|31008005|501|0|se_btl_tower_timeup|
