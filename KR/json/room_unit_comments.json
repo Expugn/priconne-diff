@@ -6509,7 +6509,7 @@
         {"id":7304,"unit_id":126201,"trigger":2,"voice_id":1,"beloved_step":1,"time":1,"face_id":1,"description":"아침 일찍부터 이 몸을\\n만나고 싶었다고…?\\n권속이여\\n칭찬해 주마♪","insert_word_type":0},
         {"id":7305,"unit_id":126201,"trigger":2,"voice_id":2,"beloved_step":1,"time":2,"face_id":1,"description":"권속이여, 이 몸이\\n식사를 준비했느니라\\n지긋지긋한 태양에 지지 말고\\n힘내거라","insert_word_type":0},
         {"id":7306,"unit_id":126201,"trigger":2,"voice_id":3,"beloved_step":1,"time":3,"face_id":1,"description":"잠들기에는 아쉬운 밤이로구나\\n권속이여, 조금 더\\n이 몸 곁에\\n있도록 하거라","insert_word_type":0},
-        {"id":7308,"unit_id":126201,"trigger":3,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"푹신푹신하구나♪\\n다음에 그녀석에게도\\n앉게 해주어야지","insert_word_type":0},
+        {"id":7308,"unit_id":126201,"trigger":3,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"푹신푹신하구나♪\\n다음에 그 녀석에게도\\n앉게 해주어야지","insert_word_type":0},
         {"id":7309,"unit_id":126201,"trigger":3,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"귀여운 놈이로구나\\n잠깐 이 몸이\\n놀아줘 볼까","insert_word_type":0},
         {"id":7310,"unit_id":126201,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"기품 있는 향이로구나\\n이 몸의 고성에도\\n하나 있으면 좋겠구나","insert_word_type":0},
         {"id":7311,"unit_id":126201,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"좋은 온기로다…\\n몸서리나는 태양과는\\n딴판이로구나","insert_word_type":0},
