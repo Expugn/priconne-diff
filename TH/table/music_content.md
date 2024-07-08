@@ -209,3 +209,7 @@
 |209|Overload Force|2:08|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 02:08\nทำนอง   / IREI KAN (Cygames)\nเรียบเรียง / IREI KAN (Cygames)|bgm_M559|bgm_M559_juke|
 |210|Asymmetric World|1:35|0:46|เพลงตัวละคร\n\nความยาว / 01:35\nขับร้อง   / เปโกรีน (M.A.O)\n           แคล (RIKA TACHIBANA)\nเนื้อเพลง / SENA WATARU\nทำนอง   / ITO TSUBASA\nเรียบเรียง / ITO TSUBASA|bgm_M572|bgm_M572|
 |211|Minna no Omoi|3:27|0:00|เนื้อเรื่องกิจกรรมย่อย\n-<Asymmetric World>Arrange-\n\nความยาว / 03:27\nทำนอง   / ITO TSUBASA\nเรียบเรียง / TAKAAKI NAKAGAWA|bgm_M558|bgm_M558_juke|
+|212|Sweet Tiny Stage!: Kakedashi Joyuu to Little Lady|1:43|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Musical ga Kikoeru?>Arrange-\n\nความยาว / 01:43\nทำนอง   / KITAGAWA KATSUTOSHI (ROUND TABLE)\nเรียบเรียง / SHIMO TOMOKO|bgm_M565|bgm_M565_juke|
+|213|Chuso Dohatten no Chuji|1:47|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 01:47\nทำนอง   / HATADA HIROTAKA (Cygames)\nเรียบเรียง / HATADA HIROTAKA (Cygames)|bgm_M568|bgm_M568_juke|
+|216|Musical ga Kikoeru?|1:27|0:55|เพลงตัวละคร\n\nความยาว / 01:27\nขับร้อง   / คุรุมิ (KANA UEDA)\nเนื้อเพลง / FUJIMURA CONOMI, KITAGAWA KATSUTOSHI (ROUND TABLE)\nทำนอง   / KITAGAWA KATSUTOSHI (ROUND TABLE)\nเรียบเรียง / KITAGAWA KATSUTOSHI (ROUND TABLE)|bgm_M573|bgm_M573|
+|217|Crossing Truth|1:33|0:58|เพลงตัวละคร\n\nความยาว / 01:33\nขับร้อง   / เปโกรีน (M.A.O)\n           คกโคโระ (MIKU ITO)\n           แคล (RIKA TACHIBANA)\n           เชฟี่ (REINA KONDOU)\nเนื้อเพลง / ISOGAI YOSHIE\nทำนอง   / NAKATSUCHI TOMOHIRO\nเรียบเรียง / NAKATSUCHI TOMOHIRO|bgm_M581|bgm_M581|
