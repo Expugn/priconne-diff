@@ -898,7 +898,7 @@
         {"asm_id":2631001,"choice_1":"爆破尖牙","image_id_1":0,"choice_2":"冰牙蛮咬","image_id_2":0,"choice_3":"爆裂尖牙","image_id_3":0,"choice_4":"钻石尖牙","image_id_4":0,"correct_answer":1},
         {"asm_id":2631002,"choice_1":"海神之杖","image_id_1":0,"choice_2":"岚击之枪","image_id_2":0,"choice_3":"雷击之枪","image_id_3":0,"choice_4":"激波之拳","image_id_4":0,"correct_answer":1},
         {"asm_id":2631003,"choice_1":"龙族长尾","image_id_1":0,"choice_2":"龙族死球","image_id_2":0,"choice_3":"龙族之剪","image_id_3":0,"choice_4":"龙族之翼","image_id_4":0,"correct_answer":1},
-        {"asm_id":2631004,"choice_1":"划船","image_id_1":0,"choice_2":"沙滩排球","image_id_2":0,"choice_3":"沙滩旗帜争夺","image_id_3":0,"choice_4":"沙滩棒球","image_id_4":0,"correct_answer":1},
+        {"asm_id":2631004,"choice_1":"划船","image_id_1":0,"choice_2":"沙滩排球","image_id_2":0,"choice_3":"沙滩旗帜争夺战","image_id_3":0,"choice_4":"沙滩棒球","image_id_4":0,"correct_answer":1},
         {"asm_id":2631005,"choice_1":"七界霸王晦冥喝破之装","image_id_1":0,"choice_2":"七界究极晦冥喝破之装","image_id_2":0,"choice_3":"大海帝王晦冥喝破之装","image_id_3":0,"choice_4":"七海霸者晦冥喝破之装","image_id_4":0,"correct_answer":1}
     ]
 }

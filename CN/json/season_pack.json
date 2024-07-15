@@ -39,6 +39,8 @@
         {"id":10051,"mission_id":0,"disp_order":26,"category_icon":0,"receive_text":"","after_text":"","gift_message_id":9427,"term":0,"repurchase_day":0,"group_id":0,"system_id_1":0,"add_num_1":0,"item_record_id":13,"condition_flg":0,"reward_rate_1":0,"pack_type":4},
         {"id":10052,"mission_id":0,"disp_order":27,"category_icon":0,"receive_text":"","after_text":"","gift_message_id":9428,"term":0,"repurchase_day":0,"group_id":0,"system_id_1":0,"add_num_1":0,"item_record_id":14,"condition_flg":0,"reward_rate_1":0,"pack_type":4},
         {"id":10053,"mission_id":0,"disp_order":28,"category_icon":0,"receive_text":"","after_text":"","gift_message_id":9429,"term":0,"repurchase_day":0,"group_id":0,"system_id_1":0,"add_num_1":0,"item_record_id":19,"condition_flg":0,"reward_rate_1":0,"pack_type":4},
-        {"id":10054,"mission_id":0,"disp_order":29,"category_icon":0,"receive_text":"","after_text":"","gift_message_id":9430,"term":0,"repurchase_day":0,"group_id":0,"system_id_1":0,"add_num_1":0,"item_record_id":20,"condition_flg":0,"reward_rate_1":0,"pack_type":4}
+        {"id":10054,"mission_id":0,"disp_order":29,"category_icon":0,"receive_text":"","after_text":"","gift_message_id":9430,"term":0,"repurchase_day":0,"group_id":0,"system_id_1":0,"add_num_1":0,"item_record_id":20,"condition_flg":0,"reward_rate_1":0,"pack_type":4},
+        {"id":11055,"mission_id":17001104,"disp_order":0,"category_icon":405,"receive_text":"公主招募月度凭证中的第{1}天的道具包","after_text":"","gift_message_id":0,"term":30,"repurchase_day":0,"group_id":0,"system_id_1":0,"add_num_1":0,"item_record_id":21,"condition_flg":0,"reward_rate_1":0,"pack_type":4},
+        {"id":11056,"mission_id":17001105,"disp_order":0,"category_icon":405,"receive_text":"公主进阶月度凭证中的第{1}天的道具包","after_text":"","gift_message_id":0,"term":30,"repurchase_day":0,"group_id":0,"system_id_1":0,"add_num_1":0,"item_record_id":22,"condition_flg":0,"reward_rate_1":0,"pack_type":4}
     ]
 }
