@@ -180,6 +180,9 @@
         {"id":1008801,"odds_file":"1008820101","name":"เมโมรี่พีซของมาฮิรุ (เรนเจอร์)","icon_type":99002,"description":""},
         {"id":1008802,"odds_file":"1008820102","name":"เมโมรี่พีซของริน","icon_type":99002,"description":""},
         {"id":1008901,"odds_file":"1008920101","name":"เมโมรี่พีซของริมะ (ซินเดอเรลล่า)","icon_type":99002,"description":""},
-        {"id":1008902,"odds_file":"1008920102","name":"เมโมรี่พีซของมาโฮะ","icon_type":99002,"description":""}
+        {"id":1008902,"odds_file":"1008920102","name":"เมโมรี่พีซของมาโฮะ","icon_type":99002,"description":""},
+        {"id":1009001,"odds_file":"1009020101","name":"เมโมรี่พีซของคายะ","icon_type":99002,"description":""},
+        {"id":1009002,"odds_file":"1009020102","name":"เมโมรี่พีซของทามากิ","icon_type":99002,"description":""},
+        {"id":1009003,"odds_file":"box_rank_7-15","name":"กล่องสุ่มอุปกรณ์","icon_type":99002,"description":"กล่องที่สามารถสุ่มรับอุปกรณ์ได้"}
     ]
 }

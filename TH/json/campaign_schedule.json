@@ -1004,6 +1004,19 @@
         {"id":1116,"campaign_category":32,"value":2000,"system_id":102,"icon_image":30,"start_time":"2024/07/13 12:00:00","end_time":"2024/07/19 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
         {"id":1117,"campaign_category":42,"value":2000,"system_id":102,"icon_image":40,"start_time":"2024/07/13 12:00:00","end_time":"2024/07/19 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
         {"id":1118,"campaign_category":37,"value":2000,"system_id":109,"icon_image":30,"start_time":"2024/07/13 12:00:00","end_time":"2024/07/17 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
-        {"id":1119,"campaign_category":45,"value":2000,"system_id":104,"icon_image":40,"start_time":"2024/07/13 12:00:00","end_time":"2024/07/25 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0}
+        {"id":1119,"campaign_category":45,"value":2000,"system_id":104,"icon_image":40,"start_time":"2024/07/13 12:00:00","end_time":"2024/07/25 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1120,"campaign_category":81,"value":1500,"system_id":101,"icon_image":80,"start_time":"2024/07/17 05:00:00","end_time":"2024/07/25 04:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1121,"campaign_category":82,"value":1500,"system_id":102,"icon_image":80,"start_time":"2024/07/17 05:00:00","end_time":"2024/07/25 04:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1122,"campaign_category":83,"value":1500,"system_id":111,"icon_image":80,"start_time":"2024/07/17 05:00:00","end_time":"2024/07/25 04:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1123,"campaign_category":84,"value":1500,"system_id":109,"icon_image":80,"start_time":"2024/07/17 05:00:00","end_time":"2024/07/25 04:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1124,"campaign_category":85,"value":1500,"system_id":112,"icon_image":80,"start_time":"2024/07/17 05:00:00","end_time":"2024/07/25 04:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1125,"campaign_category":351,"value":1500,"system_id":8004,"icon_image":80,"start_time":"2024/07/17 05:00:00","end_time":"2024/07/25 04:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1126,"campaign_category":352,"value":1500,"system_id":8005,"icon_image":80,"start_time":"2024/07/17 05:00:00","end_time":"2024/07/25 04:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1127,"campaign_category":37,"value":2000,"system_id":109,"icon_image":30,"start_time":"2024/07/19 12:00:00","end_time":"2024/07/25 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1128,"campaign_category":38,"value":2000,"system_id":112,"icon_image":30,"start_time":"2024/07/19 12:00:00","end_time":"2024/07/25 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1129,"campaign_category":31,"value":2000,"system_id":101,"icon_image":30,"start_time":"2024/07/19 12:00:00","end_time":"2024/07/25 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1130,"campaign_category":41,"value":2000,"system_id":101,"icon_image":40,"start_time":"2024/07/19 12:00:00","end_time":"2024/07/25 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1131,"campaign_category":34,"value":2000,"system_id":103,"icon_image":30,"start_time":"2024/07/19 12:00:00","end_time":"2024/07/30 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0},
+        {"id":1132,"campaign_category":44,"value":2000,"system_id":103,"icon_image":40,"start_time":"2024/07/19 12:00:00","end_time":"2024/07/30 11:59:59","level_id":0,"shiori_group_id":0,"duplication_order":0,"beginner_id":0}
     ]
 }
