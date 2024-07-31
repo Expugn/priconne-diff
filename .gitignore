@@ -4,3 +4,5 @@ Thumbs.db
 *.db
 table-locator.cjs
 /JP/10052900_fix
+database_keys.json
+table-locator-output.json
