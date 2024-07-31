@@ -5373,6 +5373,8 @@
         {"id":6102,"unit_id":121501,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"กลิ่นหอมวิเศษมาก...แต่\\nถ้ามีกลิ่นหอมติดเสื้อผ้า\\nต้องโดนหาเจอ\\nตอนแอบแน่ๆ เลย...","insert_word_type":0},
         {"id":6103,"unit_id":121501,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"อุ่นและรู้สึกดีจัง...\\nต้องทำตัวให้อบอุ่น\\nก่อนเดินบนถนน\\nตอนกลางคืน...","insert_word_type":0},
         {"id":6105,"unit_id":121501,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"เตรียมการโจรกรรมให้พร้อม\\nระหว่างนี้ต้อง\\nกินให้อิ่ม...!","insert_word_type":0},
-        {"id":6106,"unit_id":121501,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"ผู้หญิงมีความลับ\\nเยอะๆ มีเสน่ห์มากกว่า...?\\nยะ อย่างนั้นเหรอ...","insert_word_type":0}
+        {"id":6106,"unit_id":121501,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"ผู้หญิงมีความลับ\\nเยอะๆ มีเสน่ห์มากกว่า...?\\nยะ อย่างนั้นเหรอ...","insert_word_type":0},
+        {"id":6108,"unit_id":104501,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"คุณสุด S มักจะอยู่ใน\\nจินตนาการเพ้อฝัน\\nของคูกะเสมอ... อุฮุฮุ ซู้ด~♪","insert_word_type":0},
+        {"id":6109,"unit_id":104501,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ไม่ได้รังเกียจการสัมผัส\\nอย่างอ่อนโยนหรอกค่ะ...\\nคะ...แค่เขินค่ะ","insert_word_type":0}
     ]
 }
