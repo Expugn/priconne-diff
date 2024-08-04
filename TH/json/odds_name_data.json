@@ -183,6 +183,8 @@
         {"id":1008902,"odds_file":"1008920102","name":"เมโมรี่พีซของมาโฮะ","icon_type":99002,"description":""},
         {"id":1009001,"odds_file":"1009020101","name":"เมโมรี่พีซของคายะ","icon_type":99002,"description":""},
         {"id":1009002,"odds_file":"1009020102","name":"เมโมรี่พีซของทามากิ","icon_type":99002,"description":""},
-        {"id":1009003,"odds_file":"box_rank_7-15","name":"กล่องสุ่มอุปกรณ์","icon_type":99002,"description":"กล่องที่สามารถสุ่มรับอุปกรณ์ได้"}
+        {"id":1009003,"odds_file":"box_rank_7-15","name":"กล่องสุ่มอุปกรณ์","icon_type":99002,"description":"กล่องที่สามารถสุ่มรับอุปกรณ์ได้"},
+        {"id":1009101,"odds_file":"1009120101","name":"เมโมรี่พีซของอากิโนะ","icon_type":99002,"description":""},
+        {"id":1009102,"odds_file":"1009120102","name":"เมโมรี่พีซของชิโนบุ","icon_type":99002,"description":""}
     ]
 }

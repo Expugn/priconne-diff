@@ -86,6 +86,7 @@
         {"gacha_id":10088,"event_id":10088,"gacha_name":"สวีท ไทนี่ สเตจ! นักแสดงสาวมือใหม่กับลิตเติ้ลเลดี้","item_type":2,"item_id":60872,"cost":1,"repeat_step":6},
         {"gacha_id":10089,"event_id":10089,"gacha_name":"รีรัน บทเรียนซินเดอเรลล่า วันที่สวยงามรสชาติเหมือนแอปเปิล","item_type":2,"item_id":60882,"cost":1,"repeat_step":6},
         {"gacha_id":10090,"event_id":10090,"gacha_name":"ขอรับสมบัติไปล่ะนะ! จอมโจรล่องหน","item_type":2,"item_id":60892,"cost":1,"repeat_step":6},
+        {"gacha_id":10091,"event_id":10091,"gacha_name":"รีรัน นักบุญหญิงเหล็กกับเด็กหญิงนอกคอกแห่งวิทยาลัยเซนต์","item_type":2,"item_id":60902,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"แลกตราพิชิตแวมไพร์ฮันเตอร์ with อิลิยา","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
