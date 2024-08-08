@@ -213,3 +213,6 @@
 |213|Chuso Dohatten no Chuji|28||2024-07-08 11:00:00||-1|1000|213|Chuso Dohatten no Chuji||||
 |216|Musical ga Kikoeru?|28||2024-07-08 11:00:00||-1|1500|216|Musical ga Kikoeru?||||
 |217|Crossing Truth|28||2024-07-08 11:00:00||2109012|1500|217|Crossing Truth||||
+|218|Otakara Chodai!: Invisible Stealers|28||2024-08-08 11:00:00||-1|1000|218|Otakara Chodai!: Invisible Stealers||||
+|219|Taiyoku Boukun - Casino Ou|28||2024-08-08 11:00:00||-1|1000|219|Taiyoku Boukun - Casino Ou||||
+|220|Secret Longing|28||2024-08-08 11:00:00||-1|1500|220|Secret Longing||||

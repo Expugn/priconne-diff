@@ -213,3 +213,6 @@
 |213|Chuso Dohatten no Chuji|1:47|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 01:47\nทำนอง   / HATADA HIROTAKA (Cygames)\nเรียบเรียง / HATADA HIROTAKA (Cygames)|bgm_M568|bgm_M568_juke|
 |216|Musical ga Kikoeru?|1:27|0:55|เพลงตัวละคร\n\nความยาว / 01:27\nขับร้อง   / คุรุมิ (KANA UEDA)\nเนื้อเพลง / FUJIMURA CONOMI, KITAGAWA KATSUTOSHI (ROUND TABLE)\nทำนอง   / KITAGAWA KATSUTOSHI (ROUND TABLE)\nเรียบเรียง / KITAGAWA KATSUTOSHI (ROUND TABLE)|bgm_M573|bgm_M573|
 |217|Crossing Truth|1:33|0:58|เพลงตัวละคร\n\nความยาว / 01:33\nขับร้อง   / เปโกรีน (M.A.O)\n           คกโคโระ (MIKU ITO)\n           แคล (RIKA TACHIBANA)\n           เชฟี่ (REINA KONDOU)\nเนื้อเพลง / ISOGAI YOSHIE\nทำนอง   / NAKATSUCHI TOMOHIRO\nเรียบเรียง / NAKATSUCHI TOMOHIRO|bgm_M581|bgm_M581|
+|218|Otakara Chodai!: Invisible Stealers|1:04|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Secret Longing>Arrange-\n\nความยาว / 01:04\nทำนอง   / YASUSHI KAWAI (Arte Refact)\nเรียบเรียง / HASEBE SHOU (Cygames)|bgm_M574|bgm_M574_juke|
+|219|Taiyoku Boukun - Casino Ou|1:43|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 01:43\nทำนอง   / NAKAMURA HIROSHI\nเรียบเรียง / NAKAMURA HIROSHI|bgm_M577|bgm_M577_juke|
+|220|Secret Longing|1:31|0:55|เพลงตัวละคร\n\nความยาว / 01:31\nขับร้อง   / อายูมิ (ERI OZEKI)\nเนื้อเพลง / MASAKI ERICA\nทำนอง   / YASUSHI KAWAI (Arte Refact)\nเรียบเรียง / YASUSHI KAWAI (Arte Refact)|bgm_M592|bgm_M592|
