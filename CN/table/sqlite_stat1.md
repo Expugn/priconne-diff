@@ -197,8 +197,8 @@
 |grand_arena_daily_rank_reward||15|
 |room_effect||29|
 |room_chat_info||37|
-|unit_unique_equipment|unit_unique_equipment_0_unit_id|154 1|
-|unit_unique_equipment|sqlite_autoindex_unit_unique_equipment_1|154 1 1|
+|unit_unique_equipment|unit_unique_equipment_0_unit_id|157 1|
+|unit_unique_equipment|sqlite_autoindex_unit_unique_equipment_1|157 1 1|
 |unit_skill_data||1750|
 |mission_category_icon||38|
 |ccc_scenario|ccc_scenario_0_ccc_scenario_id|1000 200|
