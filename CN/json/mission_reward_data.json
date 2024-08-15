@@ -394,6 +394,8 @@
         {"id":448,"mission_reward_id":28002037,"reward_type":8,"reward_id":91002,"reward_num":1100,"lv_from":1,"lv_to":-1,"start_time":"2020/01/01 0:00:00","end_time":"2099/12/31 23:59:59"},
         {"id":449,"mission_reward_id":28002037,"reward_type":12,"reward_id":94002,"reward_num":15000000,"lv_from":1,"lv_to":-1,"start_time":"2020/01/01 0:00:00","end_time":"2099/12/31 23:59:59"},
         {"id":450,"mission_reward_id":28002037,"reward_type":2,"reward_id":90007,"reward_num":1500,"lv_from":1,"lv_to":-1,"start_time":"2020/01/01 0:00:00","end_time":"2099/12/31 23:59:59"},
+        {"id":451,"mission_reward_id":26003026,"reward_type":8,"reward_id":91002,"reward_num":50,"lv_from":1,"lv_to":-1,"start_time":"2020/01/01 0:00:00","end_time":"2099/12/31 23:59:59"},
+        {"id":452,"mission_reward_id":26003026,"reward_type":12,"reward_id":94002,"reward_num":750000,"lv_from":1,"lv_to":-1,"start_time":"2020/01/01 0:00:00","end_time":"2099/12/31 23:59:59"},
         {"id":9001,"mission_reward_id":280009001,"reward_type":2,"reward_id":25001,"reward_num":30,"lv_from":1,"lv_to":-1,"start_time":"2022/08/15 11:00:00","end_time":"2022/08/26 10:59:59"},
         {"id":9002,"mission_reward_id":280009002,"reward_type":4,"reward_id":140001,"reward_num":30,"lv_from":1,"lv_to":-1,"start_time":"2022/08/15 11:00:00","end_time":"2022/08/26 10:59:59"},
         {"id":9003,"mission_reward_id":280009003,"reward_type":2,"reward_id":24002,"reward_num":1,"lv_from":1,"lv_to":-1,"start_time":"2022/08/15 11:00:00","end_time":"2022/08/26 10:59:59"},

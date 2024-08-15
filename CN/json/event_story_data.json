@@ -32,7 +32,7 @@
         {"story_group_id":5046,"story_type":5,"value":20027,"title":"美里的夏日应援！　追梦的盛夏棒球队","thumbnail_id":0,"disp_order":1,"start_time":"2022/07/26 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5048,"story_type":5,"value":20028,"title":"快乐变身 双生天使","thumbnail_id":0,"disp_order":1,"start_time":"2022/08/25 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5050,"story_type":5,"value":20029,"title":"尖叫！连连！万圣鬼怪狂欢节","thumbnail_id":0,"disp_order":1,"start_time":"2022/09/23 15:00:00","end_time":"2099/12/31 23:59:59"},
-        {"story_group_id":5052,"story_type":5,"value":10079,"title":"魔法提督Lovely★莫妮卡　\\nLet's Go！魔法的四重奏！","thumbnail_id":0,"disp_order":1,"start_time":"2022/10/25 15:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":5052,"story_type":5,"value":20030,"title":"魔法提督Lovely★莫妮卡　\\nLet's Go！魔法的四重奏！","thumbnail_id":0,"disp_order":1,"start_time":"2022/10/25 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5054,"story_type":5,"value":10081,"title":"初次登场·香格里拉　圣夜的爱情游戏","thumbnail_id":0,"disp_order":1,"start_time":"2022/11/25 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5056,"story_type":5,"value":10083,"title":"新春美食公主！　孤注一掷的少女们","thumbnail_id":0,"disp_order":1,"start_time":"2022/12/26 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5058,"story_type":5,"value":10086,"title":"情相连。心相系。","thumbnail_id":0,"disp_order":1,"start_time":"2024/02/05 15:00:00","end_time":"2099/12/31 23:59:59"},
@@ -54,7 +54,8 @@
         {"story_group_id":5090,"story_type":5,"value":10090,"title":"交出宝物！　神出鬼没的怪盗","thumbnail_id":0,"disp_order":1,"start_time":"2024/3/24 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5092,"story_type":5,"value":10092,"title":"海盗逸话　\\n海盗岛被诅咒的遗宝","thumbnail_id":0,"disp_order":1,"start_time":"2024/4/26 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"story_group_id":5094,"story_type":5,"value":10094,"title":"Enjoy&Refresh！性格迥异的女子露营","thumbnail_id":0,"disp_order":1,"start_time":"2024/5/24 15:00:00","end_time":"2099/12/31 23:59:59"},
-        {"story_group_id":5096,"story_type":5,"value":10096,"title":"破晓之星夏日游戏　\\n闪耀于夏天海边的三份思念","thumbnail_id":0,"disp_order":1,"start_time":"2022/06/24 15:00:00","end_time":"2099/12/31 23:59:59"},
-        {"story_group_id":5098,"story_type":5,"value":10098,"title":"点滴夏日回忆　\\n在海边发现的小小幸福","thumbnail_id":0,"disp_order":1,"start_time":"2022/07/25 15:00:00","end_time":"2099/12/31 23:59:59"}
+        {"story_group_id":5096,"story_type":5,"value":10096,"title":"破晓之星夏日游戏　\\n闪耀于夏天海边的三份思念","thumbnail_id":0,"disp_order":1,"start_time":"2024/6/24 15:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":5098,"story_type":5,"value":10098,"title":"点滴夏日回忆　\\n在海边发现的小小幸福","thumbnail_id":0,"disp_order":1,"start_time":"2024/7/26 15:00:00","end_time":"2099/12/31 23:59:59"},
+        {"story_group_id":5100,"story_type":5,"value":10100,"title":"真步真步奇妙之旅！\\n旅行的少女与世界尽头的大树","thumbnail_id":0,"disp_order":1,"start_time":"2024/8/26 15:00:00","end_time":"2099/12/31 23:59:59"}
     ]
 }
