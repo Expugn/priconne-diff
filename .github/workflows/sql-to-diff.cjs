@@ -12,9 +12,9 @@ const output = process.argv[3]; // e.g. "./JP"
 
 download(input).then(() => {
     check_directory(output);
-    check_directory(`${output}/csv`, output.includes("JP"));
-    check_directory(`${output}/table`, output.includes("JP"));
-    check_directory(`${output}/json`, output.includes("JP"));
+    check_directory(`${output}/csv`, !output.includes("EN"));
+    check_directory(`${output}/table`, !output.includes("EN"));
+    check_directory(`${output}/json`, !output.includes("EN"));
 
     // get tables
     const db = new sqlite3.Database(input);
