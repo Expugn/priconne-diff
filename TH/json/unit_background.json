@@ -183,6 +183,7 @@
         {"unit_id":180501,"unit_name":"คกโคโระ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180601,"unit_name":"แคล (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":18},
         {"unit_id":180701,"unit_name":"ฮาสึเนะ & ชิโอริ","bg_id":501370,"bg_name":"แอ่งน้ำตก กลางวัน","position":0,"face_type":2},
-        {"unit_id":180801,"unit_name":"มิโซงิ & มิมิ & เคียวกะ","bg_id":500194,"bg_name":"ป่าเอลฟ์ ฐานลับ","position":0,"face_type":2}
+        {"unit_id":180801,"unit_name":"มิโซงิ & มิมิ & เคียวกะ","bg_id":500194,"bg_name":"ป่าเอลฟ์ ฐานลับ","position":0,"face_type":2},
+        {"unit_id":180901,"unit_name":"อากิโนะ & ซาเร็น","bg_id":500140,"bg_name":"ที่ราบพลาโน่","position":0,"face_type":2}
     ]
 }

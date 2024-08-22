@@ -32,6 +32,8 @@
         {"id":30,"formation_id":8,"scenario_id":30},
         {"id":31,"formation_id":8,"scenario_id":31},
         {"id":32,"formation_id":9,"scenario_id":32},
-        {"id":33,"formation_id":9,"scenario_id":33}
+        {"id":33,"formation_id":9,"scenario_id":33},
+        {"id":34,"formation_id":10,"scenario_id":34},
+        {"id":35,"formation_id":10,"scenario_id":35}
     ]
 }

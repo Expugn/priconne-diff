@@ -1,5 +1,7 @@
 {
     "campaign_beginner_data": [
-
+        {"beginner_id":1,"id_from":12001001,"id_to":12025003},
+        {"beginner_id":2,"id_from":12026001,"id_to":12053002},
+        {"beginner_id":5,"id_from":12001001,"id_to":12053002}
     ]
 }

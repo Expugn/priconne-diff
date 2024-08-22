@@ -26,6 +26,19 @@
         {"id":24,"unit_id":180801,"voice_type":1011,"value":3},
         {"id":25,"unit_id":180801,"voice_type":1012,"value":3},
         {"id":26,"unit_id":180801,"voice_type":1013,"value":3},
-        {"id":27,"unit_id":180801,"voice_type":1009,"value":3}
+        {"id":27,"unit_id":180801,"voice_type":1009,"value":3},
+        {"id":28,"unit_id":180901,"voice_type":1001,"value":4},
+        {"id":29,"unit_id":180901,"voice_type":1002,"value":4},
+        {"id":30,"unit_id":180901,"voice_type":1003,"value":4},
+        {"id":31,"unit_id":180901,"voice_type":1004,"value":4},
+        {"id":32,"unit_id":180901,"voice_type":1005,"value":4},
+        {"id":33,"unit_id":180901,"voice_type":1014,"value":2},
+        {"id":34,"unit_id":180901,"voice_type":1015,"value":2},
+        {"id":35,"unit_id":180901,"voice_type":1016,"value":2},
+        {"id":36,"unit_id":180901,"voice_type":1017,"value":4},
+        {"id":37,"unit_id":180901,"voice_type":1010,"value":2},
+        {"id":38,"unit_id":180901,"voice_type":1011,"value":2},
+        {"id":39,"unit_id":180901,"voice_type":1012,"value":2},
+        {"id":40,"unit_id":180901,"voice_type":1013,"value":2}
     ]
 }
