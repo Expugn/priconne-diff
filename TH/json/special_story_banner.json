@@ -1,5 +1,6 @@
 {
     "special_story_banner": [
-        {"id":80004,"story_group_id":9002,"start_time":"2023-09-02 05:00:00","remind_end_time":"2023-10-03 10:59:59","end_time":"2023-10-03 10:59:59"}
+        {"id":80004,"story_group_id":9002,"start_time":"2023-09-02 05:00:00","remind_end_time":"2023-10-03 10:59:59","end_time":"2023-10-03 10:59:59"},
+        {"id":80006,"story_group_id":9004,"start_time":"2024-09-02 05:00:00","remind_end_time":"2024-10-03 10:59:59","end_time":"2025-03-04 10:00:00"}
     ]
 }

@@ -1,6 +1,7 @@
 {
     "birthday_login_bonus_data": [
         {"login_bonus_id":9100101,"name":"ฮิโยริ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-08-27 5:00:00","end_time":"2023-08-28 4:59:59","adv_id":1001500},
+        {"login_bonus_id":9100102,"name":"ฮิโยริ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-08-27 5:00:00","end_time":"2024-08-28 4:59:59","adv_id":1001501},
         {"login_bonus_id":9100201,"name":"ยุย [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-04-05 5:00:00","end_time":"2023-04-06 4:59:59","adv_id":1002500},
         {"login_bonus_id":9100202,"name":"ยุย [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-04-05 5:00:00","end_time":"2024-04-06 4:59:59","adv_id":1002501},
         {"login_bonus_id":9100301,"name":"เรย์ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-01-12 5:00:00","end_time":"2024-01-13 4:59:59","adv_id":1003500},
@@ -39,6 +40,7 @@
         {"login_bonus_id":9102801,"name":"ซาเร็น [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-10-04 5:00:00","end_time":"2023-10-05 4:59:59","adv_id":1028500},
         {"login_bonus_id":9102901,"name":"โนโซมิ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-01-24 5:00:00","end_time":"2024-01-25 4:59:59","adv_id":1029500},
         {"login_bonus_id":9103001,"name":"นิน่อน [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-08-31 5:00:00","end_time":"2023-09-01 4:59:59","adv_id":1030500},
+        {"login_bonus_id":9103002,"name":"นิน่อน [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-08-31 5:00:00","end_time":"2024-09-01 4:59:59","adv_id":1030501},
         {"login_bonus_id":9103101,"name":"ชิโนบุ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-12-22 5:00:00","end_time":"2023-12-23 4:59:59","adv_id":1031500},
         {"login_bonus_id":9103201,"name":"อากิโนะ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-03-12 5:00:00","end_time":"2024-03-13 4:59:59","adv_id":1032500},
         {"login_bonus_id":9103301,"name":"มาฮิรุ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-03-03 5:00:00","end_time":"2024-03-04 4:59:59","adv_id":1033500},
@@ -76,6 +78,7 @@
         {"login_bonus_id":9105901,"name":"คกโคโระ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-05-11 5:00:00","end_time":"2023-05-12 4:59:59","adv_id":1059500},
         {"login_bonus_id":9105902,"name":"คกโคโระ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-05-11 5:00:00","end_time":"2024-05-12 4:59:59","adv_id":1059501},
         {"login_bonus_id":9106001,"name":"แคล [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-09-02 5:00:00","end_time":"2023-09-03 4:59:59","adv_id":1060500},
+        {"login_bonus_id":9106002,"name":"แคล [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-09-02 5:00:00","end_time":"2024-09-03 4:59:59","adv_id":1060501},
         {"login_bonus_id":9106101,"name":"มุอิมิ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-08-11 5:00:00","end_time":"2023-08-12 4:59:59","adv_id":1061500},
         {"login_bonus_id":9106102,"name":"มุอิมิ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-08-11 5:00:00","end_time":"2024-08-12 4:59:59","adv_id":1061501},
         {"login_bonus_id":9106301,"name":"อาริสะ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-06-17 5:00:00","end_time":"2023-06-18 4:59:59","adv_id":1063500},
