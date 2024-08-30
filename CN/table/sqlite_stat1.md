@@ -321,7 +321,7 @@
 |caravan_shop_block_rank||3|
 |caravan_treasure|caravan_treasure_0_rarity_1_appraise_flag|24 8 4|
 |music_list||236|
-|event_top_adv|event_top_adv_0_event_id_1_type|1689 15 5|
+|event_top_adv|event_top_adv_0_event_id_1_type|1700 15 5|
 |shiori_boss|shiori_boss_0_wave_group_id_1|90 1|
 |shiori_boss|shiori_boss_0_event_id_1_difficulty|90 3 1|
 |shiori_boss|shiori_boss_0_event_id|90 3|

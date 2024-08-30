@@ -321,7 +321,7 @@
         {"tbl":"caravan_shop_block_rank","idx":null,"stat":"3"},
         {"tbl":"caravan_treasure","idx":"caravan_treasure_0_rarity_1_appraise_flag","stat":"24 8 4"},
         {"tbl":"music_list","idx":null,"stat":"236"},
-        {"tbl":"event_top_adv","idx":"event_top_adv_0_event_id_1_type","stat":"1689 15 5"},
+        {"tbl":"event_top_adv","idx":"event_top_adv_0_event_id_1_type","stat":"1700 15 5"},
         {"tbl":"shiori_boss","idx":"shiori_boss_0_wave_group_id_1","stat":"90 1"},
         {"tbl":"shiori_boss","idx":"shiori_boss_0_event_id_1_difficulty","stat":"90 3 1"},
         {"tbl":"shiori_boss","idx":"shiori_boss_0_event_id","stat":"90 3"},
