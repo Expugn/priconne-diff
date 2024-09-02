@@ -5463,6 +5463,8 @@
         {"id":6206,"unit_id":122001,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"เป็นกลิ่นที่หอม\\nสดชื่นจังเลยค่ะ...\\nเหมือนทะเลสีคราม\\nทอดยาวในตาของฉันเลยค่ะ","insert_word_type":0},
         {"id":6207,"unit_id":122001,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"อบอุ่นจัง...\\nกลิ่นทะเลซึมซาบเข้าไป\\nในร่างกายที่เย็นเฉียบเลยค่ะ","insert_word_type":0},
         {"id":6209,"unit_id":122001,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"อ๊ะ อร่อยจัง...\\nถ้าเก็บเอาไว้ได้นาน \\nเอาไปล่องเรือด้วยดีไหมนะ...","insert_word_type":0},
-        {"id":6210,"unit_id":122001,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"นิยายที่คุณอันนะ\\nบอกมา...\\nอ๊ะ อันนี้สินะคะ","insert_word_type":0}
+        {"id":6210,"unit_id":122001,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"นิยายที่คุณอันนะ\\nบอกมา...\\nอ๊ะ อันนี้สินะคะ","insert_word_type":0},
+        {"id":6212,"unit_id":102601,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ฉันกำลัง\\nไม่ทำอะไรอยู่ไงล่ะ\\nอ๊า~ยุ่งจังเลย ยุ่งจังเลย","insert_word_type":0},
+        {"id":6213,"unit_id":102601,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"เฮ้อ~พออยู่กับนาย\\nก็ทำตัวยืดยาด\\nแบบสบายๆ ได้เรื่อยๆ เลยล่ะ~","insert_word_type":0}
     ]
 }
