@@ -104,7 +104,7 @@
 |clan_battle_2_map_data|clan_battle_2_map_data_0_clan_battle_id|250 5|
 |love_rankup|love_rankup_0_unit_id|32 7|
 |love_rankup|sqlite_autoindex_love_rankup_1|32 7 1|
-|story_data||260|
+|story_data||261|
 |colosseum_quest_data||9|
 |sre_add_times_data|sre_add_times_data_0_sre_id|168 168|
 |taq_game_setting||1|
@@ -166,7 +166,7 @@
 |sekai_add_times_data||12|
 |clan_battle_s_map_data|clan_battle_s_map_data_0_clan_battle_id|246 4|
 |unit_unique_equip||186|
-|story_detail|story_detail_0_unlock_quest_id|1715 6|
+|story_detail|story_detail_0_unlock_quest_id|1719 6|
 |content_map_data||5|
 |colosseum_mission_reward_data|colosseum_mission_reward_data_0_mission_reward_id|26 1|
 |legion_effect||2|
@@ -594,7 +594,7 @@
 |grand_arena_defence_reward||1|
 |chara_fortune_schedule||11|
 |unit_mypage_pos||36|
-|unlock_unit_condition||202|
+|unlock_unit_condition||203|
 |hp_drain_at||1|
 |daily_mission_data||434|
 |equipment_donation||9|
