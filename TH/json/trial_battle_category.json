@@ -1,5 +1,9 @@
 {
     "trial_battle_category": [
-
+        {"category_id":1,"category_name":"การ์กอยล์","icon_id":1,"label_type_1":101,"label_type_2":0,"label_type_3":0,"description":"รูปปั้นนกผู้แข็งแกร่ง","description_detail":"บอสที่ปรากฏจะมีพลังโจมตีกายภาพสูง\\nและสามารถโจมตีเป็นวงกว้างได้อย่างรุนแรง"},
+        {"category_id":2,"category_name":"มากัสการ์กอยล์","icon_id":2,"label_type_1":102,"label_type_2":0,"label_type_3":0,"description":"รูปปั้นนกแห่งเวทมนตร์","description_detail":"บอสที่ปรากฏจะมีพลังโจมตีเวทสูง\\nและสามารถโจมตีเป็นวงกว้างได้อย่างรุนแรง"},
+        {"category_id":3,"category_name":"การ์ดการ์กอยล์","icon_id":3,"label_type_1":103,"label_type_2":0,"label_type_3":0,"description":"รูปปั้นนกผู้ทนทาน","description_detail":"บอสที่ปรากฏจะมีการป้องกันสูงจากสกิลที่เพิ่มพลังป้องกัน\\nและออกแบบมาเพื่อรับการโจมตีโดยเฉพาะ"},
+        {"category_id":4,"category_name":"การ์กอยล์ เบิร์ส","icon_id":4,"label_type_1":101,"label_type_2":202,"label_type_3":0,"description":"รูปปั้นนกหินที่บินได้มีพลังมหาศาล","description_detail":"บอสมัลติทาร์เกตที่ปรากฏจะมีพลังโจมตีกายภาพสูงมาก\\nและออกแบบมาให้โจมตีเป้าหมายหลายตัวพร้อมกัน"},
+        {"category_id":5,"category_name":"การ์กอยล์ มากิ","icon_id":5,"label_type_1":102,"label_type_2":202,"label_type_3":0,"description":"รูปปั้นนกหินที่บินได้มีพลังเวทมหาศาล","description_detail":"บอสมัลติทาร์เกตที่ปรากฏจะมีพลังโจมตีเวทสูงมาก\\nและออกแบบมาให้โจมตีเป้าหมายหลายตัวพร้อมกัน"}
     ]
 }

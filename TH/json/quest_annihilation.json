@@ -2,6 +2,31 @@
     "quest_annihilation": [
         {"system_id":104,"quest_id":31006005,"effect_type":501,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
         {"system_id":104,"quest_id":31007005,"effect_type":501,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
-        {"system_id":104,"quest_id":31008005,"effect_type":501,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"}
+        {"system_id":104,"quest_id":31008005,"effect_type":501,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010106,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010107,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010108,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010109,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010110,"effect_type":501,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010206,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010207,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010208,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010209,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010210,"effect_type":501,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010306,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010307,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010308,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010309,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010310,"effect_type":501,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010406,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010407,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010408,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010409,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010410,"effect_type":501,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010506,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010507,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010508,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010509,"effect_type":502,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"},
+        {"system_id":104,"quest_id":320010510,"effect_type":501,"quest_effect_position":0,"se_cue_name":"se_btl_tower_timeup"}
     ]
 }

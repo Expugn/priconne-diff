@@ -1,5 +1,29 @@
 {
     "trial_battle_mission_data": [
-
+        {"trial_mission_id":110001,"disp_group":111,"description":"การ์กอยล์ (EASY) กันเถอะ","mission_condition":70000,"quest_id":90110001,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":110002,"disp_group":112,"description":"การ์กอยล์ (NORMAL) กันเถอะ","mission_condition":70000,"quest_id":90110002,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":110003,"disp_group":113,"description":"การ์กอยล์ (HARD) กันเถอะ","mission_condition":70000,"quest_id":90110003,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":110004,"disp_group":114,"description":"การ์กอยล์ (VERY HARD) กันเถอะ","mission_condition":70000,"quest_id":90110004,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":110005,"disp_group":115,"description":"การ์กอยล์ (EXTREME) กันเถอะ","mission_condition":70000,"quest_id":90110005,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":120001,"disp_group":121,"description":"มากัสการ์กอยล์ (EASY) กันเถอะ","mission_condition":70000,"quest_id":90120001,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":120002,"disp_group":122,"description":"มากัสการ์กอยล์ (NORMAL) กันเถอะ","mission_condition":70000,"quest_id":90120002,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":120003,"disp_group":123,"description":"มากัสการ์กอยล์ (HARD) กันเถอะ","mission_condition":70000,"quest_id":90120003,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":120004,"disp_group":124,"description":"มากัสการ์กอยล์ (VERY HARD) กันเถอะ","mission_condition":70000,"quest_id":90120004,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":120005,"disp_group":125,"description":"มากัสการ์กอยล์ (EXTREME) กันเถอะ","mission_condition":70000,"quest_id":90120005,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":130001,"disp_group":131,"description":"การ์ดการ์กอยล์ (EASY) กันเถอะ","mission_condition":70000,"quest_id":90130001,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":130002,"disp_group":132,"description":"การ์ดการ์กอยล์ (NORMAL) กันเถอะ","mission_condition":70000,"quest_id":90130002,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":130003,"disp_group":133,"description":"การ์ดการ์กอยล์ (HARD) กันเถอะ","mission_condition":70000,"quest_id":90130003,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":130004,"disp_group":134,"description":"การ์ดการ์กอยล์ (VERY HARD) กันเถอะ","mission_condition":70000,"quest_id":90130004,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":130005,"disp_group":135,"description":"การ์ดการ์กอยล์ (EXTREME) กันเถอะ","mission_condition":70000,"quest_id":90130005,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":140001,"disp_group":141,"description":"การ์กอยล์ เบิร์ส (EASY) กันเถอะ","mission_condition":70000,"quest_id":90140001,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":140002,"disp_group":142,"description":"การ์กอยล์ เบิร์ส (NORMAL) กันเถอะ","mission_condition":70000,"quest_id":90140002,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":140003,"disp_group":143,"description":"การ์กอยล์ เบิร์ส (HARD) กันเถอะ","mission_condition":70000,"quest_id":90140003,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":140004,"disp_group":144,"description":"การ์กอยล์ เบิร์ส (VERY HARD) กันเถอะ","mission_condition":70000,"quest_id":90140004,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":140005,"disp_group":145,"description":"การ์กอยล์ เบิร์ส (EXTREME) กันเถอะ","mission_condition":70000,"quest_id":90140005,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":150001,"disp_group":151,"description":"การ์กอยล์ มากิ (EASY) กันเถอะ","mission_condition":70000,"quest_id":90150001,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":150002,"disp_group":152,"description":"การ์กอยล์ มากิ (NORMAL) กันเถอะ","mission_condition":70000,"quest_id":90150002,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":150003,"disp_group":153,"description":"การ์กอยล์ มากิ (HARD) กันเถอะ","mission_condition":70000,"quest_id":90150003,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":150004,"disp_group":154,"description":"การ์กอยล์ มากิ (VERY HARD) กันเถอะ","mission_condition":70000,"quest_id":90150004,"condition_value":0,"condition_num":1,"mission_reward_id":110001},
+        {"trial_mission_id":150005,"disp_group":155,"description":"การ์กอยล์ มากิ (EXTREME) กันเถอะ","mission_condition":70000,"quest_id":90150005,"condition_value":0,"condition_num":1,"mission_reward_id":110001}
     ]
 }

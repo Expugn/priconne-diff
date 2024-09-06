@@ -176,6 +176,7 @@
         {"unit_id":121401,"unit_name":"มิซากิ (สเตจ)","bg_id":500354,"bg_name":"สถานสงเคราะห์ซาเรนเดีย งานแสดงสินค้า","position":0,"face_type":2},
         {"unit_id":121501,"unit_name":"อายูมิ (จอมโจร)","bg_id":500012,"bg_name":"แลนด์โซล เขตเมือง กลางคืน","position":0,"face_type":18},
         {"unit_id":121601,"unit_name":"อิโนริ (จอมโจร)","bg_id":500892,"bg_name":"ในตรอก กลางคืน","position":0,"face_type":20},
+        {"unit_id":121901,"unit_name":"อันนะ (โจรสลัด)","bg_id":500843,"bg_name":"ดาดฟ้าเรือ","position":0,"face_type":2},
         {"unit_id":122001,"unit_name":"ชิโนบุ (โจรสลัด)","bg_id":500843,"bg_name":"ดาดฟ้าเรือ","position":0,"face_type":20},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
