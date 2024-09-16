@@ -1,22 +1,23 @@
 |tbl|idx|stat|
 | --- | --- | --- |
+|taq_game_setting||1|
 |pkb_navi_comment||33|
 |ske_story_data|ske_story_data_0_original_event_id|12 6|
 |event_boss_treasure_content||1737|
 |goldset_data_2||70|
-|emblem_mission_data||742|
+|emblem_mission_data||745|
 |shiori_mission_reward_data|shiori_mission_reward_data_0_mission_reward_id|1233 2|
 |shiori_item||27|
-|campaign_schedule||1079|
+|campaign_schedule||1092|
 |tower_area_data||44|
 |prizegacha_sp_detail||5|
-|gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|398 3|
+|gacha_exchange_lineup|gacha_exchange_lineup_0_exchange_id|399 3|
 |clan_battle_archive_clan_rank||14|
 |clan_cost_group||6|
 |tower_ex_quest_data|tower_ex_quest_data_0_floor_num|44 1|
 |event_navi_comment_condition||878|
 |sekai_boss_mode||6|
-|prizegacha_data||64|
+|prizegacha_data||65|
 |clan_battle_last_attack_reward||3|
 |secret_dungeon_emblem_mission||5|
 |psy_reward||11|
@@ -29,6 +30,7 @@
 |hatsune_special_enemy||217|
 |campaign_freegacha||23|
 |room_item_announcement||1|
+|wac_drama_script|wac_drama_script_0_drama_id|193 22|
 |ttk_story|ttk_story_0_ttk_score|5 1|
 |odds_name_data||188|
 |grand_arena_daily_rank_reward||40|
@@ -63,7 +65,7 @@
 |svd_drama_script|svd_drama_script_0_drama_id|703 88|
 |shiori_quest_condition||540|
 |clan_battle_schedule||50|
-|chara_fortune_reward||28|
+|chara_fortune_reward||32|
 |unit_conversion|unit_conversion_0_unit_id|1 1|
 |guild||21|
 |pkb_drama|pkb_drama_0_drama_id|429 12|
@@ -79,7 +81,7 @@
 |kaiser_restriction_group|sqlite_autoindex_kaiser_restriction_group_1|100 20 1|
 |psy_drama||11|
 |clan_battle_training_schedule|clan_battle_training_schedule_0_clan_battle_id|13 1|
-|navi_comment||85|
+|navi_comment||86|
 |kaiser_quest_data||5|
 |dear_setting||23|
 |event_wave_group_data||4518|
@@ -104,6 +106,7 @@
 |hatsune_bg_change||2|
 |unit_comments|unit_comments_0_unit_id_1_use_type|2473 6 4|
 |unit_comments|unit_comments_0_unit_id|2473 6|
+|taq_drama_script|taq_drama_script_0_drama_id|30 6|
 |pct_gaming_motion||8|
 |pct_evaluation||5|
 |event_top_adv|event_top_adv_0_event_id_1_type|1458 14 5|
@@ -114,6 +117,7 @@
 |grand_arena_max_season_rank_reward||118|
 |dear_story_detail|dear_story_detail_0_story_group_id|504 22|
 |dear_story_detail|dear_story_detail_0_story_group_id_1_chara_index|504 22 9|
+|taq_unit||72|
 |cgg_goods_data||63|
 |shiori_wave_group_data||1620|
 |hatsune_map||14|
@@ -123,6 +127,7 @@
 |room_effect_reward_get|sqlite_autoindex_room_effect_reward_get_1|105 9 1|
 |define_spskill|define_spskill_0_sp_skill_id|8 1|
 |trial_battle_mission_reward|trial_battle_mission_reward_0_mission_reward_id|2 2|
+|wac_mural_bg_data|sqlite_autoindex_wac_mural_bg_data_1|3 3 1|
 |ttk_weapon|ttk_weapon_0_ttk_score|4 1|
 |music_list||220|
 |series_unlock_condition||3|
@@ -130,6 +135,7 @@
 |nyx_drama_data||10|
 |login_bonus_message_data|login_bonus_message_data_0_login_bonus_id|518 87|
 |skill_action||8536|
+|taq_data||1229|
 |legion_battle_bonus|legion_battle_bonus_0_type_1_legion_boss_id|124 62 16|
 |legion_battle_bonus|legion_battle_bonus_0_type|124 62|
 |ssp_story_data|ssp_story_data_0_contents_type|22 6|
@@ -162,8 +168,8 @@
 |exceed_level_stage||1|
 |chara_identity||209|
 |wave_group_data||5398|
-|arcade_list||8|
-|emblem_data||823|
+|arcade_list||9|
+|emblem_data||826|
 |tower_quest_data|tower_quest_data_0_floor_num|650 1|
 |event_effect_setting|sqlite_autoindex_event_effect_setting_1|82 3 1|
 |event_revival_series_wave_group_data||4518|
@@ -172,6 +178,7 @@
 |dungeon_special_battle|dungeon_special_battle_0_quest_id_1_mode|3 3 1|
 |event_story_data|event_story_data_0_value|51 1|
 |quest_data||1023|
+|taq_kanji_list||321|
 |legion_effective_unit|legion_effective_unit_0_legion_boss_id|76 19|
 |legion_effective_unit|sqlite_autoindex_legion_effective_unit_1|76 19 1|
 |event_reminder_condition|event_reminder_condition_0_reminder_id|18 1|
@@ -198,12 +205,12 @@
 |sekai_top_data|sekai_top_data_0_sekai_id|10 10|
 |still|still_0_still_group_id|1201 5|
 |still|still_0_story_id|1201 2|
-|chara_fortune_rail||105|
+|chara_fortune_rail||109|
 |ub_auto_data||19|
 |ttk_score||4|
 |sekai_unlock_story_condition||5|
 |campaign_freegacha_data||81|
-|birthday_login_bonus_data||99|
+|birthday_login_bonus_data||100|
 |campaign_mission_category|campaign_mission_category_0_campaign_id_1_type|2 2 1|
 |campaign_mission_reward_data|campaign_mission_reward_data_0_campaign_mission_reward_id|12 2|
 |cgg_gacha_info|cgg_gacha_info_0_cgg_id|3 3|
@@ -220,14 +227,14 @@
 |unit_pos_adjustment||3|
 |unit_background||187|
 |quest_reward_data||4269|
-|mission_reward_data|mission_reward_data_0_mission_reward_id|575 4|
+|mission_reward_data|mission_reward_data_0_mission_reward_id|577 4|
 |chara_e_ticket_data|chara_e_ticket_data_0_jewel_store_id|5 1|
 |pct_itempoint|pct_itempoint_0_item_id|3 1|
 |tower_cloister_quest_data||31|
 |secret_dungeon_quest_data|secret_dungeon_quest_data_0_dungeon_area_id_1_difficulty|50 50 10|
 |secret_dungeon_quest_data|secret_dungeon_quest_data_0_dungeon_area_id_1_floor_num|50 50 5|
 |room_skin_color||4|
-|arcade_story_list|arcade_story_list_0_arcade_id|16 4|
+|arcade_story_list|arcade_story_list_0_arcade_id|17 4|
 |kaiser_schedule||1|
 |pct_system||1|
 |pct_reward|pct_reward_0_pct_point_type|1 1|
@@ -245,26 +252,29 @@
 |kmk_reward||1|
 |ske_story_script|ske_story_script_0_story_id|737 67|
 |event_reminder|event_reminder_0_event_id|18 2|
-|minigame|minigame_0_event_id|8 1|
+|minigame|minigame_0_event_id|9 1|
 |shiori_quest_area|shiori_quest_area_0_event_id|64 3|
 |room_chat_info||35|
 |unit_skill_data||1339|
 |skip_monster_data||3423|
 |experience_unit||246|
 |reward_collect_guide||426|
+|taq_incorrect_word||4|
 |hatsune_quest|hatsune_quest_0_event_id|1760 20|
 |sekai_schedule||1|
 |prizegacha_sp_data|prizegacha_sp_data_0_gacha_id|10 10|
 |prizegacha_sp_data|sqlite_autoindex_prizegacha_sp_data_1|10 10 1|
 |clan_battle_boss_fix_reward||40|
 |enemy_enable_voice||102|
+|taq_rewards||13|
+|taq_good_unit||184|
 |vote_unit|sqlite_autoindex_vote_unit_1|55 55 1|
 |srt_reward||1|
 |tower_schedule|tower_schedule_0_opening_story_id|44 1|
 |hatsune_relay_data||48|
-|gacha_data|gacha_data_0_exchange_id|605 4|
+|gacha_data|gacha_data_0_exchange_id|608 4|
 |secret_dungeon_enemy_info|sqlite_autoindex_secret_dungeon_enemy_info_1|5 5 1|
-|custom_mypage|custom_mypage_0_still_group_id|6 6|
+|custom_mypage|custom_mypage_0_still_group_id|7 7|
 |room_item_detail|room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2|521 521 521|
 |room_item_detail|room_item_detail_0_lvup_trigger_type_1_lvup_trigger_id|521 261 261|
 |room_item_detail|sqlite_autoindex_room_item_detail_1|521 2 1|
@@ -273,7 +283,7 @@
 |login_bonus_detail|login_bonus_detail_0_login_bonus_id_1_count|217 11 2|
 |redeem_unit|redeem_unit_0_unit_id|2 2|
 |growth_parameter_unique||1|
-|unit_introduction|unit_introduction_0_gacha_id|185 1|
+|unit_introduction|unit_introduction_0_gacha_id|186 1|
 |content_map_data||5|
 |quest_condition_data||1023|
 |equipment_data||834|
@@ -283,6 +293,8 @@
 |event_series_wave_group_data||4518|
 |fix_lineup_group_set_data||37|
 |equipment_donation||9|
+|arcade_description|arcade_description_0_arcade_id_1_type|4 4 4|
+|arcade_description|arcade_description_0_arcade_id|4 4|
 |hatsune_series_gacha_reference||1|
 |arena_max_season_rank_reward||118|
 |unit_mypage_pos||36|
@@ -300,10 +312,10 @@
 |vote_data||1|
 |ttk_story_script|ttk_story_script_0_story_id|219 44|
 |pct_system_fruits||1|
-|birthday_login_bonus_detail|birthday_login_bonus_detail_0_login_bonus_id|100 2|
+|birthday_login_bonus_detail|birthday_login_bonus_detail_0_login_bonus_id|101 2|
 |redeem_static_price_group||2|
 |skill_cost||245|
-|season_pack|season_pack_0_mission_id|42 11|
+|season_pack|season_pack_0_mission_id|52 13|
 |unique_equipment_data||141|
 |srt_action|sqlite_autoindex_srt_action_1|41 1|
 |srt_top_talk|srt_top_talk_0_talk_id|45 2|
@@ -312,7 +324,7 @@
 |unit_enemy_data||1170|
 |special_story_banner|special_story_banner_0_story_group_id|2 1|
 |tp_recovery_at||1|
-|visual_customize||19|
+|visual_customize||23|
 |experience_team||236|
 |ttk_navi_comment||13|
 |kmk_navi_comment||11|
@@ -336,13 +348,15 @@
 |hatsune_multi_route_parameter|hatsune_multi_route_parameter_0_quest_id|20 2|
 |unit_profile||190|
 |tips||117|
+|wac_unit_search_data|wac_unit_search_data_0_unit_id|7 2|
+|wac_unit_search_data|wac_unit_search_data_0_unit_search_id|7 3|
 |legion_quest_data|legion_quest_data_0_map_type|5 3|
 |arena_daily_rank_reward||40|
 |stationary_mission_data||1644|
 |unique_equipment_enhance_data|sqlite_autoindex_unique_equipment_enhance_data_1|239 239 1|
 |pkb_batter_condition||9|
 |pct_combo_coefficient||6|
-|chara_fortune_scenario||57|
+|chara_fortune_scenario||30|
 |combined_result_motion||1|
 |metamorphose|metamorphose_0_type_id|4 2|
 |metamorphose|sqlite_autoindex_metamorphose_1|4 2 1|
@@ -358,12 +372,14 @@
 |story_character_mask||668|
 |skill_data||3371|
 |item_data||641|
+|taq_completion_rewards||3|
+|taq_genre||6|
 |svd_story_data|svd_story_data_0_original_event_id|20 20|
 |hatsune_item||90|
 |glossary_detail||81|
-|sd_navi_comment||11|
+|sd_navi_comment||12|
 |worldmap||4|
-|banner||199|
+|banner||200|
 |hatsune_quiz_condition|hatsune_quiz_condition_0_event_id_1_quiz_id|12 6 2|
 |room_release_data||3|
 |love_rankup|love_rankup_0_unit_id|25 7|
@@ -387,6 +403,8 @@
 |event_story_detail|event_story_detail_0_story_group_id|419 9|
 |specialfes_banner||21|
 |trial_battle_category||5|
+|wac_data|wac_data_0_mural_group_id|3 3|
+|wac_data|sqlite_autoindex_wac_data_1|3 3 1|
 |psy_drama_script|psy_drama_script_0_drama_id|667 61|
 |srt_score||3|
 |shiori_boss|shiori_boss_0_wave_group_id_1|81 1|
@@ -443,19 +461,19 @@
 |unlock_unit_condition||187|
 |myprofile_content||24|
 |legion_special_battle||3|
-|custom_mypage_group||3|
+|custom_mypage_group||4|
 |clanprofile_content||35|
 |sekai_boss_fix_reward||5|
-|chara_fortune_schedule||7|
+|chara_fortune_schedule||8|
 |arena_defence_reward||1|
 |love_chara||12|
 |mhp_drama_script|mhp_drama_script_0_drama_id|2814 83|
-|birthday_login_bonus_drama_script|birthday_login_bonus_drama_script_0_drama_id|1894 58|
+|birthday_login_bonus_drama_script|birthday_login_bonus_drama_script_0_drama_id|1949 58|
 |promotion_bonus|promotion_bonus_0_unit_id|374 2|
 |promotion_bonus|sqlite_autoindex_promotion_bonus_1|374 2 1|
 |spskill_lv_initialize_data||9|
 |cooperation_quest_data||6|
-|daily_mission_data||59|
+|daily_mission_data||63|
 |unique_equipment_craft||141|
 |legion_boss_enemy_setting||4|
 |hatsune_emblem_mission_reward|hatsune_emblem_mission_reward_0_reward_id|324 2|

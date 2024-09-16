@@ -98,6 +98,7 @@
         {"login_bonus_id":9110802,"name":"คุโรเอะ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-08-07 5:00:00","end_time":"2024-08-08 4:59:59","adv_id":1108501},
         {"login_bonus_id":9110901,"name":"จิเอรุ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2023-09-15 5:00:00","end_time":"2023-09-16 4:59:59","adv_id":1109500},
         {"login_bonus_id":9110902,"name":"จิเอรุ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-09-15 5:00:00","end_time":"2024-09-16 4:59:59","adv_id":1109501},
-        {"login_bonus_id":9111001,"name":"ยูนิ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-02-28 5:00:00","end_time":"2024-02-29 4:59:59","adv_id":1110500}
+        {"login_bonus_id":9111001,"name":"ยูนิ [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-02-28 5:00:00","end_time":"2024-02-29 4:59:59","adv_id":1110500},
+        {"login_bonus_id":9118002,"name":"เครดิตต้า [เนื้อเรื่องวันเกิด]","login_bonus_type":9,"start_time":"2024-09-19 5:00:00","end_time":"2024-09-20 4:59:59","adv_id":1180501}
     ]
 }

@@ -217,6 +217,6 @@
 |219|Taiyoku Boukun - Casino Ou|28||2024-08-08 11:00:00||-1|1000|219|Taiyoku Boukun - Casino Ou||||
 |220|Secret Longing|28||2024-08-08 11:00:00||-1|1500|220|Secret Longing||||
 |221|Episode of Pirates: Kaizoku-jima no Norowareshi Ihou|28||2024-09-06 11:00:00||-1|1000|221|Episode of Pirates: Kaizoku-jima no Norowareshi Ihou||||
-|222|Kaihousareshi Zaihō no Shugosha|28||2024-09-06 11:00:00||-1|1000|222|Kaihousareshi Zaihō no Shugosha||||
+|222|Kaihousareshi Zaiho no Shugosha|28||2024-09-06 11:00:00||-1|1000|222|Kaihousareshi Zaiho no Shugosha||||
 |223|Muteki no Pirates|28||2024-09-06 11:00:00||-1|1500|223|Muteki no Pirates||||
 |224|Sougonnaru Nessa|28||2024-09-06 11:00:00||-1|1000|224|Sougonnaru Nessa||||
