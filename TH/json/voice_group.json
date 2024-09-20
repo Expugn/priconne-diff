@@ -298,6 +298,7 @@
         {"group_id":30166,"group_id_comment":"อายูมิ (จอมโจร) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":321501001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30167,"group_id_comment":"อิโนริ (จอมโจร) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":321601001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30168,"group_id_comment":"ชิโนบุ (โจรสลัด) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":322001001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
-        {"group_id":30169,"group_id_comment":"อันนะ (โจรสลัด) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":321901001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
+        {"group_id":30169,"group_id_comment":"อันนะ (โจรสลัด) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":321901001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":30170,"group_id_comment":"อาโออิ (แคมป์ปิ้ง) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":322101001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
     ]
 }

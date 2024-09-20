@@ -2,6 +2,9 @@
     "wac_mural_bg_data": [
         {"wac_id":2816,"date_id":11,"bg_id":1,"type":1,"start_offset_x":"-1480","end_offset_x":"-1480"},
         {"wac_id":2816,"date_id":21,"bg_id":1,"type":1,"start_offset_x":"-1400","end_offset_x":"-1302"},
-        {"wac_id":2816,"date_id":31,"bg_id":1,"type":1,"start_offset_x":"-1302","end_offset_x":"-1263"}
+        {"wac_id":2816,"date_id":31,"bg_id":1,"type":1,"start_offset_x":"-1302","end_offset_x":"-1263"},
+        {"wac_id":2816,"date_id":41,"bg_id":1,"type":1,"start_offset_x":"-1263","end_offset_x":"-1224"},
+        {"wac_id":2816,"date_id":51,"bg_id":1,"type":1,"start_offset_x":"-1224","end_offset_x":"-1185"},
+        {"wac_id":2816,"date_id":61,"bg_id":1,"type":1,"start_offset_x":"-1185","end_offset_x":"-1146"}
     ]
 }

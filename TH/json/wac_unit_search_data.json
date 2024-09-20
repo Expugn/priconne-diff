@@ -6,6 +6,9 @@
         {"id":4,"unit_search_id":1,"unit_id":106001},
         {"id":5,"unit_search_id":1,"unit_id":106401},
         {"id":6,"unit_search_id":2,"unit_id":105801},
-        {"id":7,"unit_search_id":3,"unit_id":105901}
+        {"id":7,"unit_search_id":3,"unit_id":105901},
+        {"id":8,"unit_search_id":4,"unit_id":106001},
+        {"id":9,"unit_search_id":5,"unit_id":106401},
+        {"id":10,"unit_search_id":6,"unit_id":104401}
     ]
 }
