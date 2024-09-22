@@ -104,7 +104,7 @@
 |clan_battle_2_map_data|clan_battle_2_map_data_0_clan_battle_id|256 5|
 |love_rankup|love_rankup_0_unit_id|32 7|
 |love_rankup|sqlite_autoindex_love_rankup_1|32 7 1|
-|story_data||263|
+|story_data||264|
 |colosseum_quest_data||9|
 |sre_add_times_data|sre_add_times_data_0_sre_id|168 168|
 |taq_game_setting||1|
@@ -166,7 +166,7 @@
 |sekai_add_times_data||12|
 |clan_battle_s_map_data|clan_battle_s_map_data_0_clan_battle_id|246 4|
 |unit_unique_equip||186|
-|story_detail|story_detail_0_unlock_quest_id|1728 6|
+|story_detail|story_detail_0_unlock_quest_id|1736 6|
 |content_map_data||5|
 |colosseum_mission_reward_data|colosseum_mission_reward_data_0_mission_reward_id|26 1|
 |legion_effect||2|
@@ -432,7 +432,7 @@
 |fix_lineup_group_set_data||48|
 |clan_battle_odds_data|clan_battle_odds_data_0_odds_group_id|35 7|
 |clan_battle_odds_data|sqlite_autoindex_clan_battle_odds_data_1|35 7 1 1|
-|unit_data|unit_data_0_original_unit_id|269 68|
+|unit_data|unit_data_0_original_unit_id|270 68|
 |ailment_data||48|
 |broadcast_schedule||6|
 |travel_ex_event_drama|travel_ex_event_drama_0_drama_id|359 11|
@@ -594,7 +594,7 @@
 |grand_arena_defence_reward||1|
 |chara_fortune_schedule||11|
 |unit_mypage_pos||36|
-|unlock_unit_condition||204|
+|unlock_unit_condition||205|
 |hp_drain_at||1|
 |daily_mission_data||434|
 |equipment_donation||9|
