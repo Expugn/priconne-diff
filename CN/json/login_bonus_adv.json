@@ -53,6 +53,21 @@
         {"id":61,"login_bonus_id":80006,"start_time":"2024/04/17 5:00:00","end_time":"2024/04/18 4:59:59","count_key":3,"adv_id":9004017,"read_process_flag":1},
         {"id":62,"login_bonus_id":70007,"start_time":"0","end_time":"0","count_key":1,"adv_id":436,"read_process_flag":0},
         {"id":63,"login_bonus_id":70007,"start_time":"0","end_time":"0","count_key":2,"adv_id":437,"read_process_flag":0},
-        {"id":64,"login_bonus_id":70007,"start_time":"0","end_time":"0","count_key":3,"adv_id":438,"read_process_flag":0}
+        {"id":64,"login_bonus_id":70007,"start_time":"0","end_time":"0","count_key":3,"adv_id":438,"read_process_flag":0},
+        {"id":65,"login_bonus_id":80007,"start_time":"2024/10/03 5:00:00","end_time":"2024/10/04 4:59:59","count_key":3,"adv_id":9005001,"read_process_flag":0},
+        {"id":66,"login_bonus_id":80007,"start_time":"2024/10/04 5:00:00","end_time":"2024/10/05 4:59:59","count_key":3,"adv_id":9005002,"read_process_flag":0},
+        {"id":67,"login_bonus_id":80007,"start_time":"2024/10/05 5:00:00","end_time":"2024/10/06 4:59:59","count_key":3,"adv_id":9005003,"read_process_flag":0},
+        {"id":68,"login_bonus_id":80007,"start_time":"2024/10/06 5:00:00","end_time":"2024/10/07 4:59:59","count_key":3,"adv_id":9005004,"read_process_flag":0},
+        {"id":69,"login_bonus_id":80007,"start_time":"2024/10/07 5:00:00","end_time":"2024/10/08 4:59:59","count_key":3,"adv_id":9005005,"read_process_flag":0},
+        {"id":70,"login_bonus_id":80007,"start_time":"2024/10/08 5:00:00","end_time":"2024/10/09 4:59:59","count_key":3,"adv_id":9005006,"read_process_flag":0},
+        {"id":71,"login_bonus_id":80007,"start_time":"2024/10/09 5:00:00","end_time":"2024/10/10 4:59:59","count_key":3,"adv_id":9005007,"read_process_flag":0},
+        {"id":72,"login_bonus_id":80007,"start_time":"2024/10/10 5:00:00","end_time":"2024/10/11 4:59:59","count_key":3,"adv_id":9005008,"read_process_flag":0},
+        {"id":73,"login_bonus_id":80007,"start_time":"2024/10/11 5:00:00","end_time":"2024/10/12 4:59:59","count_key":3,"adv_id":9005009,"read_process_flag":0},
+        {"id":74,"login_bonus_id":80007,"start_time":"2024/10/12 5:00:00","end_time":"2024/10/13 4:59:59","count_key":3,"adv_id":9005010,"read_process_flag":0},
+        {"id":75,"login_bonus_id":80007,"start_time":"2024/10/13 5:00:00","end_time":"2024/10/14 4:59:59","count_key":3,"adv_id":9005011,"read_process_flag":0},
+        {"id":76,"login_bonus_id":80007,"start_time":"2024/10/14 5:00:00","end_time":"2024/10/15 4:59:59","count_key":3,"adv_id":9005012,"read_process_flag":0},
+        {"id":77,"login_bonus_id":80007,"start_time":"2024/10/15 5:00:00","end_time":"2024/10/16 4:59:59","count_key":3,"adv_id":9005013,"read_process_flag":0},
+        {"id":78,"login_bonus_id":80007,"start_time":"2024/10/16 5:00:00","end_time":"2024/10/17 4:59:59","count_key":3,"adv_id":9005014,"read_process_flag":0},
+        {"id":79,"login_bonus_id":80007,"start_time":"2024/10/17 5:00:00","end_time":"2024/10/18 4:59:59","count_key":3,"adv_id":9005015,"read_process_flag":1}
     ]
 }
