@@ -5531,6 +5531,8 @@
         {"id":6283,"unit_id":122201,"trigger":3,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"อืม กลิ่นหอมจังเลย...♪\\nเป็นกลิ่นหอมธรรมชาติที่\\nทำให้นึกถึงลานตั้งแคมป์เลย~","insert_word_type":0},
         {"id":6284,"unit_id":122201,"trigger":3,"voice_id":5,"beloved_step":1,"time":0,"face_id":1,"description":"ฮ้า อุ่นจังเลย~\\nอยากลองใช้\\nที่แคมป์ฤดูหนาวจัง","insert_word_type":0},
         {"id":6286,"unit_id":122201,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"อร่อย~♪\\nเหมาะเป็น\\nกับแกล้ม\\nตอนดื่มที่แคมป์เลยเนอะ!","insert_word_type":0},
-        {"id":6287,"unit_id":122201,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"เอ๋...มีอาหารแคมป์\\nแบบนี้ด้วยเหรอ?\\nเขาจะชอบไหมนะ...","insert_word_type":0}
+        {"id":6287,"unit_id":122201,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"เอ๋...มีอาหารแคมป์\\nแบบนี้ด้วยเหรอ?\\nเขาจะชอบไหมนะ...","insert_word_type":0},
+        {"id":6289,"unit_id":100701,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"จะคอยติดตามไปชั่วชีวิต\\nชั่วชีวิตของวิญญาณ\\nมันนานนน~~~มากเลยนะ!","insert_word_type":0},
+        {"id":6290,"unit_id":100701,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ฮึ~...ถ้าจับมากเกินไป\\nจะลื่นไถลผ่านตัวนะ!\\nล้อเล่นน่า อุฮุฮุ♪","insert_word_type":0}
     ]
 }
