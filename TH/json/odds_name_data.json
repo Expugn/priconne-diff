@@ -189,6 +189,8 @@
         {"id":1009301,"odds_file":"1009320101","name":"เมโมรี่พีซของคายะ","icon_type":99002,"description":""},
         {"id":1009302,"odds_file":"1009320102","name":"เมโมรี่พีซของมิซาโตะ","icon_type":99002,"description":""},
         {"id":1009401,"odds_file":"1009420101","name":"เมโมรี่พีซของอาโออิ (แคมป์ปิ้ง)","icon_type":99002,"description":""},
-        {"id":1009402,"odds_file":"1009420102","name":"เมโมรี่พีซของยูคาริ","icon_type":99002,"description":""}
+        {"id":1009402,"odds_file":"1009420102","name":"เมโมรี่พีซของยูคาริ","icon_type":99002,"description":""},
+        {"id":1009501,"odds_file":"1009520101","name":"เมโมรี่พีซของทามากิ (ชุดช่าง)","icon_type":99002,"description":""},
+        {"id":1009502,"odds_file":"1009520102","name":"เมโมรี่พีซของอาโออิ","icon_type":99002,"description":""}
     ]
 }
