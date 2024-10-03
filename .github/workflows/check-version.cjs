@@ -1,11 +1,13 @@
 const https = require('https');
 const fs = require('fs');
-const core = require('@actions/core');
+const { exec } = require('child_process');
+// const core = require('@actions/core');
 
 run();
 
 async function run() {
-    core.setOutput("success", false);
+    // core.setOutput("success", false);
+    exec(`echo "success=false" >> $GITHUB_OUTPUT`);
     const latest = await get_latest_version();
     const has_updates = await check_for_updates(latest);
     if (!has_updates) {
@@ -16,9 +18,11 @@ async function run() {
         if (region === "TW") {
             latest[region].version = `${latest[region].version}`.padStart(8, '0');
         }
-        core.setOutput(region, latest[region].version);
+        //core.setOutput(region, latest[region].version);
+        exec(`echo "${region}=${latest[region].version}" >> $GITHUB_OUTPUT`);
     }
-    core.setOutput("success", true);
+    // core.setOutput("success", true);
+    exec(`echo "success=true" >> $GITHUB_OUTPUT`);
 }
 
 function get_latest_version() {
