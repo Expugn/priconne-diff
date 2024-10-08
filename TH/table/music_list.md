@@ -220,3 +220,7 @@
 |222|Kaihousareshi Zaiho no Shugosha|28||2024-09-06 11:00:00||-1|1000|222|Kaihousareshi Zaiho no Shugosha||||
 |223|Muteki no Pirates|28||2024-09-06 11:00:00||-1|1500|223|Muteki no Pirates||||
 |224|Sougonnaru Nessa|28||2024-09-06 11:00:00||-1|1000|224|Sougonnaru Nessa||||
+|225|Enjoy & Refresh!: Dekoboko Girls Camp|28||2024-10-08 11:00:00||-1|1000|225|Enjoy & Refresh!: Dekoboko Girls Camp||||
+|226|Astraea-Take-Modoki|28||2024-10-08 11:00:00||-1|1000|226|Astraea-Take-Modoki||||
+|227|Sun! Shine PARTY|28||2024-10-08 11:00:00||-1|1500|227|Sun! Shine PARTY||||
+|228|Iza Yukan Reimyo naru Mori no Oku eto|28||2024-10-08 11:00:00||-1|1000|228|Iza Yukan Reimyo naru Mori no Oku eto||||

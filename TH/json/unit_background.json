@@ -180,6 +180,7 @@
         {"unit_id":122001,"unit_name":"ชิโนบุ (โจรสลัด)","bg_id":500843,"bg_name":"ดาดฟ้าเรือ","position":0,"face_type":20},
         {"unit_id":122101,"unit_name":"อาโออิ (แคมป์ปิ้ง)","bg_id":501590,"bg_name":"ที่ตั้งแคมป์ กลางวัน","position":0,"face_type":20},
         {"unit_id":122201,"unit_name":"ยูคาริ (แคมป์ปิ้ง)","bg_id":501590,"bg_name":"ที่ตั้งแคมป์ กลางวัน","position":0,"face_type":2},
+        {"unit_id":122301,"unit_name":"แวมปี้","bg_id":500140,"bg_name":"ที่ราบพลาโน่","position":0,"face_type":4},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
         {"unit_id":180301,"unit_name":"เรย์ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":3},
