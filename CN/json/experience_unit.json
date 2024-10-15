@@ -257,6 +257,9 @@
         {"unit_level":255,"total_exp":12892346},
         {"unit_level":256,"total_exp":13016898},
         {"unit_level":257,"total_exp":13142050},
-        {"unit_level":258,"total_exp":13267802}
+        {"unit_level":258,"total_exp":13267802},
+        {"unit_level":259,"total_exp":13394154},
+        {"unit_level":260,"total_exp":13521106},
+        {"unit_level":261,"total_exp":13648658}
     ]
 }
