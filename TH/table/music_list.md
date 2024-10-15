@@ -211,6 +211,8 @@
 |211|Minna no Omoi|28||2024-06-10 11:00:00||-1|1000|211|Minna no Omoi||||
 |212|Sweet Tiny Stage!: Kakedashi Joyuu to Little Lady|28||2024-07-08 11:00:00||-1|1000|212|Sweet Tiny Stage!: Kakedashi Joyuu to Little Lady||||
 |213|Chuso Dohatten no Chuji|28||2024-07-08 11:00:00||-1|1000|213|Chuso Dohatten no Chuji||||
+|214|Happy Anniv. Special Landsol Quiz Connect!|28||2024-10-18 11:00:00||-1|1000|214|Happy Anniv. Special Landsol Quiz Connect!||||
+|215|Shinkingu Taimu!|28||2024-10-18 11:00:00||-1|1000|215|Shinkingu Taimu!||||
 |216|Musical ga Kikoeru?|28||2024-07-08 11:00:00||-1|1500|216|Musical ga Kikoeru?||||
 |217|Crossing Truth|28||2024-07-08 11:00:00||2109012|1500|217|Crossing Truth||||
 |218|Otakara Chodai!: Invisible Stealers|28||2024-08-08 11:00:00||-1|1000|218|Otakara Chodai!: Invisible Stealers||||

@@ -82,6 +82,7 @@
         {"event_id":20025,"type":4,"value":10042},
         {"event_id":10091,"type":4,"value":80002},
         {"event_id":10093,"type":4,"value":80002},
-        {"event_id":10094,"type":4,"value":10094}
+        {"event_id":10094,"type":4,"value":10094},
+        {"event_id":10096,"type":4,"value":10072}
     ]
 }

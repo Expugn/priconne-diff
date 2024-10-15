@@ -91,6 +91,7 @@
         {"gacha_id":10093,"event_id":10093,"gacha_name":"รีรัน อิโนริ SOS!! ไทม์ทราเวลดราก้อนส์","item_type":2,"item_id":60922,"cost":1,"repeat_step":6},
         {"gacha_id":10094,"event_id":10094,"gacha_name":"สนุก&สดชื่น! ค่ายสาวน้อยผู้แข็งแกร่ง","item_type":2,"item_id":60932,"cost":1,"repeat_step":6},
         {"gacha_id":10095,"event_id":10095,"gacha_name":"รีรัน เพื่อนที่รู้ใจ! อาโออิ ทอย เฟรนด์","item_type":2,"item_id":60942,"cost":1,"repeat_step":6},
+        {"gacha_id":10096,"event_id":10096,"gacha_name":"ทวิงเคิลซัมเมอร์เกม สามความรู้สึกที่เปล่งประกายในทะเลฤดูร้อน","item_type":2,"item_id":60952,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"แลกตราพิชิตแวมไพร์ฮันเตอร์ with อิลิยา","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }

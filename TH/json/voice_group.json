@@ -301,6 +301,7 @@
         {"group_id":30168,"group_id_comment":"ชิโนบุ (โจรสลัด) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":322001001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30169,"group_id_comment":"อันนะ (โจรสลัด) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":321901001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
         {"group_id":30170,"group_id_comment":"อาโออิ (แคมป์ปิ้ง) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":322101001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
-        {"group_id":30171,"group_id_comment":"ยูคาริ (แคมป์ปิ้ง) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":322201001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
+        {"group_id":30171,"group_id_comment":"ยูคาริ (แคมป์ปิ้ง) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":322201001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0},
+        {"group_id":30173,"group_id_comment":"ฮิโยริ (ฤดูร้อน) (สำหรับโต้ตอบคาริน)","group_unit_id_01":118501001,"group_unit_id_02":322401001,"group_unit_id_03":0,"group_unit_id_04":0,"group_unit_id_05":0}
     ]
 }

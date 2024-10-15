@@ -211,6 +211,8 @@
 |211|Minna no Omoi|3:27|0:00|เนื้อเรื่องกิจกรรมย่อย\n-<Asymmetric World>Arrange-\n\nความยาว / 03:27\nทำนอง   / ITO TSUBASA\nเรียบเรียง / TAKAAKI NAKAGAWA|bgm_M558|bgm_M558_juke|
 |212|Sweet Tiny Stage!: Kakedashi Joyuu to Little Lady|1:43|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Musical ga Kikoeru?>Arrange-\n\nความยาว / 01:43\nทำนอง   / KITAGAWA KATSUTOSHI (ROUND TABLE)\nเรียบเรียง / SHIMO TOMOKO|bgm_M565|bgm_M565_juke|
 |213|Chuso Dohatten no Chuji|1:47|0:00|เนื้อเรื่องกิจกรรม บอสแบทเทิล\n\nความยาว / 01:47\nทำนอง   / HATADA HIROTAKA (Cygames)\nเรียบเรียง / HATADA HIROTAKA (Cygames)|bgm_M568|bgm_M568_juke|
+|214|Happy Anniv. Special Landsol Quiz Connect!|1:02|0:00|มินิเกม\n-[Mirage Game]Arrange-\n\nความยาว / 01:02\nทำนอง   / TANAKA KOUHEI\nเรียบเรียง / HIGASHIOHJI KENTA|bgm_M548|bgm_M548_Top_juke|
+|215|Shinkingu Taimu!|1:49|0:00|มินิเกม\n-[Mirage Game]Arrange-\n\nความยาว / 01:49\nทำนอง   / TANAKA KOUHEI\nเรียบเรียง / NAKAMURA HIROSHI|bgm_M569|bgm_M569_juke|
 |216|Musical ga Kikoeru?|1:27|0:55|เพลงตัวละคร\n\nความยาว / 01:27\nขับร้อง   / คุรุมิ (KANA UEDA)\nเนื้อเพลง / FUJIMURA CONOMI, KITAGAWA KATSUTOSHI (ROUND TABLE)\nทำนอง   / KITAGAWA KATSUTOSHI (ROUND TABLE)\nเรียบเรียง / KITAGAWA KATSUTOSHI (ROUND TABLE)|bgm_M573|bgm_M573|
 |217|Crossing Truth|1:33|0:58|เพลงตัวละคร\n\nความยาว / 01:33\nขับร้อง   / เปโกรีน (M.A.O)\n           คกโคโระ (MIKU ITO)\n           แคล (RIKA TACHIBANA)\n           เชฟี่ (REINA KONDOU)\nเนื้อเพลง / ISOGAI YOSHIE\nทำนอง   / NAKATSUCHI TOMOHIRO\nเรียบเรียง / NAKATSUCHI TOMOHIRO|bgm_M581|bgm_M581|
 |218|Otakara Chodai!: Invisible Stealers|1:04|0:00|เนื้อเรื่องกิจกรรม ธีม\n-<Secret Longing>Arrange-\n\nความยาว / 01:04\nทำนอง   / YASUSHI KAWAI (Arte Refact)\nเรียบเรียง / HASEBE SHOU (Cygames)|bgm_M574|bgm_M574_juke|

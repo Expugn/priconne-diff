@@ -1,5 +1,8 @@
 {
     "sjr_parameter_evaluation": [
-
+        {"parameter_type":1,"border_1":111,"border_2":108,"border_3":105},
+        {"parameter_type":2,"border_1":350,"border_2":255,"border_3":160},
+        {"parameter_type":3,"border_1":120,"border_2":110,"border_3":105},
+        {"parameter_type":4,"border_1":0.5,"border_2":1.5,"border_3":2.5}
     ]
 }
