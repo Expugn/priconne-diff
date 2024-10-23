@@ -12,6 +12,8 @@
         {"mural_group_id":1,"date_id":291,"parts_id":10,"pos_x":136,"pos_y":-85,"depth":10,"width":218,"height":151},
         {"mural_group_id":1,"date_id":331,"parts_id":11,"pos_x":280,"pos_y":80,"depth":11,"width":156,"height":219},
         {"mural_group_id":1,"date_id":341,"parts_id":12,"pos_x":280,"pos_y":80,"depth":12,"width":156,"height":219},
-        {"mural_group_id":1,"date_id":351,"parts_id":13,"pos_x":280,"pos_y":80,"depth":13,"width":156,"height":219}
+        {"mural_group_id":1,"date_id":351,"parts_id":13,"pos_x":280,"pos_y":80,"depth":13,"width":156,"height":219},
+        {"mural_group_id":1,"date_id":401,"parts_id":14,"pos_x":417,"pos_y":-97,"depth":14,"width":213,"height":183},
+        {"mural_group_id":1,"date_id":411,"parts_id":15,"pos_x":417,"pos_y":-97,"depth":15,"width":213,"height":183}
     ]
 }

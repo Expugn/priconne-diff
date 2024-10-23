@@ -175,6 +175,7 @@
         {"unit_id":122231,"unit_name":"อายาเสะ ยูคาริ","bg_id":510070,"face_type":2},
         {"unit_id":122331,"unit_name":"แวมปี้","bg_id":510212,"face_type":20},
         {"unit_id":122431,"unit_name":"ฮารุซากิ ฮิโยริ","bg_id":510250,"face_type":2},
+        {"unit_id":122531,"unit_name":"ชิโจ เรย์","bg_id":510250,"face_type":2},
         {"unit_id":180131,"unit_name":"ฮารุซากิ ฮิโยริ","bg_id":510121,"face_type":4},
         {"unit_id":180231,"unit_name":"คุซาโนะ ยุย","bg_id":510350,"face_type":2},
         {"unit_id":180331,"unit_name":"ชิโจ เรย์","bg_id":510100,"face_type":2},
