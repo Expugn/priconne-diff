@@ -41,6 +41,9 @@
         {"wac_id":2816,"date_id":391,"bg_id":1,"type":1,"start_offset_x":"-373","end_offset_x":"-332"},
         {"wac_id":2816,"date_id":401,"bg_id":1,"type":1,"start_offset_x":"-332","end_offset_x":"-332"},
         {"wac_id":2816,"date_id":411,"bg_id":1,"type":1,"start_offset_x":"-332","end_offset_x":"-332"},
-        {"wac_id":2816,"date_id":421,"bg_id":1,"type":1,"start_offset_x":"-332","end_offset_x":"-200"}
+        {"wac_id":2816,"date_id":421,"bg_id":1,"type":1,"start_offset_x":"-332","end_offset_x":"-200"},
+        {"wac_id":2816,"date_id":431,"bg_id":2,"type":2,"start_offset_x":"-1246","end_offset_x":"-1181"},
+        {"wac_id":2816,"date_id":441,"bg_id":2,"type":2,"start_offset_x":"-1181","end_offset_x":"-1152"},
+        {"wac_id":2816,"date_id":451,"bg_id":2,"type":2,"start_offset_x":"-1152","end_offset_x":"-1152"}
     ]
 }

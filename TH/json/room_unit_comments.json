@@ -5603,6 +5603,8 @@
         {"id":6365,"unit_id":122401,"trigger":3,"voice_id":7,"beloved_step":1,"time":0,"face_id":1,"description":"เพราะเพิ่งออกกำลังกาย\\nอย่างเต็มที่\\nก็เลยกินได้อีก\\nเยอะๆ ล่ะ~!","insert_word_type":0},
         {"id":6366,"unit_id":122401,"trigger":3,"voice_id":8,"beloved_step":1,"time":0,"face_id":1,"description":"อื้มๆ...\\nอ่อ เพิ่งรู้เลยนะ\\nชุดว่ายน้ำมีตั้งหลายแบบ\\nขนาดนี้เลยเหรอ","insert_word_type":0},
         {"id":6368,"unit_id":122401,"trigger":3,"voice_id":10,"beloved_step":1,"time":0,"face_id":1,"description":"นั่งสบายมากเลยล่ะ\\nไปกันเถอะ!\\nออกเดินทางได้!\\nล้อเล่นน่า~♪","insert_word_type":0},
-        {"id":6369,"unit_id":122401,"trigger":3,"voice_id":11,"beloved_step":1,"time":0,"face_id":1,"description":"หวา เด้งดึ๋งๆ!\\nเหมือนอยู่บนแทรมโพลีน\\nสนุกจังเลย~! ","insert_word_type":0}
+        {"id":6369,"unit_id":122401,"trigger":3,"voice_id":11,"beloved_step":1,"time":0,"face_id":1,"description":"หวา เด้งดึ๋งๆ!\\nเหมือนอยู่บนแทรมโพลีน\\nสนุกจังเลย~! ","insert_word_type":0},
+        {"id":6370,"unit_id":101501,"trigger":1,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"เมื่อนึกถึงเขา\\nก็รู้สึกอบอุ่นใจแล้ว\\n...โธ่ ฉันนี่ล่ะก็ ","insert_word_type":0},
+        {"id":6371,"unit_id":101501,"trigger":2,"voice_id":103,"beloved_step":12,"time":0,"face_id":1,"description":"ฮุๆๆๆ จั๊กจี้จัง~♪ เฮ้อ\\nเป็นเด็กขี้แกล้งสิน้า คราวนี้\\nครูจะแกล้งกลับบ้างนะจ๊ะ~♪","insert_word_type":0}
     ]
 }
