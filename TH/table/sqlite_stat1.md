@@ -503,7 +503,7 @@
 |hatsune_boss|hatsune_boss_0_wave_group_id_1|409 2|
 |hatsune_boss|hatsune_boss_0_event_id_1_difficulty|409 5 1|
 |hatsune_boss|hatsune_boss_0_event_id|409 5|
-|gift_message||127|
+|gift_message||128|
 |enemy_parameter||12640|
 |unique_equipment_rankup|unique_equipment_rankup_0_equip_id|2336 16|
 |unique_equipment_rankup|sqlite_autoindex_unique_equipment_rankup_1|2336 16 1|

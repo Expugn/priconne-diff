@@ -503,7 +503,7 @@
         {"tbl":"hatsune_boss","idx":"hatsune_boss_0_wave_group_id_1","stat":"409 2"},
         {"tbl":"hatsune_boss","idx":"hatsune_boss_0_event_id_1_difficulty","stat":"409 5 1"},
         {"tbl":"hatsune_boss","idx":"hatsune_boss_0_event_id","stat":"409 5"},
-        {"tbl":"gift_message","idx":null,"stat":"127"},
+        {"tbl":"gift_message","idx":null,"stat":"128"},
         {"tbl":"enemy_parameter","idx":null,"stat":"12640"},
         {"tbl":"unique_equipment_rankup","idx":"unique_equipment_rankup_0_equip_id","stat":"2336 16"},
         {"tbl":"unique_equipment_rankup","idx":"sqlite_autoindex_unique_equipment_rankup_1","stat":"2336 16 1"}
