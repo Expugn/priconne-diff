@@ -226,3 +226,7 @@
 |226|Astraea-Take-Modoki|28||2024-10-08 11:00:00||-1|1000|226|Astraea-Take-Modoki||||
 |227|Sun! Shine PARTY|28||2024-10-08 11:00:00||-1|1500|227|Sun! Shine PARTY||||
 |228|Iza Yukan Reimyo naru Mori no Oku eto|28||2024-10-08 11:00:00||-1|1000|228|Iza Yukan Reimyo naru Mori no Oku eto||||
+|229|Twinkle Summer Game: Natsu-umi ni Kirameku Mittsu no Omoi|28||2024-11-07 11:00:00||-1|1000|229|Twinkle Summer Game: Natsu-umi ni Kirameku Mittsu no Omoi||||
+|230|Kaisho Tatsunoko Commander|28||2024-11-07 11:00:00||-1|1000|230|Kaisho Tatsunoko Commander||||
+|231|Secret Star|28||2024-11-07 11:00:00||-1|1500|231|Secret Star||||
+|232|Kakero Tokonatsu! Ultimate Beach Flags|28||2024-11-07 11:00:00||-1|1000|232|Kakero Tokonatsu! Ultimate Beach Flags||||

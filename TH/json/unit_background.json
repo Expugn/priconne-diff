@@ -183,6 +183,7 @@
         {"unit_id":122301,"unit_name":"แวมปี้","bg_id":500140,"bg_name":"ที่ราบพลาโน่","position":0,"face_type":4},
         {"unit_id":122401,"unit_name":"ฮิโยริ (ฤดูร้อน)","bg_id":501610,"bg_name":"ชายหาดรีสอร์ท กลางวัน","position":0,"face_type":4},
         {"unit_id":122501,"unit_name":"เรย์ (ฤดูร้อน)","bg_id":501610,"bg_name":"ชายหาดรีสอร์ท กลางวัน","position":0,"face_type":2},
+        {"unit_id":122601,"unit_name":"ยุย (ฤดูร้อน)","bg_id":501610,"bg_name":"ชายหาดรีสอร์ท กลางวัน","position":0,"face_type":6},
         {"unit_id":180101,"unit_name":"ฮิโยริ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":2},
         {"unit_id":180201,"unit_name":"ยุย (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":4},
         {"unit_id":180301,"unit_name":"เรย์ (ปริ้นเซส)","bg_id":500130,"bg_name":"ถนนเอสเทเรล่า","position":0,"face_type":3},

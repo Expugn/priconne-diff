@@ -61,6 +61,20 @@
         {"id":59,"unit_search_id":50,"unit_id":100101},
         {"id":60,"unit_search_id":50,"unit_id":100201},
         {"id":61,"unit_search_id":50,"unit_id":100301},
-        {"id":62,"unit_search_id":51,"unit_id":100301}
+        {"id":62,"unit_search_id":51,"unit_id":100301},
+        {"id":63,"unit_search_id":52,"unit_id":105501},
+        {"id":64,"unit_search_id":52,"unit_id":105301},
+        {"id":65,"unit_search_id":52,"unit_id":104501},
+        {"id":66,"unit_search_id":52,"unit_id":100801},
+        {"id":67,"unit_search_id":52,"unit_id":103001},
+        {"id":68,"unit_search_id":53,"unit_id":105001},
+        {"id":69,"unit_search_id":54,"unit_id":101801},
+        {"id":70,"unit_search_id":55,"unit_id":101601},
+        {"id":71,"unit_search_id":55,"unit_id":105001},
+        {"id":72,"unit_search_id":55,"unit_id":101801},
+        {"id":73,"unit_search_id":56,"unit_id":105301},
+        {"id":74,"unit_search_id":57,"unit_id":100801},
+        {"id":75,"unit_search_id":58,"unit_id":104501},
+        {"id":76,"unit_search_id":59,"unit_id":103001}
     ]
 }
