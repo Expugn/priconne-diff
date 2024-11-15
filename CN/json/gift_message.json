@@ -61,7 +61,7 @@
         {"id":9317,"discription":"通过好友支援获得的报酬。","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9318,"discription":"超出持有数上限后获得的特别兑换券报酬。","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9319,"discription":"购买时获得的道具。","type_1":0,"type_2":0,"type_3":0,"type_4":0},
-        {"id":9320,"discription":"CSP角色交换Pt换取的道具。","type_1":0,"type_2":0,"type_3":0,"type_4":0},
+        {"id":9320,"discription":"角色交换Pt换取的道具。","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9321,"discription":"超过持有上限后获得的记忆碎片交换券奖励。","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9322,"discription":"阅读剧情获得的道具。","type_1":0,"type_2":0,"type_3":0,"type_4":0},
         {"id":9323,"discription":"在大家的日历中获得的道具。","type_1":0,"type_2":0,"type_3":0,"type_4":0},

@@ -103,6 +103,7 @@
         {"gacha_id":10102,"event_id":10102,"gacha_name":"点赞！收藏！大集合！　至高的庆典与少女隐藏的爱好","item_type":2,"item_id":61012,"cost":1,"repeat_step":6},
         {"gacha_id":10103,"event_id":10103,"gacha_name":"万圣节救援队·紧急出动！　捕获毛茸茸大作战","item_type":2,"item_id":61022,"cost":1,"repeat_step":6},
         {"gacha_id":10104,"event_id":10104,"gacha_name":"部落精神　高举之剑与荣耀之桥","item_type":2,"item_id":61032,"cost":1,"repeat_step":6},
+        {"gacha_id":10105,"event_id":10105,"gacha_name":"魔法少女外传　黑暗魔法★三人组！","item_type":2,"item_id":61042,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"吸血鬼猎人with伊莉亚讨伐证交换","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
