@@ -587,8 +587,7 @@
 |profile_frame||11|
 |sjr_name_former||131|
 |sjr_proper_feature||30|
-|seasonpass_level_reward|seasonpass_level_reward_0_event_id|100 100|
-|seasonpass_level_reward|sqlite_autoindex_seasonpass_level_reward_1|100 1 1|
+|seasonpass_level_reward||100|
 |legion_mission_category_data||5|
 |psy_note||66|
 |event_effect_setting|sqlite_autoindex_event_effect_setting_1|160 3 1|
