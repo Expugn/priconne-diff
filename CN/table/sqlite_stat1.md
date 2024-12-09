@@ -165,7 +165,7 @@
 |sekai_add_times_data||12|
 |clan_battle_s_map_data|clan_battle_s_map_data_0_clan_battle_id|246 4|
 |unit_unique_equip||186|
-|story_detail|story_detail_0_unlock_quest_id|1806 6|
+|story_detail|story_detail_0_unlock_quest_id|1807 6|
 |content_map_data||5|
 |colosseum_mission_reward_data|colosseum_mission_reward_data_0_mission_reward_id|26 1|
 |legion_effect||2|
@@ -196,8 +196,8 @@
 |grand_arena_daily_rank_reward||15|
 |room_effect||29|
 |room_chat_info||37|
-|unit_unique_equipment|unit_unique_equipment_0_unit_id|167 1|
-|unit_unique_equipment|sqlite_autoindex_unit_unique_equipment_1|167 1 1|
+|unit_unique_equipment|unit_unique_equipment_0_unit_id|170 1|
+|unit_unique_equipment|sqlite_autoindex_unit_unique_equipment_1|170 1 1|
 |unit_skill_data||1750|
 |mission_category_icon||38|
 |ccc_scenario|ccc_scenario_0_ccc_scenario_id|1000 200|
