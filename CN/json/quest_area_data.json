@@ -122,6 +122,7 @@
         {"area_id":12054,"area_name":"54.托塔蒂斯沙岸·西部","area_display_name":"54.托塔蒂斯沙岸\\n　　　　　西部","map_type":102,"sheet_id":"bgm_M483","que_id":"bgm_M483_E50","start_time":"2024/06/14 11:00:00","end_time":"2099/12/31 23:59:59"},
         {"area_id":12055,"area_name":"55.托塔蒂斯沙岸·东部","area_display_name":"55.托塔蒂斯沙岸\\n　　　　　东部","map_type":102,"sheet_id":"bgm_M483","que_id":"bgm_M483_E50","start_time":"2024/08/15 11:00:00","end_time":"2099/12/31 23:59:59"},
         {"area_id":12056,"area_name":"56.奥琉克斯沙岛·北部","area_display_name":"56.奥琉克斯沙岛\\n　　　　　北部","map_type":102,"sheet_id":"bgm_M483","que_id":"bgm_M483_E50","start_time":"2024/10/15 11:00:00","end_time":"2099/12/31 23:59:59"},
+        {"area_id":12057,"area_name":"57.奥琉克斯沙岛·南部","area_display_name":"57.奥琉克斯沙岛\\n　　　　　南部","map_type":102,"sheet_id":"bgm_M571","que_id":"bgm_M571","start_time":"2024/12/16 11:00:00","end_time":"2099/12/31 23:59:59"},
         {"area_id":13018,"area_name":"18.小行星原野・北部","area_display_name":"18.小行星\\n　　　　　原野·北部","map_type":102,"sheet_id":"bgm_M179","que_id":"bgm_M179","start_time":"2021/09/06 9:00:00","end_time":"2099/12/31 23:59:59"},
         {"area_id":13019,"area_name":"19.小行星原野・南部","area_display_name":"19.小行星\\n　　　　　原野·南部","map_type":102,"sheet_id":"bgm_M179","que_id":"bgm_M179","start_time":"2021/10/04 11:00:00","end_time":"2099/12/31 23:59:59"},
         {"area_id":13020,"area_name":"20.卡斯塔利亚森林・西部","area_display_name":"20.卡斯塔利亚\\n　　　　　森林·西部","map_type":102,"sheet_id":"bgm_M180","que_id":"bgm_M180","start_time":"2021/12/31 11:00:00","end_time":"2099/12/31 23:59:59"},

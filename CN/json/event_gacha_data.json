@@ -105,6 +105,7 @@
         {"gacha_id":10104,"event_id":10104,"gacha_name":"部落精神　高举之剑与荣耀之桥","item_type":2,"item_id":61032,"cost":1,"repeat_step":6},
         {"gacha_id":10105,"event_id":10105,"gacha_name":"魔法少女外传　黑暗魔法★三人组！","item_type":2,"item_id":61042,"cost":1,"repeat_step":6},
         {"gacha_id":10106,"event_id":10106,"gacha_name":"快乐进行时　幸福的双子天使与圣诞夜礼物","item_type":2,"item_id":61052,"cost":1,"repeat_step":6},
+        {"gacha_id":10107,"event_id":10107,"gacha_name":"圣诞布丁快乐！　飞舞的少女与饱含真情的点心","item_type":2,"item_id":61062,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"吸血鬼猎人with伊莉亚讨伐证交换","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
