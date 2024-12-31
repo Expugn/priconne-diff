@@ -1,3 +1,3 @@
 |season_id|name|key_jewel_id|advance_jewel_id|final_jewel_id|extra_level|per_level_point|level_max|weekly_point|level_price|point_change_type|reward_id|proportion|start_time|limit_time|end_time|
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|10003|女神祭|209|210|211|20|200|100|3000|150|12|94002|500|2023/01/17 11:00:00|2023/03/31 04:59:59|2023/04/10 04:59:59|
+|10005|女神祭|100091|100092|100093|20|200|100|3000|150|12|94002|500|2024/12/31 11:00:00|2025/02/24 04:59:59|2025/03/31 04:59:59|

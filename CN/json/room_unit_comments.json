@@ -6179,7 +6179,7 @@
         {"id":6886,"unit_id":124701,"trigger":1,"voice_id":101,"beloved_step":4,"time":0,"face_id":1,"description":"呵呵，今年又可以\\n记录他的生命体征\\n一整年了呢♪","insert_word_type":0},
         {"id":6887,"unit_id":124701,"trigger":1,"voice_id":102,"beloved_step":8,"time":0,"face_id":1,"description":"今年一定要用我的药\\n来对他进行魔改造……不对，\\n要让他成为成熟男人！","insert_word_type":0},
         {"id":6888,"unit_id":124701,"trigger":2,"voice_id":1,"beloved_step":1,"time":0,"face_id":1,"description":"你是不是看着\\n旋转的陀螺，头晕了？\\n是吗……这不需要急救哦……","insert_word_type":0},
-        {"id":6889,"unit_id":124701,"trigger":2,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"你用我的脸做了\\n玩蒙眼摸象的卡片？\\n哎呀，连独眼都画出来了，\\n还原度很高呢♪","insert_word_type":0},
+        {"id":6889,"unit_id":124701,"trigger":2,"voice_id":2,"beloved_step":1,"time":0,"face_id":1,"description":"你用我的脸做了\\n玩蒙眼摸像的卡片？\\n哎呀，连独眼都画出来了，\\n还原度很高呢♪","insert_word_type":0},
         {"id":6890,"unit_id":124701,"trigger":2,"voice_id":3,"beloved_step":1,"time":0,"face_id":1,"description":"门松、注连绳都准备好了，\\n就算在这样的公会里，\\n也要担起责任来祈福哦。","insert_word_type":0},
         {"id":6891,"unit_id":124701,"trigger":2,"voice_id":4,"beloved_step":1,"time":0,"face_id":1,"description":"这是拿用心准备的草药\\n熬制出来的\\n真挚七草粥哦，\\n不要在意它的颜色。","insert_word_type":0},
         {"id":6892,"unit_id":124701,"trigger":2,"voice_id":101,"beloved_step":4,"time":0,"face_id":1,"description":"愿你今年也能\\n健康平安……\\n并且能当好实验对象。","insert_word_type":0},
