@@ -80,6 +80,8 @@
         {"area_id":20034201,"event_id":20034,"area_name":"精灵之乡　清明之森","map_type":201,"sheet_id":"bgm_M442B","que_id":"bgm_M442B","area_disp":1,"map_id":0,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
         {"area_id":20035101,"event_id":20035,"area_name":"兰德索尔近郊","map_type":201,"sheet_id":"bgm_M451","que_id":"bgm_M451","area_disp":1,"map_id":1,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
         {"area_id":20035102,"event_id":20035,"area_name":"边境之地","map_type":201,"sheet_id":"bgm_M451","que_id":"bgm_M451","area_disp":1,"map_id":2,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
-        {"area_id":20035201,"event_id":20035,"area_name":"边境之地","map_type":201,"sheet_id":"bgm_M451","que_id":"bgm_M451","area_disp":1,"map_id":0,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0}
+        {"area_id":20035201,"event_id":20035,"area_name":"边境之地","map_type":201,"sheet_id":"bgm_M451","que_id":"bgm_M451","area_disp":1,"map_id":0,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
+        {"area_id":20036101,"event_id":20036,"area_name":"圣特蕾莎女子学院 圣学祭会场","map_type":201,"sheet_id":"bgm_M457","que_id":"bgm_M457","area_disp":1,"map_id":1,"scroll_width":91,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0},
+        {"area_id":20036201,"event_id":20036,"area_name":"圣特蕾莎女子学院 圣学祭会场","map_type":201,"sheet_id":"bgm_M457","que_id":"bgm_M457","area_disp":1,"map_id":0,"scroll_width":0,"scroll_height":0,"open_tutorial_id":0,"tutorial_param_1":"0","tutorial_param_2":"0","additional_effect":0}
     ]
 }

@@ -19,6 +19,7 @@
         {"reminder_id":1008903,"event_id":10089,"start_time":"2024/3/16 12:00:00","end_time":"2024/03/26 14:59:59","title_text":"活动特别章节","description_text":"活动「灰姑娘课程　璀璨的日子有着苹果的滋味」的\\n特别章节已解锁。","notice_text":"可以从特别剧情\\n阅读独特的故事。","thumbnail_id":5061601,"btn_text":"前往剧情","target_type":3,"target_id":5061},
         {"reminder_id":1009201,"event_id":10092,"start_time":"2024/04/30 11:00:00","end_time":"2024/05/19 14:59:59","title_text":"活动特别章节","description_text":"活动“海盗逸话　海盗岛被诅咒的遗宝”的\\n特别章节已解锁。","notice_text":"","thumbnail_id":5092601,"btn_text":"前往剧情","target_type":5,"target_id":10092},
         {"reminder_id":1010001,"event_id":10100,"start_time":"2024/09/15 00:00:00","end_time":"2024/09/19 14:59:59","title_text":"活动特别章节","description_text":"活动“真步真步奇妙之旅！旅行的少女与\\n世界尽头的大树”的特别章节已解锁。","notice_text":"","thumbnail_id":5100601,"btn_text":"前往剧情","target_type":5,"target_id":10100},
+        {"reminder_id":1010901,"event_id":10109,"start_time":"2025/01/16 12:00:00","end_time":"2025/01/26 14:59:59","title_text":"新增大合照","description_text":"“大家一起办年菜派对”中\\n新增了大合照。","notice_text":"","thumbnail_id":5082601,"btn_text":"前往活动","target_type":5,"target_id":1004},
         {"reminder_id":2003201,"event_id":20032,"start_time":"2024/10/15 15:00:00","end_time":"2024/10/21 14:59:59","title_text":"活动特别章节","description_text":"活动“新春美食公主！　赌上关键一掷的少女们”的\\n特别章节已解锁。","notice_text":"也可以从特别剧情\\n阅读独特的故事。","thumbnail_id":5056601,"btn_text":"前往剧情","target_type":4,"target_id":5056}
     ]
 }
