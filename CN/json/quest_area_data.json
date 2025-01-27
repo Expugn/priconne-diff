@@ -140,6 +140,7 @@
         {"area_id":13032,"area_name":"32.法斯基亚森林·南部","area_display_name":"32.法斯基亚\\n　　　　　　森林·南部","map_type":102,"sheet_id":"bgm_M339","que_id":"bgm_M339","start_time":"2022/12/31 11:00:00","end_time":"2099/12/31 23:59:59"},
         {"area_id":13033,"area_name":"33.法斯基亚森林·东部","area_display_name":"33.法斯基亚\\n　　　　　　森林·东部","map_type":102,"sheet_id":"bgm_M339","que_id":"bgm_M339","start_time":"2015/12/17 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"area_id":13034,"area_name":"34.德克斯提亚山崖·西壁","area_display_name":"34.德克斯提亚\\n　　　　　山崖·西壁","map_type":102,"sheet_id":"bgm_M374","que_id":"bgm_M374","start_time":"2015/12/17 15:00:00","end_time":"2099/12/31 23:59:59"},
+        {"area_id":13035,"area_name":"35.德克斯提亚山崖·东壁","area_display_name":"35.德克斯提亚\\n　　　　　山崖·东壁","map_type":102,"sheet_id":"bgm_M374","que_id":"bgm_M374","start_time":"2015/12/17 15:00:00","end_time":"2099/12/31 23:59:59"},
         {"area_id":18001,"area_name":"圣迹调查关卡","area_display_name":"圣迹调查关卡","map_type":0,"sheet_id":"","que_id":"","start_time":"2020/09/28 9:00:00","end_time":"2099/12/31 23:59:59"},
         {"area_id":19001,"area_name":"神殿调查关卡","area_display_name":"神殿调查关卡","map_type":0,"sheet_id":"","que_id":"","start_time":"2021/09/06 9:00:00","end_time":"2099/12/31 23:59:59"},
         {"area_id":21001,"area_name":"玛那关卡","area_display_name":"玛那关卡","map_type":0,"sheet_id":"","que_id":"","start_time":"2020/01/01 0:00:00","end_time":"2099/12/31 23:59:59"},

@@ -108,6 +108,10 @@
         {"gacha_id":10107,"event_id":10107,"gacha_name":"圣诞布丁快乐！　飞舞的少女与饱含真情的点心","item_type":2,"item_id":61062,"cost":1,"repeat_step":6},
         {"gacha_id":10108,"event_id":10108,"gacha_name":"温泉忘年奇谭　为新年的日出干杯​","item_type":2,"item_id":61072,"cost":1,"repeat_step":6},
         {"gacha_id":10109,"event_id":10109,"gacha_name":"新春美食回忆录　雪菲的跑腿大作战！","item_type":2,"item_id":61082,"cost":1,"repeat_step":6},
+        {"gacha_id":10110,"event_id":10110,"gacha_name":"解放伊甸园　在终将再会的未来","item_type":2,"item_id":61092,"cost":1,"repeat_step":6},
+        {"gacha_id":10111,"event_id":10111,"gacha_name":"解放伊甸园　在终将再会的未来","item_type":2,"item_id":61102,"cost":1,"repeat_step":6},
+        {"gacha_id":10112,"event_id":10112,"gacha_name":"Re:member　我的愿望所编织的未来","item_type":2,"item_id":61112,"cost":1,"repeat_step":6},
+        {"gacha_id":10113,"event_id":10113,"gacha_name":"Re:member　我的愿望所编织的未来","item_type":2,"item_id":61122,"cost":1,"repeat_step":6},
         {"gacha_id":19003,"event_id":10003,"gacha_name":"吸血鬼猎人with伊莉亚讨伐证交换","item_type":2,"item_id":60022,"cost":1,"repeat_step":5}
     ]
 }
