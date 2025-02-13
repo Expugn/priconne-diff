@@ -716,6 +716,9 @@
         {"emblem_id":10201710,"disp_oder":201712,"type":2,"emblem_name":"嘉夜（解放者）之缘","description_mission_id":56011710,"event_emblem":0,"start_time":"2025/01/27 11:00:00","end_time":"2099/12/31 23:59:59"},
         {"emblem_id":10201711,"disp_oder":201713,"type":2,"emblem_name":"开拓未来的解放之拳","description_mission_id":56011711,"event_emblem":0,"start_time":"2025/01/27 11:00:00","end_time":"2099/12/31 23:59:59"},
         {"emblem_id":10201712,"disp_oder":201198,"type":2,"emblem_name":"今、今后就在前辈的身边！","description_mission_id":56011712,"event_emblem":0,"start_time":"2025/01/27 11:00:00","end_time":"2099/12/31 23:59:59"},
+        {"emblem_id":10201713,"disp_oder":201714,"type":2,"emblem_name":"矛依未（解放者）","description_mission_id":56011713,"event_emblem":0,"start_time":"2025/02/13 11:00:00","end_time":"2099/12/31 23:59:59"},
+        {"emblem_id":10201714,"disp_oder":201715,"type":2,"emblem_name":"矛依未（解放者）之缘","description_mission_id":56011714,"event_emblem":0,"start_time":"2025/02/13 11:00:00","end_time":"2099/12/31 23:59:59"},
+        {"emblem_id":10201715,"disp_oder":201716,"type":2,"emblem_name":"闪耀的未来大恶徒","description_mission_id":56011715,"event_emblem":0,"start_time":"2025/02/13 11:00:00","end_time":"2099/12/31 23:59:59"},
         {"emblem_id":10202001,"disp_oder":202001,"type":2,"emblem_name":"美食殿堂","description_mission_id":56012001,"event_emblem":0,"start_time":"2018/1/1  15:00:00","end_time":"2099/12/31 23:59:59"},
         {"emblem_id":10202002,"disp_oder":202002,"type":2,"emblem_name":"破晓之星","description_mission_id":56012002,"event_emblem":0,"start_time":"2018/1/1  15:00:00","end_time":"2099/12/31 23:59:59"},
         {"emblem_id":10202003,"disp_oder":202003,"type":2,"emblem_name":"拉比林斯","description_mission_id":56012003,"event_emblem":0,"start_time":"2018/1/1  15:00:00","end_time":"2099/12/31 23:59:59"},
@@ -987,6 +990,8 @@
         {"emblem_id":11201001,"disp_oder":504001,"type":12,"emblem_name":"成为战友的第一步","description_mission_id":56015001,"event_emblem":0,"start_time":"2019/10/31  12:00:00","end_time":"2099/12/31 23:59:59"},
         {"emblem_id":11201002,"disp_oder":504002,"type":12,"emblem_name":"和战友的苦战","description_mission_id":56015002,"event_emblem":0,"start_time":"2019/10/31  12:00:00","end_time":"2099/12/31 23:59:59"},
         {"emblem_id":11201003,"disp_oder":504003,"type":12,"emblem_name":"与战友同在","description_mission_id":56015003,"event_emblem":0,"start_time":"2019/10/31  12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"emblem_id":11401001,"disp_oder":1401001,"type":14,"emblem_name":"异次元的归还者","description_mission_id":51501001,"event_emblem":0,"start_time":"2025/2/15 12:00:00","end_time":"2099/12/31 23:59:59"},
+        {"emblem_id":11401002,"disp_oder":1401002,"type":14,"emblem_name":"多维之夜","description_mission_id":51502001,"event_emblem":0,"start_time":"2025/2/15 12:00:00","end_time":"2099/12/31 23:59:59"},
         {"emblem_id":16001001,"disp_oder":1,"type":2,"emblem_name":"迎新岁，贺丰年","description_mission_id":59999999,"event_emblem":0,"start_time":"2018/1/1  15:00:00","end_time":"2099/12/31 23:59:59"}
     ]
 }

@@ -8,6 +8,7 @@
         {"id":6,"room_item_id":2808,"start_date":"2024/03/16 12:00:00","end_date":"2030/12/31 23:59:59","get_date":"2024/3/16 12:00:00","room_announcement_name":""},
         {"id":8,"room_item_id":2814,"start_date":"2023/07/31 11:00:00","end_date":"2030/12/31 23:59","get_date":"2023/07/31 11:00:00","room_announcement_name":""},
         {"id":10,"room_item_id":2816,"start_date":"2024/04/17 05:00:00","end_date":"2024/05/05 04:59","get_date":"","room_announcement_name":""},
-        {"id":11,"room_item_id":2818,"start_date":"2024/02/29 11:00:00","end_date":"2030/12/31 23:59","get_date":"","room_announcement_name":""}
+        {"id":11,"room_item_id":2818,"start_date":"2024/02/29 11:00:00","end_date":"2030/12/31 23:59","get_date":"","room_announcement_name":""},
+        {"id":15,"room_item_id":2830,"start_date":"2025/03/12 11:00:00","end_date":"2099/12/31 23:59:59","get_date":"","room_announcement_name":""}
     ]
 }

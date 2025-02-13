@@ -525,7 +525,7 @@
         {"reading_id":3010000,"reading":"刨冰","read_type":1,"panel_id":10100,"detail_text":"把冰块打碎后浇上糖浆，和雪很像的夏季点心。","version":2,"head_symbol":"ao","tail_symbol":"ing"},
         {"reading_id":3010001,"reading":"冰沙","read_type":1,"panel_id":10100,"detail_text":"装有冰淇凌、水果等食物的多彩豪华刨冰。","version":2,"head_symbol":"ing","tail_symbol":"a"},
         {"reading_id":3010002,"reading":"冷饮","read_type":2,"panel_id":10100,"detail_text":"夏天常见的美味，带来清凉的感觉。","version":2,"head_symbol":"eng","tail_symbol":"in"},
-        {"reading_id":3010003,"reading":"夏日庆典","read_type":2,"panel_id":10100,"detail_text":"夏日会开展的庆祝活动。","version":2,"head_symbol":"a","tail_symbol":"an"},
+        {"reading_id":3010003,"reading":"特别庆典","read_type":2,"panel_id":10100,"detail_text":"夏日会开展的庆祝活动。","version":2,"head_symbol":"a","tail_symbol":"an"},
         {"reading_id":3010100,"reading":"蝴蝶","read_type":1,"panel_id":10101,"detail_text":"用美丽的翅膀翩然起舞、如同妖精的虫类。","version":2,"head_symbol":"u","tail_symbol":"ie"},
         {"reading_id":3010101,"reading":"妖精","read_type":2,"panel_id":10101,"detail_text":"栖息在森林里的奇异生物。","version":2,"head_symbol":"ao","tail_symbol":"ing"},
         {"reading_id":3010102,"reading":"花丛","read_type":2,"panel_id":10101,"detail_text":"生长了许多花的地方。","version":2,"head_symbol":"a","tail_symbol":"ong"},
