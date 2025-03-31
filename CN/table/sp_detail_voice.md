@@ -1,6 +1,0 @@
-|unit_id|cue_name_1|cue_name_2|cue_name_3|cue_name_4|cue_name_5|
-| --- | --- | --- | --- | --- | --- |
-|180701|vo_cmn_180711_mypage_001|vo_cmn_180811_mypage_004||||
-|180801|vo_cmn_180811_mypage_001|vo_cmn_180811_mypage_004|vo_cmn_180811_mypage_007|||
-|180901|vo_cmn_180911_mypage_001|vo_cmn_180911_mypage_004||||
-|181001|vo_cmn_181011_mypage_001|vo_cmn_181011_mypage_004||||

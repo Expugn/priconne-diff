@@ -1,6 +1,0 @@
-{
-    "trial_battle_mission_reward": [
-        {"id":1,"mission_reward_id":110001,"reward_type":8,"reward_id":91002,"reward_num":30},
-        {"id":2,"mission_reward_id":110001,"reward_type":2,"reward_id":90005,"reward_num":2}
-    ]
-}

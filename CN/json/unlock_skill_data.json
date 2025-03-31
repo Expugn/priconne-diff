@@ -1,8 +1,0 @@
-{
-    "unlock_skill_data": [
-        {"promotion_level":1,"unlock_skill":101},
-        {"promotion_level":2,"unlock_skill":201},
-        {"promotion_level":4,"unlock_skill":202},
-        {"promotion_level":7,"unlock_skill":301}
-    ]
-}

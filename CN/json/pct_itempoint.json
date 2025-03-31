@@ -1,7 +1,0 @@
-{
-    "pct_itempoint": [
-        {"id":1,"item_id":60103,"pct_point_coefficient":1000},
-        {"id":2,"item_id":60104,"pct_point_coefficient":1100},
-        {"id":3,"item_id":60105,"pct_point_coefficient":1200}
-    ]
-}

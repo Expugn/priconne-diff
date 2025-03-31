@@ -1,3 +1,0 @@
-|space_id|teaser_time|start_time|count_start_time|count_end_time|end_time|sid|pre_story_id|
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|1002|2024/04/01|2024/04/01|2024/04/01|2024/04/01 23:59:59|2024/04/08 23:59:59|1002|4007000|

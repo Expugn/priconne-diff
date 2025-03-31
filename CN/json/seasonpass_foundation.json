@@ -1,5 +1,0 @@
-{
-    "seasonpass_foundation": [
-        {"season_id":10005,"name":"女神祭","key_jewel_id":100091,"advance_jewel_id":100092,"final_jewel_id":100093,"extra_level":20,"per_level_point":200,"level_max":100,"weekly_point":3000,"level_price":150,"point_change_type":12,"reward_id":94002,"proportion":500,"start_time":"2024/12/31 11:00:00","limit_time":"2025/02/24 04:59:59","end_time":"2025/03/31 04:59:59"}
-    ]
-}

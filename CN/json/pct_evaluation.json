@@ -1,9 +1,0 @@
-{
-    "pct_evaluation": [
-        {"evaluation_id":1,"evaluation_point":150,"fever_point":4,"meet_width":50},
-        {"evaluation_id":2,"evaluation_point":75,"fever_point":2,"meet_width":100},
-        {"evaluation_id":3,"evaluation_point":30,"fever_point":1,"meet_width":150},
-        {"evaluation_id":4,"evaluation_point":0,"fever_point":0,"meet_width":700},
-        {"evaluation_id":5,"evaluation_point":0,"fever_point":0,"meet_width":200}
-    ]
-}

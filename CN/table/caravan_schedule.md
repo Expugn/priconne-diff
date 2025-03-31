@@ -1,2 +1,0 @@
-|season_id|start_block_id|target_turn|coin_id|bg_id|bgm_sheet_id|bgm_que_id|start_time|end_time|shop_close_time|
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

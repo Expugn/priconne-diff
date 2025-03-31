@@ -1,3 +1,0 @@
-|sre_id|name|teaser_time|start_time|end_time|count_start_time|close_time|story_id|close_story_condition_id|close_story_id|top_bgm|top_bg|
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|3|终炎的极乐净土|2024/12/15 15:00:00|2024/12/16 12:00:00|2024/12/23 11:59:59|2024/12/22 11:59:59|2025/01/09 11:59:59|2000002|9000003|2116006|bgm_M643||

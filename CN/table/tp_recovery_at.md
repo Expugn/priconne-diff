@@ -1,3 +1,0 @@
-|id|limit_value|correction_value|
-| --- | --- | --- |
-|1|-1|1|

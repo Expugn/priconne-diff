@@ -1,8 +1,0 @@
-{
-    "metamorphose": [
-        {"type_id":208700,"condition_value":2,"prefab_id":208701},
-        {"type_id":210100,"condition_value":2,"prefab_id":210101},
-        {"type_id":208700,"condition_value":3,"prefab_id":208702},
-        {"type_id":210100,"condition_value":3,"prefab_id":210102}
-    ]
-}

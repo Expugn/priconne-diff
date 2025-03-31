@@ -1,8 +1,0 @@
-{
-    "legion_boss_enemy_setting": [
-        {"boss_id":802100240,"detail_offset_x":0,"detail_offset_y":-20,"detail_offset_scale":1},
-        {"boss_id":802100241,"detail_offset_x":-80,"detail_offset_y":-20,"detail_offset_scale":1},
-        {"boss_id":802100244,"detail_offset_x":0,"detail_offset_y":-20,"detail_offset_scale":1},
-        {"boss_id":802100245,"detail_offset_x":0,"detail_offset_y":-20,"detail_offset_scale":1}
-    ]
-}

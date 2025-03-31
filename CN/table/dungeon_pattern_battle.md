@@ -1,7 +1,0 @@
-|id|quest_id|pattern|trigger_type_1|trigger_value_1|next_pattern_1|trigger_type_2|trigger_value_2|next_pattern_2|wave_group_id|detail_unit_id|detail_monster_position_x_1|detail_monster_position_y_1|detail_monster_scale_1|floor_unit_id|floor_monster_position_x_1|floor_monster_position_y_1|floor_monster_scale_1|
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|1|31009005|1|1|20|5|2|0|2|501010091|318405|40|20|0.8|318405|0|0|0.85|
-|2|31009005|2|1|20|5|2|0|3|501010092|318405|40|20|0.8|318405|0|0|0.85|
-|3|31009005|3|1|20|5|2|0|4|501010093|318405|40|20|0.8|318405|0|0|0.85|
-|4|31009005|4|1|20|5|2|0|1|501010094|318405|40|20|0.8|318405|0|0|0.85|
-|5|31009005|5|0|0|0|0|0|0|501010095|318405|40|20|0.8|318405|0|0|0.85|

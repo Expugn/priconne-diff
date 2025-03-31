@@ -1,2 +1,0 @@
-|beginner_id|ticket_id|beginner_type|jewel_store_id|chara_e_ticket_id|beginner_limit_hour|forced_exchange_hour|start_time|end_time|icon_id|
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

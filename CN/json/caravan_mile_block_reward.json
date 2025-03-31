@@ -1,7 +1,0 @@
-{
-    "caravan_mile_block_reward": [
-        {"id":1,"count":500,"upgrade_id":2},
-        {"id":2,"count":1000,"upgrade_id":3},
-        {"id":3,"count":2000,"upgrade_id":3}
-    ]
-}

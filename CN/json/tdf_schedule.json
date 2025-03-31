@@ -1,5 +1,0 @@
-{
-    "tdf_schedule": [
-        {"schedule_id":1001,"count_start_time":"2025/02/19 23:59:59","recovery_disable_time":"2025/02/20 05:00:00","start_time":"2025/02/15 12:00:00","end_time":"2025/02/20 23:59:59","ex_quest_id":74001999}
-    ]
-}

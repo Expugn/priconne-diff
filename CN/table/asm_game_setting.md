@@ -1,3 +1,0 @@
-|id|lottery_rate|normal_limit_time|normal_quiz_num|concentration_limit_time|concentration_quiz_limit_num|incorrect_answer_penalty_time|help_use_count_normal|help_use_count_hard|help_use_count_veryhard|limit_score|unlock_concentration_mode_score_1|unlock_concentration_mode_score_2|
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|1|0.25|20|10|99|99|5|4|3|2|9999999|30000|30000|
