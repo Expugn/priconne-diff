@@ -1,0 +1,29 @@
+{
+    "v1_98290c7658e2c3f0fb8d9e37a1fb541d8e13944f317cab04bf195e4835476272": [
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":1,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"ＨＰ強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":2,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"物理攻撃力強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":3,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"物理防御力強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":4,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"魔法攻撃力強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":5,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"魔法防御力強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":6,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"物理クリティカル強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":7,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"魔法クリティカル強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":8,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"回避強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":9,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"ＨＰ吸収強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":10,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"ＨＰ自動回復強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":11,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"ＴＰ自動回復強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":12,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"物理貫通ダメージ強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":13,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"魔法貫通ダメージ強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":14,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"ＴＰ上昇強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":15,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"回復量上昇強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":16,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"ＴＰ消費軽減強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":17,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"命中強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":50,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"物理・魔法攻撃力強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":51,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"物理・魔法防御力強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":52,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"物理・魔法クリティカル強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":100,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"物理クリティカルダメージ強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":101,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"魔法クリティカルダメージ強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":102,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"物理与ダメージ強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":103,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"魔法与ダメージ強化"},
+        {"e755ddfae419487db3b998f5d793661cd168819528bf254e82c55c4afa7b7bdf":104,"ed51b8fceaa0a7aae67cc45af8ffea8cdfc721351ede6a3f6ba60a8ab470b5b7":"属性ボーナス強化"}
+    ]
+}
