@@ -330,7 +330,7 @@
         {"tbl":"v1_58f74217720dca2492c9d094aae71c7d77429626be980670d010082c7f1bf923","idx":"v1_58f74217720dca2492c9d094aae71c7d77429626be980670d010082c7f1bf923_0_event_id","stat":"230 3"},
         {"tbl":"v1_ee79aec3557b3b29305c6e54dcc75ad756084e818a2a256902c9df4ece16dd58","idx":"v1_ee79aec3557b3b29305c6e54dcc75ad756084e818a2a256902c9df4ece16dd58_0_login_bonus_id","stat":"599 67"},
         {"tbl":"v1_71c2356ae172e2cb975eec3d9c4a447db6ac64b3ef9480c356535cbdd1cead7e","idx":null,"stat":"27"},
-        {"tbl":"v1_5a09a30392de9550503056692f8eb3fc450c8713694c08f5da5e14c5a9d9c17b","idx":"v1_5a09a30392de9550503056692f8eb3fc450c8713694c08f5da5e14c5a9d9c17b_0_unlock_quest_id","stat":"1958 7"},
+        {"tbl":"v1_5a09a30392de9550503056692f8eb3fc450c8713694c08f5da5e14c5a9d9c17b","idx":"v1_5a09a30392de9550503056692f8eb3fc450c8713694c08f5da5e14c5a9d9c17b_0_unlock_quest_id","stat":"1962 7"},
         {"tbl":"v1_f2eb09fbabc59335dd23c6aa1197ad5b62bbe6cd7b9f348046bacdab2ddc3072","idx":null,"stat":"1"},
         {"tbl":"v1_bb4a3fafde88e0b1acf41b5f3e1488fbec683f38b76df96a53410cde3efbe85e","idx":null,"stat":"1963"},
         {"tbl":"v1_f76cc207b546a28f66523ffa251da56913e957253abcec6af5f20da1ad9e644c","idx":null,"stat":"251"},
