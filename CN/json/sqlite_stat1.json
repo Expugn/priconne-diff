@@ -628,7 +628,7 @@
         {"tbl":"v1_57e4aa9c613dfc37cd57bf0694459e109f9cba7b7d7e9ab963501deb7bb8302e","idx":"v1_57e4aa9c613dfc37cd57bf0694459e109f9cba7b7d7e9ab963501deb7bb8302e_0_type_id","stat":"4 2"},
         {"tbl":"v1_57e4aa9c613dfc37cd57bf0694459e109f9cba7b7d7e9ab963501deb7bb8302e","idx":"sqlite_autoindex_v1_57e4aa9c613dfc37cd57bf0694459e109f9cba7b7d7e9ab963501deb7bb8302e_1","stat":"4 2 1"},
         {"tbl":"v1_41e99690699e82d4e7d050c6def3c49222eecc484478a6bf40faf036bb712a03","idx":null,"stat":"19"},
-        {"tbl":"v1_bb35c3784e7c1fbedac356fc7241892a45524195105af73d96aca7f141e6fa20","idx":null,"stat":"27"},
+        {"tbl":"v1_bb35c3784e7c1fbedac356fc7241892a45524195105af73d96aca7f141e6fa20","idx":null,"stat":"28"},
         {"tbl":"v1_006a5e4e01ecbfa4eeaa364e460618cf69213347d5bbd8a1b850e7e51f25a17a","idx":null,"stat":"10"},
         {"tbl":"v1_514911b1cee81c870972de71c550fb09369c767de04c5fd394d092cdae923e03","idx":null,"stat":"1"},
         {"tbl":"v1_10f5618cc2510373656d1af78f610da012700dabe6f741c45d1122362e763fd5","idx":null,"stat":"31"},
