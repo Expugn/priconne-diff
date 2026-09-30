@@ -7,3 +7,8 @@
 "1","Multiply","6"
 "2","AdditiveMultiply","7"
 "2","AdditiveUVScroll","8"
+"1","TransparentUVScrollCD","9"
+"1","Transparent","10"
+"2","AdditiveUVScrollCD","11"
+"1","TransparentDistortionCD","12"
+"1","TransparentAlphaMask","13"
